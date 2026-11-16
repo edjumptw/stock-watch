@@ -62,3 +62,9 @@ workflow 已設定台北 14:30／06:00 與 workflow_dispatch；資料抓取、�
 - 正式網站 headless 檢查再次通過：390px 首頁、七個詳細頁、圖表與新聞，未發現水平溢出或 JavaScript 錯誤；截圖已重新儲存。
 - 兩項 Python 測試及 JavaScript 語法檢查通過。
 - 再次 `git push origin main` 被 GitHub 拒絕，原因仍是 OAuth 憑證缺少 workflow scope。未冒用其他憑證，未將手動 workflow 驗收標為成功。已請擁有者補充授權；尚未取得授權時，派單必須維持 FAILED。
+
+## 2026-11-16 13:22 台北：第三次派單檢查
+
+- `gh auth status` 仍只有 `gist`、`read:org`、`repo`；`git push origin main` 仍被拒（缺 `workflow` scope）。本機無其他 GitHub 憑證。
+- 正式網址回應 200，線上 JSON 七檔資料日 2026-11-13（目前台股未收盤，為最近完整交易日）。
+- 本機與線上差異僅剩 `.github/workflows/update.yml`。待擁有者執行 `gh auth refresh -h github.com -s workflow` 後，依上方步驟 push 並手動觸發即可完成剩餘驗收。
