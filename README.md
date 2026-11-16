@@ -2,7 +2,7 @@
 
 網址：<https://edjumptw.github.io/stock-watch/>
 
-> 交付狀態：網站已上線並通過驗收；自動更新 workflow 已存於本機，但目前 GitHub CLI 缺少 `workflow` scope，尚無法推上遠端。現在 Pages 使用 main 分支部署；以下 Actions 說明為已備妥、待授權啟用的流程。詳見 SUMMARY.md。
+> 交付狀態：網站已上線，前端與行情檢查通過，但整體驗收尚未完成；自動更新 workflow 已存於本機，但目前 GitHub CLI 缺少 `workflow` scope，尚無法推上遠端。現在 Pages 使用 main 分支部署；以下 Actions 說明為已備妥、待授權啟用的流程。詳見 SUMMARY.md。
 
 追蹤國巨、台達電、台積電、光寶科、日月光投控、NVIDIA、特斯拉。首頁提供收盤價、當日漲跌、成交量與台北日期；點選卡片可看近六個月收盤走勢、5／20／60 日均線、成交量、RSI(14)、每日短評及五則新聞。漲紅跌綠，台幣與美元分開標示。
 
