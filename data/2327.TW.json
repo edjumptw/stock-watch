@@ -3,19 +3,19 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 411.0,
-  "change": 4.0,
-  "changePct": 0.9828,
-  "volume": 36522706,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 374.0,
+  "change": -37.0,
+  "changePct": -9.0024,
+  "volume": 41966350,
   "bias": "偏弱",
-  "performance20": -28.27,
-  "volumeRatio": 0.96,
+  "performance20": -34.04,
+  "volumeRatio": 1.12,
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.27%。",
-    "本日成交量為前 20 日均量的 0.96 倍，量能接近平常。",
-    "RSI(14) 為 35.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -34.04%。",
+    "本日成交量為前 20 日均量的 1.12 倍，量能接近平常。",
+    "RSI(14) 為 30.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1133,9 +1133,28 @@
       "ma5": 414.0,
       "ma20": 477.1,
       "ma60": 540.45
+    },
+    {
+      "date": "2026-11-16",
+      "close": 374.0,
+      "volume": 41966350,
+      "rsi": 30.51,
+      "ma5": 406.6,
+      "ma20": 467.45,
+      "ma60": 537.0833
     }
   ],
   "news": [
+    {
+      "title": "繼國巨後換華新科！被動元件股遭血洗 股民嘆：高檔套牢慘兮兮 - 聚財網",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UNFNwZ2t6dlNLTDRITV9FdVJ4UmdFVE8wZ0EwTjRoNXgwSUR3SVlCWk1CYmh0UjEtc3JPYUYtQjJnRkRaRmJyd1ZzTHE?oc=5",
+      "date": "2026-11-16T13:47:22+08:00"
+    },
+    {
+      "title": "繼國巨後換華新科！被動元件股遭血洗 股民嘆：高檔套牢慘兮兮 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GdGs0N3JDTWVJUUN3RTFsQVl3N1A3TW85czRvR2U4Q3pRM0d2anNkdGdCUXd4dGpRSFV0dWQwYXhJclNsQXl0QV9hdDktSkg4V2FzOVg1Sm0?oc=5",
+      "date": "2026-11-16T13:38:53+08:00"
+    },
     {
       "title": "3字頭國巨能接嗎？大摩喊破千元、投顧看800元「兩套進場劇本全曝光」技術派急喊先看364.5元守不守得住 - 旺得富理財網",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtNFdHOExHRDlpR19Xbzc1Zko0RXBfd1o4T0FQcFZ0OWJMWHBUU2tDWFJibEJpS0V5ZGNlZG5qTFBoNlJTOTN1RHU1YzU5WHlCRVlTZ2w5YXFmUmV2VHhEZXVocWh4cVBCeHc?oc=5",
@@ -1147,20 +1166,10 @@
       "date": "2026-11-16T11:11:30+08:00"
     },
     {
-      "title": "國巨跌勢停不住！盤中暴跌逾7％ 股民哀號：越攤越平 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGcDVvOFNlTlBlYzNoelV6Q3VnLVp6OC16UGhpUXlMajlxRVdYZkVzMk1taVh2bUVqaTNiMTdDY2RSUDBWdlFZWEFQbk5fUmZlMG5Jdi1NV09nQWFOckcw0gFkQVVfeXFMT0NycUZ6ZU9SZF91UVJrbTRES2JrUnJvY3VhVjdBcXVKM0UyOWlSOXlqOWhjdTJhbWg3V2RUMTZ4QVlFR1U2S1V0R1U5Z2Vka1ptYThOdGpJQy1fMVo2NWI4aE5lWQ?oc=5",
+      "title": "國巨跌勢停不住！盤中暴跌逾7％ 股民哀號：越攤越平 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3bVMtRlhhcHdIU1UySUd3UXROU3E0Sm9adXlGdTRjMEktaVFGY1JnOXpQSWt4Nk9WbmczSjVfNm82eGNMUk0zOE9NWkV4MFJ1ck9HQmhLNWU?oc=5",
       "date": "2026-11-16T11:03:56+08:00"
-    },
-    {
-      "title": "黃仁勳下台 鴻海、廣達、國巨、華新科、南亞、台玻 等AI要先賣一趟嗎? - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyUy1GbWtteHlOQkJYSDZLM0w5VVh3VmVnWFgyUnF0OHhudTBqb0VPeUNmS2M3OV9iOWpXSWtybzdtaUZ1NGUwT2d2MTBCVGc?oc=5",
-      "date": "2026-11-16T08:59:35+08:00"
-    },
-    {
-      "title": "《一週自營商買超24-10》國巨*(729)、矽 統(709)、聯 強(695) - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnhvbzVnM3I2Q0d6OTk0S2FWWFJ5TzJPRWFUcVdtVkNpWTlwSlR0VXpxRVdIb2VHWjhKMWlVSzVsdVItTm9ORWdoTHkzQUVqOEpEUGRSR3FURGhkel9TSGpKbVd0QnZhR2pzX3pqeG4zOWtlYlk4NklrQ1FwMndMV3g5cDZjTVpv?oc=5",
-      "date": "2026-11-16T07:42:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T13:27:12.086307+08:00"
+  "updatedAt": "2026-11-16T14:24:11.535602+08:00"
 }

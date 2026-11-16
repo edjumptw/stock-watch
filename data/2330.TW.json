@@ -3,19 +3,19 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 2350.0,
-  "change": 10.0,
-  "changePct": 0.4274,
-  "volume": 28844142,
-  "bias": "中性",
-  "performance20": -3.69,
-  "volumeRatio": 0.88,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 2215.0,
+  "change": -135.0,
+  "changePct": -5.7447,
+  "volume": 49826948,
+  "bias": "偏弱",
+  "performance20": -8.47,
+  "volumeRatio": 1.57,
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -3.69%。",
-    "本日成交量為前 20 日均量的 0.88 倍，量能接近平常。",
-    "RSI(14) 為 48.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -8.47%。",
+    "本日成交量為前 20 日均量的 1.57 倍，交易較熱絡。",
+    "RSI(14) 為 38.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1133,34 +1133,43 @@
       "ma5": 2321.0,
       "ma20": 2345.5,
       "ma60": 2414.9167
+    },
+    {
+      "date": "2026-11-16",
+      "close": 2215.0,
+      "volume": 49826948,
+      "rsi": 38.8,
+      "ma5": 2317.0,
+      "ma20": 2335.25,
+      "ma60": 2412.1667
     }
   ],
   "news": [
     {
-      "title": "2330 台積電 - 台幣瘋狂貶值，外資套利匯出 - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05VEZBMlc3QS0tRmNxX1dKX2QxamMtd3JtaEdIRXBGN3JsZjRQbXVlQ3czbEVUQUIyQzRySWxvWnJMTWJXU1JRdDdkSF9MVGgzMVc1M05NVms?oc=5",
-      "date": "2026-11-16T13:12:46+08:00"
+      "title": "台股終場重挫2635點失守42K！台積電跌逾5% - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaks2SEFTdmRQdE9tU2JQODNTNllzZFpWRnQtMzJORTRhZzF0YWVBQTBBQ25NaU1JaU1nOXZ3MkNmX3FVSVpoQzZqNFB5cjJ5VW1ORjNhOUNuc2stQ08xOF9ha2FNb2F0dHBGZmw4dDR0enF2T2lCeWNmdmM5X19kRU15UExfXzdGRmxlVG4xX0FnUlBKQ3lSSTNNVjVKRC1falVQVExwMmxTRS1BOXhzWkduNldTTUtiQzRjQTRRX09LeDhWaHY2b080VDZ4dy1OTzRMYXRIRmlPNnQtbk9BcVQ2Zm5UVXR0WnhGNjhBeXZPQ0k5S1A3akRtLV8waEVvV1gzcWIzZw?oc=5",
+      "date": "2026-11-16T14:11:32+08:00"
     },
     {
-      "title": "台股狂瀉逾2200點 外資落跑還是內資倒貨？ 專家看匯市抓真兇 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPMXVvQ1V1QjJfSXhNamdaUkZHU0JxazlTQ0t3c0htZTc5bVRkNVZkVzBDMlhieko4WkN6M2N6cHo5UmJrNktESU1OVU9HQ0tuMkJoQU8zd05pTkRNblNWdzhTcFVzMkVyU1AwX0JBWDZxa3RfMDFiOVladS1pYmt1Vk1JZHdlZW5qRUJZUDM1Mnc0ajBaQ3cxdzVhc1g4QXlqZGVTSXFHaUMyVzlXSDUwWWtZb2M2YW1MX2swNS1qOVZjR09zWVJpSkJtaDNUSVczV2lHdkU2RlJENE1KZW5oTzBlSnBQUHI2SExMSUhVWng5SktPR0pZRVN5ZzhHNXVDOW1XVVM4aTZLRGJGRGJnLTVFaEc1b0VLZ18wekVxZVJyeGgzVFQ4SUNMRUhSbWE2bXhycXlsR2xvTzc3ZUdNQk5QNHBKZ0twSU55THM2WktaWlZjWVpUbmhqOGZvcE42Z1pzQklndGZweFRPVFBrMFR6bEZ2X2Foa1Y1RmZIa1ZBSUk?oc=5",
-      "date": "2026-11-16T13:07:21+08:00"
+      "title": "【即時新聞】台積電今日宣布先進封裝產能外包協議，CoWoS供需最新影響全解析 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmJ2MDJPTENrT3JSYzliMGhWVVJiS2FvTVVlQTA2Y1VvUFlDLXcySDNMSFlhN2pDNXVmVkJSOUtmMVlwV3RDdHVIaW12dVRmM09CQklGek44eDM4cFRuZm9YS1p4dFJoZkZ3ZUVRNVZhQXVZMG5pckZHS3hVMjcxWWRXd1ZlbGpNb3Z4UTJOeGw?oc=5",
+      "date": "2026-11-16T14:09:20+08:00"
     },
     {
-      "title": "2330 台積電 - 只是疑似，公堂上假設一下，沒罪吧？ - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmMDA0bThlTXQxV3BnZWlQd3BvYUlwOVV5WGNwc1lBc1NEN3gzeEQ2Z3Q1eXpqRk1hYTJzcVRGajBlVVR2ZVpBVFk2YkRiN3drOWtKNnU0R2o?oc=5",
-      "date": "2026-11-16T13:06:14+08:00"
+      "title": "【即時新聞】台積電最新證實員工資料外洩事件，資安防護引發市場高度關注！ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFZDZ3FHNjVnVXlxNkRoOUZUZEc3bmNrREVJcEhwX25xUjJZS3loX1RkazM5VGctbHJjbzZBRGFpWDQ0VzhRM1dqVjZ4RHpsTklncFVFdW5tSmMtY1R1dThmelQ5cm1zOXRvV056akk1UXZtTC1hNGFpRF9GSWp4RnFQRzRwWTV4X0c2cm9HY3E?oc=5",
+      "date": "2026-11-16T14:08:06+08:00"
     },
     {
-      "title": "Anthropic IPO超額認購7倍 輝達、台積電等7巨頭砸重金力挺 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPdVl6NFBVUklvWVF1T3ZHRm41UWg2X25QUHoxVzU0bFNUSUJJWFNSYzczVU1zT2ZTZlh4SzhLT3hTZXJ1Qi1LSXByekxpRjd6TVZXZGJnTzA5ZHBPdHpORWtKTjFKZDFFaWY0TEJYdmlXQnQ1TjVTcWI3enN0Uzc3aU5mV1BvX2tYUDNiNTVxbXE2TnZvTlZtUVJ4ME9mdTlGVHZGNmcwRTRDQ2RPVzFzTHpTdFpub0cwajE4b1RFandDU0s2MzVGaTdrUGZWdFdabGkxSThkMmxOellkWWpuWXVqbXgzUHBGS3otczZxM2Z0Uno1QVpDbzBoUkh3dVl6b3ZsU2t1aUplbmRLQ2ZRcENxSDVTVHVPeU9iRUhUYUJXZ2hDVldaT0MydHlXNldHaFJxNmxzU2RHYVktVkh3Sjln?oc=5",
-      "date": "2026-11-16T13:03:06+08:00"
+      "title": "【即時新聞】台積電受輝達AI晶片輸中疑雲拖累，今日股價隨大盤震盪下跌逾3%！ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWW1IdTVacjlEampYOGR0Z0RhU3JsOFJmZUVhQVI4UDNnT2ViZjFaUkI3WTFzdFJQTmZ1QU5KWHBzOE5YQk9UbFd2UGRRbkxXc2JaWUJkNS0tRUMybjZKQnZ5eGlSUnlnMTNFQzUwUkNGSFNkYklselctLW9ZUE5YMzY1TTRWdUVRUTFfbV93UnM?oc=5",
+      "date": "2026-11-16T14:06:48+08:00"
     },
     {
-      "title": "稱台北市選情「五五波」：戴立安駁「包牌」、但台積電也不會公布製程 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNRS1zY3RwTkNQcUZVUk41N3M1SzNNRTJzOG4tZXVxRW9jcFZtVF80LThsZWVRazA5NVoyT29EWUNJdWVsbnA1U1ozT3VXSHcwdk1KZVJHUWZudndYamg1alhWSWo3X2ZDVjROcEVmaXIzYTVRWWxlLVpROEp1ZldyU3B6ZlRyM2NGYUhHLU82ejFCZWNaLTNXX1hoLXJQb3dlRWxsVkNWTUpmSFFQV21MY3BNeUY3Y0hheFhzSHJCdVdaTGl6dXVYend0TTVOZTNKWW8tX1hBamtmY3duWVdWZURTeWhBbW1NNFdvZ3prMFBpSzJVQlVsVU5KNnhaTHJnNkczTGFMTWFiMWFfdUhVMlpHaHMyZWZZYmZPNGs2MUZvVmV3XzRTeWFhb3FjaWRfano3REl0eEl1b0ljdm9vSU1zOTBfRWVUMUNkT0ZnTnQ2dUpNYnBQRG8xM0RJZDdhRnJjcnR5bnZtVjFtYkVNVVlDc0FFNlE5UW1TaGdTeXBuNlFaVms0dHpjWEtWalU2?oc=5",
-      "date": "2026-11-16T13:02:21+08:00"
+      "title": "2330 台積電 - 台積電收得很難看- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0waFdWdzhleW10MHZRUEVDTHU4azlwSmJHMmVIZGZJamRDekl5a2RZNlFWY3RzaHV5bFpvUzVDMVI3d1hTRl9ieW9FcTJpeDkwNjU5MHpHZDI?oc=5",
+      "date": "2026-11-16T14:06:25+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T13:27:14.084910+08:00"
+  "updatedAt": "2026-11-16T14:24:13.371939+08:00"
 }

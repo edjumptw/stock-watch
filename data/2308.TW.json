@@ -3,19 +3,19 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 1240.0,
-  "change": 0.0,
-  "changePct": 0.0,
-  "volume": 13486182,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 1120.0,
+  "change": -120.0,
+  "changePct": -9.6774,
+  "volume": 21253889,
   "bias": "偏弱",
-  "performance20": -23.93,
-  "volumeRatio": 0.92,
+  "performance20": -31.5,
+  "volumeRatio": 1.48,
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -23.93%。",
-    "本日成交量為前 20 日均量的 0.92 倍，量能接近平常。",
-    "RSI(14) 為 36.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.50%。",
+    "本日成交量為前 20 日均量的 1.48 倍，交易較熱絡。",
+    "RSI(14) 為 31.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1133,34 +1133,43 @@
       "ma5": 1242.0,
       "ma20": 1387.0,
       "ma60": 1666.6667
+    },
+    {
+      "date": "2026-11-16",
+      "close": 1120.0,
+      "volume": 21253889,
+      "rsi": 31.37,
+      "ma5": 1234.0,
+      "ma20": 1361.25,
+      "ma60": 1655.0
     }
   ],
   "news": [
     {
-      "title": "英國 Travel Counsellors 逆勢擴張 靠加拿大業務重返成長軌道 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPcmFNalhGRXBtTUVrTG9KV05qS2lCMWtWRkZTcjZtVFNxXzAwT2ZUNEJlWTNIYlRubWhydVByUDFoUXd1d1g0djZLSndXbnQxTThoazc3R2lta1dPeWdpZGVhZ25Kb0dVYWhsVDNLcTNMeFQ3b2R5eUlIQkhVaDRrYUlZZXNzUG5pdU5ZTFNzRTVfMUFjaXUyZ24tNHZpLVJoalJTcXQ3UU4xY2s1T2ppbk1Fc0JXNUhFX2djOFJueC00cVljQm9FbnlkY3lQZWJYa3dVYTFhSVZqUklXR1ZvLUJDQTVXQWRWSXJrMmJUWk5WRUlvVTJfTlNxeUtsSjNBaFgweE9HcDRROWNSNmEtTFpSMHBlNm4xMnZLNTRtNFRuYmRnUVV4M2JUY050VFBYcGswY2drNjFrbE9IcGw0Q1BxbUFBZjhkQkN5YWdPYw?oc=5",
-      "date": "2026-11-16T13:24:32+08:00"
+      "title": "中化生前三季EPS 2.01元轉盈 持續深化原料藥與CDMO業務 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxORmZadWtsMnQ1UmtsSHFyWmE2bU1fZmo4MktSOE1GX1BEYkwtaTJjMHUzd3BaZ0JzX3c5U3psdFNuM0oza003OUlBT0ZXTWRFU0pSaTRzRHVQemRrM1owNDVJLXBra1N3YS1fam05RVRXeDVjZFF6dEp2V3RVRHI4V1l6WDdfV3Axdnc4ck9pbUpnbXk0dmVKdW1adDJGbWZMWVdBR1VFNkd1UENLN2tfMUh1MzRNVGpwT3ZXR1kzZW1ONGdFNU5vV0RKLWpBamxzNDA0RDFoZThwSnZaNENMcVp3dXlQWk9tZUdkZUpMUEk3UkNrZlZPQ25DckNDUlBjN0RWMHQ4OEhTRWN5ekFrMWxxUHpvSXk0bnRkbG1ZMlBvM0o1U0kxVk9ybXo2QVNvZGVYVTdMejJqdlR3YWxLNU1EZzR5eGJOcUxkc212OFQ?oc=5",
+      "date": "2026-11-16T14:22:38+08:00"
     },
     {
-      "title": "Android 開發者靠 AI 產出可用 APK 實測揭除錯仍須人工介入 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWFWUHBnTFkxTEJrQlJZN0NONkNBOW1aUFJXVENVOTFBUzZWMkVyVFBoZ2g5Y0thLUFDWkNfOTdMdmZkc2M1QWR4aTRhZ2lfa2sxQ1RseFhva3Y1dFZ4MmZKblJONmNhT2x5Ym5oa0tpMVNwcWZVeXVyc0xjZWZtbUllcFhlQUJvR1k4ZTBuOGxGYUxyY19vbk9oVjRhSVNDc0R1dl9uYldFTHVTR1FWREpkV1prd0hoZXF2M21MM195ZGMybUJoQjZLY0Z1alNu?oc=5",
-      "date": "2026-11-16T13:24:10+08:00"
+      "title": "中國大模型告別刷分內卷！阿里、騰訊、百度一周內集體發力 推理成本成新戰場 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNRmdQOXlaODJZX185V0gzRVVsak9iVWFSYjRfaFhkdHh5TlFpc0MtaEVlVUc0LThMR0ZCdXlzajNENTB0TTJXSkJZWUhNNjhQcHZjWWZxS0VJUXBXMDVNMl9EOGMyX2xPekROeDVKS3E5TnRSVlNMNUxwNjJ5c1RaYXlwQk9CTnZ0M2xFXzlDOWtqLTIwUE9oSGJnalI0WkRibzZ6WlFIanJib0ZvTC1HX2JHV1l4TTVodkE0SHNlQ0IxMlByZW9COVJxSVVMZXQtM3I5SklXanlLN21idmpOdnZMd05YSm1NR1BuWmRGa21oc0prM2VRaUxVWWJrdGdGNGxMRUFCM3dSM0RCczZLaHI2dzI1NS1iTXBfVlZ4aS1UanloZllxa2liNm9OcTRob25MMjZSRHVvQWhiWThWVGhsRk10cjNaOEFrdk11Nl9FUWFINFFoTWxOV1VOOHBLUHFKOXZZd2Y1TEM2R2o3eXpxTTI?oc=5",
+      "date": "2026-11-16T14:22:36+08:00"
     },
     {
-      "title": "手握5000元想靠短線賺價差！股市新手求推薦標的 網見本金勸退：賺100%也才1萬 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQNnp3ekc4VGE0T1Fjd3VQaGJKOGlCYmc0QWpkQ2tWQ0ktWW5MQUVGUWxONmdESERrM09rUnBiUUZCcW5kd0V5TE1PUW0ta2FIUkxzQTNMV0RKeTlRNjFGdTVhTy1JSzVwSUh6TkcwWVNQTGhKVWVNamlFTVRUczdMMzRGS1NFUkVld3hzdW1kTnBTZnhBUkQwajZDUE9QVFgwVnhpRDhJV2lTWndFZ1dVaVZhVlNpWU1mWm5HanpURW13UG0xNjBkVGcxTmtzcS1oYlhJVTd6RjFVZG1SRGUzUjVtbThYZXltMllWNzlWMVQ1cUNPTWtOX1JlVWNjMXMwajJJbkdlaFBhMTBlck1CMGVSXzcxZXZrckNGd013ZU8zSnRKS0pPWS1PdkpKM1FnWTFXbUpzTFpQYXpyVGdSaGZIN0sxaVBzaGl2WXEtdGRhM0o1c1dzLXRXUjVXNDJ5RFRSWERZeFJNQjQ0d2VxWEY1dlB0YS0zQWs4MUZjWTRSTzllZGlOREozVWl2UzdkblNwRnBiOXFjandxTE9VRzJBZVRZV2hsa3Yxd011ZHNPWGQ5V0xiMF9BZ0hIZUxUNnA3ZDJ2cw?oc=5",
-      "date": "2026-11-16T13:18:26+08:00"
+      "title": "高盛：全球油市2027供過於求「相當可觀」 油價有望跌破80美元 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT1BVQUdwODk2ZXB1Yk5ub3Iwb2psNWVuOWVzRUxmNUFXWGVIeTNGRy1PQVJVbk0wZFFvdmJzdDN3UFpiMTZGZVRfS3ExcXdtb3lsYjNDMkQ0QVlIbk9ROEZLbFVqLWtJTkFLaVJaT2FwQ3hIbXFGRHFUTWY4SlpYRUZCajdHZ3hZdGx1Z3V3WnR4eFE3cmgzLWg2UUMxd1dXNURHNDlsUEJnNVRtR1k5RUxqcjk2aDJkOE95cE5HOGNtTDRlREk2YkZSNW4zcTI3X28wdkxKaWZGV3E0WWpRSmh4Z1pjRGl1Q19WMG9VRmQ4VEhWRlJGTDVTN1h1WUlra25ETnZQeUhmeUdoZVM1YWx4WHhLbVZHXzZHN3hfQk9pWWg0d3QwcWliZkQ1aXppbU1DR1hFSzRrVmRnTzhVRHVVWUt2RWRFMUdJZzFvT1NfNFByT3ktdmdKTmlWMmVPTWI3NG9nMWctZ3JvSlhN?oc=5",
+      "date": "2026-11-16T14:20:19+08:00"
     },
     {
-      "title": "台灣高鐵新列車首度正線測試達標 明年7月營運 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOaldtQVFLY0VhV2JmWFdnc3lwbzlvc3h3Y1lub0ZNcFM0QVN6c29VaVNBVURhMVUtN2VzanZEOG4tbXAwY2dVVG1lODhKX3dsWkRHb3pzNllQOFc2aXBMVkUzMmVpTWthNXpSX2lCRUdlRGVpdkRBQ3MxdnNlcjRxazV5aEpwXzl6cGM5VDhUcE5DU3RSa0VXUjBTd2NXSEtxVVpVLVE1b2JrbFBUZ0pXaUJCY2lLMjROWVJ3MkxnUkI3WHlnRXFYNU9lTzFxWTl5ZldvVE96ZEsxYTZWRktaRUNCR20zOEx0Q3c4RlJSZkJfb2J3VVVxWEtHNzQ5SFNybWk1QnU5RE9MVU8tc2pXVDJzUl9jal9hWjJ6c3dPc1E2TmJ5bFBBN1VEX2tjcDZDNk9fcnh2T09HSjN4UzFydkQzUUp4YTFUTGVxdjdB?oc=5",
-      "date": "2026-11-16T13:17:05+08:00"
+      "title": "越南擬擴大免簽搶高消費客群 力拚全年吸引 2500 萬國際旅客 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNaFU5aWZjb0RvMkloWUdoQWM1bFQ3RXJnS2dETURaeENYam9XS0JTemhvZ0ZTempwQlNuT0o4UklWX3VybmU5YXQzVWVlRVU2X1JNRU9NaThnY0c3Ul9nZ21IVHlNdjVpaThHazh4X1RsdGRaUjI3Mlo2amRpWG02SUN2N29BTEdLV0R3RzFFUkZfeW1Rd3E2dmpLZWVJa2x1eng3MkoydHVoQmlacGtJampUVDlheHRrekJReHZQdVlsRGVIajJMSkFWZ09kNUhTRHhlSnY3Y2Y2RDl6UzFHSUNweThYd2FoRWVleXFrcC1FN0N1S01kNUhPTXQtYldqVHR3eFpXTUxCSTkyaEVzeVZmRTlBTDJudDNZMHBrcEtBUXpweWNBWm44VWltT3NHMWRtU3NsS2hJRnpWcVFrNjZ0cE92VWRodUhxQ1NhdVFxZDd3NE5senFkU25QajlkU3NYc2lHRF9hNWdVZ1pHTmhCU21QRDZVUzFyQzhvaXdCbkZV?oc=5",
+      "date": "2026-11-16T14:20:04+08:00"
     },
     {
-      "title": "AI熱潮吸走資金 知名投資人直言加密貨幣失寵 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQQ2NsdXFPZGRMMFFqNjVjSjZFRGZtTTJoSWhEc0ZscXI4clNMUXBLa0g4dm9JcFMyZXhKWTZ6NWc4Rm9BNG5JUllpd0gtbXRUanRxbWstVHpIeFFlQ0p0WTVpZUdWc2Y5OVM1UGhYa0RQTHN4YVlwZkppR0hKRnJiOHo4RFJtWWFKRTJkMVNYbUhobzdjNklZelBpMmtsaERZbWFoa3JFTEJOTTgtRGhEOWJRUXdWUUNBVHJIYlJDeC1iS0NTd00wUWJCNmJReDBPb2hGVTBVWUtKRUl3bnhkb3RzTUZBR2RidTh4dlB2WGlHRGxNZWJtVGlMaFNtRzdNZG1yT0NPRkFxRVpzUU93aGNOQ3FWWWw4NWpfZFZzRzNpeFZmZXRjTGR0TThERUJmb245ZnZiQ2otTEJIQWJXczRVMA?oc=5",
-      "date": "2026-11-16T13:14:24+08:00"
+      "title": "特斯拉Cybercab不到3萬美元？開放私人訂購 自駕訂閱制藏成本 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOSEtrbGNxLWRhMHQ3ajgyaGdKTVpVdUswQ183OVVramdhWVAtZFRhcVZmOENlTlJsd3pDOWQyZnNfZ1VfNm1DcHA4d2xOWkJxZHBkSmxYaExiMGIyZWZIZFNUV0R0REpiYmp6ZkdfRm1pc0w0d1NFVzdUaGFxaVdONlE1ZE8tMzNaZl82R0REcUl2aGRCcTdWWjdzUktydVdXc0VqdDBtVnBrRTY2b0gyOWVMRTAzRkthR0tWN0tudjNDZWVGbDhkMmZfRUs3bmw1bmhRdzRyUUdSY1RIdmh6dGQwODFwdlJrWlh3TlI1REsxWm1SOGtzdlhrUE95YUplZ2d3dm5uY2thVVdNdl95bTV2UVJXMFpyeHlIQ3RGTGFjeEtCSExZTHJiSVI3MG45bThVbkFyWUF0MkRqSC1nR2U1a3JXRV9kSlF0VGk2R0RjN3l2SFhVSUE3TXhMX3BreHVOR0xFQlkxQTZQUWxyV01n?oc=5",
+      "date": "2026-11-16T14:18:53+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T13:27:13.153286+08:00"
+  "updatedAt": "2026-11-16T14:24:12.764719+08:00"
 }
