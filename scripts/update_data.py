@@ -8,6 +8,7 @@ from urllib.parse import urlencode
 from email.utils import parsedate_to_datetime
 import xml.etree.ElementTree as ET
 import yfinance as yf
+from recommendation import recommend
 
 ROOT = Path(__file__).resolve().parents[1]
 TZ = ZoneInfo('Asia/Taipei')
@@ -75,7 +76,7 @@ def build(stock):
     return {**stock,'date':last['date'],'dateTaipei':df.index[-1].astimezone(TZ).isoformat(),'close':close[-1],
             'change':round(change,4),'changePct':round(change/prev*100,4),'volume':last['volume'],
             'bias':bias,'performance20':round(perf,2),'volumeRatio':round(volratio,2),
-            'commentary':commentary,'history':rows,'news':articles,'updatedAt':now.isoformat()}
+            'recommendation':recommend(rows),'commentary':commentary,'history':rows,'news':articles,'updatedAt':now.isoformat()}
 
 def main():
     stocks=json.loads((ROOT/'stocks.json').read_text())
