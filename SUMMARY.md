@@ -55,3 +55,10 @@ workflow 已設定台北 14:30／06:00 與 workflow_dispatch；資料抓取、�
 - `gh auth status` 仍只有 `gist`、`read:org`、`repo` scopes；本機無 SSH 金鑰或其他憑證。
 - 再次推送含 `.github/workflows/update.yml` 的 commit 仍被拒：`refusing to allow an OAuth App to create or update workflow .github/workflows/update.yml without workflow scope`。
 - 結論：需擁有者在互動終端機執行 `gh auth refresh -h github.com -s workflow` 完成瀏覽器授權後，依上方步驟接續；在此之前無法完成「手動跑一次 workflow」驗收。
+
+## 本次重新驗證（2026-11-16 13:20 台北）
+
+- 重新執行公開行情與新聞抓取成功，七檔最近收盤日皆為 2026-11-13；目前台股尚未收盤。
+- 正式網站 headless 檢查再次通過：390px 首頁、七個詳細頁、圖表與新聞，未發現水平溢出或 JavaScript 錯誤；截圖已重新儲存。
+- 兩項 Python 測試及 JavaScript 語法檢查通過。
+- 再次 `git push origin main` 被 GitHub 拒絕，原因仍是 OAuth 憑證缺少 workflow scope。未冒用其他憑證，未將手動 workflow 驗收標為成功。已請擁有者補充授權；尚未取得授權時，派單必須維持 FAILED。
