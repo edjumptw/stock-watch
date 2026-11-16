@@ -12,6 +12,32 @@
   "bias": "偏弱",
   "performance20": -23.95,
   "volumeRatio": 1.85,
+  "recommendation": {
+    "date": "2026-11-13",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "reasons": [
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+    ],
+    "support": [
+      {
+        "price": 162.85,
+        "source": "近 20 日最低收盤價"
+      }
+    ],
+    "resistance": [
+      {
+        "price": 162.85,
+        "source": "近 20 日最低收盤價"
+      },
+      {
+        "price": 198.6885,
+        "source": "MA20（近 20 日收盤均價）"
+      }
+    ],
+    "volumeRatio": 1.8504
+  },
   "commentary": [
     "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -23.95%。",
     "本日成交量為前 20 日均量的 1.85 倍，交易較熱絡。",
@@ -1155,56 +1181,30 @@
   ],
   "news": [
     {
-      "title": "桃園串聯AI三巨頭NVIDIA、Google、Microsoft 培育青年AI國際認證人才 - 桃園電子報",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiZWhGZFUtZGhUalUxNEtDVUVzN29QQV9Yb3JETGswY1RKaE9CWHpRWTdRVTVfalphV3JUblFDUnUzREkyVVRlVmNUMW8?oc=5",
-      "date": "2026-11-16T14:01:44+08:00"
+      "title": "NVDA 輝達- Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SYkVrRGdSbURmYWFubjM4N0lrRXprTVBVaUh5RWE5cFlzdFY2cjdDc28yWEtkV0lQWDc1M2ExT1BBSExPakJ3czhzZFFJRDdBYzJ5SGdOY0w?oc=5",
+      "date": "2026-11-16T23:22:33+08:00"
     },
     {
-      "title": "美股龍頭震盪引爆亞股回檔！黃仁勳意外離任衝擊Nvidia估值，Anthropic上市成AI行情試金石 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbV9mM3VjZUtlVC1vdzU2ZWMtRnM0WW5UVG5xQTUzV1RDQmFDeG1GQWttckotM0ZrTDNVZEtLZjhvOFkwS1dTMVp1UWFSOXpkMHlubE9QRG9qQnFfdzlZbjUyaGZXTk1Kbll4djFZYk5xNWFVSHRYUlhxYWVpMy11dHhGVkpBOFkyMHdfVkpR?oc=5",
-      "date": "2026-11-16T13:37:24+08:00"
+      "title": "川普：不反對黃仁勳回任Nvidia執行長 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45RXA2X2RWQU50dVJsTEpJSnVTOFhsZHQwSTBTY19yd0U3VVRiVEdvZ3ppc1JIVFdxdTQtU2xHQ2REZ0J2TUdCZGFTSkFiQ0dPeU9WS3QtYXZQdXpCTEtJRGRrYWN1SW5WYzc2RkFkenViQk9ONzNzUFphQWRqQdIBZ0FVX3lxTFBURDhXajNZTm4tdTB4MlpjVURtbjNMSTVUSkZuWXJLOEphUzZfUzRpZG5Td3U0cEd6Z2tuSGFNbmdBR0dqWFpPYTUzLWNBSHlQWms5VTFJdGYwU3FUb0RLM3I3bXNWRDQ?oc=5",
+      "date": "2026-11-16T23:22:17+08:00"
     },
     {
-      "title": "《全球市場》亞股下跌，Nvidia財報和Anthropic IPO將考驗科技股漲勢 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CV2p5TUZqazBiRHBjMUdUSEVLNWxENlpGY0JMMU92cEJtVTIwbzJvOW9GekVkS1YzOGUycUlEUkNacjVCX2U2SUtobEhuSTV4N3FBejVZQU9HakthOHVEUXV0RkZWWHd1Z255bFNBVmQ5T1pERjM4?oc=5",
-      "date": "2026-11-16T13:35:54+08:00"
+      "title": "華爾街Nvidia財報前夕下挫，AI熱潮與Anthropic天價IPO攪動市場情緒 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnJEdkpKS1Uyalluckd3WFpPVmlDcl9iS0lWZmEwYW1uTXRodE9vaUw4OWVTNmJyWGZIZHdTdExSZ2lHZjlDbVlFYTN3YmhzaENiVU15Vi1zVFhGT2lzcmF0QkxRXzhOMVZENFVsVTVIRThiRHZDZUMtNWpaWHlVeTV5LXVpcm9nby02UHFn?oc=5",
+      "date": "2026-11-16T23:17:34+08:00"
     },
     {
-      "title": "傳黃仁勳考慮重返 NVIDIA？矽谷盟友設「作戰室」遊說董事會，超過 2 成員工也力挺他回歸！ - 潮癮CHILLING",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jX2l1X2xSYVdwV21BdmsyQmJ2VkwxVkdTdHBEbklJcXlxOW9yazV5VjRmMHdLUmp3NXpvZnF4MTV0R2pId21mT1pSS05MZw?oc=5",
-      "date": "2026-11-16T13:07:01+08:00"
+      "title": "3211 順達 - Trump says Nvidia scandal did ... - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2OTVJOGNrYXhKbEhYYlBnV2Yzdlphb1ZhaG5VMEVzRjdTelAxZlNhRDJmQWk0X3lnWmNSUVAwbWpZc1hSRlNHLVUwdzcwZ045Q3p6TFh3VlQ?oc=5",
+      "date": "2026-11-16T23:13:11+08:00"
     },
     {
-      "title": "Nvidia恐爆資深工程師離職潮OpenAI傳出搶人黃仁勳離職掀整隊跳槽隱憂| 美國綜合| 美國 | 世界新聞網 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HWGFFM1BVRHdnNGxEaEZRWDFvdzNibG5vblVablVrWkxMQmIxeG5abU9pZEFVZjUzQ3JrUUIyUzkwNVVUSk05R0RSYlJadVhqZnBUQjBOVG1vSUlVMW5iSXV3?oc=5",
-      "date": "2026-11-16T13:00:44+08:00"
+      "title": "AI 金礦變修羅場：Nvidia權力真空、Anthropic天價IPO，撼動全球晶片與 AI 安全版圖 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmxUWHUtcDV4S3k3cTc3YlUxNmhqVkdITzU4S2lqVEFUcXNHS21yR1dENWhnd0VfQWVyc1JtNkpBTnJITnNua29QbHpvVnhzcEhkQXMxLXF6TDJMbjVYZ2xxVXBwdk9VY1pQSkpXZFA2ZnZkTXZoN05CeWNyS29aYzZUQ0c5Wi1GRXUtSEFR?oc=5",
+      "date": "2026-11-16T23:00:45+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T14:24:15.194235+08:00",
-  "recommendation": {
-    "date": "2026-11-13",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
-    "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
-    ],
-    "support": [
-      {
-        "price": 162.85,
-        "source": "近 20 日最低收盤價"
-      }
-    ],
-    "resistance": [
-      {
-        "price": 162.85,
-        "source": "近 20 日最低收盤價"
-      },
-      {
-        "price": 198.6885,
-        "source": "MA20（近 20 日收盤均價）"
-      }
-    ],
-    "volumeRatio": 1.8504
-  }
+  "updatedAt": "2026-11-17T00:10:12.289723+08:00"
 }

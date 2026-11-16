@@ -3,19 +3,45 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 374.0,
-  "change": -37.0,
-  "changePct": -9.0024,
-  "volume": 41966350,
+  "date": "2026-11-13",
+  "dateTaipei": "2026-11-13T00:00:00+08:00",
+  "close": 411.0,
+  "change": 4.0,
+  "changePct": 0.9828,
+  "volume": 36522706,
   "bias": "偏弱",
-  "performance20": -34.04,
-  "volumeRatio": 1.12,
+  "performance20": -28.27,
+  "volumeRatio": 0.96,
+  "recommendation": {
+    "date": "2026-11-13",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "reasons": [
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+    ],
+    "support": [
+      {
+        "price": 374.0,
+        "source": "近 20 日最低收盤價"
+      }
+    ],
+    "resistance": [
+      {
+        "price": 477.1,
+        "source": "MA20（近 20 日收盤均價）"
+      },
+      {
+        "price": 540.45,
+        "source": "MA60（近 60 日收盤均價）"
+      }
+    ],
+    "volumeRatio": 0.9567
+  },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -34.04%。",
-    "本日成交量為前 20 日均量的 1.12 倍，量能接近平常。",
-    "RSI(14) 為 30.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.27%。",
+    "本日成交量為前 20 日均量的 0.96 倍，量能接近平常。",
+    "RSI(14) 為 35.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1133,69 +1159,34 @@
       "ma5": 414.0,
       "ma20": 477.1,
       "ma60": 540.45
-    },
-    {
-      "date": "2026-11-16",
-      "close": 374.0,
-      "volume": 41966350,
-      "rsi": 30.51,
-      "ma5": 406.6,
-      "ma20": 467.45,
-      "ma60": 537.0833
     }
   ],
   "news": [
     {
-      "title": "繼國巨後換華新科！被動元件股遭血洗 股民嘆：高檔套牢慘兮兮 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UNFNwZ2t6dlNLTDRITV9FdVJ4UmdFVE8wZ0EwTjRoNXgwSUR3SVlCWk1CYmh0UjEtc3JPYUYtQjJnRkRaRmJyd1ZzTHE?oc=5",
-      "date": "2026-11-16T13:47:22+08:00"
+      "title": "玻纖布慘兮兮！「這檔」連5漲47.2%後慘崩跌停 南亞、德宏、建榮也都亮綠燈 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQb054b3ZzZWV2OWh0LWxBOEtaVHROb29PcWFaQ04wdXFUTVktb011SV9LSUNaVDRzc1FhMlM5N3o5b3NwZTdGMGx2T2FtWk1FYmx6LVJtdjk2aEdLQnkyV3ZuOXJFb0lPd3NjV0I0bkNYS3Q5SUJkSUJ0QThDZl9XNXVaMUZ6SndFT1d1WEFVQ3VCSkh6T1NuU3JBNl94eDZ5RjNuZmVoM0lHbjlUb19pOHRHN3Q2dC0tVVBydkw2cjcxVW5HQ0o1ckJZVU5kNUNGVTZYU1JmV2x4bVdXbGtrWXQ1OWEtaU9OSFhXQng1a2d2Z2VEX1gxUEVxb0V1cUZIdVRTTktZb3EzT0ZoT2RGTzYxWi1pekJJN0E?oc=5",
+      "date": "2026-11-16T21:45:00+08:00"
     },
     {
-      "title": "繼國巨後換華新科！被動元件股遭血洗 股民嘆：高檔套牢慘兮兮 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GdGs0N3JDTWVJUUN3RTFsQVl3N1A3TW85czRvR2U4Q3pRM0d2anNkdGdCUXd4dGpRSFV0dWQwYXhJclNsQXl0QV9hdDktSkg4V2FzOVg1Sm0?oc=5",
-      "date": "2026-11-16T13:38:53+08:00"
+      "title": "國巨失守400元！他嗆有本事到200 一票人狂喊不要：它瘋起來陳董都會怕 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40aHlUdDd4ZFRSTFF2LS10YXIyNkZwZURlRFJlaXUxMEJoRjk3NVFUbk1XS2lKMDJHalgwYjgxaTA1ZjFZbGJCMGU0OA?oc=5",
+      "date": "2026-11-16T20:57:49+08:00"
     },
     {
-      "title": "3字頭國巨能接嗎？大摩喊破千元、投顧看800元「兩套進場劇本全曝光」技術派急喊先看364.5元守不守得住 - 旺得富理財網",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtNFdHOExHRDlpR19Xbzc1Zko0RXBfd1o4T0FQcFZ0OWJMWHBUU2tDWFJibEJpS0V5ZGNlZG5qTFBoNlJTOTN1RHU1YzU5WHlCRVlTZ2w5YXFmUmV2VHhEZXVocWh4cVBCeHc?oc=5",
-      "date": "2026-11-16T13:24:11+08:00"
+      "title": "國巨暴跌他喊有本事到200！網：它真的敢 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYQy1EZVVJbjJIb1c0ZkZPYTVvN2lOeHN3dWc2Rl9KeEV3d1l3VDhINmJCNWl1WVJqOUFvVm9qYzRVb0tMLXpHOHRIQVNVNGZTOEVTNzZrNTdVenFr0gFiQVVfeXFMTlF6X3A4aVEwUWdCNzJ0RkFpaXFMZndzNHppb29tYzNsam5hLVVDakZKcVAxM0JkdE9uY2VaRk0zaEFxTXMtS0IzcE5McGhOb0lNd3lKVVBPUmRxVEhGVE8wQnc?oc=5",
+      "date": "2026-11-16T20:51:00+08:00"
     },
     {
-      "title": "國巨跌勢停不住！盤中暴跌逾7％ 股民哀號：越攤越平 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9URjhpa0ZHUGYzVHVsRjNULS1zTTVDWWNxWTNGVFpZLTlzZWhJcExrTjh2X0w5VVk2Y3pvRl9FVmFUQUZzaDJFdjZYa3Q?oc=5",
-      "date": "2026-11-16T11:11:30+08:00"
+      "title": "IC設計整片綠！「ASIC三雄」領信驊、矽力、愛普摜跌停 南亞科、華邦電、旺宏摔9% - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPX2wtdWpFUTd6TWduelg1TXljN0hBZ1d0QURoZUlNbmNlTjB1MjVnODRIeTMtY2tNSUUtTmZCTUJzdEpSR0N0dWhhWHFWUnlXekZxZGRxRGRydURfUExhclBfZTQtLUJKZW4yZW91TExGV0p1RHN2YkhJX3dmNFpLbVM4U2lRd01WVjU2clIzdzdOSFE1S2ZRU3MwaFhLa2dUcDREQ01zaXZBcDNHdXBCaFlzd1d1U0tNbS1aZFNkZ3VQWVIzVDJTS1lmVHBrUi1EZEpNaXdCU3hZbXY2eUY1Nk1WNWZndlhlQ0lkd2RmOVJ4enhwRWcyQXpLc0pIQ28xRTJYcG1NbWI2ck15VHJGbkZlMjdNZlZxa0NhdGp4aEw3d1p5aURmWGF2Y1dsVEZjdENVcQ?oc=5",
+      "date": "2026-11-16T20:45:00+08:00"
     },
     {
-      "title": "國巨跌勢停不住！盤中暴跌逾7％ 股民哀號：越攤越平 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3bVMtRlhhcHdIU1UySUd3UXROU3E0Sm9adXlGdTRjMEktaVFGY1JnOXpQSWt4Nk9WbmczSjVfNm82eGNMUk0zOE9NWkV4MFJ1ck9HQmhLNWU?oc=5",
-      "date": "2026-11-16T11:03:56+08:00"
+      "title": "被動元件臉綠！「這檔」連3跌14%拖華新科、禾伸堂、信昌電、蜜望實跌停 國巨挫9% - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNUnpTOVR1NGxCMFdIOGdHaWFLQW5JNFBpV3liWno0c2lKaEwwcFpRck0wQ051N2NIWm0tYVVINWhpbW83VDRINURBZi1TeHdBc0JqVjNxMnh2Sk1fZ2VoVkJhV1N0Y1Q4Y0htOHVJclpsQ3BNa0QwSUJvaV9BSGNaZTFZc0pMcGlTMExJV1AzV3dHYXVGVlFxQVFZNkhRemFZTDRWTmNkTEVQdkQ3V1pjY1BMTmVJb2FaYWRWSHBwdzZQdjY5R1hvYjBVWUUxZlU3ejgwZnFnTElOazZrNkt3SkE2VW80MFBvNE4xN0ZuZHhmUmxOc1FiY19ycDk4RGlHT3dBYWVIcDBLWEZSMmtaM1RGZXFqcXVYUy1nTGVPdUsteW82SFcyNFBpd0dqNzBT?oc=5",
+      "date": "2026-11-16T20:15:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T14:24:11.535602+08:00",
-  "recommendation": {
-    "date": "2026-11-16",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
-    "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
-    ],
-    "support": [
-      {
-        "price": 374.0,
-        "source": "近 20 日最低收盤價"
-      }
-    ],
-    "resistance": [
-      {
-        "price": 374.0,
-        "source": "近 20 日最低收盤價"
-      },
-      {
-        "price": 467.45,
-        "source": "MA20（近 20 日收盤均價）"
-      }
-    ],
-    "volumeRatio": 1.122
-  }
+  "updatedAt": "2026-11-17T00:10:08.840721+08:00"
 }

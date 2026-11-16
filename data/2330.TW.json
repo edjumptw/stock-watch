@@ -3,19 +3,49 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 2215.0,
-  "change": -135.0,
-  "changePct": -5.7447,
-  "volume": 49826948,
-  "bias": "偏弱",
-  "performance20": -8.47,
-  "volumeRatio": 1.57,
+  "date": "2026-11-13",
+  "dateTaipei": "2026-11-13T00:00:00+08:00",
+  "close": 2350.0,
+  "change": 10.0,
+  "changePct": 0.4274,
+  "volume": 28844142,
+  "bias": "中性",
+  "performance20": -3.69,
+  "volumeRatio": 0.88,
+  "recommendation": {
+    "date": "2026-11-13",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "reasons": [
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+    ],
+    "support": [
+      {
+        "price": 2345.5,
+        "source": "MA20（近 20 日收盤均價）"
+      },
+      {
+        "price": 2135.0,
+        "source": "近 20 日最低收盤價"
+      }
+    ],
+    "resistance": [
+      {
+        "price": 2414.9167,
+        "source": "MA60（近 60 日收盤均價）"
+      },
+      {
+        "price": 2425.0,
+        "source": "近 20 日最高收盤價"
+      }
+    ],
+    "volumeRatio": 0.8814
+  },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -8.47%。",
-    "本日成交量為前 20 日均量的 1.57 倍，交易較熱絡。",
-    "RSI(14) 為 38.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -3.69%。",
+    "本日成交量為前 20 日均量的 0.88 倍，量能接近平常。",
+    "RSI(14) 為 48.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1133,69 +1163,34 @@
       "ma5": 2321.0,
       "ma20": 2345.5,
       "ma60": 2414.9167
-    },
-    {
-      "date": "2026-11-16",
-      "close": 2215.0,
-      "volume": 49826948,
-      "rsi": 38.8,
-      "ma5": 2317.0,
-      "ma20": 2335.25,
-      "ma60": 2412.1667
     }
   ],
   "news": [
     {
-      "title": "台股終場重挫2635點失守42K！台積電跌逾5% - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaks2SEFTdmRQdE9tU2JQODNTNllzZFpWRnQtMzJORTRhZzF0YWVBQTBBQ25NaU1JaU1nOXZ3MkNmX3FVSVpoQzZqNFB5cjJ5VW1ORjNhOUNuc2stQ08xOF9ha2FNb2F0dHBGZmw4dDR0enF2T2lCeWNmdmM5X19kRU15UExfXzdGRmxlVG4xX0FnUlBKQ3lSSTNNVjVKRC1falVQVExwMmxTRS1BOXhzWkduNldTTUtiQzRjQTRRX09LeDhWaHY2b080VDZ4dy1OTzRMYXRIRmlPNnQtbk9BcVQ2Zm5UVXR0WnhGNjhBeXZPQ0k5S1A3akRtLV8waEVvV1gzcWIzZw?oc=5",
-      "date": "2026-11-16T14:11:32+08:00"
+      "title": "美股費半開盤重挫近 5%，台積電 ADR 跌逾 6%，比特幣跌約 1% - 鏈新聞 ABMedia",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91ODhPTjExT3FQSnM4eHphaC1seXY2U2JEZjk3TktZUE14a0RyZ2VRclpBb19VS1BZeHFDVHpOQjFRMGpXNlZYWGpUY2U2VDdXS19NVXc5aGFoQQ?oc=5",
+      "date": "2026-11-16T23:44:22+08:00"
     },
     {
-      "title": "【即時新聞】台積電今日宣布先進封裝產能外包協議，CoWoS供需最新影響全解析 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmJ2MDJPTENrT3JSYzliMGhWVVJiS2FvTVVlQTA2Y1VvUFlDLXcySDNMSFlhN2pDNXVmVkJSOUtmMVlwV3RDdHVIaW12dVRmM09CQklGek44eDM4cFRuZm9YS1p4dFJoZkZ3ZUVRNVZhQXVZMG5pckZHS3hVMjcxWWRXd1ZlbGpNb3Z4UTJOeGw?oc=5",
-      "date": "2026-11-16T14:09:20+08:00"
+      "title": "2330 台積電 - 科技業力挺台北101外牆11/16今晚點燈聲援黃仁勳- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzR3BKTlVWRk1ROGNLN2dPX2JIM0RISHA1MWtkSmJOSHBFaUliVGZUWElSWDBvd1FYNW53bk5RUjR3eXI5dG5UUjVKT0wyUkcyWU0ybFNUS1A?oc=5",
+      "date": "2026-11-16T23:07:43+08:00"
     },
     {
-      "title": "【即時新聞】台積電最新證實員工資料外洩事件，資安防護引發市場高度關注！ - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFZDZ3FHNjVnVXlxNkRoOUZUZEc3bmNrREVJcEhwX25xUjJZS3loX1RkazM5VGctbHJjbzZBRGFpWDQ0VzhRM1dqVjZ4RHpsTklncFVFdW5tSmMtY1R1dThmelQ5cm1zOXRvV056akk1UXZtTC1hNGFpRF9GSWp4RnFQRzRwWTV4X0c2cm9HY3E?oc=5",
-      "date": "2026-11-16T14:08:06+08:00"
+      "title": "台積電ADR挫4%！美股早盤費半跌400點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbkdWWTZaVWJyd2NLT1JvckU4ajR6TE5HUGtTMG5KVGh6UjZzVTZucEZkNlZBUk5jX0RGdjR5S0Fjd3JzMkhtdTBpa3Z1ODF6cW5yb0Z3cWRrUlFwbnRxUVZ4XzZsOEZJRjktUU1FaGtKZzItRUVJaDhESzRCRmNrLU5yTWN5cDlTZlQzck1zVmFiSkIwM2tZZWhRWHUxbWpIZ3FHUlk1dU9MQVVqcFhHZUFSMTE4V1FsaUViZnFtdVc0NGIzZVN0aUg2T3FicjNWN3U3UktJZk83MUJ2eTFUZlRQZ2llbEgzOWVQajZn?oc=5",
+      "date": "2026-11-16T23:01:23+08:00"
     },
     {
-      "title": "【即時新聞】台積電受輝達AI晶片輸中疑雲拖累，今日股價隨大盤震盪下跌逾3%！ - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWW1IdTVacjlEampYOGR0Z0RhU3JsOFJmZUVhQVI4UDNnT2ViZjFaUkI3WTFzdFJQTmZ1QU5KWHBzOE5YQk9UbFd2UGRRbkxXc2JaWUJkNS0tRUMybjZKQnZ5eGlSUnlnMTNFQzUwUkNGSFNkYklselctLW9ZUE5YMzY1TTRWdUVRUTFfbV93UnM?oc=5",
-      "date": "2026-11-16T14:06:48+08:00"
+      "title": "美股也迎黑色星期一！費半慘跌逾5％ 台積電ADR重挫4.60% - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcVp1WTNUMzFTVDZxdWFJbjRKVGhMdFFlQnZYZEJDazluUmZ5MHRZY193UWQwUjE1UmJfQ2pqSFFNUWozLTk3aEFWYXNvd29FTnBXdkVUVmlMRGhaUWJwX2FSZnlCangxa3hsMW90NnZmdURrQjBvajJiUzNxSUFIeHBKNEJpNFItbDVsb1NNLW50em43MVNIUEdsQ2JaUWhGYXBwT25NQ0hrUHNpY0J0cEhLaDBCS2s2YUY4bTlQaU5zNnVZVDlaVTVpQ0UwU3FFd1J2bkxkVWgyQ3JzX01HdmhoMGNGWjhBQXJRM2UzdlloRU1uYlpSUDh1UjFzdzhaRGFxVEJjXzl4WVktWHNXUTNGOUxmUExxdUkyM3U4aTZCYTVjclVpR2g0MHlWVEpuTENqZWRCcWE?oc=5",
+      "date": "2026-11-16T22:55:08+08:00"
     },
     {
-      "title": "2330 台積電 - 台積電收得很難看- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0waFdWdzhleW10MHZRUEVDTHU4azlwSmJHMmVIZGZJamRDekl5a2RZNlFWY3RzaHV5bFpvUzVDMVI3d1hTRl9ieW9FcTJpeDkwNjU5MHpHZDI?oc=5",
-      "date": "2026-11-16T14:06:25+08:00"
+      "title": "盤中速報 - 台積電ADR(TSM-US)大跌5.01%，報378.77美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yU0RLcXdOclJYdzlaUEQ3Nlh6bndESXM5aGY4cHplT3U1ZEdWZFZRYlFab2phRzFFV0pIZmtxQWhJOF9reXlfQ2FMMVJWQjd3OE5PTFZNbGhrenRsWVZkZjV3R3M?oc=5",
+      "date": "2026-11-16T22:49:33+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T14:24:13.371939+08:00",
-  "recommendation": {
-    "date": "2026-11-16",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
-    "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
-    ],
-    "support": [
-      {
-        "price": 2135.0,
-        "source": "近 20 日最低收盤價"
-      }
-    ],
-    "resistance": [
-      {
-        "price": 2335.25,
-        "source": "MA20（近 20 日收盤均價）"
-      },
-      {
-        "price": 2412.1667,
-        "source": "MA60（近 60 日收盤均價）"
-      }
-    ],
-    "volumeRatio": 1.569
-  }
+  "updatedAt": "2026-11-17T00:10:10.526322+08:00"
 }

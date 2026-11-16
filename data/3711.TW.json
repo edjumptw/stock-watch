@@ -3,19 +3,45 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 550.0,
-  "change": -48.0,
-  "changePct": -8.0268,
-  "volume": 21426111,
-  "bias": "偏弱",
-  "performance20": -18.03,
-  "volumeRatio": 0.98,
+  "date": "2026-11-13",
+  "dateTaipei": "2026-11-13T00:00:00+08:00",
+  "close": 598.0,
+  "change": 12.0,
+  "changePct": 2.0478,
+  "volume": 19736054,
+  "bias": "中性",
+  "performance20": -11.14,
+  "volumeRatio": 0.88,
+  "recommendation": {
+    "date": "2026-11-13",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "reasons": [
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+    ],
+    "support": [
+      {
+        "price": 527.0,
+        "source": "近 20 日最低收盤價"
+      }
+    ],
+    "resistance": [
+      {
+        "price": 633.65,
+        "source": "MA20（近 20 日收盤均價）"
+      },
+      {
+        "price": 644.1833,
+        "source": "MA60（近 60 日收盤均價）"
+      }
+    ],
+    "volumeRatio": 0.8767
+  },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -18.03%。",
-    "本日成交量為前 20 日均量的 0.98 倍，量能接近平常。",
-    "RSI(14) 為 38.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.14%。",
+    "本日成交量為前 20 日均量的 0.88 倍，量能接近平常。",
+    "RSI(14) 為 44.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1133,15 +1159,6 @@
       "ma5": 593.4,
       "ma20": 633.65,
       "ma60": 644.1833
-    },
-    {
-      "date": "2026-11-16",
-      "close": 550.0,
-      "volume": 21426111,
-      "rsi": 38.04,
-      "ma5": 591.2,
-      "ma20": 627.6,
-      "ma60": 643.3667
     }
   ],
   "news": [
@@ -1166,36 +1183,10 @@
       "date": "2026-11-14T08:02:28+08:00"
     },
     {
-      "title": "3711 日月光投控- 營運追蹤- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvZElxUm1vNGw2X3h5ODJpRG9kWlpZbHVVYjRpV21CTEU2X0U5cFVxb3BCOUNhc1ExcWE4eGR5dTdiaXdqNC00TVVzYWFocHJVdzR6aXpNQzg?oc=5",
-      "date": "2026-11-13T20:21:00+08:00"
+      "title": "日月光投控：日月光半導體製造7/9~11/13向印能科技取得營業用機器設備，計約10億 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1ZQVlczN2NhNHU5eGZDd1lSZ2tCQnluY0JlaUd6eS1DbmRNVXhFSWREejN1Zzk0TW4yTnBkVXdsTWJaX2lUbW1yTFNieHgwbnJzSk9TZ25KOVZUNDNSdVBQRWlsZUdGXzhLUEJxMmNwbGl6RGZNRElROUtjTDduTjV4Mlg2bGlpVGwzbGZMTTA1QQ?oc=5",
+      "date": "2026-11-13T22:16:37+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T14:24:14.505871+08:00",
-  "recommendation": {
-    "date": "2026-11-16",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
-    "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
-    ],
-    "support": [
-      {
-        "price": 527.0,
-        "source": "近 20 日最低收盤價"
-      }
-    ],
-    "resistance": [
-      {
-        "price": 627.6,
-        "source": "MA20（近 20 日收盤均價）"
-      },
-      {
-        "price": 643.3667,
-        "source": "MA60（近 60 日收盤均價）"
-      }
-    ],
-    "volumeRatio": 0.9839
-  }
+  "updatedAt": "2026-11-17T00:10:11.765248+08:00"
 }

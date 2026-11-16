@@ -3,19 +3,45 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 1120.0,
-  "change": -120.0,
-  "changePct": -9.6774,
-  "volume": 21253889,
+  "date": "2026-11-13",
+  "dateTaipei": "2026-11-13T00:00:00+08:00",
+  "close": 1240.0,
+  "change": 0.0,
+  "changePct": 0.0,
+  "volume": 13486182,
   "bias": "偏弱",
-  "performance20": -31.5,
-  "volumeRatio": 1.48,
+  "performance20": -23.93,
+  "volumeRatio": 0.92,
+  "recommendation": {
+    "date": "2026-11-13",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "reasons": [
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+    ],
+    "support": [
+      {
+        "price": 1055.0,
+        "source": "近 20 日最低收盤價"
+      }
+    ],
+    "resistance": [
+      {
+        "price": 1387.0,
+        "source": "MA20（近 20 日收盤均價）"
+      },
+      {
+        "price": 1640.0,
+        "source": "近 20 日最高收盤價"
+      }
+    ],
+    "volumeRatio": 0.9178
+  },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.50%。",
-    "本日成交量為前 20 日均量的 1.48 倍，交易較熱絡。",
-    "RSI(14) 為 31.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -23.93%。",
+    "本日成交量為前 20 日均量的 0.92 倍，量能接近平常。",
+    "RSI(14) 為 36.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1133,69 +1159,34 @@
       "ma5": 1242.0,
       "ma20": 1387.0,
       "ma60": 1666.6667
-    },
-    {
-      "date": "2026-11-16",
-      "close": 1120.0,
-      "volume": 21253889,
-      "rsi": 31.37,
-      "ma5": 1234.0,
-      "ma20": 1361.25,
-      "ma60": 1655.0
     }
   ],
   "news": [
     {
-      "title": "中化生前三季EPS 2.01元轉盈 持續深化原料藥與CDMO業務 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxORmZadWtsMnQ1UmtsSHFyWmE2bU1fZmo4MktSOE1GX1BEYkwtaTJjMHUzd3BaZ0JzX3c5U3psdFNuM0oza003OUlBT0ZXTWRFU0pSaTRzRHVQemRrM1owNDVJLXBra1N3YS1fam05RVRXeDVjZFF6dEp2V3RVRHI4V1l6WDdfV3Axdnc4ck9pbUpnbXk0dmVKdW1adDJGbWZMWVdBR1VFNkd1UENLN2tfMUh1MzRNVGpwT3ZXR1kzZW1ONGdFNU5vV0RKLWpBamxzNDA0RDFoZThwSnZaNENMcVp3dXlQWk9tZUdkZUpMUEk3UkNrZlZPQ25DckNDUlBjN0RWMHQ4OEhTRWN5ekFrMWxxUHpvSXk0bnRkbG1ZMlBvM0o1U0kxVk9ybXo2QVNvZGVYVTdMejJqdlR3YWxLNU1EZzR5eGJOcUxkc212OFQ?oc=5",
-      "date": "2026-11-16T14:22:38+08:00"
+      "title": "快訊／川普表態了！不反對黃仁勳重返輝達執行長：他已學到教訓 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaG80akc1aEgtdmlkclVCMWtITDc0NXdHUEdfRkg0azBwMkhjR3BNYjdTdm1QN2I4ZnhNMVlKM1pmQ05XVGRELVZ6SUhoV2w5MUlCTFdJSklGNUtqS0RPbGJPaXJhblI4dEw2WEF5UjZCQWFaTUZ6SzRaMWxCaktJNl9vRnctbEpaNkVvM1gwSkZKdloteGcyNUVQazd0NG5VQzdEelI1QUF2SnZhREdkOU91RlJ0NGlCZkNnQ2k2cDA2emJqMWJUZGJ6YWdmTDlla3QwUDY4dDhxUGlNTUFST1N5Q01hVUdXUHZwRHVwc1JYMng0ZWtINldWS0kyQ204bEN5UVlXYmRiSzB6RkxFTFRnSEEwV0JIVktUN1MwYTlBU1UwSWZJYUs5cHFCVURpYmhrNFpqMTEzSjZZc3RPaDlScklYY0FoQkJHOHJ2ZUp0VVZjT0g2UUZlWmVqVGZUN1o5Mzd6WlN5RjJEdFYyR05JcFc5emJZZDNDeUZ1cXVwczc1WUdOcE5hTkV4ZmR5WmxjRURzTQ?oc=5",
+      "date": "2026-11-16T23:20:00+08:00"
     },
     {
-      "title": "中國大模型告別刷分內卷！阿里、騰訊、百度一周內集體發力 推理成本成新戰場 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNRmdQOXlaODJZX185V0gzRVVsak9iVWFSYjRfaFhkdHh5TlFpc0MtaEVlVUc0LThMR0ZCdXlzajNENTB0TTJXSkJZWUhNNjhQcHZjWWZxS0VJUXBXMDVNMl9EOGMyX2xPekROeDVKS3E5TnRSVlNMNUxwNjJ5c1RaYXlwQk9CTnZ0M2xFXzlDOWtqLTIwUE9oSGJnalI0WkRibzZ6WlFIanJib0ZvTC1HX2JHV1l4TTVodkE0SHNlQ0IxMlByZW9COVJxSVVMZXQtM3I5SklXanlLN21idmpOdnZMd05YSm1NR1BuWmRGa21oc0prM2VRaUxVWWJrdGdGNGxMRUFCM3dSM0RCczZLaHI2dzI1NS1iTXBfVlZ4aS1UanloZllxa2liNm9OcTRob25MMjZSRHVvQWhiWThWVGhsRk10cjNaOEFrdk11Nl9FUWFINFFoTWxOV1VOOHBLUHFKOXZZd2Y1TEM2R2o3eXpxTTI?oc=5",
-      "date": "2026-11-16T14:22:36+08:00"
+      "title": "快訊／美股開盤跌一片！那指跌逾300點、英特爾殺逾5%、台積電ADR跌近4% 台股明天恐再迎震盪 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONnlVSVdMM0VaVi0xcGNGaVNQbEExZ3hfclNhTkl5QnJfSUpvTE5lOTRxSnVRVDZvc1doUmJYQ3J0UHRxbU43T3JOay1Id2pFeW5xNVlHTERKYmVWanM1STROWEIzTERVb0xPY2pkV011Yk1Xdm5DMkd5VFdDRGtjMTVBTURJSktBQ1h1Um1SeHVBdHRPZEJQNWJneXJBM1JLZU9nU3kxNEx2S0NyYzhkOHU4S2tIbzE5ci16djhTWFpnR3EwS1BlNE5CRFk1cm9YSGtmOFZXeUdKY0dIM1U1aFpQMUkxa3Rqcm9KakFtLXYtR0VpSHRrVVBCMjFCUExpM3BuMzN6LUNzdzJGV3RDUUhsU1p5TmJ0YnNfS28xZE5jZThXaFRPTDRjbTVkZDF0TzBEYklvMWFMVWZFRGc?oc=5",
+      "date": "2026-11-16T22:49:00+08:00"
     },
     {
-      "title": "高盛：全球油市2027供過於求「相當可觀」 油價有望跌破80美元 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT1BVQUdwODk2ZXB1Yk5ub3Iwb2psNWVuOWVzRUxmNUFXWGVIeTNGRy1PQVJVbk0wZFFvdmJzdDN3UFpiMTZGZVRfS3ExcXdtb3lsYjNDMkQ0QVlIbk9ROEZLbFVqLWtJTkFLaVJaT2FwQ3hIbXFGRHFUTWY4SlpYRUZCajdHZ3hZdGx1Z3V3WnR4eFE3cmgzLWg2UUMxd1dXNURHNDlsUEJnNVRtR1k5RUxqcjk2aDJkOE95cE5HOGNtTDRlREk2YkZSNW4zcTI3X28wdkxKaWZGV3E0WWpRSmh4Z1pjRGl1Q19WMG9VRmQ4VEhWRlJGTDVTN1h1WUlra25ETnZQeUhmeUdoZVM1YWx4WHhLbVZHXzZHN3hfQk9pWWg0d3QwcWliZkQ1aXppbU1DR1hFSzRrVmRnTzhVRHVVWUt2RWRFMUdJZzFvT1NfNFByT3ktdmdKTmlWMmVPTWI3NG9nMWctZ3JvSlhN?oc=5",
-      "date": "2026-11-16T14:20:19+08:00"
+      "title": "〈美股早盤〉AI股又被砍！那指跌逾1% 輝達財報與Anthropic上市成焦點 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTm5pWUJkUlJqUWItX0pHVFh1cWo0NnFXSW0yOGltNmZabHAyR094OC14OHVMRVF4c191d3NxVGxiUm1vRzhEZVlhelBfT2RHLWF5bHVRZ2xEbi1lMVN2bUNkU2V2Q1dCWHlyRDNETEVoalVSMjNQRmtuRWhrdk9KMDdiWmVHck56eDl1QU5aUE54NDVhSFhsMWl5RDFjYTdmRDdpUWdhV1BfZHpIWmVCeHpQMWVxUG12Q20xNzZuMTd2ZEFrQ2JDR19qU2xlUXUtTzlrZGtFRklsbDlpTHYwb08teG5rNkZfdWUtTnV0MVJpQk1xVnJabVJGSkxQcXR6Q0FIdWlvRmtsSlM1YnQtcjBRbzczaEVMNGZKNVphNEw3aHg3NWxxb0VfTWhRd2Z1bkRYWGlnV2FZWllTWUZRQmtlZ2c3Zl9PM1pVUVNENUFqMTZVREF3b2VuTmFGZXRIcnN3eVRLZ0dEQ1ZUYnhpd3hrUnR3MTg?oc=5",
+      "date": "2026-11-16T22:41:57+08:00"
     },
     {
-      "title": "越南擬擴大免簽搶高消費客群 力拚全年吸引 2500 萬國際旅客 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNaFU5aWZjb0RvMkloWUdoQWM1bFQ3RXJnS2dETURaeENYam9XS0JTemhvZ0ZTempwQlNuT0o4UklWX3VybmU5YXQzVWVlRVU2X1JNRU9NaThnY0c3Ul9nZ21IVHlNdjVpaThHazh4X1RsdGRaUjI3Mlo2amRpWG02SUN2N29BTEdLV0R3RzFFUkZfeW1Rd3E2dmpLZWVJa2x1eng3MkoydHVoQmlacGtJampUVDlheHRrekJReHZQdVlsRGVIajJMSkFWZ09kNUhTRHhlSnY3Y2Y2RDl6UzFHSUNweThYd2FoRWVleXFrcC1FN0N1S01kNUhPTXQtYldqVHR3eFpXTUxCSTkyaEVzeVZmRTlBTDJudDNZMHBrcEtBUXpweWNBWm44VWltT3NHMWRtU3NsS2hJRnpWcVFrNjZ0cE92VWRodUhxQ1NhdVFxZDd3NE5senFkU25QajlkU3NYc2lHRF9hNWdVZ1pHTmhCU21QRDZVUzFyQzhvaXdCbkZV?oc=5",
-      "date": "2026-11-16T14:20:04+08:00"
+      "title": "黃仁勳風波延燒！美方堵中國繞道租輝達算力 五國晶片交易納管 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPN0hidkpSQWU3RGQxaWdNMndkbWZRNTBSWktkaHJlQTlETWNhbTlRX2gwVDBzTzVXLVFOalV0aUVockJnSXZXRXJKc0tzRllXaUZ0a2xLblUtWHRFTVBRcDJQdGpIWGxfY25pTl8wQ2FMQnJpdGNuVExVaElyUzczYXRYT0dva3FQT3o0Wllpa19yQkwxM1RpTi1fNGRsczE3SEVFNGdWOGJBZ3ZCRzRwMzA2TEREYk9Ua2N5cmdHeDRKTlZhY1RHMjNuUWIwU284bTNXN1pfVmg1TVltV3h3Z09GZmxIUy1ZZGdDUk9XMEtvTTd4LXo5M3JzbTBsU3JDWjF3c1FMU3lZcU1zTzJoeVRVZUpNWWFQRnB5VmZUSHpxTS0tN19SSnhXREtCV1Y4TDg2VnJXc295MlJUSHdXNHJycS1CaEJrcVR4NkZGbVIzbmFVU3l2QVZyOGwyRU9sc1ZDYmFtVFoxWmVTblJzTXlleXZ4Q2ZLaGR1eEFUY29meHlMWkZrSXpnSmkzWXhGV1dVcW16d1MySHZYMHZXZEpB?oc=5",
+      "date": "2026-11-16T21:56:40+08:00"
     },
     {
-      "title": "特斯拉Cybercab不到3萬美元？開放私人訂購 自駕訂閱制藏成本 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOSEtrbGNxLWRhMHQ3ajgyaGdKTVpVdUswQ183OVVramdhWVAtZFRhcVZmOENlTlJsd3pDOWQyZnNfZ1VfNm1DcHA4d2xOWkJxZHBkSmxYaExiMGIyZWZIZFNUV0R0REpiYmp6ZkdfRm1pc0w0d1NFVzdUaGFxaVdONlE1ZE8tMzNaZl82R0REcUl2aGRCcTdWWjdzUktydVdXc0VqdDBtVnBrRTY2b0gyOWVMRTAzRkthR0tWN0tudjNDZWVGbDhkMmZfRUs3bmw1bmhRdzRyUUdSY1RIdmh6dGQwODFwdlJrWlh3TlI1REsxWm1SOGtzdlhrUE95YUplZ2d3dm5uY2thVVdNdl95bTV2UVJXMFpyeHlIQ3RGTGFjeEtCSExZTHJiSVI3MG45bThVbkFyWUF0MkRqSC1nR2U1a3JXRV9kSlF0VGk2R0RjN3l2SFhVSUE3TXhMX3BreHVOR0xFQlkxQTZQUWxyV01n?oc=5",
-      "date": "2026-11-16T14:18:53+08:00"
+      "title": "輝達跌落神壇還能翻身？摩根大通策略師看好複製微軟、蘋果復甦之路 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNczhYZEhPclljLXd2WGtFeVV2OFZoQjFhTnRRVFVWNW1qbi1NT3gxdnp2cENCNXNjRk9xT1p2Wm5yZWZfLVh5dk1mbFVsdGVMZ1JFUENCZURta2J4OFRGUWN4TEFyRnRaclRzSU1hRWoyRndkUE5TaS1pOHBPV2o3UDRvLXJQeGFQLWdxclM5MV9BcGNVbTREWHFkNHV4NjUtbEtiWW1pRVZBS1ctVnViZ3BXRG90dERSYlA1OXNRbmxKdUJqUzNOLTdpNktMLTZoR2NmMEtnRXlrVnl2bk1MOHdRaTZfVnAyTzVQVkpMZXhGZ0t6MUlSVEtVN1JENmJDMmxqS09xbjluN2lNa2xpNE9FbUlqTW4xUUgwLTJQaFg5Sm1lSXRoY21JT1pKNG9KNFc5NTc5TWNCUUhGSl9vXzl2NHF5NDEza3Q5R3lGSXNpUEdPRFlkejZMWENNd2k2d2dxd01rSkpUcWI4NUpZM21jQmJTbjh0eDhHaHd0VmxXMzhBZzNYaEp3SE95SFhBYjFhcnFFSDdMam40TUQ5ZHdUbzQ0WG9fNEhCSnpiM0JTQmxYYl9yNmFR?oc=5",
+      "date": "2026-11-16T21:30:19+08:00"
     }
   ],
-  "updatedAt": "2026-11-16T14:24:12.764719+08:00",
-  "recommendation": {
-    "date": "2026-11-16",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
-    "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
-    ],
-    "support": [
-      {
-        "price": 1055.0,
-        "source": "近 20 日最低收盤價"
-      }
-    ],
-    "resistance": [
-      {
-        "price": 1361.25,
-        "source": "MA20（近 20 日收盤均價）"
-      },
-      {
-        "price": 1640.0,
-        "source": "近 20 日最高收盤價"
-      }
-    ],
-    "volumeRatio": 1.4794
-  }
+  "updatedAt": "2026-11-17T00:10:09.954713+08:00"
 }
