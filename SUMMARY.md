@@ -48,10 +48,10 @@ gh run watch RUN_ID --exit-status
 
 workflow 已設定台北 14:30／06:00 與 workflow_dispatch；資料抓取、檢查、commit 和 Pages 部署放在同一流程，避免 bot commit 不再觸發部署。啟用成功後需刪除 README 的待授權註記、更新本摘要，才可改寫 DONE 為 done。
 
-前端參考 modern-web-guidance 的 responsive-design 指引：標題以 rem 搭配 clamp 調整，頁面使用 dvh，避免手機瀏覽器工具列造成高度問題。指引原文："Use dynamic viewport units (`dvh`, `dvw`) instead of `vh`/`vw`"。
+前端參考 modern-web-guidance 的 responsive-design 與 card 指引：標題以 rem 搭配 clamp 調整，頁面使用 dvh，避免手機瀏覽器工具列造成高度問題（"Use dynamic viewport units (`dvh`, `dvw`) instead of `vh`/`vw`"）；股票卡片以 `<article class="stock-card">` 為根節點，標題連結設 `.card-link` 並以 `::after` 鋪滿點擊區域（"use `<article>` as the card root, whether or not it links to a destination"）。
 
 ## 2026-11-16 再次派單檢查
 
 - `gh auth status` 仍只有 `gist`、`read:org`、`repo` scopes；本機無 SSH 金鑰或其他憑證。
-- 再次 `git push origin main` 仍被拒：`refusing to allow an OAuth App to create or update workflow .github/workflows/update.yml without workflow scope`。
+- 再次推送含 `.github/workflows/update.yml` 的 commit 仍被拒：`refusing to allow an OAuth App to create or update workflow .github/workflows/update.yml without workflow scope`。
 - 結論：需擁有者在互動終端機執行 `gh auth refresh -h github.com -s workflow` 完成瀏覽器授權後，依上方步驟接續；在此之前無法完成「手動跑一次 workflow」驗收。
