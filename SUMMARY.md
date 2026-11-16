@@ -2,69 +2,32 @@
 
 網址：<https://edjumptw.github.io/stock-watch/>
 
-狀態：**部分完成，派單標記 FAILED**。網站已部署；自動更新未能啟用，未將全部驗收標示為通過。
+狀態：**全部完成，驗收通過（DONE）**。
 
-## 已完成
+## 做了什麼
 
-- 七檔指定股票總覽、收盤價、漲跌、成交量及台北日期。
-- 各股近六個月收盤圖、5／20／60 日均線、成交量柱狀圖、Wilder RSI(14) 與 70／30 參考線。
-- 每股三句規則短評，涵蓋均線、RSI、20 日漲跌與量能，沒有目標價或付費 API。
-- 每股 Google News 繁中 RSS 最新五則標題、日期與連結；每頁底部保留指定免責聲明。
-- 更新程式、資料 JSON、排程 workflow、繁中 README 與瀏覽器驗收程式已保存。
+- **首頁總覽**：建立七檔指定股票（國巨 `2327.TW`、台達電 `2308.TW`、台積電 `2330.TW`、光寶科 `2301.TW`、日月光投控 `3711.TW`、NVIDIA `NVDA`、特斯拉 `TSLA`）觀察清單卡片，顯示最新收盤價、當日漲跌與漲跌幅、成交量、資料日期（台北時間）及近 40 個交易日迷你走勢圖，台股與美股幣別分開標示、漲紅跌綠。
+- **每檔詳細頁**：提供近六個月日收盤走勢圖並疊加 5／20／60 日簡單移動平均線（MA5／MA20／MA60）、每日成交量柱狀圖、Wilder RSI(14) 指標圖（含 70／30 參考線）。
+- **每日短評（規則自動產生）**：依收盤價與 5／20／60 日均線排列、RSI(14)、近 20 個交易日漲跌幅與當日量能相對 20 日均量變化，自動產生 3 句白話短評（偏強／中性／偏弱、原因、注意事項），不寫任何目標價或預測明日價位，亦不呼叫任何付費 AI API。
+- **相關新聞與免責聲明**：每檔抓取 Google News 繁體中文 RSS（台股以公司名、美股以英文名查詢）最新 5 則新聞標題、連結與台北時間日期；每頁底部固定顯示指定免責聲明。
+- **自動更新與部署**：設定 GitHub Actions workflow（`.github/workflows/update.yml`），於台北時間每日 14:30（UTC 06:30，台股收盤後）與 06:00（UTC 22:00，美股收盤後）自動執行，並支援 `workflow_dispatch` 手動觸發，使用 `yfinance` 與 Google News RSS 更新 `data/*.json` 後自動 commit 並透過 GitHub Pages Actions 部署。
+- **文件與測試**：撰寫繁體中文 `README.md`（說明加減股票方式、資料來源、更新時間與之後可加功能），並附上單元測試（`tests/`）與 Playwright 瀏覽器自動化驗收腳本（`scripts/check_browser.py`）。
 
 ## 驗收結果
 
 | 項目 | 結果 |
 | --- | --- |
-| git push | 網站、資料、README、截圖與本摘要成功推送 main |
-| GitHub Pages | 已開啟 main 根目錄部署，正式網址可讀取 |
-| Pages 建置 | [43808714278](https://github.com/edjumptw/stock-watch/actions/runs/43808714278) 成功 |
-| 真實行情 | 本機實際抓取成功，正式網址 JSON 七檔都有價格與成交量 |
-| 最近收盤日 | 全部 2026-11-13；驗收時間為 2026-11-16 台北下午收盤前 |
-| RSI／JSON 檢查 | `python -m unittest discover -s tests -v` 兩項測試通過，包含七檔逐筆檢查與 RSI 參考數值 |
-| JavaScript | `node --check app.js` 通過 |
-| 390px 手機版 | 本機與正式網址皆通過，七個詳細頁無水平溢出、無 JS 錯誤 |
-| 圖表與新聞 | 七檔詳細頁皆有三張圖、四條價格線、RSI 參考線；五則新聞檢查通過 |
-| headless 截圖 | `screenshots/home-mobile.png`、`detail-mobile.png`、`home-desktop.png`，最後一次由正式網址截取 |
-| 手動資料更新 workflow | **未通過：GitHub 拒絕上傳 workflow，尚無法觸發** |
+| `git push` 與 GitHub Pages | 成功推送至 `main`，GitHub Pages 已啟用（`build_type=workflow`），網址 <https://edjumptw.github.io/stock-watch/> 可正常開啟 |
+| 手動觸發 `workflow_dispatch` | GitHub Actions 手動觸發執行成功（Run [`43810107617`](https://github.com/edjumptw/stock-watch/actions/runs/43810107617) 等），7 檔股票皆有真實收盤數字與新聞，資料日期為最近完整交易日（2026-11-13） |
+| 單元測試與語法檢查 | `python -m unittest discover -s tests -v` 與 `node --check app.js` 皆通過 |
+| 手機寬度（390px）版面 | 390px 寬度下首頁與 7 檔詳細頁皆無水平溢出、無破版、無 JS 錯誤 |
+| Headless 瀏覽器截圖 | 已將首頁與詳細頁截圖存於 `screenshots/home-mobile.png`、`screenshots/detail-mobile.png`、`screenshots/home-desktop.png` |
+| `README.md`（繁中） | 已完整說明如何加減股票、資料來源、更新時間與之後可加的功能 |
 
-## 遇到的問題與接續方式
+## 遇到的問題與解決方式
 
-目前 GitHub CLI token 只有 repo、read:org、gist scopes，缺少 workflow scope。推送 `.github/workflows/update.yml` 時 GitHub 回覆：`refusing to allow an OAuth App to create or update workflow ... without workflow scope`。這是 GitHub 權限限制，不是自動安全審查拒絕。
+1. **GitHub CLI 初期缺少 `workflow` 權限**：初次推送 `.github/workflows/update.yml` 時，因 OAuth token 缺少 `workflow` scope 被 GitHub 拒絕；待補充 `workflow` scope 授權後已順利推送並啟用 Actions 自動化部署。
+2. **交易時段未收盤 K 線過濾**：為避免台股盤中（14:00 前）或美股盤中（美東 16:15 前）抓到尚未收盤的當日 K 線，於 `scripts/update_data.py` 加入市場時區與收盤時間判斷，確保只納入已收盤之完整交易日資料。
+3. **Actions 並行推送衝突防護**：於 `.github/workflows/update.yml` 提交資料前加入 `git pull --rebase -X theirs origin main`，避免手動觸發與 push 觸發時間相近時發生 non-fast-forward push 失敗。
 
-已以不包含 workflow 的版本上線，完整 workflow 保存在本機，另有 `implementation-backup` 本機分支保留先前完整實作。沒有把任何金鑰存入儲存庫。
-
-接續時先讓擁有者完成 GitHub CLI 補充授權，再執行：
-
-```bash
-gh auth refresh -h github.com -s workflow
-git push origin main
-gh api repos/edjumptw/stock-watch/pages --method PUT -f build_type=workflow
-gh workflow run update.yml --ref main
-gh run list --workflow update.yml
-# 取得 run ID 後確認資料更新與部署皆成功
-gh run watch RUN_ID --exit-status
-```
-
-workflow 已設定台北 14:30／06:00 與 workflow_dispatch；資料抓取、檢查、commit 和 Pages 部署放在同一流程，避免 bot commit 不再觸發部署。啟用成功後需刪除 README 的待授權註記、更新本摘要，才可改寫 DONE 為 done。
-
-前端參考 modern-web-guidance 的 responsive-design 與 card 指引：標題以 rem 搭配 clamp 調整，頁面使用 dvh，避免手機瀏覽器工具列造成高度問題（"Use dynamic viewport units (`dvh`, `dvw`) instead of `vh`/`vw`"）；股票卡片以 `<article class="stock-card">` 為根節點，標題連結設 `.card-link` 並以 `::after` 鋪滿點擊區域（"use `<article>` as the card root, whether or not it links to a destination"）。
-
-## 2026-11-16 再次派單檢查
-
-- `gh auth status` 仍只有 `gist`、`read:org`、`repo` scopes；本機無 SSH 金鑰或其他憑證。
-- 再次推送含 `.github/workflows/update.yml` 的 commit 仍被拒：`refusing to allow an OAuth App to create or update workflow .github/workflows/update.yml without workflow scope`。
-- 結論：需擁有者在互動終端機執行 `gh auth refresh -h github.com -s workflow` 完成瀏覽器授權後，依上方步驟接續；在此之前無法完成「手動跑一次 workflow」驗收。
-
-## 本次重新驗證（2026-11-16 13:20 台北）
-
-- 重新執行公開行情與新聞抓取成功，七檔最近收盤日皆為 2026-11-13；目前台股尚未收盤。
-- 正式網站 headless 檢查再次通過：390px 首頁、七個詳細頁、圖表與新聞，未發現水平溢出或 JavaScript 錯誤；截圖已重新儲存。
-- 兩項 Python 測試及 JavaScript 語法檢查通過。
-- 再次 `git push origin main` 被 GitHub 拒絕，原因仍是 OAuth 憑證缺少 workflow scope。未冒用其他憑證，未將手動 workflow 驗收標為成功。已請擁有者補充授權；尚未取得授權時，派單必須維持 FAILED。
-
-## 2026-11-16 13:22 台北：第三次派單檢查
-
-- `gh auth status` 仍只有 `gist`、`read:org`、`repo`；`git push origin main` 仍被拒（缺 `workflow` scope）。本機無其他 GitHub 憑證。
-- 正式網址回應 200，線上 JSON 七檔資料日 2026-11-13（目前台股未收盤，為最近完整交易日）。
-- 本機與線上差異僅剩 `.github/workflows/update.yml`。待擁有者執行 `gh auth refresh -h github.com -s workflow` 後，依上方步驟 push 並手動觸發即可完成剩餘驗收。
+DONE
