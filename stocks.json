@@ -1,0 +1,44 @@
+[
+  {
+    "symbol": "2327.TW",
+    "name": "國巨",
+    "query": "國巨",
+    "currency": "TWD"
+  },
+  {
+    "symbol": "2308.TW",
+    "name": "台達電",
+    "query": "台達電",
+    "currency": "TWD"
+  },
+  {
+    "symbol": "2330.TW",
+    "name": "台積電",
+    "query": "台積電",
+    "currency": "TWD"
+  },
+  {
+    "symbol": "2301.TW",
+    "name": "光寶科",
+    "query": "光寶科",
+    "currency": "TWD"
+  },
+  {
+    "symbol": "3711.TW",
+    "name": "日月光投控",
+    "query": "日月光投控",
+    "currency": "TWD"
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA",
+    "query": "NVIDIA",
+    "currency": "USD"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "特斯拉",
+    "query": "Tesla",
+    "currency": "USD"
+  }
+]
