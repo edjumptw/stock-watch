@@ -82,3 +82,13 @@ node tests/test_worker.mjs
 ```
 
 使用既有 workers.dev 子網域，不新增付費資源。若更換 Worker 網址，須一併修改 `app.js` 的 `QUOTE_URL` 並推送部署 GitHub Pages。加減股票時，也必須同步調整 Worker 的 `SYMBOLS` 白名單。憑證只由 wrangler 存於本機設定，**不得提交 token、cookie 或金鑰**。本機 localhost 不在允許來源，會正常顯示收盤回退；完整報價驗證請使用正式 Pages 來源。
+
+v1.1 瀏覽器驗收（需 Playwright；會讀取真正 Worker 並保存首頁、詳細頁及回退畫面）：
+
+```bash
+.venv/bin/python scripts/check_quotes.py
+# 尚未發布時，以正式來源載入本機檔案、連線真正 Worker
+LOCAL_SITE=1 .venv/bin/python scripts/check_quotes.py
+```
+
+驗收包含七檔報價、拒絕非允許來源／任意代號、七檔縱軸範圍、390px 與桌面截圖，以及模擬失敗／部分／無效回應的回退；模擬資料不會寫入正式股價 JSON。
