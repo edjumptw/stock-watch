@@ -27,7 +27,9 @@ jobs:
           python-version: '3.12'
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python scripts/update_data.py
+      - name: Refresh closing data (scheduled or manual)
+        if: github.event_name != 'push'
+        run: python scripts/update_data.py
       - run: python -m unittest discover -s tests -v
       - name: Commit fresh data
         run: |

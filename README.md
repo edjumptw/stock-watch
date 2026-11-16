@@ -16,7 +16,7 @@
 
 GitHub Actions 每日台北 **14:30**（UTC 06:30）與 **06:00**（UTC 前日 22:00）執行。兩次皆更新全清單；週末、休市時保留最近交易日。排程可能因 GitHub 排隊而延後，美股遇夏令時間也固定於台北 06:00 更新。
 
-至儲存庫 Actions → **Update market data and deploy** → **Run workflow** 可手動觸發。流程抓資料、驗證、commit `data/*.json`，再透過官方 Pages Actions 部署。由於 bot commit 不會再觸發一般 push workflow，部署與更新放在同一流程內。
+至儲存庫 Actions → **Update market data and deploy** → **Run workflow** 可手動觸發。排程與手動流程抓資料、驗證、commit `data/*.json`，再透過官方 Pages Actions 部署。程式碼 push 只驗證並部署既有收盤資料，不因行情來源暫時失敗而擋住介面更新；修改股票清單後仍須手動執行更新。由於 bot commit 不會再觸發一般 push workflow，部署與更新放在同一流程內。
 
 任何一檔抓取失敗會重試，三次仍失敗則停止，不發布不完整資料；既有網站保持上次成功內容，首頁顯示更新時間。資料來源可能延遲、修正或限流，應以交易所與公司公告為準。
 
