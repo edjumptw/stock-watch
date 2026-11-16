@@ -62,4 +62,8 @@ v1.2 的「下一步建議」由 `scripts/recommendation.py` 使用已完成交�
 - 額外於正式站注入不同的顯示報價，確認七檔建議文字完全不變；七檔價格圖縱軸仍包住全部收盤／均線資料且不從零開始。
 - modern-web-guidance 的 `card` 指引檢查：保留 article、標題原生連結與單一延伸點擊區；新建議區沒有新增互動控制，內容依閱讀順序排列。
 
+## 完成通知
+
+已執行 `reason network send wosiinmo/terminal "v1.2 完成"`，但 Reason 回覆 `no session called wosiinmo/terminal`；`reason network who` 也未列出該接收端。因此網站交付已完成，完成訊息由本次任務最終回覆回傳。交付文件與正式站截圖 commit：`fd48d2b`。
+
 DONE
