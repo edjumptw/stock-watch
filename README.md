@@ -2,6 +2,8 @@
 
 網址：<https://edjumptw.github.io/stock-watch/>
 
+> 交付狀態：網站已上線並通過驗收；自動更新 workflow 已存於本機，但目前 GitHub CLI 缺少 `workflow` scope，尚無法推上遠端。現在 Pages 使用 main 分支部署；以下 Actions 說明為已備妥、待授權啟用的流程。詳見 SUMMARY.md。
+
 追蹤國巨、台達電、台積電、光寶科、日月光投控、NVIDIA、特斯拉。首頁提供收盤價、當日漲跌、成交量與台北日期；點選卡片可看近六個月收盤走勢、5／20／60 日均線、成交量、RSI(14)、每日短評及五則新聞。漲紅跌綠，台幣與美元分開標示。
 
 ## 資料來源與計算
@@ -49,3 +51,17 @@ python3 -m http.server 8765
 - 有需要再另案討論推播、登入及券商串接；本版不含這些功能，也不下單。
 
 本頁為個人參考資料，非投資建議；技術指標與短評由程式依公開資料自動產生，不代表未來走勢。
+
+瀏覽器驗收需另外安裝 Playwright，不是網站執行依賴：
+
+```bash
+.venv/bin/pip install playwright
+.venv/bin/playwright install chromium
+python3 -m http.server 8765
+# 另開終端機
+.venv/bin/python scripts/check_browser.py
+# 或驗正式網址
+SITE_URL=https://edjumptw.github.io/stock-watch/ .venv/bin/python scripts/check_browser.py
+```
+
+驗收程式會檢查七檔卡片、七個詳細頁、圖表資料集、五則新聞、390px 無溢出及瀏覽器錯誤，並儲存手機與桌面截圖。
