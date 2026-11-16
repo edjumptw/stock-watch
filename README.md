@@ -40,7 +40,7 @@ python3 -m venv .venv
 python3 -m http.server 8765
 ```
 
-開啟 <http://localhost:8765>。圖表使用本地附帶的 Chart.js 4.4.8（MIT），瀏覽端只讀靜態 JSON，不需要跨站呼叫行情 API。驗收截圖放在 `screenshots/`。
+開啟 <http://localhost:8765>。圖表使用本地附帶的 Chart.js 4.4.8（MIT），歷史資料讀取靜態 JSON，v1.1 最新報價透過下方 Worker 讀取。驗收截圖放在 `screenshots/`。
 
 ## 之後可加
 
@@ -63,3 +63,22 @@ SITE_URL=https://edjumptw.github.io/stock-watch/ .venv/bin/python scripts/check_
 ```
 
 驗收程式會檢查七檔卡片、七個詳細頁、圖表資料集、五則新聞、390px 無溢出及瀏覽器錯誤，並儲存手機與桌面截圖。
+
+## v1.1 盤中報價 Worker
+
+前端每 60 秒（頁面可見時）讀取 <https://stock-watch-quotes.jumpbotofficejumpbotoffice.workers.dev/quotes>；回到頁面會重讀。最新報價來自 Yahoo Finance，**可能延遲**，每檔顯示供應端報價時間（台北），休市時可能是最近交易日。報價相對前一交易日收盤計算漲跌；首頁漲跌檔數依目前顯示數字計算。歷史圖、迷你線圖、均線、RSI、短評維持收盤資料；卡片的技術強弱標籤也是收盤判斷。
+
+Worker 程式碼與部署設定位於 `worker/`，僅提供固定七檔的 `GET /quotes`，不接受任意股票或上游 URL。只接受 `Origin: https://edjumptw.github.io`，包含缺少 Origin 的請求也會拒絕。CORS 限制瀏覽器來源，並非登入驗證；非瀏覽器客戶端可以偽造 Origin。成功回應在 Cloudflare 各資料中心快取 45 秒（不共用全球快取），沒有 KV、D1 或其他 Cloudflare 資源。未啟用付費方案，仍受帳號免費額度限制；上游限流或 Worker 額度耗盡時會回退。
+
+請求超過 10 秒、來源失敗、格式錯誤或缺少個股時，對應卡片退回收盤 JSON 並標示狀態；不保留失敗前的盤中價。報價時間超過七天則視為不可用。價格縱軸根據四條價格／均線的有限值，取上下界並加留白，不強迫從零開始；成交量由零開始、RSI 固定 0–100。
+
+重新部署（使用目前免費帳號，無須購買網域）：
+
+```bash
+npx wrangler@4.162.0 whoami
+# 若尚未登入，於本機執行 npx wrangler@4.162.0 login
+npx wrangler@4.162.0 deploy --config worker/wrangler.jsonc
+node tests/test_worker.mjs
+```
+
+使用既有 workers.dev 子網域，不新增付費資源。若更換 Worker 網址，須一併修改 `app.js` 的 `QUOTE_URL` 並推送部署 GitHub Pages。加減股票時，也必須同步調整 Worker 的 `SYMBOLS` 白名單。憑證只由 wrangler 存於本機設定，**不得提交 token、cookie 或金鑰**。本機 localhost 不在允許來源，會正常顯示收盤回退；完整報價驗證請使用正式 Pages 來源。

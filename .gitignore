@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 dispatch_out.log
+
+node_modules/
+.wrangler/
