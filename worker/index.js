@@ -31,7 +31,7 @@ export default {
       return quote;
     }));
     const quotes = results.filter(r => r.status === 'fulfilled').map(r => r.value);
-    if (!quotes.length) return reply({error: 'Quotes unavailable', reasons: results.map(r => r.reason?.message)}, 502);
+    if (!quotes.length) return reply({error: 'Quotes unavailable', diagnostics: {twse: diagnostics}, reasons: results.map(r => r.reason?.message)}, 502);
     const body = JSON.stringify({source: 'TWSE / Yahoo Finance', fetchedAt: new Date().toISOString(), diagnostics: {twse: diagnostics}, quotes});
     ctx.waitUntil(caches.default.put(key, new Response(body, {headers: {'Cache-Control': diagnostics.missingSymbols.length ? 'public, max-age=5' : 'public, max-age=20', 'Content-Type': 'application/json'}})));
     return new Response(body, {headers: {...cors, 'Cache-Control': 'no-store', 'X-Quote-Cache': 'MISS'}});

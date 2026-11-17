@@ -73,3 +73,18 @@ globalThis.fetch=async url=>{
 };
 assert.equal((await fetchTaiwan()).size,5);
 console.log('PASS: retry recovery after timeout/429/invalid response; retain partial successes');
+cache=undefined;
+globalThis.fetch=async url=>new URL(url).hostname==='mis.twse.com.tw'
+ ? Response.json({rtcode:'0000',msgArray:twRows})
+ : Response.json({chart:{result:[{meta:{regularMarketPrice:100,chartPreviousClose:80,regularMarketTime:Date.now()/1000,currency:'USD'}}]}});
+const healthy=await (await worker.fetch(req(),{},ctx)).json();await Promise.all(waits);
+assert.equal(healthy.quotes.filter(q=>q.source==='TWSE').length,5);
+assert.equal(cache.headers.get('Cache-Control'),'public, max-age=20');
+cache=undefined;
+const healthyFetch=globalThis.fetch;
+globalThis.fetch=async url=>new URL(url).hostname==='mis.twse.com.tw'?new Response('',{status:429}):healthyFetch(url);
+const fallback=await (await worker.fetch(req(),{},ctx)).json();await Promise.all(waits);
+assert.equal(cache.headers.get('Cache-Control'),'public, max-age=5');
+assert.equal(fallback.diagnostics.twse.attempts.length,2);
+assert.match(fallback.quotes.find(q=>q.symbol==='2330.TW').fallbackReason,/429/);
+console.log('PASS: healthy cache 20s, fallback cache 5s and per-symbol diagnostic reason');
