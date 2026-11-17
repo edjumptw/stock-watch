@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 2170.0,
-  "change": -45.0,
-  "changePct": -2.0316,
-  "volume": 59782612,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 2215.0,
+  "change": -135.0,
+  "changePct": -5.7447,
+  "volume": 44330597,
   "bias": "偏弱",
-  "performance20": -10.33,
-  "volumeRatio": 1.85,
+  "performance20": -8.47,
+  "volumeRatio": 1.4,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-16",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2322.75,
+        "price": 2335.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2409.1667,
+        "price": 2412.1667,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.8509
+    "volumeRatio": 1.396
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -10.33%。",
-    "本日成交量為前 20 日均量的 1.85 倍，交易較熱絡。",
-    "RSI(14) 為 36.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -8.47%。",
+    "本日成交量為前 20 日均量的 1.40 倍，交易較熱絡。",
+    "RSI(14) 為 38.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,43 +1168,34 @@
       "ma5": 2317.0,
       "ma20": 2335.25,
       "ma60": 2412.1667
-    },
-    {
-      "date": "2026-11-17",
-      "close": 2170.0,
-      "volume": 59782612,
-      "rsi": 36.14,
-      "ma5": 2294.0,
-      "ma20": 2322.75,
-      "ma60": 2409.1667
     }
   ],
   "news": [
     {
-      "title": "傳奇投資人家族大砍台積電持股94％ 科技股逃命波？ - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03T0drZ2hibEdtREpXY05UWVlLYWtEajRLRWJibkVnc3l6NXppMXUtcEh5Tmlqa19VUEZ5NUY1clg0S0hyR3g1LVd6V0x3X2t4V2RHR2twNnB4cnBMM2Fv0gFkQVVfeXFMTlhZWnpRRE04d05sRkQxdjNmZ0w3Y0puUmdkTTk3MTd2SmRRWFY1Nlk3a0c5cEVlZEo4S1Z1YlZROE96M2FKQ0J4TDBnNGo5U2JER2xFV0huektScUVSUUc0SWhZYg?oc=5",
-      "date": "2026-11-17T18:05:23+08:00"
+      "title": "2330 台積電 - 黃仁勳打破沉默：董事會若同意，我願回任CEO - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVV1pibFdhX0plWjRXY3g1ZUIwZkFibmJmbmtWM0tlSXFaSHE4ZnNrSkVPaVFmNS0zaFFhOWp0dlp0M21ocEN5a3hsVE1QaUcxRkRYUUNEbDM?oc=5",
+      "date": "2026-11-18T03:11:15+08:00"
     },
     {
-      "title": "2330 台積電 - 【美股盤前】輝達今晚財報出爐，AI供應鏈押注還是逃命？（2026.11.17） - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OXJCWV9YS3otYTFmcVFNLXB4d2FNTGpZRmVvcjFYdDhkVjJLcVZkeUpvZThtRktXRzZHR0JiTGZOMjFMRHFQRDAxQ1N6OE5qOUd0aExUTDQ?oc=5",
-      "date": "2026-11-17T18:03:11+08:00"
+      "title": "台積電擁技術優勢 外資力挺重申3,260元目標價 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jRmJOOENfWG12czhydDlmSHhkNFdkVDYzbUxnZ3lud0c0SlpmZVZ6TWhIaGxVNGpBR3lZSF96eURqQ1JRSnA0U0dmczByYjU3UVJUcElR0gFWQVVfeXFMTzdsTkpBdmM5WW1BX2pJNTRBSUZjb0VKa2JkR0NLbUMtdC1Od0Q0RERkSy1LUUk0dnVmendSMnR3YnVEWVpxN090cGVSQVlFblpUTjhtekE?oc=5",
+      "date": "2026-11-18T02:50:40+08:00"
     },
     {
-      "title": "2026年台積電優良供應商名單出列 健策、萬潤連續上榜 和碩、台灣紙業今年首度上榜 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOY3pxX1ZRRmhWOVJnS1pmQWllSXoyNC1lcXZBX3ZvYUFSYXhTUFRkNnkwYVMtRXNrQjBqVV9hWGVWMUxtN3IxVGZMcEUyWjl3YnR1MDhLSG1ER2NpUlU4RXY4MnBsOVFXeGJPQmY5ckJtX1QtdUlxWmhZWk1MNk85U0dOYk4xSUNET1BIZ2JPQ2hhenNtSUhGQnRpdmZQQjluS1lZU0JrME5ONlRqajhTc2ZzQklpSkpyY1Bjal9ER0h3VU91aFRTWXBoVFY2aGJBTVRKNTBKMl9qT3RiRTk2SEttSmtFdFNDYnhDUXRhR3VZQWVSUV9vV1JJc3ZybWNwU3ZkcVpEZjFXSlBpSE9pMmZhT29TUjE5V2hOLWhiczI5elRHY2Z1M1JFcDVJd19NaTZGVlFYak1NME5MYnlKRjBFSmY0ekhRTl9XWk5UQ3FmVkRSSS1OV1BFMU9nUXd1dGlEeVhtakhGeDFnVGM2YlpGalV5NWpjSW9KdVU1LTFfY1U0Rm05M0MxcTdHLUJEU0ZuV29SRW1iZDlZT2JJS1k3bEMwNjFRNHVDV2hPNmlDamkwcU9Wa0ZWNmZPMnNaZHhuQ2R0QWtxRzk2QWpEa0xONTZOSDBod2NqY1JBNnN1QklPZnQxVDRn?oc=5",
-      "date": "2026-11-17T18:00:53+08:00"
+      "title": "2330 台積電 - 黃仁勳釋出回任意願- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VcGloWWI4RFVIdVdBR19wek5EQ20wOExQdWV5MUJoVjFlbE9PQUN1M2V1N2N2d3o1Uy14UUxJOGpKTjhhd3FwcUNiR3Z3aG44MVBVcUdUNHY?oc=5",
+      "date": "2026-11-18T00:42:01+08:00"
     },
     {
-      "title": "獨家／台積電最新回應！駭客公開260份HR檔案 下一個目標點名AMD - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNT2lOaUNpSXRGd2c3RGxMMjVhYWNrSklBTS1XVExxdkxQYWNWTHdaOUd1bDFzNHRNT2p3eUJyclhMTy1tZGR4T3NGOFlDX0NkZ0R3MnR1cTZ2STlWeFpMSy1BN3NqVlkzWWRLdDZSQ0x5ZzB2Nl9oT1FycDRUckwtUmNKRklhcmNWUmtsVWVuenV6eDdyZjRLLUY5N1JjNHV4TTRZaGJubHpnUVNJd2dVdUs3R3ZWbVdlNno4VEhmOE0yWE1DRHQ3aENwVnJrelV6YjhSREd0aXFETFRPUWExMTI3MFVZUEtTU0tZdUpPS3BZTVc3bW1POVNfMWU5NVhXR2IyWThyT3dEOENjSlozVlVPYWs0WFhWZEZwQzl4VkI?oc=5",
-      "date": "2026-11-17T17:56:15+08:00"
+      "title": "盤中速報 - 台積電ADR(TSM-US)大跌5.01%，報354.75美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zcVBJbGd5M2tUTWtNUUdheHQzQ3VfSmxWbHpMLTloaFZvUFlQbC1RUTZqLU5XN0djXzlKMUtlWXh2VDRQbE1YcGFmZWhwSEs4UnB5WkU0dUhNQ3RFSkhuTWxVcXM?oc=5",
+      "date": "2026-11-18T00:07:38+08:00"
     },
     {
-      "title": "台積電優良供應商數量創新高　10餘家台廠獲獎 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tdmtHR1MwVUdaMUxCMDZCLVRfUWUyVkNHSklueERNSzFxcENHQW9WR29HN2VyaDNFWGhtWWdfS0xVUjdfcU15Si1rSVRzY2Rvd3ZsZFlLRTR1UdIBX0FVX3lxTE93TlRhcUJQT0lQSUozVnpFejdwcnFjOFZkTG5oemJhYVowMk1HTXl4NFo0M2dfWlU4SDBoQWVTNUJNUWl3MUpldzJuS28yakNCdXJUSGZFRnpOZ3pHbXUw?oc=5",
-      "date": "2026-11-17T17:54:41+08:00"
+      "title": "【即時新聞】最新！美銀重申台積電買進評等，看好擴廠上看600億美元營收貢獻 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZk9tc0JaZTlodUgzSWJnOERpRU9PUElsOEFlRUx1Mjd4LVI5OER0YVJMRldvRUxscUdHMDdwNkFXd3FLb2FNMW5MYTJLbmdpOUVEVXN0SlZUR053eHVYek8wOW5qZ3V6bG95TXVNeFNlZjlBT21XUTJkSS1pYk9sZkgydGdHMUltY0k5OEZVNDU?oc=5",
+      "date": "2026-11-18T00:05:30+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T18:25:27.170361+08:00"
+  "updatedAt": "2026-11-18T03:48:20.411035+08:00"
 }

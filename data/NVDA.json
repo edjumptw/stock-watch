@@ -9,10 +9,10 @@
   "close": 156.13999938964844,
   "change": -6.71,
   "changePct": -4.1204,
-  "volume": 331405000,
+  "volume": 333822100,
   "bias": "偏弱",
   "performance20": -28.08,
-  "volumeRatio": 1.59,
+  "volumeRatio": 1.6,
   "recommendation": {
     "date": "2026-11-16",
     "action": "減碼",
@@ -37,11 +37,11 @@
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.5869
+    "volumeRatio": 1.5984
   },
   "commentary": [
     "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.08%。",
-    "本日成交量為前 20 日均量的 1.59 倍，交易較熱絡。",
+    "本日成交量為前 20 日均量的 1.60 倍，交易較熱絡。",
     "RSI(14) 為 22.7。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
@@ -1690,7 +1690,7 @@
       "low": 155.01,
       "date": "2026-11-16",
       "close": 156.14,
-      "volume": 331405000,
+      "volume": 333822100,
       "rsi": 22.72,
       "ma5": 165.56,
       "ma20": 195.641,
@@ -1699,30 +1699,30 @@
   ],
   "news": [
     {
-      "title": "美新法案擬加強AI監管！輝達急示警買家：逾半GPU租中國就不賣了 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lejRYcVJHZXRLWWRoOWl4Z2pnb0NDb0xZTThEOXB2M09iZ2pxMWtxdzZPQm5RZ1REZUphaWx5TnUzRFVxSE16N2EyU0hEZXc?oc=5",
-      "date": "2026-11-17T17:54:00+08:00"
+      "title": "Cisco執行長：AI產業超越個人；黃仁勳風波下NVIDIA接班與產品路線成市場焦點 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSS1fU0xiaUNEcWpfYTY2Rm1ITmZEcFc2OU9qTGk2aFVUa3J6eW9RT2Ezc1ZLWFUtM2pQVVJKOGtZamg5SGVCRTVyM21vT0dFRHdmMGJNSGgzaXZvYnNSekZoUE9tcG5NWlNLVE4tdmNGRTRHUWVUTlJSaHg3aWtJRDlkSFhLaHJ1Z0RfeGVn?oc=5",
+      "date": "2026-11-18T03:07:19+08:00"
     },
     {
-      "title": "Nvidia今夜放榜 黃仁勳接班安排成焦點 專家續看好技術優勢 一個價位以下考慮吸納 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOVWFaQ1lNR0VIV01hNlltV0I2dmw1ZnVjZlMwRlY0SmNDOFNVa3VZaEJzNFNTQkpYdjA4bmtlYndZZjZ3bTIydzROYlVoRjFoQlBKQmtpS29hbE9KV0pEMzNDT2dlbllUQm42el8wUUhneUozb3JSU3F3eUZJWmVCWTJ6OElXb3YyQmItMHJrX2N5ZUwydURXZGh0bTAxS0hzMjZVOHNiUERyTGI2YVlaaFBoNmpVMHd1SXQ5UkFkcTNTbjYyRS1Xd0JsTzFFSGZvMW5YS1FaRTRtS1VVclR1LWp4enhVN0pTU1NIMThzeXVoekxfeUNBbTJEekt4N1EwcGVDZ29ucFdGM19xUGZKWHp2dkJHRXUwaHAwSnkxMnlKSThsekJfdGJaa21DVXZBU2E3SzQtRmdPMkhYVFItcHdpdURaWjRRbklzbVRWNG4zSWpQTTg1WnRKR0UxNTU1NUVlSlVETzJVbTdES1luZWtrelIxVWd4eV9vZDA5VEtXcFZzUWpKQzVTVS1TRlhIYWZockdvXzdiOTl2OWxoX2dsRHcyZjZXX29jcW9KdVphZFlJMTNUamJYdWhTZHAwWEtBQmJEZGEyRVlWWWxHcWtoZkU5X0VQZmFPaGFLYmNoOGFnUGN3RVVwRmtNMHV5M3Izcw?oc=5",
-      "date": "2026-11-17T17:46:40+08:00"
+      "title": "中業者形容BIS祭出「NVIDIA新規」 750顆H100就踩線？ - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FYWRTUkFmNXIyZXVyRW4wajhQMG9GVDFzaXE1QXg4NElxdjQ2Vy1kZ1gxcFB6UDdjRE5XLUhLa09pbkJXMnI2bUhCQ25udlNwS1dXX09BOVJoR0xNd0pzOTNzWHVRdThvQTV3?oc=5",
+      "date": "2026-11-18T02:44:00+08:00"
     },
     {
-      "title": "黃仁勳去職牽動 AI 建設布局，輝達融資平台恐趨保守 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHdaekkwR0RydUs5aFc3YThzbGMyNkpBNjVjaV83UVI4SGE2MklNbUI2QXprQzNvNjA3ZjJSc0k3c0JwdDk5ajhNUjlpMW9kTUE0SjF4eDJ4X0IwQ1JKNDRyd0dTMW55OVN0aExadUpUTG94SkFoUUYtQkFlblJDS1RKZEVreTFNRmJrNmtrNEduZw?oc=5",
-      "date": "2026-11-17T17:35:58+08:00"
+      "title": "黃仁勳：若董事會同意願「光榮回歸」NVIDIA 外遇風暴已蒸發逾7千億美元市值 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUxWZUo0V2UxUXJxa0QtUElhOXFyakNWcEdNSUEyUkNHdk1aNzk5Yk9oa2FXa3FUd0VUUmFKYlQ4cVlkeTNqYW1uZ2xUTmZLZV9OMDV6ZUJmREpEcUZ4bkhreFQzMmRVSFdqVVdaMlk2Z2J1XzRwb3dOc3cxSzlqNF9hX2RGT3prZ1BQcU5R?oc=5",
+      "date": "2026-11-18T02:40:05+08:00"
     },
     {
-      "title": "【Nvidia】黃仁勳辭職前數月、神準轉讓百億美元股份予家族信託 完美避過遺產稅 - 香港經濟日報HKET",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOQXA4YmU3MnVDUjI1bHhvUzZJdUo5WEIybzFnMGdRU3pWcC1lWThZNGxTVThtdkdVeGxRc3RvcWhTNndRaXhzSnNqQ3lnaDR6SWZrZmlnRjVzQV9mQ3ZYUzlaRk5KM3Q2SUFxQ3k5eXprQ002WDdLbkJxNFNVa0lIc3hORDRNYUlLemFWSy1HWkZpbUIya1JodFNpZ1NDcUFvdW40Vi00VnhiVHpjSXF6eV85SExMa2w3aWd0MmtzZFFKZTUtN0F4ZkJHckYzTnc0QXN6N0dNa0g0SS1wMnJXNV9iaGNxSWI2M1dYTGR0WGdEVlM1S0FObjl2RldSMDZHQlRLbUM4b0s3WUhSWDlTS3BtOXhWRmpQQXRzTy1WUW5HMXJaTWRqWG1DeDhmeVpraEpRRE9ZRUttcGlsWlJNX2pxSFNpdzJyczd6dm5NN092Ymsta0dRS1pseWZPVjVxSW5PZlR2ZlViS2FpdlhjSmNtdWgzcnFMcFExT0RkYV83d3k4ZnBiWFA5ajJHU1NDRktfLUZ0ZXMwbXVIUEdob2YwZGZCYnVGZm5FdUIwNkVUaldmek5jWVA2NmJhRWp3V0JFSTJzM29yeENGWFY4WXpUV2xGUVdwbldqOFoyamFITnVQalk5R0xuSzJ0UV90?oc=5",
-      "date": "2026-11-17T17:23:44+08:00"
+      "title": "黃仁勳辭後首發聲：若董事會允許「榮幸」重返NVIDIA執行長，引爆支援與疑慮交鋒 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFhpTDVLNnJGRHNDWENFRG40N2hsRlBFaHlnb1ExY2FhQXN6UnotUnU5aXY5Sm1LSmd3T2V5aUxuQ3F0TWtkX1JmMS1ZWlp1bXdhbGFvTE83UTk1cEhqQTZWNHhCNHVzWG5QOUJWMzUzOThhOXNTcFlDRUllSkJMQ3g1SDVwTmdXb01NZWl3?oc=5",
+      "date": "2026-11-18T02:08:47+08:00"
     },
     {
-      "title": "「讓黃仁勳回歸」運動：Nvidia駁斥　特朗普支持 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uT192NnFybElBc2wtNjlCM3MwM01rWm1jM2hVRG53eVFmOV9MVVFSSUxOa2Z4M1FHTC1LNmctNTF0bGo4dV9NaG94VjNDb2dUN1ZONWZacTByenJrTXdpczBfbjFuaFnSAWxBVV95cUxQQURfcG1uS1g4cGJlQ2NtQlpnU3BWSHRkMWdLNTk4TGdNZi1GdDhzLUxXWWFOR0pvWUFkWVpEczF5Yjd3dFdBWXdnVjVyUzZJMU9Ba1IyLWd6VU1FcVpnejJUS09kM3ZLdnhCWVE?oc=5",
-      "date": "2026-11-17T17:11:03+08:00"
+      "title": "黃仁勳請辭後首度發聲認錯！表態願意回歸Nvidia，向家人致歉：往後餘生，我會努力成為值得你們愛的人 - ELLE",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGZSU2ZRdTJibW5FSUxJc3p4RXdGRlc5Ym9qOUhIaEtPVW1XMjZ3bDEzWDdoRkRsTzQyUlVZWEdpSlFYdnNDZVlDemtFcmsyNTdwQk5VcE9wc0xtaWNaZFNTN1NMbm9tUEV6NUk5ZUdDa0thZlZyaXdzZnJKclhMZVFOTTFaNUY1ZHljZDIzak5XUk1VX3lrbUlqcVNHdw?oc=5",
+      "date": "2026-11-18T02:04:42+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T18:25:28.777107+08:00"
+  "updatedAt": "2026-11-18T03:48:21.874344+08:00"
 }

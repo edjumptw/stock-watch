@@ -9,10 +9,10 @@
   "close": 379.739990234375,
   "change": -10.48,
   "changePct": -2.6857,
-  "volume": 30156600,
+  "volume": 30242400,
   "bias": "中性",
   "performance20": 3.17,
-  "volumeRatio": 0.76,
+  "volumeRatio": 0.77,
   "recommendation": {
     "date": "2026-11-16",
     "action": "觀望",
@@ -41,11 +41,11 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.7648
+    "volumeRatio": 0.767
   },
   "commentary": [
     "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 +3.17%。",
-    "本日成交量為前 20 日均量的 0.76 倍，量能較平淡。",
+    "本日成交量為前 20 日均量的 0.77 倍，量能較平淡。",
     "RSI(14) 為 49.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1694,7 +1694,7 @@
       "low": 375.63,
       "date": "2026-11-16",
       "close": 379.74,
-      "volume": 30156600,
+      "volume": 30242400,
       "rsi": 49.46,
       "ma5": 387.606,
       "ma20": 385.9445,
@@ -1703,30 +1703,30 @@
   ],
   "news": [
     {
-      "title": "傳統汽車品牌終於邁向全自動駕駛！Mercedes-Benz於德國、美國搶先啟動MB.DRIVE ASSIST PRO全自動駕駛功能全面迎戰Tesla FSD！ - www.tcar.tv",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HSS14d1kwZTl4bDgyaUJYZElma2NHekk4RFFuWUE5dUlaZ2hBQ2FFZ0dZOXY5X0xZZTFLTXdueGZhbDFiVFdlSWNvbkZPTVktVWE2RmtsLWwxWkpZOW9Zbg?oc=5",
-      "date": "2026-11-17T18:13:11+08:00"
+      "title": "馬斯克確認將訪華 市場憧憬特斯拉落實推廣全自動駕駛 - 信報網站",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQMkkzcTV2SUc2dGJ1b2FpQjh3amkyclp3T01pSjcxdFJCVFRjVUVHY20wUl9ZVUNxZHZER0pmeXVuTktLd2ZIZ25DWHl4amQ0b2dtaFhhM3dSM3RvTVhJZjhVUmsxMUV3Tk9lcTVRNVhyZ1lyNU9VT1piR09uNFppeEVUZ2xtai1YY1ZqZFEzaGU3VDBvd181OW9sekRlcXRJYkpLb2g5ejBLMjU5VFN4Wk1BMDR4bUlrTWpyZHZLVm11cHJ5alZsanpsY3pVbEpyRjJGT19heEl2a1FLcWRJY0ZJeFlzdEMyUklTd2V1b1E1bEk5LU5DdG1JVS1ZdVAwMXVENnNOU1NwcDN1dkREck9SanB1elFvNU9JN3VSdVFyQjVYUEhrVFdvOGQ0UGo3RFh6RzZlXzZ3VnBjX2p5R3FQNGF5cUhVR1VKOG1XS0dlUWI2alg0b1FieFFVLXQtZC1IMFBsbVk4X1BtVnBWcHhCdTkzTnNHOGhpbFRnYkZjaTA?oc=5",
+      "date": "2026-11-18T01:44:49+08:00"
     },
     {
-      "title": "Q3 13F文件：閃迪遭機構大幅減持，特斯拉成買入首選 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXVuTUpQaUVOcWVscDZ0RWNvXzl0a243aTFnNTl3c0VJV1RXX2NTRmdRVExwanE0RWFoUDR3TXM5UjF2cDZzeGlGMGJRd3lDLTNEcldMRzBJeFdGbUZTWTZabWZxQ3NRMUU3VUFFZjlqUWRxbWhnZVp5ZnN5UnhHS0RBckltVUplaFNoel9WZV9LOVQ4YUR3YVdYeTFHQ2laN2ZJSnpJNkdCN3poNlBLRG5nRXdDLUZC?oc=5",
-      "date": "2026-11-17T17:42:46+08:00"
+      "title": "特斯拉砸33億 擴建柏林廠 - Singtaousa",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQzBFQ2NpQ29rN0IybEtETHV6cFB6UmttMEt2Yjl1cC1SRGZEZlhEbjQ3UmJwNV9ObE1hcHVrT0s1a1hQdXoxa2J5RDUzVnhweWlyVXdNT05iOFc2eVN3VFg4blUwNVJPMlRFZ015OU5jdDhoa2xGZldmMGdQLTVpX3Jn?oc=5",
+      "date": "2026-11-17T23:00:00+08:00"
     },
     {
-      "title": "買完仲要每月俾錢訂閱服務 #Tesla #Cybercab #無人駕駛 #ElonMusk #電動車 #am730 - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPZTlEZjZkVTVMYzlYbU9FX2FxT0JOWXNOWndoZGRoUjBia2paLVpxUDZjSXl4VjE1eEQ5MXVBMEF6cXRyTzZBRUNvYlF1TEFtMjJHYXZVTlBuUkc0MDNENUI4c0RqUXFQTXUtS3ZDb3pqczA5cEpfU3ZmNWRyWEUzbW1FdzhSNVVqaVNJUDZnS2txSWlYMlR2eGJpanE1cFc2TU9iZXFrSEpNSndEVXItaWs3M2Z4QnZFMmZXNm5ydkVnWkdUaFRVMWxOd0pkcEx6NmZBNi1hUTd6UnN6Z2x1LVpLOTJ3RHZ6Q3BINGVHTWUxcDhodm40ZXhINDVXN3ZjVHYtY1dlZjhiTzg5dWl2RC1CZV80RDd1WmtGVjRJWV92dk93UlhibWVzWVYtYXp5MkpVWEVPV2RPNktjWHZtbEtndzZYajNKZ1JGcEg5NW9ZOV9wVm5vTTFTVWxyZUlNMm1yUGZyamw4UEdEemZwQTlJSjNKQQ?oc=5",
-      "date": "2026-11-17T17:21:44+08:00"
+      "title": "特斯拉善用仲裁迴避司法審查 - Singtaousa",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUo1SC1QSmIySEZDc2xuVUZHXzE5cTFvYVdUVnNWd0NjZnNhNG9PQkQ5U09kMjc5REk5S1J2eWo5Zk8tYXk4VUVDR1pmTHBxU3dFOWpFRHpRT0xmQlNVZWh3V05GbUFRV0JTVEJWZWRKc2VoS080TEIyZVZSX291emRGZGJqNVNPOVZFOC15UGs?oc=5",
+      "date": "2026-11-17T22:00:58+08:00"
     },
     {
-      "title": "特斯拉（TSLA）技術面：375美元至386美元區間期權資金流向不一 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY18xQlpHZVVuUGxEWnVFR0ZOSjFXN0pUbTkyT29sMXpxcHVWS19DalhYNEhpY2N0NERGb0NtUlZZQzkxdV9DZC1henBQOU5JNDA3QURWZC1GenQ0YUVaN2xERXBZRkhLbURqODVNNkEzb1lGYjdRQkN1QnAtcUZ0bC00bDhnbGE5NzhweW5uT0xxOUpmalFaYTF5VTdMZTV3MlotVWFHTGlhTFltU0w0ZnRidm85WEdkc05uVHBn?oc=5",
-      "date": "2026-11-17T16:56:51+08:00"
+      "title": "特斯拉（TSLA）週二盤前機構資金流向：盤前股價上漲0.7% - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQW9rRGVHYXZ3YWZ5VkR4U1F1VkpjYk5oN09oV2NhTndRUkhNQnpIaTV4Tzh2ajVMcHY4WG5ReDl1Y2tPanFTbDVCNWxEdWptVkczdFdObUZYaVJxX0FMQ1ZsR0RrRzBoVEd6anFlMjdmb0lsM001RWExS2hGVUYxOGVGMUZBTmRlM2RHMnA5MUtIN1luc1JyRG9tcWxRV05ZWXd4S1ZILU5ERFJvSUoxaEh3RnpLZU1rN3dNMEVidw?oc=5",
+      "date": "2026-11-17T21:54:44+08:00"
     },
     {
-      "title": "特斯拉×SpaceX：3.5萬億美元合併談判取得進展，華爾街對交易溢價與監管問題意見分歧 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPanFyV0FLYWlocWVOLU9DWUhvV0U0ancyNFF1OS1Yck54WkRYeFE0SEV3SHc3SkNuV2lSbERDdmx4blRyc1BuQXBGcWRveGQ0eFYxZkhZU19oNm5xZllDZmdUQ2tkZngzS3I3akxIbnJUd1BJN3RGamdpblVHWDN2X0xCN1pCQl9UUDFXLXlrcnBhV21UNEhXdVd3YW5hYXZHeWloNy1RUlZxNm8tNUtUWWktbGpidw?oc=5",
-      "date": "2026-11-17T15:21:32+08:00"
+      "title": "特斯拉擬投資30億歐元擴建德國工廠 打造Cybercab基地 - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQ280ZUFMWGY2MEpEV3BPX3pib1pPV1VPaWp5QW5BVEhBWUk2WEtVWEF4d1FjY0lmYkVpZjBwU1hoN0lUck5rdzJKczlab0VKb3FtdFVIUk5mUlJHQmFxRURZc3lOQkpmdENZSE1uY2laNnJyLUxfM1l5azN0R2swaGJ2azRfbVRONVdaM2hHZ202dXpfaDdlUFMzRXg1bC1lallEbDdkYWZJb20tN2ZkTjJCbjBFMTNEOWlLUEdYTmVScURwOTEzWHY2THIzQkY1NzQ4Z0tUZzNYam5QSG9UZURBMk5vQUFBMEd3ZlZUV2dRbkRLdXh1Ny1mRzhxaUFZVzlybHE3MXpDdFd5aUZfMVpWaFNvTWo5Nlo3T0R5cWVMZkNQakZCOC1YVHFSSUY2VW85NjBjMDFoLTVfWTBKeXpxck85UkFNMS1obldlRTQ?oc=5",
+      "date": "2026-11-17T20:20:18+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T18:25:33.267436+08:00"
+  "updatedAt": "2026-11-18T03:48:25.461014+08:00"
 }

@@ -3,45 +3,45 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 361.0,
-  "change": -13.0,
-  "changePct": -3.4759,
-  "volume": 57237588,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 374.0,
+  "change": -37.0,
+  "changePct": -9.0024,
+  "volume": 40418094,
   "bias": "偏弱",
-  "performance20": -32.4,
-  "volumeRatio": 1.52,
+  "performance20": -34.04,
+  "volumeRatio": 1.08,
   "recommendation": {
-    "date": "2026-11-17",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-16",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
-        "price": 361.0,
+        "price": 374.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 361.0,
+        "price": 374.0,
         "source": "近 20 日最低收盤價"
       },
       {
-        "price": 458.8,
+        "price": 467.45,
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.5196
+    "volumeRatio": 1.0806
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.40%。",
-    "本日成交量為前 20 日均量的 1.52 倍，交易較熱絡。",
-    "RSI(14) 為 29.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -34.04%。",
+    "本日成交量為前 20 日均量的 1.08 倍，量能接近平常。",
+    "RSI(14) 為 30.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,43 +1168,34 @@
       "ma5": 406.6,
       "ma20": 467.45,
       "ma60": 537.0833
-    },
-    {
-      "date": "2026-11-17",
-      "close": 361.0,
-      "volume": 57237588,
-      "rsi": 29.1,
-      "ma5": 395.5,
-      "ma20": 458.8,
-      "ma60": 533.5
     }
   ],
   "news": [
     {
-      "title": "美商務部、司法部發布聯合聲明！2024年就在查Megaspeed 隻字未提黃仁勳 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQZmFveVZFXzNVQmp5aGtqMHBCazNwSXRpQUJGcEZkSmlCcE9zVnpJajM5U0xYQ0JTekR0cmRCRWgwZk9KbjdFTmNjZGMxTEJUbEtMek9iWXFZby16Y3prNzZsME1ZaEtKYWN3SlJYTmxPcVAwQ0xSblZMZlNTdFRpUzRxMXJSd1ZIYkVHV0k0UnlOT3hUZjRRM0RnRXdNVVoya3h0akh3ZGpIN1lSbHNRM3lZZmNDT1M5S0FxdGZjVVRnbEs1cTAzT2lHY1VVMm9aRXJvMll1bnVnOXJENXZENTlmMEVyeGVXb1hYa01OTkk3X1U3dWU1U2Z3MFdIb2Q3TE5qMG15RWhZUUZXRFp5WUsxWXFhdGgwRFhNeXZSOTk1c1B1dUFBcnRSelN3cjRzYmxvY3M3V0dOV29lUTJxdWZPUXFUbFRJdkMzc002M1VkRkN2OVhQLUxzOXVQNXJlc0dkb2JVakEzZHdHNDVHcjJqWTYyc2dyYlc3NURPREhXVXFETnVrZGUzRWV3Q0s1?oc=5",
-      "date": "2026-11-17T17:45:00+08:00"
+      "title": "各行業年終獎金大調查 逾7成8企業「平均1.61個月」 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeUFkeWhqckZMU3JlYWFaUUlrOFlkNU9xSHlXb19xNjZ6aFpTYVlXY0xfNkJ1MzZzaTI2VVRoX2VnZGpEa05kU1k3ZEFFcFVUcFhuUk5wWXJzRlo2aUtENlR4YTlEN0JvbXJpLW5HNmJPdjBoVWtKTV9mek40ckMxaXFkVTFpc0RDMEpQeFg2REh5ZDlRY2MyTW1oNzc3ZkllSUp2M3Vxb19uc3JaUVlqc3NBa0ltY2ZRLVRzbmEzRmtqNUkxaUdrcUt5SGtDZ3BqZWdUNXNqWkhvaHZqbDZMWnpYQ19kelpzMnIzQVlBdnNQRXhDdEIzWW9sZEJOOVlPbVAwTlhsb1JHVnhrcFlJZlhpTFlXSS04SGZQVmRKb2NRaWxCOERLSWMxMGZNQVRqazRlSjdRbDYtSU1fMVE?oc=5",
+      "date": "2026-11-18T00:00:46+08:00"
     },
     {
-      "title": "民主黨掌國會 海龍CEO看美風電仍難轉好 評價台灣3-3期成功 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUklVZGstZE1VZ0tGd0dUZHQ5LXVQVmlrck9mWXd1WmpXUVZ2RHBHRzF4ZUYzU1FIa1ZaNFlkUVJMaXlCZjA0SVktZ25wMW5RdTJSUnVUdjRsbHB6ZjVHblZTeVJYRWthZlRKak9kRGtEQ3Q1WTQ5MU5oZ1FtRWJVbFpCYXBiUGtiMm9GZW8zSWp5V0xwNHFRVmZLcmo3YWRLTGhXZElkWGZmbjFFaUl6RTRJbDBpYUNGNWt2aVJjTXpaVXpWT1BOeWxHRVlaamQxUnh5R2RNV2JITzR5bE1kd1dzT0NNQUZPZllsZ1NnWmZXM041bW5Xa0wxZFJGRjZnN3c5SGRrbTFMdk5Ud0d3eURuQzctWTBSM2t4UDVobW5qWm16eTg3RGYxd2xEQm9UQ2V1V3RJMjB3VlpwYXUzQjBTTmhFRUZobUJ5LUJYczBBMmcxdmdYbHI1bFV2TWZfWTdrNGNNbGgwRHpRLWxGWDlySmIxZWw1Smc?oc=5",
-      "date": "2026-11-17T17:44:28+08:00"
+      "title": "黃仁勳12月1日赴美國會！眾院三委員會追查輝達國安疑慮 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPWDVsYUxuLWZveUx2amdZellmSW9GN05SUk5IS3JvV3l3VTUzZU1yVGdkekdoakd2dVJHdXQwb3B3QkZGU0tya0hLc2JSbHh3N2tzZUkzbHpUZVhsaXdkMHNEdWdYWWpmVDdCVHk4bVEyVUs2dGhhSmRLb2dUbUNBQWw5MllBSUhHdHAxeVRKbkRqYWt1ZDNVc2FyZGNEWXJZVFJaVnF2OFE1RjBEZmx6dzdKUktQS1BBb0NTaEVrZzc0Mi1YanhNZzVDUk8zcXBJUkxLekM5SVJxS2xySXFBcTVmb0FaTTBNdi13ZGlnVndZcWk3U0pjSUdwZ0xxUXBSTzRramUwMTFXaGszdjlqU2xNVUEyS3E4dzRnOTBqdTBDeXhWVXhZRmdLRnFqVEJPZ1FpTmRLb1R5UnBjekx5QXJRZHpFR1VnSXB1S0IyWUhoNjRucjFwb3lXWWNlLU42WE1xVUlxemp5RHhaVTh6eFNod1I?oc=5",
+      "date": "2026-11-17T23:23:30+08:00"
     },
     {
-      "title": "國安基金撐盤？6檔「護盤概念股」一度漲逾2% 分析師：點火跡象明顯 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPQlFIcThQR3NxdWVsOGZWbExQdVN5SXNEaG92TEM4bUVSSThzeW1WNFdLV0VsWllQWGFqNlJDZE44MFRrOEdFNEx4TkRoUWlwVEhEZGlSM3ZKRDBaTVhRcjhianZBZWhTWTN0Wm5JUnBoa04yNF95dUR3VGxYOWUzOWNRU3JEV0dydTdwS3BSM0RuLTlpQXR5WHozQW1sdjNzYzBTVC1JeXAwN29JaER5M1Q3Um5qUGVqV2NlNklYX0FoQ2pYeExJMFhwZ2RkUjFpZzVjdUlqQ2N6OVZlb0FWNW5ySGJVV1lPaTVsODV0QnFRNWMxVEZuakNXMjUtRHFiSUxSXzVEd3E3QzhzMTVMZzVfWU14QkJwdUlHRHRjLWszUE5SNnZKakM5SVlNbElXZkZVaVp4SmVjN3NLaHd4M2ZGaTM2ZUdMcXdKblJiUGVJMUhDVnBjOVVOUGs4V2RnZ01oQ2hId0hkMkUwN2JEdGdZNDFSMEVndl9mVWpYaWREWldBUm53U2sxcVNMcDAtTXNjeG1JZ2ZsZXhLM1VtLUVSNi1OSWhXbUp5NXQtNl80M0c4NEpFTzQ4TQ?oc=5",
-      "date": "2026-11-17T17:44:05+08:00"
+      "title": "台股一度跌破4萬點還能抱嗎？哲哲急喊「別殺低」點名這幾檔正二次打底 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPbFF2M1dobmlZdm0xenBGSXFFU1JMWHE0NGQyRXNXZGI3RzFLYk1FcmNSR09PNmZ1SU43RHFxbE4zSUZldmVMLTQyRS1PMzdwMzlZX3BrNzBvTl9NZU9xeWJRUmtSa1NVdVZDbFBYSjdQY1YwTVlRY0lITnZUVWFpX2MwN1h0WEJkazRtNUVqS1BVSWQ4Yi1PazZwRUFLWW5FeElRMklET2VFYzQ3RENydkxSQ25qOWQ4Q1FSWW9LTGlldWdfcGU1d3ZCbzRpc2xSVV9rb3gwdTdSeERldW93ZEJtWVlIakYtVHpsZEVjbWhiT1VtaFY5X1V5XzgxaTQ4b2Q4NjZFUkFpb3JKS1o3cTRFbHZjMXNMVkNsM3dneTV5TXZuSnFkTm1heW4wS2lfVVIteDZ0U1hhMGRkdnlFNDdzSU9RQzhpM2d3cDhzMWlQM095MkpRVkZrcEFjcUs0RXFiSkFmbW9yZ1pWTC12WDVFVVVQY2tzamh4aTh0MlFjT3h3eU16LXZWQm9qWVVoYnh4YWZrV28xRmFGYnpHdEQtNk5mUXh2Y0E?oc=5",
+      "date": "2026-11-17T23:14:00+08:00"
     },
     {
-      "title": "返台機票補貼千元人民幣？國安官員揭露中國介選5大手法 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTTFDYXp3bFFkcjJwc1hmNzNtRWR3b0RGdGZReHY4N1U0aFJBV0hpOUFXR0hxcm03clV6NVB4Ml9hb3pPRHF0a25HbE94RVB1U2pURG05M0xGcnhQaHhkeVhiYTFkOTRvTENxcTIyQWg3NGRnR1dRcHhaSk41aVYxMnR2aG5ReWV4dmtQNmd6RlBiSVpwUXdLb3pzaWdVLVVYT09NOEdRdUttOWRzUUJRd0VWS1Rpc2hzSVA1ZnIwYkJWWUxnQ1REcWxGTGlLX2hEUTJfRHBsS1ZoUkVwZGE5c1QzLWtlczMtNVdrQ0Y5NWM4U1BDaC1LUU5WMEExMkNPOGY2NjZlSmJjaHRRaGdZRlVXQjd0d3Jac1ZzS2Vjc1lrOVhZeGlLNjh6T2JOeGcxM3JUUXhtYm9RZlZmWkFFcEJMN0NTSWFtWV92UWZzQkZDdXRUZHg0WWdQcENHRUNTQklxS1Y4NkZKeVlZc3Q1VWhCOXpxbU1qZHp6N3Fn?oc=5",
-      "date": "2026-11-17T17:36:00+08:00"
+      "title": "華航公益棒球營 攜手這4位旅外球星傳承棒球夢 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOaFQwYXI5dEQ2YXZGbDk3RjVSUklQUThSTk51dEp6elJscDV4Z3NNOGJheHJpOWVfdW1idTZudmhBU2drS19NV2cxVXB4QVlPdGIxbGpaMTdnc0hHTFFNeHZyUjU1aVVvMDJwVE5XVGFfZmJWOXJLVV9Pakw2ZGFIRGNrQ0piNWtucGU0MVg0ejdHY0Z3T2p5RDBxdUJuc1B3ZlhhVkJ1RFBLdjRaX1dSTW1ENkFNUW1FcWZPTjREcGI4UjY3N2FmOVVkTk9vYWhUN3BYQjhRTXlNYXE2M0dqckZCd2RGd0F4QnB2QXkzbkRYWGUyWmxMSlVNamVKbGFtV0JULXlVNTJLNFMxMXJYcUJRa2NFemVuek5kQTVUamZ4M2dDT0I0dWVfeGRVR3NjTXlwcmUydXR2aF9pZ2MtVlZBcGFxUkwyRXZpWHB3?oc=5",
+      "date": "2026-11-17T23:13:28+08:00"
     },
     {
-      "title": "百利好金融集團十六週年晚宴 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb2JDY3Q2d28tZVU2ek5MRXpHTjJUMTMzaXZiSW1FZ0hKMXlWMXBDZDJzQnkzdTJHSmtCNmJQRDFJXzNYMGVfUUZ1OXdFNlc2c25IZ1lMR2drTWwyVHJCSXlncE1Db1Vpa0dmQnVqZERhVWRueFdLdV83U0ZCdFVOWXdiTTV3WTBNUDVqTVQtbmVXWVNVMTRSTkJkeDZQenZRS0Z6NG96MTMycW1WZlQtT3VLUXE2N2ZtamVoeWlVaUJrZnRYWndUYU1oOTUwQ0wyMmdMVTEyNzNCUkYyS3Z1dTFlc2lQNjNlVzB2a2QyZmNuSTItYjN3?oc=5",
-      "date": "2026-11-17T17:31:00+08:00"
+      "title": "台股跌不停散戶斷糧 呂文婉揭殘酷現實「別把日子過難了」 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPSHE1cko5bGkzZ25ydlRIWkRLYnNzSzl0TVBYVzRWWFlDOVFhb1J2bVltYmZ0QzdQQ1Exd01lZVpKNkJJbHAyVDhJMjRpMzB3MllKLXd1Ti1QdWp4TkZ1RGJWeTU2V1c5UXpsNGd1QWxOQlVWVklsMnp6UHUyNE0wRnJXTC1ZWVRlSUlrNUZlXzZxRFVKUnZGSU5aM1ZYbHdzbktxWGVpd2p1M1VqUm4tdFRINHhxWFk1dVFhOVB2a01mRm9ITjFUbEpmaVNNRjBjaHZ5QlJneW93VUZZQnZ5MHg2YjBITVA5cE1BNUJMMFBwMmpPNUF1TVljeFJJNmFkMEtta3N5RHlSS2thblEwbkFXT3hvNFF0bnc4T0QwSUltNzVXNVVUWlNtTmNIam5JQUVOS0N4djZKOFk2TGF1cTNicjRITUM4a05UX2l6V1ItYXpHSlk1WXMySHk3c1dQMVRNT3FWdFFhaWsxSzJqN2t6aU1jdWh1eGZjeTZR?oc=5",
+      "date": "2026-11-17T23:08:59+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T18:25:25.844457+08:00"
+  "updatedAt": "2026-11-18T03:48:19.181622+08:00"
 }
