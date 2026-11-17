@@ -51,6 +51,15 @@
 
 ## 部署驗證
 
-推送 main 與正式驗證結果於部署完成後補記。
+- 實作與資料 commit：`3f61958b5a581bdcf37b40c2502d410a3757ec12`，已推 main。
+- [GitHub Actions 44004092041](https://github.com/edjumptw/stock-watch/actions/runs/44004092041)：update（含 11 個 Python 測試與原有 Worker 測試）及 deploy 步驟成功；此 push 流程按既有設計不重抓行情，部署的是本機實際成功取回的完整資料。
+- 正式網址 https://edjumptw.github.io/stock-watch/ ：app.js 與本機逐位元相同，兩檔正式 JSON 與本機內容相同。
+- Playwright 正式站 390px／1440px 均通過 NVDA、TSLA 日期 2026-11-16、「收盤來源：Nasdaq」、三張圖表、無橫向溢出及無 JS 錯誤。
+- 正式站截圖 `screenshots/v1.4-{NVDA,TSLA}-{390,1440}-production.png` 已保存；台北約 10:36 驗證。
+- 摘要及正式站截圖另以交件紀錄 commit 推 main；既存未追蹤 tasks/ 保持原狀。
 
 【交接】通知誰：Kinki／紀錄存哪：SUMMARY_v1.4.md、data/validation_v1.4.json、screenshots/v1.4-* 與 Git commit／誰經手：Codex／誰接手、下一步：Kinki 於 Stooq 可正常回傳 CSV 時補做 11/13 同日 Yahoo 比對，門檻 <0.5%，再完成全部驗收並回報執董。其餘功能與部署驗證見本摘要。
+
+## Modern Web Guidance
+
+我查閱了文字插入與 sanitize-untrusted-html 指南；這次僅沿用既有 escape 插入純文字來源，未引入新的 HTML API 或套用額外指南改造。
