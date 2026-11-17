@@ -9,13 +9,51 @@ const volume=n=>new Intl.NumberFormat('zh-TW').format(n);
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const QUOTE_URL='https://stock-watch-quotes.jumpbotofficejumpbotoffice.workers.dev/quotes';
 let data,charts=[],quotes=new Map(),quoteStatus='正在讀取最新報價…',refreshing=false;
+const glossary={
+ '收盤價／交易日':'當天最後成交價／市場實際開市的一天，20 個交易日不含休市日',
+ '均線／收盤均價':'把一段時間每天收盤價加總後取平均，讓價格方向較容易看清',
+ '支撐價':'地板：跌到附近常有人買，但仍可能跌破', '壓力價':'天花板：漲到附近常有人賣，但仍可能突破',
+ 'MA5／5日均線':'最近 5 個交易日的平均收盤價，看短期方向',
+ 'MA20／月線':'最近 20 個交易日的平均收盤價，看約一個月方向',
+ 'MA60／季線':'最近 60 個交易日的平均收盤價，看約一季方向',
+ '量比／成交量倍數':'今日成交股數除以前 20 個交易日平均；1 倍是平常水準，2 倍是兩倍',
+ '成交量／量能／均量':'買賣成交的股數；量能指交易熱度，均量指平均成交股數',
+ '乖離':'價格離均線多遠；正值在均線上方，負值在下方，不代表一定反轉',
+ '近 20 日表現':'目前收盤價相較 20 個交易日前漲跌幾％，不是未來報酬',
+ 'RSI(14)／相對強弱指標':'以近 14 日漲跌力道計算 0–100 分；高於 70 可能過熱，低於 30 可能偏弱，不能單獨當買賣訊號',
+ '技術面／技術指標':'用歷史價格與成交量觀察走勢，不能保證未來',
+ '均線排列／均線交錯':'短期均價高於中期、中期高於長期表示近期較強；相反較弱，交錯表示方向不一致',
+ '偏強／偏弱／中性':'依價格與均線判斷近期相對較強、較弱或方向不明',
+ '跌破／站穩／突破':'跌到參考線下方／維持在附近或上方／漲到參考線上方；單次跨線不保證趨勢',
+ '過熱／拉回／回檔／止跌':'短期漲得急／漲後回落／下跌暫停；便宜或 RSI 低不等於不會再跌',
+ '部位／布局／追價／接跌':'持有的股票金額／逐步買入／漲時急買／跌時急買',
+ '買賣中間價':'買方願付與賣方要價的平均，只是參考價，並非實際成交',
+ '分割調整／未還原股息':'歷史價格已配合拆股換算，但沒有把現金股息加回報酬'
+};
+const actionHelp={'減碼':'把已持有的股票分批賣掉一部分，降低投入金額','加碼':'在原有持股上再買一些，增加投入金額','分批買進':'把預計買入金額拆成數次，不一次全買','觀望':'暫時不新增買賣，等訊號更清楚','續抱':'已有持股先繼續持有，仍要留意風險'};
+function explainTerms(){return `<details class="term-help"><summary>專業名詞白話說明（點開）</summary><dl>${Object.entries({...glossary,...actionHelp}).map(([term,help])=>`<dt>${escape(term)}</dt><dd>${escape(help)}</dd>`).join('')}</dl></details>`;}
+function intraday(s,now=new Date()){
+ const zone=s.currency==='TWD'?'Asia/Taipei':'America/New_York';
+ const parts=Object.fromEntries(new Intl.DateTimeFormat('en-US',{timeZone:zone,weekday:'short',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(now).map(p=>[p.type,p.value]));
+ const minutes=Number(parts.hour)*60+Number(parts.minute),start=s.currency==='TWD'?540:570,end=s.currency==='TWD'?810:960;
+ if(['Sat','Sun'].includes(parts.weekday)||minutes<start||minutes>=end)return '<p class="intraday">已收盤（依一般交易時段）</p>';
+ const q=quotes.get(s.symbol);
+ if(!q)return '<p class="intraday">盤中提醒：即時價暫未取得，收盤建議維持不變。</p>';
+ const qp=Object.fromEntries(new Intl.DateTimeFormat('en-US',{timeZone:zone,year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date(q.quoteTime)).map(p=>[p.type,p.value]));
+ if(['year','month','day'].some(k=>parts[k]!==qp[k]))return '<p class="intraday">已收盤或今日尚無報價（以來源交易日為準）</p>';
+ const levels=[...s.recommendation.support.map(p=>({...p,type:'地板價',support:true})),...s.recommendation.resistance.map(p=>({...p,type:'天花板價',support:false}))];
+ const position=levels.map(p=>`${q.price<p.price?'低於':q.price>p.price?'高於':'正好在'}${p.type} ${number(p.price)}${Math.abs(q.price/p.price-1)<=0.01?'（接近，距離 1% 內）':''}`).join('；')||'目前沒有可比較的地板或天花板價';
+ const stale=now-new Date(q.quoteTime)>5*60000?'；報價非即時，請留意時間':'';
+ return `<p class="intraday">盤中目前價 ${number(q.price)} ${escape(s.currency)}（${escape(q.source)}${q.priceType==='midpoint'?'，買賣中間價':''}、台北 ${dateTime(q.quoteTime)}${stale}）：${position}。僅提示位置，收盤建議不變。</p>`;
+}
+
 function displayed(s){const q=quotes.get(s.symbol);return q?{...s,close:q.price,change:q.change,changePct:q.changePct,volume:q.volume??s.volume}:s;}
-function quoteLabel(s){const q=quotes.get(s.symbol);return q?`最新報價 · ${escape(q.source ?? 'Yahoo Finance')}${q.priceType==='midpoint'?'（買賣中間價）':''}<br>報價時間（台北） ${dateTime(q.quoteTime)}`:`收盤資料 · ${escape(s.dateTaipei.slice(0,10))}<br>最新報價未取得，使用收盤資料`;}
+function quoteLabel(s){const q=quotes.get(s.symbol);return q?`最新報價 · ${escape(q.source ?? 'Yahoo Finance')}${q.priceType==='midpoint'?'（買賣中間價）':''}${s.currency==='TWD'&&q.source==='Yahoo Finance'?'<br><strong class="fallback-warning">目前用備用報價（約延遲 20 分鐘）</strong>':''}<br>報價時間（台北） ${dateTime(q.quoteTime)}`:`收盤資料 · ${escape(s.dateTaipei.slice(0,10))}<br>最新報價未取得，使用收盤資料`;}
 async function refreshQuotes(){
   if(refreshing||document.hidden)return;
   refreshing=true;
   try{
-    const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),10000);
+    const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),16000);
     let response,payload;
     try{response=await fetch(QUOTE_URL,{signal:controller.signal,credentials:'omit',cache:'no-store'});if(!response.ok)throw new Error('Quote HTTP '+response.status);payload=await response.json();}finally{clearTimeout(timeout);}
     if(!Array.isArray(payload.quotes))throw new Error('Invalid quotes');
@@ -30,8 +68,8 @@ function badge(s){return `<span class="badge ${s.bias==='偏弱'?'weak':''}">${e
 function spark(s){const values=s.history.slice(-40).map(r=>r.close),min=Math.min(...values),max=Math.max(...values);const points=values.map((v,i)=>`${i*300/(values.length-1)},${52-(v-min)/(max-min||1)*45}`).join(' ');return `<svg class="spark" viewBox="0 0 300 58" preserveAspectRatio="none" aria-hidden="true"><path d="M0 57H300" stroke="#edf0e9"/><polyline points="${points}" fill="none" stroke="${s.change>=0?'#b96657':'#4f896d'}" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>`;}
 function recommendation(s,full=false){
   const r=s.recommendation;
-  const levels=(key,label)=>`<div><h3>${label}（${escape(s.currency)}）</h3><ul>${r[key].map(p=>`<li><b>${number(p.price)}</b> · ${escape(p.source)}</li>`).join('')}</ul></div>`;
-  return `<section class="recommendation ${full?'panel recommendation-full':'recommendation-compact'}"><h${full?'2':'3'}>下一步建議 <span class="badge">${escape(r.action)}</span></h${full?'2':'3'}>${full?r.reasons.map(p=>`<p>${escape(p)}</p>`).join(''):`<p>${escape(r.summary)}</p>`}${full?`<h3>要盯的價位</h3><div class="watch-levels">${levels('support','支撐價')}${levels('resistance','壓力價')}</div><p class="note">從近 20 日收盤高低點、MA20 與 MA60，依收盤價上下各取最近 1–2 個不同價位；等於收盤價時也列為觀察線。這些是歷史參考線，並非預測目標價。</p>`:''}<p class="recommendation-date">依 ${escape(r.date)} 收盤計算</p><p class="recommendation-disclaimer">僅供參考，非投資建議</p></section>`;
+  const levels=(key,label)=>`<div><h3>${label}（${escape(s.currency)}）<small class="plain-help">${key==='support'?'地板：附近常有人買，仍可能跌破':'天花板：附近常有人賣，仍可能突破'}</small></h3><ul>${r[key].map(p=>`<li><b>${number(p.price)}</b> · ${escape(p.source)}</li>`).join('')}</ul></div>`;
+  return `<section class="recommendation ${full?'panel recommendation-full':'recommendation-compact'}"><h${full?'2':'3'}>下一步建議 <span class="badge">${escape(r.action)}</span></h${full?'2':'3'}><p class="plain-help">${escape(r.action)}：${escape(actionHelp[r.action]??'請參考下方說明')}</p>${intraday(s)}${explainTerms()}${full?r.reasons.map(p=>`<p>${escape(p)}</p>`).join(''):`<p>${escape(r.summary)}</p>`}${full?`<h3>要盯的價位</h3><div class="watch-levels">${levels('support','支撐價')}${levels('resistance','壓力價')}</div><p class="note">從近 20 日收盤高低點、MA20 與 MA60，依收盤價上下各取最近 1–2 個不同價位；等於收盤價時也列為觀察線。這些是歷史參考線，並非預測目標價。</p>`:''}<p class="recommendation-date">依 ${escape(r.date)} 收盤計算</p><p class="recommendation-disclaimer">僅供參考，非投資建議</p></section>`;
 }
 function card(stock){const s=displayed(stock);return `<article class="stock-card"><div class="card-head"><div><h2><a class="card-link" href="#${encodeURIComponent(s.symbol)}">${escape(s.name)}</a></h2><div class="symbol">${escape(s.symbol)} · ${s.currency==='TWD'?'台股':'美股'}</div></div>${badge(s)}</div><div class="price">${number(s.close)}<small>${s.currency}</small></div><div class="change ${tone(s.change)}">${signed(s.change)}　(${signed(s.changePct)}%)</div><p class="quote-label">${quoteLabel(stock)}</p>${spark(stock)}<div class="card-bottom"><span>成交量<br><b>${volume(s.volume)} 股</b></span><span>收盤日期・台北<br><b>${escape(s.dateTaipei.slice(0,10))}</b></span></div>${recommendation(stock)}<span class="open">查看走勢與短評 <span aria-hidden="true">↗</span></span></article>`;}
 function overview(){document.title='收盤筆記 · Stock Watch';const current=data.stocks.map(displayed),up=current.filter(s=>s.change>0).length,down=current.filter(s=>s.change<0).length;main.innerHTML=`<div class="intro"><div><p class="eyebrow">DAILY MARKET JOURNAL</p><h1>盤中追蹤，收盤看脈絡。</h1><p>七檔台美股的報價與每日筆記，從數字到趨勢。</p></div><div class="update">收盤資料更新 ${dateTime(data.updatedAt)}<br>Asia/Taipei · 台股：證交所優先，失敗改用 Yahoo；美股：Yahoo，可能延遲</div></div><p class="quote-status" role="status">${escape(quoteStatus)}</p><div class="summary"><div><small>追蹤標的</small><strong>${data.stocks.length}<span>台股 ${data.stocks.filter(s=>s.currency==='TWD').length} · 美股 ${data.stocks.filter(s=>s.currency==='USD').length}</span></strong></div><div><small>報價上漲</small><strong>${up}<span>檔標的</span></strong></div><div><small>報價下跌</small><strong>${down}<span>持平 ${data.stocks.length-up-down} 檔</span></strong></div></div><div class="section-head"><h2>我的觀察清單</h2><span>漲紅跌綠 · 幣別分開顯示</span></div><div class="grid">${data.stocks.map(card).join('')}</div><p class="note">各市場交易日不同，以每張卡片日期為準。線條顯示近 40 個交易日走勢；點選卡片查看近六個月資料。</p>`;}
@@ -43,6 +81,6 @@ function priceBounds(history){
   const low=Math.min(...values),high=Math.max(...values),padding=Math.max((high-low)*0.08,high*0.01);
   return {min:Math.max(0,low-padding),max:high+padding};
 }
-function render(preserveScroll=false){const scroll=window.scrollY;charts.forEach(c=>c.destroy());charts=[];let symbol;try{symbol=decodeURIComponent(location.hash.slice(1));}catch{symbol='unknown';}const stock=data.stocks.find(s=>s.symbol===symbol);if(stock)detail(stock);else if(symbol){main.innerHTML='<h1>找不到這檔股票</h1><a href="#">返回觀察清單</a>';}else overview();window.scrollTo(0,preserveScroll?scroll:0);}
+function render(preserveScroll=false){const scroll=window.scrollY,opened=[...document.querySelectorAll('.term-help')].map(d=>d.open),focused=[...document.querySelectorAll('.term-help summary')].indexOf(document.activeElement);charts.forEach(c=>c.destroy());charts=[];let symbol;try{symbol=decodeURIComponent(location.hash.slice(1));}catch{symbol='unknown';}const stock=data.stocks.find(s=>s.symbol===symbol);if(stock)detail(stock);else if(symbol){main.innerHTML='<h1>找不到這檔股票</h1><a href="#">返回觀察清單</a>';}else overview();if(preserveScroll){document.querySelectorAll('.term-help').forEach((d,i)=>d.open=!!opened[i]);if(focused>=0)document.querySelectorAll('.term-help summary')[focused]?.focus({preventScroll:true});}window.scrollTo(0,preserveScroll?scroll:0);}
 async function init(){try{const response=await fetch('data/index.json',{cache:'no-cache'});if(!response.ok)throw new Error('HTTP '+response.status);data=await response.json();render();window.addEventListener('hashchange',()=>render());refreshQuotes();setInterval(refreshQuotes,60000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshQuotes();});}catch(error){main.innerHTML='<h1>暫時無法讀取資料</h1><p class="error">請稍後重新整理，或至 GitHub 查看更新狀態。</p><button onclick="location.reload()">重新載入</button>';console.error(error);}}
 init();

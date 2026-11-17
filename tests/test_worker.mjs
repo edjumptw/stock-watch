@@ -13,8 +13,8 @@ assert.equal((await worker.fetch(req('/quotes','https://edjumptw.github.io','POS
 assert.equal((await worker.fetch(req('/quotes','https://edjumptw.github.io','OPTIONS'),{},ctx)).status,204);
 const first=await worker.fetch(req(),{},ctx),body=await first.json();
 assert.equal(body.quotes.length,7);assert.equal(body.quotes[0].changePct,25);assert.equal(first.headers.get('Access-Control-Allow-Origin'),'https://edjumptw.github.io');
-await Promise.all(waits);assert.equal(calls,8);
-assert.equal((await worker.fetch(req(),{},ctx)).headers.get('X-Quote-Cache'),'HIT');assert.equal(calls,8);
+await Promise.all(waits);assert.equal(calls,9);
+assert.equal((await worker.fetch(req(),{},ctx)).headers.get('X-Quote-Cache'),'HIT');assert.equal(calls,9);
 cache=undefined;globalThis.fetch=async()=>new Response('',{status:429});
 assert.equal((await worker.fetch(req(),{},ctx)).status,502);
 console.log('PASS: origin/method/path restrictions, seven-symbol allowlist, quote parsing, cache and upstream failure');
@@ -36,7 +36,7 @@ globalThis.fetch=async url=>{
 const mixed=await (await worker.fetch(req(),{},ctx)).json();
 assert.equal(mixed.quotes.find(q=>q.symbol==='2330.TW').source,'TWSE');
 assert.equal(mixed.quotes.filter(q=>q.source==='Yahoo Finance').length,6);
-assert.equal(calls,7);
+assert.equal(calls,8);
 await Promise.all(waits);
 for(const fail of [()=>{throw new DOMException('timeout','TimeoutError');},()=>Response.json({rtcode:'0000',msgArray:[{...row,y:'-'}]}),()=>Response.json({rtcode:'error'})]) {
  cache=undefined;
@@ -47,3 +47,29 @@ for(const fail of [()=>{throw new DOMException('timeout','TimeoutError');},()=>R
  await Promise.all(waits);globalThis.fetch=base;
 }
 console.log('PASS: TWSE trades/midpoint/last trade/close, lots conversion, invalid fields, partial batch and timeout fallback');
+// One failed batch is retried; healthy symbols are retained and only missing ones retried.
+const {fetchTaiwan}=await import('data:text/javascript;base64,'+Buffer.from(await readFile('worker/index.js','utf8')).toString('base64'));
+const twRows=['2327','2308','2330','2301','3711'].map(c=>({...row,c,tlong:String(Date.now())}));
+for(const failure of ['timeout','429','invalid']) {
+ let attempts=0;
+ globalThis.fetch=async()=>{
+  attempts++;
+  if(attempts===1){
+   if(failure==='timeout')throw new DOMException('timed out','TimeoutError');
+   if(failure==='429')return new Response('',{status:429});
+   return Response.json({rtcode:'bad'});
+  }
+  return Response.json({rtcode:'0000',msgArray:twRows});
+ };
+ const diagnostics={attempts:[]};
+ assert.equal((await fetchTaiwan(diagnostics)).size,5);
+ assert.equal(attempts,2);assert.match(diagnostics.attempts[0].error,/TimeoutError|429|invalid/);
+}
+let attempt=0;
+globalThis.fetch=async url=>{
+ attempt++;
+ if(attempt===2){assert(!new URL(url).searchParams.get('ex_ch').includes('tse_2330.tw'));}
+ return Response.json({rtcode:'0000',msgArray:attempt===1?twRows.filter(r=>r.c==='2330'):twRows.filter(r=>r.c!=='2330')});
+};
+assert.equal((await fetchTaiwan()).size,5);
+console.log('PASS: retry recovery after timeout/429/invalid response; retain partial successes');

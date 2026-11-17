@@ -116,6 +116,12 @@ def complete_us_history(df, symbol, local):
         # Nasdaq remains available for holes Stooq itself did not cover.
     return df.sort_index().dropna(subset=['Close'])
 
+def closing_time_taipei(day, currency):
+    # Daily candle indexes denote session dates at midnight, not closing instants.
+    zone = ZoneInfo('America/New_York' if currency == 'USD' else 'Asia/Taipei')
+    hour, minute = (16, 0) if currency == 'USD' else (13, 30)
+    return datetime.fromisoformat(str(day)).replace(hour=hour, minute=minute, tzinfo=zone).astimezone(TZ).isoformat()
+
 def build(stock):
     now = datetime.now(TZ)
     df = yf.Ticker(stock['symbol']).history(period='1y', auto_adjust=False, repair=False)
@@ -151,7 +157,7 @@ def build(stock):
     commentary = [f'技術面{bias}：{alignment}，近 20 個交易日漲跌 {perf:+.2f}%。',f'本日成交量為前 20 日均量的 {volratio:.2f} 倍，'+('交易較熱絡。' if volratio>1.2 else '量能較平淡。' if volratio<0.8 else '量能接近平常。'),f'RSI(14) 為 {strength[-1]:.1f}。'+caution]
     articles = news(stock['query'])
     if len(articles)!=5: raise ValueError('Expected five news items')
-    return {**stock, **({'source':last['source']} if stock['currency']=='USD' else {}),'date':last['date'],'dateTaipei':df.index[-1].astimezone(TZ).isoformat(),'close':close[-1],
+    return {**stock, **({'source':last['source']} if stock['currency']=='USD' else {}),'date':last['date'],'dateTaipei':closing_time_taipei(last['date'], stock['currency']) if stock['currency']=='USD' else df.index[-1].astimezone(TZ).isoformat(),'close':close[-1],
             'change':round(change,4),'changePct':round(change/prev*100,4),'volume':last['volume'],
             'bias':bias,'performance20':round(perf,2),'volumeRatio':round(volratio,2),
             'recommendation':recommend(rows),'commentary':commentary,'history':rows,'news':articles,'updatedAt':now.isoformat()}

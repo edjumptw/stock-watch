@@ -9,21 +9,31 @@ export default {
     const url = new URL(request.url);
     if (url.pathname !== '/quotes' || url.search) return reply({error: 'Not found'}, 404);
     if (request.method === 'OPTIONS') return new Response(null, {status: 204, headers: cors});
-    const key = new Request(`${url.origin}/cached-quotes-v3`);
+    const key = new Request(`${url.origin}/cached-quotes-v5`);
     const cached = await caches.default.match(key);
     if (cached) return new Response(cached.body, {headers: {...cors, 'Cache-Control': 'no-store', 'X-Quote-Cache': 'HIT'}});
-    const taiwan = fetchTaiwan().catch(() => new Map());
+    const diagnostics = {attempts: [], missingSymbols: []};
+    const yahoo = new Map(SYMBOLS.filter(s => !s.endsWith('.TW')).map(symbol => [symbol, fetchYahoo(symbol).then(quote => ({quote}), error => ({error}))]));
+    const taiwan = fetchTaiwan(diagnostics).catch(error => {
+      diagnostics.failure = error.message;
+      return new Map();
+    });
     const results = await Promise.allSettled(SYMBOLS.map(async symbol => {
       if (symbol.endsWith('.TW')) {
         const quote = (await taiwan).get(symbol);
         if (quote) return quote;
+        diagnostics.missingSymbols.push(symbol);
       }
-      return fetchYahoo(symbol);
+      const result = symbol.endsWith('.TW') ? {quote: await fetchYahoo(symbol)} : await yahoo.get(symbol);
+      if (result.error) throw result.error;
+      const quote = result.quote;
+      if (symbol.endsWith('.TW')) quote.fallbackReason = diagnostics.failure ?? 'TWSE missing or invalid symbol';
+      return quote;
     }));
     const quotes = results.filter(r => r.status === 'fulfilled').map(r => r.value);
     if (!quotes.length) return reply({error: 'Quotes unavailable', reasons: results.map(r => r.reason?.message)}, 502);
-    const body = JSON.stringify({source: 'TWSE / Yahoo Finance', fetchedAt: new Date().toISOString(), quotes});
-    ctx.waitUntil(caches.default.put(key, new Response(body, {headers: {'Cache-Control': 'public, max-age=20', 'Content-Type': 'application/json'}})));
+    const body = JSON.stringify({source: 'TWSE / Yahoo Finance', fetchedAt: new Date().toISOString(), diagnostics: {twse: diagnostics}, quotes});
+    ctx.waitUntil(caches.default.put(key, new Response(body, {headers: {'Cache-Control': diagnostics.missingSymbols.length ? 'public, max-age=5' : 'public, max-age=20', 'Content-Type': 'application/json'}})));
     return new Response(body, {headers: {...cors, 'Cache-Control': 'no-store', 'X-Quote-Cache': 'MISS'}});
   }
 };
@@ -56,16 +66,28 @@ export function parseTaiwan(row, now = Date.now()) {
   return {symbol, source: 'TWSE', priceType, price, previousClose, change: price - previousClose,
     changePct: (price / previousClose - 1) * 100, volume, currency: 'TWD', quoteTime: new Date(timestamp).toISOString()};
 }
-async function fetchTaiwan() {
-  const url = new URL('https://mis.twse.com.tw/stock/api/getStockInfo.jsp');
-  url.search = new URLSearchParams({ex_ch: SYMBOLS.filter(s => s.endsWith('.TW')).map(s => 'tse_' + s.toLowerCase()).join('|'), json: '1', delay: '0', _: String(Date.now())});
-  const response = await fetch(url, {headers: {'User-Agent': 'Mozilla/5.0', Referer: 'https://mis.twse.com.tw/stock/index.jsp'}, signal: AbortSignal.timeout(2500)});
-  if (!response.ok) throw new Error('TWSE unavailable');
-  const payload = await response.json();
-  if (payload.rtcode !== '0000' || !Array.isArray(payload.msgArray)) throw new Error('Invalid Taiwan response');
+export async function fetchTaiwan(diagnostics = {attempts: []}) {
   const quotes = new Map();
-  for (const row of payload.msgArray) {
-    try { const quote = parseTaiwan(row); quotes.set(quote.symbol, quote); } catch { /* Per-symbol Yahoo fallback. */ }
+  for (let attempt = 0; attempt < 2; attempt++) {
+    const started = Date.now();
+    try {
+      const url = new URL('https://mis.twse.com.tw/stock/api/getStockInfo.jsp');
+      url.search = new URLSearchParams({ex_ch: SYMBOLS.filter(s => s.endsWith('.TW') && !quotes.has(s)).map(s => 'tse_' + s.toLowerCase()).join('|'), json: '1', delay: '0', _: String(Date.now())});
+      const response = await fetch(url, {headers: {'User-Agent': 'Mozilla/5.0', Referer: 'https://mis.twse.com.tw/stock/index.jsp'}, signal: AbortSignal.timeout(3500)});
+      if (!response.ok) throw new Error('TWSE HTTP ' + response.status);
+      const payload = await response.json();
+      if (payload.rtcode !== '0000' || !Array.isArray(payload.msgArray)) throw new Error('TWSE invalid response: ' + String(payload.rtcode));
+      const invalid = [];
+      for (const row of payload.msgArray) {
+        try { const quote = parseTaiwan(row); quotes.set(quote.symbol, quote); }
+        catch (error) { invalid.push({symbol: String(row.c), reason: error.message}); }
+      }
+      diagnostics.attempts.push({attempt: attempt + 1, durationMs: Date.now() - started, received: payload.msgArray.length, valid: quotes.size, invalid});
+      if (quotes.size === 5) break;
+    } catch (error) {
+      diagnostics.attempts.push({attempt: attempt + 1, durationMs: Date.now() - started, error: error.name + ': ' + error.message});
+    }
   }
+  if (!quotes.size) diagnostics.failure = diagnostics.attempts.at(-1)?.error ?? 'TWSE missing or invalid symbols';
   return quotes;
 }
