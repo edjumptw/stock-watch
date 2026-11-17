@@ -239,7 +239,7 @@
       "date": "2026-06-08",
       "close": 408.95,
       "volume": 50328800,
-      "rsi": 48.02,
+      "rsi": 48.03,
       "ma5": 413.168,
       "ma20": 424.902,
       "ma60": 394.1713
@@ -291,7 +291,7 @@
       "date": "2026-06-12",
       "close": 406.43,
       "volume": 63514500,
-      "rsi": 48.88,
+      "rsi": 48.89,
       "ma5": 398.56,
       "ma20": 415.7435,
       "ma60": 394.2553
@@ -1703,9 +1703,19 @@
   ],
   "news": [
     {
+      "title": "特斯拉金色「無人駕駛車」開放私人購買 售23.5 萬每月需另付智駕費 - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOVjBycENaV2JZb3VtbkpTbmt2ZWgxcUZ3dG1hRmhla3FNVlQxN2pHSGxweVRRTHczM0puZGNQWVhObmRvYnBET2JVT2Fzbk9odGRxM3hkaEZPWVgwTTZnYjc5UG1zUHRzQXBQRE1sSkpOemlUbGd4bFJvak1zczdvSm45aVJhV0NXa1BocTUtMXZjOVdFVndPc2ZwSW5BV0k0eG1ieEdBRU50eHNjUjlGUVpqS2FWUURSUjlhQWhwaHkyaGkxNGEtWkthcDJsSmxjNW14YlJCZkFEdVNORERKSk9mV3dKamlXbUJkRjlHZEZ3N2llSWVQdnpPNXNMeEtHM0RHLU5vN2pyOXNKRUkyd1BjMzRWZndIOVk3ZnJqRmpEQ3l0WkQ5RVFtOWlfenlYUGw0aTBzVUF1TmtHT0ZpaFgtYndCODV1eUVfZGhVNEtHU1JmV0tyOGhRX0RHQUtSRTVGalE3TVpqUQ?oc=5",
+      "date": "2026-11-18T04:20:07+08:00"
+    },
+    {
       "title": "馬斯克確認將訪華 市場憧憬特斯拉落實推廣全自動駕駛 - 信報網站",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQMkkzcTV2SUc2dGJ1b2FpQjh3amkyclp3T01pSjcxdFJCVFRjVUVHY20wUl9ZVUNxZHZER0pmeXVuTktLd2ZIZ25DWHl4amQ0b2dtaFhhM3dSM3RvTVhJZjhVUmsxMUV3Tk9lcTVRNVhyZ1lyNU9VT1piR09uNFppeEVUZ2xtai1YY1ZqZFEzaGU3VDBvd181OW9sekRlcXRJYkpLb2g5ejBLMjU5VFN4Wk1BMDR4bUlrTWpyZHZLVm11cHJ5alZsanpsY3pVbEpyRjJGT19heEl2a1FLcWRJY0ZJeFlzdEMyUklTd2V1b1E1bEk5LU5DdG1JVS1ZdVAwMXVENnNOU1NwcDN1dkREck9SanB1elFvNU9JN3VSdVFyQjVYUEhrVFdvOGQ0UGo3RFh6RzZlXzZ3VnBjX2p5R3FQNGF5cUhVR1VKOG1XS0dlUWI2alg0b1FieFFVLXQtZC1IMFBsbVk4X1BtVnBWcHhCdTkzTnNHOGhpbFRnYkZjaTA?oc=5",
       "date": "2026-11-18T01:44:49+08:00"
+    },
+    {
+      "title": "馬斯克確認將訪華 市場憧憬特斯拉落實推廣全自動駕駛 - 信報網站",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQQk1nempTcno4QUlmUERyTWNQWFVNWnNabXo0dDljdTBsSHZnVkh5RDBZdVo3cy0wVHhMUjRGSTdJd2E5VFBWOVZwSGZBNGwxWVlEREw0UWU0bktBZjlEMTdwSm5RTVROa0RBYXdwdHJlTEVnRURkUXhFaVJTbUpOT29FTG1iZW5PVk9XV01nVUtQQWpiN1JoYTlxTTJrcVkwaGF0ZlJPNTBqY1U3Nld5SE04dGdzVTRHUnlyczBYOGlfRlkxak1YUkVyVXc5VlZVeDJuTlpCa3hiWkZ0QWVvNzlqdjVEbENGOW5XUl9NeE5BUTZEemNjTFpIZXU1OTBOYnRTQnRZcnVPN0lKQy1vMkpuV2Y0Z19oSU43N19ZWXRPd3VrVXJmTmpUMmpOYWZ5ZEFIT2l5STd0YWswSm9BVkk5WUVfLU5DZlNMMjRwNEROb2wxWE5oaDJWTGg0MTVkQTU1eEFYNkF3TlJMX2otXzZxckJFZFpJZnlRNDd0amZZMlQwZjlaMDYzRTVtM3JxNUE?oc=5",
+      "date": "2026-11-18T01:43:43+08:00"
     },
     {
       "title": "特斯拉砸33億 擴建柏林廠 - Singtaousa",
@@ -1716,17 +1726,7 @@
       "title": "特斯拉善用仲裁迴避司法審查 - Singtaousa",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUo1SC1QSmIySEZDc2xuVUZHXzE5cTFvYVdUVnNWd0NjZnNhNG9PQkQ5U09kMjc5REk5S1J2eWo5Zk8tYXk4VUVDR1pmTHBxU3dFOWpFRHpRT0xmQlNVZWh3V05GbUFRV0JTVEJWZWRKc2VoS080TEIyZVZSX291emRGZGJqNVNPOVZFOC15UGs?oc=5",
       "date": "2026-11-17T22:00:58+08:00"
-    },
-    {
-      "title": "特斯拉（TSLA）週二盤前機構資金流向：盤前股價上漲0.7% - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQW9rRGVHYXZ3YWZ5VkR4U1F1VkpjYk5oN09oV2NhTndRUkhNQnpIaTV4Tzh2ajVMcHY4WG5ReDl1Y2tPanFTbDVCNWxEdWptVkczdFdObUZYaVJxX0FMQ1ZsR0RrRzBoVEd6anFlMjdmb0lsM001RWExS2hGVUYxOGVGMUZBTmRlM2RHMnA5MUtIN1luc1JyRG9tcWxRV05ZWXd4S1ZILU5ERFJvSUoxaEh3RnpLZU1rN3dNMEVidw?oc=5",
-      "date": "2026-11-17T21:54:44+08:00"
-    },
-    {
-      "title": "特斯拉擬投資30億歐元擴建德國工廠 打造Cybercab基地 - Yahoo 財經",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQ280ZUFMWGY2MEpEV3BPX3pib1pPV1VPaWp5QW5BVEhBWUk2WEtVWEF4d1FjY0lmYkVpZjBwU1hoN0lUck5rdzJKczlab0VKb3FtdFVIUk5mUlJHQmFxRURZc3lOQkpmdENZSE1uY2laNnJyLUxfM1l5azN0R2swaGJ2azRfbVRONVdaM2hHZ202dXpfaDdlUFMzRXg1bC1lallEbDdkYWZJb20tN2ZkTjJCbjBFMTNEOWlLUEdYTmVScURwOTEzWHY2THIzQkY1NzQ4Z0tUZzNYam5QSG9UZURBMk5vQUFBMEd3ZlZUV2dRbkRLdXh1Ny1mRzhxaUFZVzlybHE3MXpDdFd5aUZfMVpWaFNvTWo5Nlo3T0R5cWVMZkNQakZCOC1YVHFSSUY2VW85NjBjMDFoLTVfWTBKeXpxck85UkFNMS1obldlRTQ?oc=5",
-      "date": "2026-11-17T20:20:18+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T03:48:25.461014+08:00"
+  "updatedAt": "2026-11-18T05:02:47.651813+08:00"
 }
