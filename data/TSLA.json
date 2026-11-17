@@ -3,16 +3,16 @@
   "name": "特斯拉",
   "query": "Tesla",
   "currency": "USD",
-  "source": "Nasdaq",
+  "source": "Yahoo Finance",
   "date": "2026-11-16",
   "dateTaipei": "2026-11-16T13:00:00+08:00",
-  "close": 379.74,
+  "close": 379.739990234375,
   "change": -10.48,
   "changePct": -2.6857,
-  "volume": 30242400,
+  "volume": 30156600,
   "bias": "中性",
   "performance20": 3.17,
-  "volumeRatio": 0.77,
+  "volumeRatio": 0.76,
   "recommendation": {
     "date": "2026-11-16",
     "action": "觀望",
@@ -41,11 +41,11 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.7671
+    "volumeRatio": 0.7648
   },
   "commentary": [
     "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 +3.17%。",
-    "本日成交量為前 20 日均量的 0.77 倍，量能較平淡。",
+    "本日成交量為前 20 日均量的 0.76 倍，量能較平淡。",
     "RSI(14) 為 49.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1681,20 +1681,20 @@
       "low": 385.83,
       "date": "2026-11-13",
       "close": 390.22,
-      "volume": 32268400,
+      "volume": 32393000,
       "rsi": 53.54,
       "ma5": 387.268,
       "ma20": 385.3605,
       "ma60": 371.7648
     },
     {
-      "source": "Nasdaq",
+      "source": "Yahoo Finance",
       "open": 387.0,
-      "high": 389.7983,
+      "high": 389.8,
       "low": 375.63,
       "date": "2026-11-16",
       "close": 379.74,
-      "volume": 30242400,
+      "volume": 30156600,
       "rsi": 49.46,
       "ma5": 387.606,
       "ma20": 385.9445,
@@ -1703,30 +1703,30 @@
   ],
   "news": [
     {
-      "title": "賓士挑戰特斯拉 FSD，高速公路免手握與城市點對點輔助駕駛 2027 年登場 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkExd2xyWmtHQl9CNzZOYXZSRXJBUVctRXFRU2NiYlp6MjBjZkhJNGZMQ3oySUFsQkozNXdVRXNlemJ2NGgwWlVTVXNjNmNYM2FwOVRoNjhQUXVDak5oR2dFMVljbUdlR1o5N2FfUzlKTmxQS1lDd0FYOWFwNkNibnVpQUZQb3JkakVBRVpJUmQ5bzM1S0JWOWtfMk9wVW9BYU5TbEV2SWlNRENx?oc=5",
-      "date": "2026-11-17T10:26:43+08:00"
+      "title": "馬斯克稱特斯拉最早12月啓動車主Robotaxi試運營 - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb08xVVdCaEJ5R3hyOFNBYTVDSGxRbnJOX01xTlEzVGVVT1JCWC1rWU9rTl9NeFhQanhVdDZGU2NzUlBjOVhXSUVnSTBCXzJsYlRJbDNTa0prbFMxYUw0MlpTQnBjcWNzNk03TTd0ODRUcWtuSkM1VE94YnFpQXppazVKUzE0cE5EckhwZzlVRDZtZlN1UFpSbDZJWlRyU3lL?oc=5",
+      "date": "2026-11-17T12:04:25+08:00"
     },
     {
-      "title": "一台遙控車要價 350 美元，你買單嗎？Tesla Cybertruck 推出 1:10 遙控模型車 - A Day Magazine",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12N0VlUjBaak04SnEydG9aaEstajVMbXdPb0txcVlmTWZEOWlSYWxiQnA4SzgxTlduMUZ5cEtFajhCTzRyTWRNRWhhb01OWnJkWDN4SEcydTcwOXFCUlFnOFpjdDB0LVVYclp1OThUbDViOENqaFN4TzJuTQ?oc=5",
-      "date": "2026-11-17T09:28:58+08:00"
+      "title": "特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5QWdZYm5aZFVmeC11cXpQVk9GVDlpSDNWckE4VFdCS1NmakRpeXlUcEFmeDRHTVBPaWo5SGQ0Y1U4bmVRSkdnZUNjcGpSVFB2VnpnNGFwWUhvV2ZuUTl5a2p6ZjBMY3pHSVJSd0RyM3Q4NldIdXQ4?oc=5",
+      "date": "2026-11-17T11:40:54+08:00"
     },
     {
-      "title": "特斯拉砸33億美元擴建德國廠 拚年產百萬輛自駕計程車 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VVWx5ZG5mUlBKU2dydV9hOXFaWTBvSUE5ZTVRVnR6bHhFX3FqTmtjT2pxY2hZZl93NFZaZjhRZkk4azJxVS1XbXdTaFBzR3NQOUE?oc=5",
-      "date": "2026-11-17T07:46:13+08:00"
+      "title": "Tesla輸了！10月台灣電動車銷量冠軍換人當，國產車逆襲奪第一：車主讚內裝質感好、 物有所值 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80akpyR1ctSXQ4dFpJNDBqNU5jUDBsQVhIRThYQmJZOV9XLW05X0xOaVZHQXFoZ2t1WG0yUVF1dGl6MXd0aGhjQnNXeEI0VFNv?oc=5",
+      "date": "2026-11-17T11:30:00+08:00"
     },
     {
-      "title": "特斯拉擬投30億歐元擴建德國工廠生產Cybercab，高管稱2029年投產 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGJXRjY0MDNUSmZZR0szVUhoVE5ydm93N3I0ckQxMjg2bWNHZEQ2MFd0c2hST2lNb016aGRDd1VEODlXcDNNVTdZVV9NdlAybmppbGhpR0lPdGpGMXhCMXdObXJuSFNjNGRha1J3WE5HdzNlUFJ2aV9yTS1rUHQ5dlZGTl9FNG90TU45TnNqRWM0b1lVdWJ3NWwtTQ?oc=5",
-      "date": "2026-11-17T07:30:06+08:00"
+      "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab - MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFBNZEhEV2xxUkFzRjByYWJwN2x5Zy1TOUlPOHpSRjRjSEZ5Ml9Ha1BudXg2dVFIVXpJUEhTRV9FbTRITGtYd0U4M20zUE1JX1JfWVJFR05naVM4UWhPOHVmS3g2YndkZXZDZjg2aUpUR0FoeXJmRUppT1NJUi1SY1MxNUI4WXpHdUxiUmFXbXgtUQ?oc=5",
+      "date": "2026-11-17T11:23:00+08:00"
     },
     {
-      "title": "特斯拉擬投30億歐元擴建德國工廠 瞄準年產百萬輛Cybercab - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaE5XUldZQ3NncFYzeE0yR01SRlNVRjNRaC1YdkNCM1JFLWhIdlZVU1B4Q3RtSWZza2RPejNVdjBCSEFyTzNkSzdORDlqQ0JDRWxOcVFCUXMwSXdlZzMxbFVNdDBPTkhIX21JWjR5ai1wdlFuczA2a0lpT1pjYi0xVzFQWmFIV09vVlhCYi1ZekZkaHFYOGRtckxKVHZtSzlnbGx0dG1ObWF3aTM4c3c?oc=5",
-      "date": "2026-11-17T06:02:31+08:00"
+      "title": "特斯拉擬投30億歐元擴建德國工廠 年產百萬輛Cybercab - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFbEwwVUkzSWhKQTdmVFFRREdHUkh2T0lNS1JrZk5KWUh5YzlpNVFoUzRqYnNVcEc1OFcxbTVGWDN6VFBSREppdVotRm4zckU?oc=5",
+      "date": "2026-11-17T10:57:08+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T10:32:03.043720+08:00"
+  "updatedAt": "2026-11-17T12:18:36.336776+08:00"
 }

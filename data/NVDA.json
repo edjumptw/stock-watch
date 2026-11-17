@@ -3,16 +3,16 @@
   "name": "NVIDIA",
   "query": "NVIDIA",
   "currency": "USD",
-  "source": "Nasdaq",
+  "source": "Yahoo Finance",
   "date": "2026-11-16",
   "dateTaipei": "2026-11-16T13:00:00+08:00",
-  "close": 156.14,
+  "close": 156.13999938964844,
   "change": -6.71,
   "changePct": -4.1204,
-  "volume": 333822100,
+  "volume": 331405000,
   "bias": "偏弱",
   "performance20": -28.08,
-  "volumeRatio": 1.6,
+  "volumeRatio": 1.59,
   "recommendation": {
     "date": "2026-11-16",
     "action": "減碼",
@@ -37,11 +37,11 @@
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.5992
+    "volumeRatio": 1.5869
   },
   "commentary": [
     "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.08%。",
-    "本日成交量為前 20 日均量的 1.60 倍，交易較熱絡。",
+    "本日成交量為前 20 日均量的 1.59 倍，交易較熱絡。",
     "RSI(14) 為 22.7。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
@@ -1677,20 +1677,20 @@
       "low": 158.39,
       "date": "2026-11-13",
       "close": 162.85,
-      "volume": 363819700,
+      "volume": 365796600,
       "rsi": 24.86,
       "ma5": 170.066,
       "ma20": 198.6885,
       "ma60": 215.248
     },
     {
-      "source": "Nasdaq",
-      "open": 159.015,
+      "source": "Yahoo Finance",
+      "open": 159.02,
       "high": 163.2,
       "low": 155.01,
       "date": "2026-11-16",
       "close": 156.14,
-      "volume": 333822100,
+      "volume": 331405000,
       "rsi": 22.72,
       "ma5": 165.56,
       "ma20": 195.641,
@@ -1699,30 +1699,30 @@
   ],
   "news": [
     {
-      "title": "KB資產運用推美國前十大ETF，Apple、Nvidia、SpaceX一網打盡 - BigGo 財經",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oSjFUUmJYQi1oU1E0d3N3NXdNZmxsZ3BoX0Mzekw0eTA2RFVSbmx4WFRuTTJ4TFhkMEd2U2wtZFlLY09RajF6RGtYeHZXQWZmdEtWMXBvQjhSYnpDTUlWWEUxUkw0U1hlRkdxbklBcndDMjNVMHR4YTlB?oc=5",
-      "date": "2026-11-17T09:56:00+08:00"
+      "title": "微星參展SC26 聚焦代理式AI與AI工廠部署需求 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVTZ3SE0xZzZwaFB1endBWHpIdVVzQldqeTYtcmt6TG45MGpNUVBaZXh4bmdRSV9rMWZrNVRWbUx4OEFRZlV0akoyc3U5VzBZNnZ1S3JpalJBSDVUVk83cjRHRGZEVHROVDVqN3Q2bmZFZEx6WllsblhHM1dLNTByR2h0aml3b0pidUZKaGQxejBYVEpRbUFTbzREMGI?oc=5",
+      "date": "2026-11-17T12:17:35+08:00"
     },
     {
-      "title": "整理包／失去黃仁勳首場財報 Nvidia的6大重點？股價恐波動8% - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mby1obE5mMVd3QXZZRzlBX2dhTU5ZQVBFMlJSaDMtOHNfRWd4bkp3cUdSM1ptZXBZNGZQWEFJQkdkajNKSUNCWnM3cFpLSVFCWVBIdm9oZjJPc0t6Z0xYc0NB0gFnQVVfeXFMTlJaeC1NbHJjaTI1LXU4ZGVTak9adWRoSkNfRUFtUlFhbGVhemU0c3NzVkFaLTQ0dE1kV254ZVlpeVF6NVBRLTZ4TmhRMlRlcFpGQmNWY1I3c0N5UUIzOEVralBaS3RwQQ?oc=5",
-      "date": "2026-11-17T09:54:34+08:00"
+      "title": "邊緣AI：Nvidia對嵌入式系統的影響 - 電子工程專輯",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXl3NXpoYjM4NkUyVkRUVTZPQkNPUWxnT3NETzVEcTFNSW9xemNDZkk3V1p0NTZ5X0NheE4zb1dmTjFaaFdLWnl3VWJDaTgtQzJ3YTktSjRELWdHYmdjZl9kdE42X2VZZlBNeGhPNkFfYkZONTdPZXkxNUhFWUFDek5tZVNvTEt1YUp4ZEQzUEU4VU8xdzBTdUtKdlF3Zw?oc=5",
+      "date": "2026-11-17T12:02:40+08:00"
     },
     {
-      "title": "NVIDIA公布具有超過5萬個CUDA Core的Rubin HPC GPU，專為科學運算而生 #輝達 (254152) - Cool3c",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRldCcVFBem95NTBBU1JWcjZsYlAzUElVdkVTbEg5NzVVbzd3SFpHVjBsRlc3SnNFUlFIdGc1MUNXbXUwMWVEbUF0Vl9YQQ?oc=5",
-      "date": "2026-11-17T09:52:00+08:00"
+      "title": "Nvidia Board Warned of 'Irreplaceable' Talent Loss in Employee Letter -- WSJ - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1R1a25UQ3NQZkNBSjZ4d1VPdXBVcTNzZWNDZ0xvb29tYVNxU2p2Vkk2LXlzVzRsamlra3Q2aER4SmRicGZZSWRhZnNWampCQkRhRkZrcjYzQkZ1MUp3TlJpam5UbVdfcnlkZTc2b01MZHI0YU1xZnFUazBaeDhfaXp6SUdzNnI3YjhLVnJteWNvRzdJRWlsVnIyRzh0b24tY1pMd1hZS2dGdy1PTkhV?oc=5",
+      "date": "2026-11-17T11:34:49+08:00"
     },
     {
-      "title": "逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkh4ZENPY2dXd1RwNnZjME1ueUZldW1fY3FHV3l4N1AxT0R6Y0R6bXgzVWk5VDZWUVg3V3RUWnBicXA5WnBOaWcyRG5yS181U1RUbldDcC1LVmtrSXB2NmE3Wkxnc042eUtmeC1jeE0yZnJGc2haZWJxU1hiNFdBSTBBN2huX0JoWHB6VzI0T3FqRFU5?oc=5",
-      "date": "2026-11-17T09:51:49+08:00"
+      "title": "AI 踩煞車？調查機構下修支出預估、輝達承壓 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzJKeXpwOFlpWkJrSmd1LVR1WENUQU5lMm43WmE3UnFTTHBJZlc0RDNxSlJ0TWNIS0VvdlJGZ1RDeEg4a0x0bzc2UVp6QXB6MG9lRTQySkxzVDl2djU4eFFVNkRBdFBaUmNqam1PbnJoaUh6U05vMTNnYjJIQUN0OU9kZlVyWlRiSmtRVHhROGp5WmxURk5vUGhpZndBWE5EMS15amZHUEhreFBNRmxJd3EzeDhOZHQx?oc=5",
+      "date": "2026-11-17T11:27:54+08:00"
     },
     {
-      "title": "三星傳開發Meta客製化HBM、擬採自家2奈米 同步為NVIDIA導入台積電製程 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZ1BWMGlBNU16Vmx2T1hDVnE2MFRzWHQ5RmZIY0MwNkxtUXltYkdMY0VycG9aNWNvQkJ1U3hVM2R2eXlkdTZyR2FhZklpNDVJb3dURnBIZW5RanJ2X09XTEE2YkNXbkkzVDRZ?oc=5",
-      "date": "2026-11-17T09:50:00+08:00"
+      "title": "快訊／黃仁勳最新動態！X帳號悄刪除CEO頭銜 只剩這一行 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hNnh3SmVaLU9jTmg4cUVvTUNIcGVhb0tqa2tLM2FDTjBjTUNFUzBVSXJFTDBxTGJEMGZZcFpLX2l5ZEtkbkNjT2p3WlpZUFE?oc=5",
+      "date": "2026-11-17T11:27:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T10:32:01.279619+08:00"
+  "updatedAt": "2026-11-17T12:18:25.207038+08:00"
 }
