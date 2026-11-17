@@ -3,17 +3,17 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 598.0,
-  "change": 12.0,
-  "changePct": 2.0478,
-  "volume": 19736054,
-  "bias": "中性",
-  "performance20": -11.14,
-  "volumeRatio": 0.88,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 550.0,
+  "change": -48.0,
+  "changePct": -8.0268,
+  "volume": 20529504,
+  "bias": "偏弱",
+  "performance20": -18.03,
+  "volumeRatio": 0.94,
   "recommendation": {
-    "date": "2026-11-13",
+    "date": "2026-11-16",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 633.65,
+        "price": 627.6,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 644.1833,
+        "price": 643.3667,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.8767
+    "volumeRatio": 0.9428
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.14%。",
-    "本日成交量為前 20 日均量的 0.88 倍，量能接近平常。",
-    "RSI(14) 為 44.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -18.03%。",
+    "本日成交量為前 20 日均量的 0.94 倍，量能接近平常。",
+    "RSI(14) 為 38.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1159,9 +1159,28 @@
       "ma5": 593.4,
       "ma20": 633.65,
       "ma60": 644.1833
+    },
+    {
+      "date": "2026-11-16",
+      "close": 550.0,
+      "volume": 20529504,
+      "rsi": 38.04,
+      "ma5": 591.2,
+      "ma20": 627.6,
+      "ma60": 643.3667
     }
   ],
   "news": [
+    {
+      "title": "一顆晶片運送托盤，揭開日月光的減碳神話！當 AI 算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？ - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3Y4WEdaazF1RmYyUEowMF8zUmlWbGRwLUFIYXlCXzV2U25yTUNQTjZqRk9NZ3JXRGp4MUdmdUlycl92MGo2cE5zNVFDbk5manE1NzdfWnpQM1NXUTRjZmJmakZLbmtsZ0VUdjZRU0JObnh1dTFXdEVPN2xKZzRlSXloZ18wOGktR00wTlhfZkVadE1POExmeUkxb01JYldIcVRXZzhhckc5aFZk?oc=5",
+      "date": "2026-11-17T09:31:22+08:00"
+    },
+    {
+      "title": "日月光投控ADR週一收32.80美元，大跌7.74%，折合台幣每股約539.33元 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWZfVWJBeEVzdkU4SExVWS1DMlY0cG1YQWEwUlpUN1cxRnBoRG11WDY5MkVvN3YwYUtxb0ZHWGZtQWlvdFVUbmtTOU5FckF5NDRaQmk0b0w2RHkzMDVKQVZyNUNLZnFURTdCQ0RMS1VDLXgyem00dWFxMUZsZ3BUazIxLTNrX1h1?oc=5",
+      "date": "2026-11-17T08:15:00+08:00"
+    },
     {
       "title": "台達電崩6%、日月光挫4%！台積電開低跌15元至2335元台股早盤重挫722點摜破43000點大關 - FTNN",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1teG5VOTFiRUMweXdzWm84X0lxSzVSdm43MVRmbHNzdjFSNWRNcllKWmxSWUdVX1VMOEJkZzJraHdEd2I5WFFvLUdObw?oc=5",
@@ -1173,20 +1192,10 @@
       "date": "2026-11-16T08:15:00+08:00"
     },
     {
-      "title": "日月光投控成長加速矽品CoWoS、CPO背後共同貴人是輝達 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tNVozV0pPSnRUWDJEaFc3Xzc5MDNDZzNWZzVmOUp4dDJWVVR6M2FaODRWdFRXYUNsVlB0Mnd3dmZaeGdPZmR0NVN0d3dxMXAzaUk5aVUyd0I?oc=5",
-      "date": "2026-11-15T10:11:16+08:00"
-    },
-    {
       "title": "輝達助攻矽品登峰！從 CoWoS 代工邁向 CPO 新藍海，研發老將揭密十年技術布局 - TechNews 科技新報",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYU80OWdTTGVpaEkyMjlFZXRsdEI4TFo5Nm9QZVBGNnA3ZzFYTU9ycUdrMmpuMXEwNVpBMjBsWTQ5S3B0bGR5eXN5WUVadUxSNzU3YVUxdDNtUm1iVGhwa2U2bTlkd19rTWFKdjdMaGgyd3I4RGxmYkhaa21MbWI5LUxnLWh2N1NGTUhORzUyUDRwWTZSNjFsUkF1THFQbVdkT00yQnJLdS0tRjNlUmk4cmN3T1ZaY19PN05yU3RPVDF4cWZEVXowag?oc=5",
       "date": "2026-11-14T08:02:28+08:00"
-    },
-    {
-      "title": "日月光投控：日月光半導體製造7/9~11/13向印能科技取得營業用機器設備，計約10億 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1ZQVlczN2NhNHU5eGZDd1lSZ2tCQnluY0JlaUd6eS1DbmRNVXhFSWREejN1Zzk0TW4yTnBkVXdsTWJaX2lUbW1yTFNieHgwbnJzSk9TZ25KOVZUNDNSdVBQRWlsZUdGXzhLUEJxMmNwbGl6RGZNRElROUtjTDduTjV4Mlg2bGlpVGwzbGZMTTA1QQ?oc=5",
-      "date": "2026-11-13T22:16:37+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T00:10:11.765248+08:00"
+  "updatedAt": "2026-11-17T09:43:45.273415+08:00"
 }

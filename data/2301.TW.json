@@ -3,22 +3,22 @@
   "name": "光寶科",
   "query": "光寶科",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 231.5,
-  "change": 3.5,
-  "changePct": 1.5351,
-  "volume": 13926502,
-  "bias": "中性",
-  "performance20": -13.62,
-  "volumeRatio": 0.92,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 213.0,
+  "change": -18.5,
+  "changePct": -7.9914,
+  "volume": 19265812,
+  "bias": "偏弱",
+  "performance20": -19.47,
+  "volumeRatio": 1.31,
   "recommendation": {
-    "date": "2026-11-13",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-16",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 241.4,
+        "price": 238.825,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 264.5,
+        "price": 264.0,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.9231
+    "volumeRatio": 1.3085
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -13.62%。",
-    "本日成交量為前 20 日均量的 0.92 倍，量能接近平常。",
-    "RSI(14) 為 43.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -19.47%。",
+    "本日成交量為前 20 日均量的 1.31 倍，交易較熱絡。",
+    "RSI(14) 為 36.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1159,9 +1159,23 @@
       "ma5": 229.9,
       "ma20": 241.4,
       "ma60": 272.625
+    },
+    {
+      "date": "2026-11-16",
+      "close": 213.0,
+      "volume": 19265812,
+      "rsi": 36.76,
+      "ma5": 229.0,
+      "ma20": 238.825,
+      "ma60": 271.6167
     }
   ],
   "news": [
+    {
+      "title": "《自營商買超41-27》臺韓科(46)、光寶科(579)、聯 詠(81) - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0hDWVpwRTJtbUYwazY4T0lYcEJkdXNpOVVQZXo3OXJvQXBqQmZhYktmdGxHTUR1V2V1NDh3TGcwLTcyZ2xwbmFXU3ZqWnllWnA5NjBnb0RBTjhINTl4NUJpajJFTDFTRXQ3bHZkbVhrSnVuYWNWTzZzMU95SkV2SFhrMzJkSFAz?oc=5",
+      "date": "2026-11-17T07:35:00+08:00"
+    },
     {
       "title": "光寶科秀AI電力技術 布局800VDC與Edge AI - 工商時報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmRWZkZVhENDNoLWRYeXdqLUZHWVloVDhnMmVSNmV6WGtNbjNaUm44MTVPeWFHYi1jYjZ4Nk81c2dwZ2hOdXNvR2tFUkI4cXI3Tld3d3NySnZJWlh2WHBr?oc=5",
@@ -1181,12 +1195,7 @@
       "title": "光寶科永豐67購03 有戲 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxVUR5OVA5dWtMUm5LdmR5S2FibHNrbS1rbElZSlVwUi1KalpzOXlKVTZyYWRhNXNSdUFyRzR2RVQtMTNyX1BvOG5pSFBwQlhzNFpEcnZ0TXZXZ9IBX0FVX3lxTE1hcVM4NmtCVVVUY0dSRXMydmgxTExIaVZlQk4tN2RvMDhIZE1pLXBHeUxpZzB6RzR6bXpuZkdicVo3azBpRDVMNmk1UVhWc1VPRUNqQjZ6N3BHU2ZINmIw?oc=5",
       "date": "2026-11-14T23:20:11+08:00"
-    },
-    {
-      "title": "光寶科10月營收突破200億大關，資本支出為何增至180億？ - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56VTJBemRocC14WEhnQUJPY1BwZjlaWDRCSFNzUVhOUTVxdXNqOE91cE9SQUpqV1RxZmYtWlN4TFc4eVBHakNXaFpUQ3E5QXZ0WmVZNmFTRDU?oc=5",
-      "date": "2026-11-13T17:01:32+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T00:10:11.200064+08:00"
+  "updatedAt": "2026-11-17T09:43:44.701659+08:00"
 }

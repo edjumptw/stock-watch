@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 1240.0,
-  "change": 0.0,
-  "changePct": 0.0,
-  "volume": 13486182,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 1120.0,
+  "change": -120.0,
+  "changePct": -9.6774,
+  "volume": 19602150,
   "bias": "偏弱",
-  "performance20": -23.93,
-  "volumeRatio": 0.92,
+  "performance20": -31.5,
+  "volumeRatio": 1.36,
   "recommendation": {
-    "date": "2026-11-13",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-16",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,7 +28,7 @@
     ],
     "resistance": [
       {
-        "price": 1387.0,
+        "price": 1361.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.9178
+    "volumeRatio": 1.3644
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -23.93%。",
-    "本日成交量為前 20 日均量的 0.92 倍，量能接近平常。",
-    "RSI(14) 為 36.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.50%。",
+    "本日成交量為前 20 日均量的 1.36 倍，交易較熱絡。",
+    "RSI(14) 為 31.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1159,34 +1159,43 @@
       "ma5": 1242.0,
       "ma20": 1387.0,
       "ma60": 1666.6667
+    },
+    {
+      "date": "2026-11-16",
+      "close": 1120.0,
+      "volume": 19602150,
+      "rsi": 31.37,
+      "ma5": 1234.0,
+      "ma20": 1361.25,
+      "ma60": 1655.0
     }
   ],
   "news": [
     {
-      "title": "快訊／川普表態了！不反對黃仁勳重返輝達執行長：他已學到教訓 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaG80akc1aEgtdmlkclVCMWtITDc0NXdHUEdfRkg0azBwMkhjR3BNYjdTdm1QN2I4ZnhNMVlKM1pmQ05XVGRELVZ6SUhoV2w5MUlCTFdJSklGNUtqS0RPbGJPaXJhblI4dEw2WEF5UjZCQWFaTUZ6SzRaMWxCaktJNl9vRnctbEpaNkVvM1gwSkZKdloteGcyNUVQazd0NG5VQzdEelI1QUF2SnZhREdkOU91RlJ0NGlCZkNnQ2k2cDA2emJqMWJUZGJ6YWdmTDlla3QwUDY4dDhxUGlNTUFST1N5Q01hVUdXUHZwRHVwc1JYMng0ZWtINldWS0kyQ204bEN5UVlXYmRiSzB6RkxFTFRnSEEwV0JIVktUN1MwYTlBU1UwSWZJYUs5cHFCVURpYmhrNFpqMTEzSjZZc3RPaDlScklYY0FoQkJHOHJ2ZUp0VVZjT0g2UUZlWmVqVGZUN1o5Mzd6WlN5RjJEdFYyR05JcFc5emJZZDNDeUZ1cXVwczc1WUdOcE5hTkV4ZmR5WmxjRURzTQ?oc=5",
-      "date": "2026-11-16T23:20:00+08:00"
+      "title": "晶片、光通訊全面挫跌！費半崩逾5% 輝達、台積電、艾司摩爾均大跌英特爾遭輝達減持重挫逾7% - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZEtGOXM0eWs1b1A5dFlOdW1GZGNzRU1fN1NEZlBHN2t6NEN1aGI5cFU4UWpXbGdOSFhSWVZYMjBuRFE4RjdfRnMxNklSOEtXdDFhVldzdk1pNmtUeEh4OWlpSXVWeTdaaVFUSFllMWtOdlB3SzUwQnVwMUM0ZFdrQ1FtRUR3N3lTTHBkSzhsbEZ3R2F0VU9xRW00RmF5Z3Z4MmRNaXhqbHdnRWhKWVlqTEl1SlB1NGxkdDVlQ3dIeXdYTkZtTjA0eWx6ZkVXSHBFUUFkMFZwRkNEeHZ4R290TzNNcG5KeHpmODVKWlZLbnZvMHF6TkpCOWFsZ2FaN0tSS1liTVdPWlRiR21BVTNxV01HLW1OVzFYZXpfdV9fU3lTM21Wb1pWRlJhVFV0MjlXbnY3d0ZGT2JCZw?oc=5",
+      "date": "2026-11-17T09:41:47+08:00"
     },
     {
-      "title": "快訊／美股開盤跌一片！那指跌逾300點、英特爾殺逾5%、台積電ADR跌近4% 台股明天恐再迎震盪 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONnlVSVdMM0VaVi0xcGNGaVNQbEExZ3hfclNhTkl5QnJfSUpvTE5lOTRxSnVRVDZvc1doUmJYQ3J0UHRxbU43T3JOay1Id2pFeW5xNVlHTERKYmVWanM1STROWEIzTERVb0xPY2pkV011Yk1Xdm5DMkd5VFdDRGtjMTVBTURJSktBQ1h1Um1SeHVBdHRPZEJQNWJneXJBM1JLZU9nU3kxNEx2S0NyYzhkOHU4S2tIbzE5ci16djhTWFpnR3EwS1BlNE5CRFk1cm9YSGtmOFZXeUdKY0dIM1U1aFpQMUkxa3Rqcm9KakFtLXYtR0VpSHRrVVBCMjFCUExpM3BuMzN6LUNzdzJGV3RDUUhsU1p5TmJ0YnNfS28xZE5jZThXaFRPTDRjbTVkZDF0TzBEYklvMWFMVWZFRGc?oc=5",
-      "date": "2026-11-16T22:49:00+08:00"
+      "title": "誰在拉台積電？跌破2200元秒V轉翻紅 分析師：國安基金點火 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNNHRXdWpsTzV0R1JoVERsWENyYmtqNFhLenRpRFY5elh1ekFjVkE1cDhFVHg3YkdYX0lnbnBUSzk4MENXbnBCTjRadHctTE5nekVMTk5hMHc4TGxvLTVxNE45YkV0bXNucmUxQXNISTdMaXhlU2pFYmZhRGJPYWR5Z3BOdmlSa3plZ05lMjUwQWw3aWc3NHVRZUFrTzBpYldoZnJyWmtpN1JwM0RuS1RfeGFrU0VKVG9sNkJxNHFIV2JmV2xIRVQzc3N6SFZTTHFFbmg5RTJLajdMMUVfaDNpbDNfQXNQd0Vua3E4ZU1XeGVKOUlZSGtWSGdSOFAwcFlQQWR2b3RZZU12UDlzV0VNTHN3anFwbzVYQmppY0pBbm54Ny1fWHZ3MGJJdjJrVlkwQVBiOFlSb3lXcjc0SnRQanlQbC1XM0VHNTllTVM5ckRnTDhtWEtiaTRTYi1SRmVtejNxQmc3Qk12N2E3dGdzcnhBZ3ZfaUVlellrTWdfVzZ3TkU?oc=5",
+      "date": "2026-11-17T09:30:00+08:00"
     },
     {
-      "title": "〈美股早盤〉AI股又被砍！那指跌逾1% 輝達財報與Anthropic上市成焦點 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTm5pWUJkUlJqUWItX0pHVFh1cWo0NnFXSW0yOGltNmZabHAyR094OC14OHVMRVF4c191d3NxVGxiUm1vRzhEZVlhelBfT2RHLWF5bHVRZ2xEbi1lMVN2bUNkU2V2Q1dCWHlyRDNETEVoalVSMjNQRmtuRWhrdk9KMDdiWmVHck56eDl1QU5aUE54NDVhSFhsMWl5RDFjYTdmRDdpUWdhV1BfZHpIWmVCeHpQMWVxUG12Q20xNzZuMTd2ZEFrQ2JDR19qU2xlUXUtTzlrZGtFRklsbDlpTHYwb08teG5rNkZfdWUtTnV0MVJpQk1xVnJabVJGSkxQcXR6Q0FIdWlvRmtsSlM1YnQtcjBRbzczaEVMNGZKNVphNEw3aHg3NWxxb0VfTWhRd2Z1bkRYWGlnV2FZWllTWUZRQmtlZ2c3Zl9PM1pVUVNENUFqMTZVREF3b2VuTmFGZXRIcnN3eVRLZ0dEQ1ZUYnhpd3hrUnR3MTg?oc=5",
-      "date": "2026-11-16T22:41:57+08:00"
+      "title": "台股一度重挫千點！神秘買盤急拉 台股由黑翻紅 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTFNvbzVqeDRVTHVwUVVPaXZubGc1UFJ4NmZsUzR5SjhzYUZkdGpuVWxRbUs3ekZYa2t3a3lUVGoxX2VfbDRvdk9LakFiMkFvZS1XVExiZkhmckxHci1qbW9UdTlhcl9UUm9VOFVpN083M0I3V01BUGttSTVJRXA5VEhDWUFHQ2pBbXM1RnZ2WVRaYXQ5bm56ajllcm1pSFBfZDB4M2ViQU5SN2xCb2NadjVVMHpGc2tuMFFDdFRSdlFCemV5MlZwY3V0aTlGbGdURVFxVmppVWJwU2RWTXBEUmh0RXdORDNjTGljZ2FlRmNYcmR6MGJ3UWNaVzVPZVpsZWlZY1otQWdzbUFoWTNSVXRSZlE2cFdPd0RTOU00YU1EZ2ZqZlhNRXZSMnpOalFIV3cwV3J1Yk9haVJGckN1QWQyYw?oc=5",
+      "date": "2026-11-17T09:28:24+08:00"
     },
     {
-      "title": "黃仁勳風波延燒！美方堵中國繞道租輝達算力 五國晶片交易納管 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPN0hidkpSQWU3RGQxaWdNMndkbWZRNTBSWktkaHJlQTlETWNhbTlRX2gwVDBzTzVXLVFOalV0aUVockJnSXZXRXJKc0tzRllXaUZ0a2xLblUtWHRFTVBRcDJQdGpIWGxfY25pTl8wQ2FMQnJpdGNuVExVaElyUzczYXRYT0dva3FQT3o0Wllpa19yQkwxM1RpTi1fNGRsczE3SEVFNGdWOGJBZ3ZCRzRwMzA2TEREYk9Ua2N5cmdHeDRKTlZhY1RHMjNuUWIwU284bTNXN1pfVmg1TVltV3h3Z09GZmxIUy1ZZGdDUk9XMEtvTTd4LXo5M3JzbTBsU3JDWjF3c1FMU3lZcU1zTzJoeVRVZUpNWWFQRnB5VmZUSHpxTS0tN19SSnhXREtCV1Y4TDg2VnJXc295MlJUSHdXNHJycS1CaEJrcVR4NkZGbVIzbmFVU3l2QVZyOGwyRU9sc1ZDYmFtVFoxWmVTblJzTXlleXZ4Q2ZLaGR1eEFUY29meHlMWkZrSXpnSmkzWXhGV1dVcW16d1MySHZYMHZXZEpB?oc=5",
-      "date": "2026-11-16T21:56:40+08:00"
+      "title": "台股早盤跌逾千點後翻紅 台積電漲40元 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaVRQZmF0WnVKTjU0a0twYy1XT0VJNHY4cF9XY3A1RFB4QmE0R3lDbXZLQWNRako5YzNYWVJnbzg3bkxYSDJiXzdVWFFtNm9KRVhYQm5zUnhmY0NzY2JoSmo5U1NYVXVPemtHV3NYSUY5QnJiS2V4OWlYTUNXNmJsTDl2V01nS3lnenc2Rlp2N0pxSDMwRjdDU2NOcmpmVTFBOWpSbzJGX0VrN2hiRHlHbDdiZUlsWlE1QTRHV2wydE9icU1vdmdtSi1hRDR3alhaVWNUa3V2Y05ObWc4VmJzUTNYUWh4ZmV4S0ljaDNvTnhKc19LTHVVNWNwREpxY2tXdTRmSzd1cWlkWjZFQnB2c1d0X25ZMWs?oc=5",
+      "date": "2026-11-17T09:22:34+08:00"
     },
     {
-      "title": "輝達跌落神壇還能翻身？摩根大通策略師看好複製微軟、蘋果復甦之路 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNczhYZEhPclljLXd2WGtFeVV2OFZoQjFhTnRRVFVWNW1qbi1NT3gxdnp2cENCNXNjRk9xT1p2Wm5yZWZfLVh5dk1mbFVsdGVMZ1JFUENCZURta2J4OFRGUWN4TEFyRnRaclRzSU1hRWoyRndkUE5TaS1pOHBPV2o3UDRvLXJQeGFQLWdxclM5MV9BcGNVbTREWHFkNHV4NjUtbEtiWW1pRVZBS1ctVnViZ3BXRG90dERSYlA1OXNRbmxKdUJqUzNOLTdpNktMLTZoR2NmMEtnRXlrVnl2bk1MOHdRaTZfVnAyTzVQVkpMZXhGZ0t6MUlSVEtVN1JENmJDMmxqS09xbjluN2lNa2xpNE9FbUlqTW4xUUgwLTJQaFg5Sm1lSXRoY21JT1pKNG9KNFc5NTc5TWNCUUhGSl9vXzl2NHF5NDEza3Q5R3lGSXNpUEdPRFlkejZMWENNd2k2d2dxd01rSkpUcWI4NUpZM21jQmJTbjh0eDhHaHd0VmxXMzhBZzNYaEp3SE95SFhBYjFhcnFFSDdMam40TUQ5ZHdUbzQ0WG9fNEhCSnpiM0JTQmxYYl9yNmFR?oc=5",
-      "date": "2026-11-16T21:30:19+08:00"
+      "title": "快訊／台股開盤重挫！大跌逾千點失守4萬大關 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOeTJidXB5bnVNbmFyOWRPMk9YamE1V2JHNnBENU0yZ3d3RnctRDRkM0JFWUtUX3QyYkZXLWJKX0prOG5ORF9NSFg1Ykl4ZjBMc0tzQnRMRkRlQkdyWk05OFRKdnUxbHpjbUdTdm5mSGV3Vlo5YzhwekxsX3llbWlBcEFHYmt4alVIeGMySHFfWjdoRzA0SzdKeVdrc3dGUElYTXV4NGw4R1JjQW41b2p3VUV6R2tfdnJNMTBBTmplRDdyVk5vUGpFMmVFQ2k5a3laOXhFdEVfakdtcktiMG1zbjMzZGMtSDJFdzdRZGdnWkRPMWN3NTJ0YndnRDFYZy1rVGF0YlJ6eXViQ1NuTTlXdVVhSmRRamZPYmRJWDhnOEFyeWhqMWNjeFVuNzlESVU?oc=5",
+      "date": "2026-11-17T09:22:18+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T00:10:09.954713+08:00"
+  "updatedAt": "2026-11-17T09:43:43.347125+08:00"
 }

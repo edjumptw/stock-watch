@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 411.0,
-  "change": 4.0,
-  "changePct": 0.9828,
-  "volume": 36522706,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 374.0,
+  "change": -37.0,
+  "changePct": -9.0024,
+  "volume": 40418094,
   "bias": "偏弱",
-  "performance20": -28.27,
-  "volumeRatio": 0.96,
+  "performance20": -34.04,
+  "volumeRatio": 1.08,
   "recommendation": {
-    "date": "2026-11-13",
+    "date": "2026-11-16",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 477.1,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 374.0,
+        "source": "近 20 日最低收盤價"
       },
       {
-        "price": 540.45,
-        "source": "MA60（近 60 日收盤均價）"
+        "price": 467.45,
+        "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.9567
+    "volumeRatio": 1.0806
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.27%。",
-    "本日成交量為前 20 日均量的 0.96 倍，量能接近平常。",
-    "RSI(14) 為 35.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -34.04%。",
+    "本日成交量為前 20 日均量的 1.08 倍，量能接近平常。",
+    "RSI(14) 為 30.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1159,34 +1159,43 @@
       "ma5": 414.0,
       "ma20": 477.1,
       "ma60": 540.45
+    },
+    {
+      "date": "2026-11-16",
+      "close": 374.0,
+      "volume": 40418094,
+      "rsi": 30.51,
+      "ma5": 406.6,
+      "ma20": 467.45,
+      "ma60": 537.0833
     }
   ],
   "news": [
     {
-      "title": "玻纖布慘兮兮！「這檔」連5漲47.2%後慘崩跌停 南亞、德宏、建榮也都亮綠燈 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQb054b3ZzZWV2OWh0LWxBOEtaVHROb29PcWFaQ04wdXFUTVktb011SV9LSUNaVDRzc1FhMlM5N3o5b3NwZTdGMGx2T2FtWk1FYmx6LVJtdjk2aEdLQnkyV3ZuOXJFb0lPd3NjV0I0bkNYS3Q5SUJkSUJ0QThDZl9XNXVaMUZ6SndFT1d1WEFVQ3VCSkh6T1NuU3JBNl94eDZ5RjNuZmVoM0lHbjlUb19pOHRHN3Q2dC0tVVBydkw2cjcxVW5HQ0o1ckJZVU5kNUNGVTZYU1JmV2x4bVdXbGtrWXQ1OWEtaU9OSFhXQng1a2d2Z2VEX1gxUEVxb0V1cUZIdVRTTktZb3EzT0ZoT2RGTzYxWi1pekJJN0E?oc=5",
-      "date": "2026-11-16T21:45:00+08:00"
+      "title": "00403A、00406A跌更深 00418A手握AI第二梯隊、反彈空間更有看頭 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdVEySDlwaF8xLVpReWVnN21FMzdYYU1jcTFuZWo1eE95ZU5rV1p2QTVGOWplVVpVQk9BQ19uemZaWnlXUkxIQUhGYXB6R0s1Nlc4TzJPcTZITzN4d3AzcmpIa0I5eGEwbXpWVmRJakxJMHRvNjZqUXZLajhMSURHTGRqS1otNE93cnY5aThnX05fa19oTER1U2JRQU5hWHF5LWl2dXhWYkhmZFo5X25mbUZhOThJblNPbUEzbngxbnFNX2ZNdG5tNWg0WHFtQ3F3bllGODl2b3V5N3RVeGVJd3IxZmp1bFpWZWlKU19LTmM5MElqSkNMRmFMdm91ZW1GM3YxV1FVSldYZFptWjI5emxsY2pFUEV0OGY0bEV5QmN4OW53bEF2NmhzRzRrWVF5UTV5LVpNTTlzMnBaY1E?oc=5",
+      "date": "2026-11-17T09:41:27+08:00"
     },
     {
-      "title": "國巨失守400元！他嗆有本事到200 一票人狂喊不要：它瘋起來陳董都會怕 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40aHlUdDd4ZFRSTFF2LS10YXIyNkZwZURlRFJlaXUxMEJoRjk3NVFUbk1XS2lKMDJHalgwYjgxaTA1ZjFZbGJCMGU0OA?oc=5",
-      "date": "2026-11-16T20:57:49+08:00"
+      "title": "焦點股》信驊：唯一「萬元股」飛了 開盤跌停 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY1JWRy1iLTZpWVVlbmxLWXhnRTdkNmFkYlM0OUFGUGpGN0JZakU3QWlJLW0tQzNfMFIzU3JrUFdpUl9nTnd6V3d5ZGROamloaHRhTV9VUnZJNkV5ZVFwanpBX2lGRXIxZi1WTmcxcW5CaTFHQk1UMHRKaVZfbWdNSkFtXzEyOHA0MUhLLV9MY0d2WXRMaDBBSV9mZmYyUG9ZVF9nLUswcmJyNDA1Z0V3R3RqVDZSMjdiNk5YNlF2cTItWFJiOWlWNkNyN3kxM3lZQTVkT3oyVXBfV2tG?oc=5",
+      "date": "2026-11-17T09:40:34+08:00"
     },
     {
-      "title": "國巨暴跌他喊有本事到200！網：它真的敢 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYQy1EZVVJbjJIb1c0ZkZPYTVvN2lOeHN3dWc2Rl9KeEV3d1l3VDhINmJCNWl1WVJqOUFvVm9qYzRVb0tMLXpHOHRIQVNVNGZTOEVTNzZrNTdVenFr0gFiQVVfeXFMTlF6X3A4aVEwUWdCNzJ0RkFpaXFMZndzNHppb29tYzNsam5hLVVDakZKcVAxM0JkdE9uY2VaRk0zaEFxTXMtS0IzcE5McGhOb0lNd3lKVVBPUmRxVEhGVE8wQnc?oc=5",
-      "date": "2026-11-16T20:51:00+08:00"
+      "title": "台股慘崩2635點還沒跌完？郭哲榮點名「9檔錯殺股」搶先布局 曝W底關鍵時間 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOWWZabWxMbVhQUXBKc1VJY3d6V29JeXhqTC0ySnJQYnJBWkRNdmdVM1Mzem9kRGM4SGI0MXBpeEFiSGtQUUxYcnRSVk1Cb0NZV05jT09xejRmbXhKQ3lnZ1dPVmpkZlRqWkEyczNkaWtSclZUbGdGTVJNU0tiVUtiYTVXRHFQX2xaM2E5LTdHNFVjQktsZnpsTGowS21Lbm1kZ1lObmJxWllPYVYtclVQTlR0YUVPNlBHWEc4V0dkQkxnckdTU2Y0YWt0aUxySEtkQW15MzJkcGxLNF9zcjl3TVVJc2libnJwUmxfaDhKOWNYd0N6VkFBT2JOX0lIcmFwdEw0c2kyVmVaOTJralBiaDRsS3BwRjIxQ0xwTGtMeWdEeHZ5YUxjRlRVYTI3Nkpkb2VmQjBnT2xHWExFT1pIalZRRXdiSkxMUUF4S3paaGFWbjlnMk1kVWdsdWVZc0hmMzFGZ3ZMSXNxaktDYlRnSlppTkhnbi1NZnJjclRqZEVTLWM5ZlFDd1l6eGxpdGZTaXVQbzVZYjVwT1Zsd3NZY2MzdHdsV05lZjlLc2NsZUJfclBjLWRkUg?oc=5",
+      "date": "2026-11-17T09:40:31+08:00"
     },
     {
-      "title": "IC設計整片綠！「ASIC三雄」領信驊、矽力、愛普摜跌停 南亞科、華邦電、旺宏摔9% - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPX2wtdWpFUTd6TWduelg1TXljN0hBZ1d0QURoZUlNbmNlTjB1MjVnODRIeTMtY2tNSUUtTmZCTUJzdEpSR0N0dWhhWHFWUnlXekZxZGRxRGRydURfUExhclBfZTQtLUJKZW4yZW91TExGV0p1RHN2YkhJX3dmNFpLbVM4U2lRd01WVjU2clIzdzdOSFE1S2ZRU3MwaFhLa2dUcDREQ01zaXZBcDNHdXBCaFlzd1d1U0tNbS1aZFNkZ3VQWVIzVDJTS1lmVHBrUi1EZEpNaXdCU3hZbXY2eUY1Nk1WNWZndlhlQ0lkd2RmOVJ4enhwRWcyQXpLc0pIQ28xRTJYcG1NbWI2ck15VHJGbkZlMjdNZlZxa0NhdGp4aEw3d1p5aURmWGF2Y1dsVEZjdENVcQ?oc=5",
-      "date": "2026-11-16T20:45:00+08:00"
+      "title": "誰在拉台積電？跌破2200元秒V轉翻紅 分析師：國安基金點火 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNNHRXdWpsTzV0R1JoVERsWENyYmtqNFhLenRpRFY5elh1ekFjVkE1cDhFVHg3YkdYX0lnbnBUSzk4MENXbnBCTjRadHctTE5nekVMTk5hMHc4TGxvLTVxNE45YkV0bXNucmUxQXNISTdMaXhlU2pFYmZhRGJPYWR5Z3BOdmlSa3plZ05lMjUwQWw3aWc3NHVRZUFrTzBpYldoZnJyWmtpN1JwM0RuS1RfeGFrU0VKVG9sNkJxNHFIV2JmV2xIRVQzc3N6SFZTTHFFbmg5RTJLajdMMUVfaDNpbDNfQXNQd0Vua3E4ZU1XeGVKOUlZSGtWSGdSOFAwcFlQQWR2b3RZZU12UDlzV0VNTHN3anFwbzVYQmppY0pBbm54Ny1fWHZ3MGJJdjJrVlkwQVBiOFlSb3lXcjc0SnRQanlQbC1XM0VHNTllTVM5ckRnTDhtWEtiaTRTYi1SRmVtejNxQmc3Qk12N2E3dGdzcnhBZ3ZfaUVlellrTWdfVzZ3TkU?oc=5",
+      "date": "2026-11-17T09:30:00+08:00"
     },
     {
-      "title": "被動元件臉綠！「這檔」連3跌14%拖華新科、禾伸堂、信昌電、蜜望實跌停 國巨挫9% - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNUnpTOVR1NGxCMFdIOGdHaWFLQW5JNFBpV3liWno0c2lKaEwwcFpRck0wQ051N2NIWm0tYVVINWhpbW83VDRINURBZi1TeHdBc0JqVjNxMnh2Sk1fZ2VoVkJhV1N0Y1Q4Y0htOHVJclpsQ3BNa0QwSUJvaV9BSGNaZTFZc0pMcGlTMExJV1AzV3dHYXVGVlFxQVFZNkhRemFZTDRWTmNkTEVQdkQ3V1pjY1BMTmVJb2FaYWRWSHBwdzZQdjY5R1hvYjBVWUUxZlU3ejgwZnFnTElOazZrNkt3SkE2VW80MFBvNE4xN0ZuZHhmUmxOc1FiY19ycDk4RGlHT3dBYWVIcDBLWEZSMmtaM1RGZXFqcXVYUy1nTGVPdUsteW82SFcyNFBpd0dqNzBT?oc=5",
-      "date": "2026-11-16T20:15:00+08:00"
+      "title": "Abra攜手紐約證交所母公司旗下機構 託管加密貸款抵押品 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTlM5RHhoNzZMVzQ4b0x5QWZYbEZhSUhpWVdMengwSG1QSlVRZW5FS1lWN2R1b0VsaHIwOGdJLUY4MjhmS3VrNklFN2pzei0wWTdMVndiaFlyZGtuMGZHcXpJX3hHTUwyWlJHajFSZFJjaVVIVHJVWjRXb3lTTEhGaWx0UVk2dmpVM0g1WXlrNC1zQjg3MnJrc3ljZElDNE91VGFuV0hWRUd2M0ZvSUxFX1ZZRk9BNm16cVZvX2RuZ0pqUlp1b2RuQWR4cFkxdWtISGhVY2pRbC11WUV0b2JzMU5VczRkTG1aTXduZ0pEdGRZcjh5QWxRTmpyUXlBREN5NXNzeEx2eGotRGNBZU1pajBfTWlmWnl2RjZfeWFMVjRUNEdKNEpId3poaU9Ockk1dnlyTlBTVjZSRzNFdmp2eHU0RGRUX1BMVmhZX1NILS1HczRGZEQ4MHFrbHJsVk5sYjY4ZW0xUXYxd09LMkRXOUNXSW1Ndw?oc=5",
+      "date": "2026-11-17T09:28:28+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T00:10:08.840721+08:00"
+  "updatedAt": "2026-11-17T09:43:42.298372+08:00"
 }

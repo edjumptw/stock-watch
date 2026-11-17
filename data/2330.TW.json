@@ -3,28 +3,24 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T00:00:00+08:00",
-  "close": 2350.0,
-  "change": 10.0,
-  "changePct": 0.4274,
-  "volume": 28844142,
-  "bias": "中性",
-  "performance20": -3.69,
-  "volumeRatio": 0.88,
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T00:00:00+08:00",
+  "close": 2215.0,
+  "change": -135.0,
+  "changePct": -5.7447,
+  "volume": 44330597,
+  "bias": "偏弱",
+  "performance20": -8.47,
+  "volumeRatio": 1.4,
   "recommendation": {
-    "date": "2026-11-13",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-16",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
-      {
-        "price": 2345.5,
-        "source": "MA20（近 20 日收盤均價）"
-      },
       {
         "price": 2135.0,
         "source": "近 20 日最低收盤價"
@@ -32,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2414.9167,
-        "source": "MA60（近 60 日收盤均價）"
+        "price": 2335.25,
+        "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2425.0,
-        "source": "近 20 日最高收盤價"
+        "price": 2412.1667,
+        "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.8814
+    "volumeRatio": 1.396
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -3.69%。",
-    "本日成交量為前 20 日均量的 0.88 倍，量能接近平常。",
-    "RSI(14) 為 48.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -8.47%。",
+    "本日成交量為前 20 日均量的 1.40 倍，交易較熱絡。",
+    "RSI(14) 為 38.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1163,34 +1159,43 @@
       "ma5": 2321.0,
       "ma20": 2345.5,
       "ma60": 2414.9167
+    },
+    {
+      "date": "2026-11-16",
+      "close": 2215.0,
+      "volume": 44330597,
+      "rsi": 38.8,
+      "ma5": 2317.0,
+      "ma20": 2335.25,
+      "ma60": 2412.1667
     }
   ],
   "news": [
     {
-      "title": "美股費半開盤重挫近 5%，台積電 ADR 跌逾 6%，比特幣跌約 1% - 鏈新聞 ABMedia",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91ODhPTjExT3FQSnM4eHphaC1seXY2U2JEZjk3TktZUE14a0RyZ2VRclpBb19VS1BZeHFDVHpOQjFRMGpXNlZYWGpUY2U2VDdXS19NVXc5aGFoQQ?oc=5",
-      "date": "2026-11-16T23:44:22+08:00"
+      "title": "國安基金出手了！台積電翻紅大漲55元 指數急拉逾1700點 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlRkhlYTdtb3kwRHU4dnlDVW1UYU5WbGQtd01MSUNaZFZndWpBamZTOFByYVE2dElCSGs0Y2g1b3c2Mk80c0dsMS1hMzV2b1A0UG5CSFVVc0pIZE9ZMElB0gFkQVVfeXFMTnpBWUFBQmZpdERYVWpheDlMU01UbF9wYmxUNlJzWl9CWW4tZHpGSU92Y2hid2tUUFcydUVUM1pIRm5ST2hHWkN2bkFlYXZVWElMZHVlTW9kbzJoOHUtR3BJcm9sUQ?oc=5",
+      "date": "2026-11-17T09:36:12+08:00"
     },
     {
-      "title": "2330 台積電 - 科技業力挺台北101外牆11/16今晚點燈聲援黃仁勳- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzR3BKTlVWRk1ROGNLN2dPX2JIM0RISHA1MWtkSmJOSHBFaUliVGZUWElSWDBvd1FYNW53bk5RUjR3eXI5dG5UUjVKT0wyUkcyWU0ybFNUS1A?oc=5",
-      "date": "2026-11-16T23:07:43+08:00"
+      "title": "誰在拉台積電？跌破2200元秒V轉翻紅 分析師：國安基金點火 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNNHRXdWpsTzV0R1JoVERsWENyYmtqNFhLenRpRFY5elh1ekFjVkE1cDhFVHg3YkdYX0lnbnBUSzk4MENXbnBCTjRadHctTE5nekVMTk5hMHc4TGxvLTVxNE45YkV0bXNucmUxQXNISTdMaXhlU2pFYmZhRGJPYWR5Z3BOdmlSa3plZ05lMjUwQWw3aWc3NHVRZUFrTzBpYldoZnJyWmtpN1JwM0RuS1RfeGFrU0VKVG9sNkJxNHFIV2JmV2xIRVQzc3N6SFZTTHFFbmg5RTJLajdMMUVfaDNpbDNfQXNQd0Vua3E4ZU1XeGVKOUlZSGtWSGdSOFAwcFlQQWR2b3RZZU12UDlzV0VNTHN3anFwbzVYQmppY0pBbm54Ny1fWHZ3MGJJdjJrVlkwQVBiOFlSb3lXcjc0SnRQanlQbC1XM0VHNTllTVM5ckRnTDhtWEtiaTRTYi1SRmVtejNxQmc3Qk12N2E3dGdzcnhBZ3ZfaUVlellrTWdfVzZ3TkU?oc=5",
+      "date": "2026-11-17T09:30:00+08:00"
     },
     {
-      "title": "台積電ADR挫4%！美股早盤費半跌400點 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbkdWWTZaVWJyd2NLT1JvckU4ajR6TE5HUGtTMG5KVGh6UjZzVTZucEZkNlZBUk5jX0RGdjR5S0Fjd3JzMkhtdTBpa3Z1ODF6cW5yb0Z3cWRrUlFwbnRxUVZ4XzZsOEZJRjktUU1FaGtKZzItRUVJaDhESzRCRmNrLU5yTWN5cDlTZlQzck1zVmFiSkIwM2tZZWhRWHUxbWpIZ3FHUlk1dU9MQVVqcFhHZUFSMTE4V1FsaUViZnFtdVc0NGIzZVN0aUg2T3FicjNWN3U3UktJZk83MUJ2eTFUZlRQZ2llbEgzOWVQajZn?oc=5",
-      "date": "2026-11-16T23:01:23+08:00"
+      "title": "【快訊／神奇買盤上班了！台積電帶頭翻紅 台股殺千點驚天V轉】 最新 （#嘴邊肉） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQVUtBQjE0cWZDVWo2cHV2bkk5bUl4Tlc5SW82NEJEUXhYLXU4dmRWeTBmNjZxVy1rVS1IaUZwWkg4UVYxbnpMOFc4UUxwS0RrTVNoVkhCeVdkNzV1RWhDSjN5ZHhhT3I2QzAxSjBXQVlrNGs3cG93ZDQ2R3ZnRkhaSDFPeEpzNm9Id21CNmtsbmhvTWhfVDJJMzRDMWIwSC1DajJYaVo2ZnpoWERXUVdmVE1WV0RfVG5QLWpVSmh5Nm15YjFZbG1ia1dMakhCdFpLTnNIZEtpWXBzelV6Y3NSeGh4NlloaFpGRWpGdHVDVzIteTdrSmdYMVRpM3d6bjNCbEljdFJDMHNZN3pXNWN0TXFSTnZMZnBrUUhkMld4OTNQemxvdGJjNDVDWU00MkJEYUVTb29Zc1JjUzVKT3NKZFNFSVE0ZEgtYmNEUDVQcUsxTVUxOEExa01YRWlNUmNwS185YTllNnVqNXdmVkFJanlObnRkdi10ck1jWWR5QlVUdjVqVm1rclNxY1F6dmpCVVl3SXRHWHhaWkoxRlVsdzlFbVllem1zQmN4c29SS05OcmVqa090eGpvT1dCYV9fTVJFZHNKN2M?oc=5",
+      "date": "2026-11-17T09:29:57+08:00"
     },
     {
-      "title": "美股也迎黑色星期一！費半慘跌逾5％ 台積電ADR重挫4.60% - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcVp1WTNUMzFTVDZxdWFJbjRKVGhMdFFlQnZYZEJDazluUmZ5MHRZY193UWQwUjE1UmJfQ2pqSFFNUWozLTk3aEFWYXNvd29FTnBXdkVUVmlMRGhaUWJwX2FSZnlCangxa3hsMW90NnZmdURrQjBvajJiUzNxSUFIeHBKNEJpNFItbDVsb1NNLW50em43MVNIUEdsQ2JaUWhGYXBwT25NQ0hrUHNpY0J0cEhLaDBCS2s2YUY4bTlQaU5zNnVZVDlaVTVpQ0UwU3FFd1J2bkxkVWgyQ3JzX01HdmhoMGNGWjhBQXJRM2UzdlloRU1uYlpSUDh1UjFzdzhaRGFxVEJjXzl4WVktWHNXUTNGOUxmUExxdUkyM3U4aTZCYTVjclVpR2g0MHlWVEpuTENqZWRCcWE?oc=5",
-      "date": "2026-11-16T22:55:08+08:00"
+      "title": "國安基金出手了！台積電翻紅大漲55元 指數急拉逾1700點 - 聚財網",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JaDFTOW9RYWkwVURseDJOOW90MjQtRVdBUk9kWWhwZGV2bGRTWC1MZHh1Y0dLd1NNWFhlWjA1c1B1ODIwb0pYNGZsanY?oc=5",
+      "date": "2026-11-17T09:29:54+08:00"
     },
     {
-      "title": "盤中速報 - 台積電ADR(TSM-US)大跌5.01%，報378.77美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yU0RLcXdOclJYdzlaUEQ3Nlh6bndESXM5aGY4cHplT3U1ZEdWZFZRYlFab2phRzFFV0pIZmtxQWhJOF9reXlfQ2FMMVJWQjd3OE5PTFZNbGhrenRsWVZkZjV3R3M?oc=5",
-      "date": "2026-11-16T22:49:33+08:00"
+      "title": "國安基金出手了！台積電翻紅大漲55元 指數急拉逾1700點 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MTXIwTS1wYVgwZUxsNFBfaFBlSkFnN3ZTM2xpUFVKZkM0bENVQUdHcldvTmtfRndpYTdnX1RyODBrSW1IMGxYRWk0Nk90eHhmWVQtS1RvTEs?oc=5",
+      "date": "2026-11-17T09:23:25+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T00:10:10.526322+08:00"
+  "updatedAt": "2026-11-17T09:43:44.030598+08:00"
 }
