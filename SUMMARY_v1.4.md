@@ -77,3 +77,13 @@
 ## Modern Web Guidance
 
 我查閱了文字插入與 sanitize-untrusted-html 指南；這次僅沿用既有 escape 插入純文字來源，未引入新的 HTML API 或套用額外指南改造。
+
+## 本次派單驗收複查（2026-11-17 10:44 台北）
+
+- 現有 main 已包含實作、單元測試、實際取數及部署；本次重新執行 11 個 Python 測試、Worker 測試、app.js 語法檢查及 diff 空白檢查，均通過，未更動功能或資料。
+- 直接讀取正式站 JSON：NVDA 為 2026-11-16、156.14 USD、Nasdaq；TSLA 為 2026-11-16、379.74 USD、Nasdaq。正式站 app.js 包含「收盤來源：」顯示程式。
+- 最新已完成 workflow [44004515361](https://github.com/edjumptw/stock-watch/actions/runs/44004515361) 成功，對應 main `711691c38ddd880925537827fe0e806fbaa6e7f6`。
+- 再次直接請求 Stooq NVDA CSV（20261112–20261116），仍取得 HTML JavaScript 瀏覽器驗證頁，沒有有效 OHLCV CSV。指定 Stooq／Yahoo 價差 <0.5% 抽核依然無法完成；既有 Nasdaq／Yahoo 比對不能替代此驗收條件。
+- 本次派單結果為 **FAILED（驗收條件未全數滿足）**；功能、正式站及資料已保存，失敗原因只限上述跨來源抽核。
+
+【交接】通知誰：Kinki／紀錄存哪：本摘要與 data/validation_v1.4.json／誰經手：Codex／誰接手、下一步：來源恢復提供公開 CSV 後，補做 NVDA、TSLA 同日 Stooq／Yahoo 比對並記錄取數時間與價差，再完成驗收。
