@@ -58,7 +58,21 @@
 - 正式站截圖 `screenshots/v1.4-{NVDA,TSLA}-{390,1440}-production.png` 已保存；台北約 10:36 驗證。
 - 摘要及正式站截圖另以交件紀錄 commit 推 main；既存未追蹤 tasks/ 保持原狀。
 
-【交接】通知誰：Kinki／紀錄存哪：SUMMARY_v1.4.md、data/validation_v1.4.json、screenshots/v1.4-* 與 Git commit／誰經手：Codex／誰接手、下一步：Kinki 於 Stooq 可正常回傳 CSV 時補做 11/13 同日 Yahoo 比對，門檻 <0.5%，再完成全部驗收並回報執董。其餘功能與部署驗證見本摘要。
+## 第二次派單複查（2026-11-17 10:38 台北）
+
+- 重試 Stooq：curl（stooq.com、stooq.pl，含日期範圍）仍回 JavaScript 瀏覽器驗證頁；headless Chromium 直接下載得到 0 位元組空檔，先開報價頁再下載亦同。未嘗試破解或繞過驗證。程式遇空檔或 HTML 會拋錯並改走 Nasdaq，行為正確。
+- **Stooq／Yahoo <0.5% 抽核仍無法完成。**
+- 新增佐證：Yahoo 此時已補上 11/16 收盤，拿來與先前 Nasdaq 補值同日比對（取數 2026-11-17 10:38:33 +08:00）：
+
+| 股票 | 日期 | Yahoo Close（事後） | Nasdaq 補值 | 價差 % |
+| --- | --- | ---: | ---: | ---: |
+| NVDA | 2026-11-16 | 156.13999938964844 | 156.14 | 0.00000039% |
+| TSLA | 2026-11-16 | 379.739990234375 | 379.74 | 0.0000026% |
+
+- 正式站 NVDA、TSLA JSON 仍為 2026-11-16、來源 Nasdaq；最近一次 workflow 44004092041 成功。下次排程若 Yahoo 已有該日，依設計會改標「Yahoo Finance」（Yahoo 優先）。
+- 11 個 Python 單元測試重跑通過。紀錄已寫入 `data/validation_v1.4.json` 的 `recheck`。
+
+【交接】通知誰：Kinki／紀錄存哪：SUMMARY_v1.4.md、data/validation_v1.4.json、screenshots/v1.4-* 與 Git commit／誰經手：Codex（初版）、Claude（第二次複查）／誰接手、下一步：Kinki 於 Stooq 可正常回傳 CSV 時補做 11/13 同日 Yahoo 比對，門檻 <0.5%，再完成全部驗收並回報執董。其餘功能與部署驗證見本摘要。
 
 ## Modern Web Guidance
 

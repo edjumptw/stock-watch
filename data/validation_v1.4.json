@@ -16,5 +16,25 @@
       "nasdaqClose": 390.22,
       "differencePct": 3.128243331040892e-07
     }
-  ]
+  ],
+  "recheck": {
+    "fetchedAt": "2026-11-17T10:38:33.118369+08:00",
+    "stooqStatus": "Retried curl (stooq.com/.pl) and headless Chromium download: HTML JS verification page or empty 0-byte download; no CSV. Stooq/Yahoo comparison still unavailable; verification was not bypassed.",
+    "nasdaqFilledDayVsYahooLater": [
+      {
+        "symbol": "NVDA",
+        "date": "2026-11-16",
+        "yahooClose": 156.13999938964844,
+        "nasdaqClose": 156.14,
+        "differencePct": 3.909001788926503e-07
+      },
+      {
+        "symbol": "TSLA",
+        "date": "2026-11-16",
+        "yahooClose": 379.739990234375,
+        "nasdaqClose": 379.74,
+        "differencePct": 2.5716609508563693e-06
+      }
+    ]
+  }
 }
