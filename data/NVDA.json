@@ -3,17 +3,18 @@
   "name": "NVIDIA",
   "query": "NVIDIA",
   "currency": "USD",
-  "date": "2026-11-13",
-  "dateTaipei": "2026-11-13T13:00:00+08:00",
-  "close": 162.85000610351562,
-  "change": -3.34,
-  "changePct": -2.0097,
-  "volume": 363819700,
+  "source": "Nasdaq",
+  "date": "2026-11-16",
+  "dateTaipei": "2026-11-16T13:00:00+08:00",
+  "close": 156.14,
+  "change": -6.71,
+  "changePct": -4.1204,
+  "volume": 333822100,
   "bias": "偏弱",
-  "performance20": -23.95,
-  "volumeRatio": 1.85,
+  "performance20": -28.08,
+  "volumeRatio": 1.6,
   "recommendation": {
-    "date": "2026-11-13",
+    "date": "2026-11-16",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,29 +23,33 @@
     ],
     "support": [
       {
-        "price": 162.85,
+        "price": 156.14,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 162.85,
+        "price": 156.14,
         "source": "近 20 日最低收盤價"
       },
       {
-        "price": 198.6885,
+        "price": 195.641,
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.8504
+    "volumeRatio": 1.5992
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -23.95%。",
-    "本日成交量為前 20 日均量的 1.85 倍，交易較熱絡。",
-    "RSI(14) 為 24.9。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.08%。",
+    "本日成交量為前 20 日均量的 1.60 倍，交易較熱絡。",
+    "RSI(14) 為 22.7。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
+      "source": "Yahoo Finance",
+      "open": 229.87,
+      "high": 230.0,
+      "low": 218.37,
       "date": "2026-05-18",
       "close": 222.32,
       "volume": 146280900,
@@ -54,6 +59,10 @@
       "ma60": 192.4472
     },
     {
+      "source": "Yahoo Finance",
+      "open": 219.62,
+      "high": 224.48,
+      "low": 217.91,
       "date": "2026-05-19",
       "close": 220.61,
       "volume": 140948200,
@@ -63,6 +72,10 @@
       "ma60": 192.9315
     },
     {
+      "source": "Yahoo Finance",
+      "open": 223.18,
+      "high": 226.13,
+      "low": 220.5,
       "date": "2026-05-20",
       "close": 223.47,
       "volume": 184201600,
@@ -72,6 +85,10 @@
       "ma60": 193.4418
     },
     {
+      "source": "Yahoo Finance",
+      "open": 222.29,
+      "high": 227.4,
+      "low": 217.93,
       "date": "2026-05-21",
       "close": 219.51,
       "volume": 203381800,
@@ -81,6 +98,10 @@
       "ma60": 193.841
     },
     {
+      "source": "Yahoo Finance",
+      "open": 220.9,
+      "high": 221.01,
+      "low": 214.8,
       "date": "2026-05-22",
       "close": 215.33,
       "volume": 169275700,
@@ -90,6 +111,10 @@
       "ma60": 194.3483
     },
     {
+      "source": "Yahoo Finance",
+      "open": 216.54,
+      "high": 218.18,
+      "low": 212.0,
       "date": "2026-05-26",
       "close": 214.86,
       "volume": 187202600,
@@ -99,6 +124,10 @@
       "ma60": 194.9762
     },
     {
+      "source": "Yahoo Finance",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.78,
       "date": "2026-05-27",
       "close": 212.6,
       "volume": 167601200,
@@ -108,6 +137,10 @@
       "ma60": 195.4782
     },
     {
+      "source": "Yahoo Finance",
+      "open": 211.28,
+      "high": 215.52,
+      "low": 211.22,
       "date": "2026-05-28",
       "close": 214.25,
       "volume": 143996000,
@@ -117,6 +150,10 @@
       "ma60": 196.0482
     },
     {
+      "source": "Yahoo Finance",
+      "open": 214.58,
+      "high": 217.86,
+      "low": 211.13,
       "date": "2026-05-29",
       "close": 211.14,
       "volume": 289410600,
@@ -126,6 +163,10 @@
       "ma60": 196.5165
     },
     {
+      "source": "Yahoo Finance",
+      "open": 215.73,
+      "high": 224.87,
+      "low": 215.7,
       "date": "2026-06-01",
       "close": 224.36,
       "volume": 212850700,
@@ -135,6 +176,10 @@
       "ma60": 197.2002
     },
     {
+      "source": "Yahoo Finance",
+      "open": 227.18,
+      "high": 232.28,
+      "low": 221.35,
       "date": "2026-06-02",
       "close": 222.82,
       "volume": 193362900,
@@ -144,6 +189,10 @@
       "ma60": 197.9502
     },
     {
+      "source": "Yahoo Finance",
+      "open": 221.72,
+      "high": 222.82,
+      "low": 214.51,
       "date": "2026-06-03",
       "close": 214.75,
       "volume": 160907000,
@@ -153,6 +202,10 @@
       "ma60": 198.4852
     },
     {
+      "source": "Yahoo Finance",
+      "open": 213.91,
+      "high": 221.6,
+      "low": 210.97,
       "date": "2026-06-04",
       "close": 218.66,
       "volume": 169022200,
@@ -162,6 +215,10 @@
       "ma60": 199.05
     },
     {
+      "source": "Yahoo Finance",
+      "open": 214.53,
+      "high": 214.87,
+      "low": 204.33,
       "date": "2026-06-05",
       "close": 205.1,
       "volume": 219655500,
@@ -171,6 +228,10 @@
       "ma60": 199.3678
     },
     {
+      "source": "Yahoo Finance",
+      "open": 210.18,
+      "high": 210.47,
+      "low": 206.0,
       "date": "2026-06-08",
       "close": 208.64,
       "volume": 138372800,
@@ -180,6 +241,10 @@
       "ma60": 199.7928
     },
     {
+      "source": "Yahoo Finance",
+      "open": 210.62,
+      "high": 211.4,
+      "low": 199.34,
       "date": "2026-06-09",
       "close": 208.19,
       "volume": 180962500,
@@ -189,6 +254,10 @@
       "ma60": 200.2585
     },
     {
+      "source": "Yahoo Finance",
+      "open": 204.43,
+      "high": 207.22,
+      "low": 199.92,
       "date": "2026-06-10",
       "close": 200.42,
       "volume": 161746600,
@@ -198,6 +267,10 @@
       "ma60": 200.5452
     },
     {
+      "source": "Yahoo Finance",
+      "open": 201.49,
+      "high": 205.66,
+      "low": 199.54,
       "date": "2026-06-11",
       "close": 204.87,
       "volume": 158643200,
@@ -207,6 +280,10 @@
       "ma60": 200.9275
     },
     {
+      "source": "Yahoo Finance",
+      "open": 204.86,
+      "high": 207.07,
+      "low": 203.44,
       "date": "2026-06-12",
       "close": 205.19,
       "volume": 112001800,
@@ -216,6 +293,10 @@
       "ma60": 201.3407
     },
     {
+      "source": "Yahoo Finance",
+      "open": 208.92,
+      "high": 212.71,
+      "low": 208.34,
       "date": "2026-06-15",
       "close": 212.45,
       "volume": 149936700,
@@ -225,6 +306,10 @@
       "ma60": 201.9055
     },
     {
+      "source": "Yahoo Finance",
+      "open": 211.18,
+      "high": 211.49,
+      "low": 207.29,
       "date": "2026-06-16",
       "close": 207.41,
       "volume": 125694100,
@@ -234,6 +319,10 @@
       "ma60": 202.484
     },
     {
+      "source": "Yahoo Finance",
+      "open": 208.53,
+      "high": 209.21,
+      "low": 203.08,
       "date": "2026-06-17",
       "close": 204.65,
       "volume": 128363500,
@@ -243,6 +332,10 @@
       "ma60": 202.9675
     },
     {
+      "source": "Yahoo Finance",
+      "open": 207.33,
+      "high": 211.39,
+      "low": 206.5,
       "date": "2026-06-18",
       "close": 210.69,
       "volume": 241272000,
@@ -252,6 +345,10 @@
       "ma60": 203.559
     },
     {
+      "source": "Yahoo Finance",
+      "open": 211.44,
+      "high": 213.99,
+      "low": 207.72,
       "date": "2026-06-22",
       "close": 208.65,
       "volume": 122041400,
@@ -261,6 +358,10 @@
       "ma60": 204.0585
     },
     {
+      "source": "Yahoo Finance",
+      "open": 202.17,
+      "high": 203.77,
+      "low": 200.0,
       "date": "2026-06-23",
       "close": 200.04,
       "volume": 153496200,
@@ -270,6 +371,10 @@
       "ma60": 204.5385
     },
     {
+      "source": "Yahoo Finance",
+      "open": 200.12,
+      "high": 201.67,
+      "low": 196.58,
       "date": "2026-06-24",
       "close": 199.0,
       "volume": 151810700,
@@ -279,6 +384,10 @@
       "ma60": 205.0632
     },
     {
+      "source": "Yahoo Finance",
+      "open": 200.08,
+      "high": 200.8,
+      "low": 192.13,
       "date": "2026-06-25",
       "close": 195.74,
       "volume": 149550000,
@@ -288,6 +397,10 @@
       "ma60": 205.5727
     },
     {
+      "source": "Yahoo Finance",
+      "open": 193.12,
+      "high": 195.55,
+      "low": 191.22,
       "date": "2026-06-26",
       "close": 192.53,
       "volume": 179304100,
@@ -297,6 +410,10 @@
       "ma60": 205.8748
     },
     {
+      "source": "Yahoo Finance",
+      "open": 193.85,
+      "high": 196.18,
+      "low": 189.8,
       "date": "2026-06-29",
       "close": 194.97,
       "volume": 148835700,
@@ -306,6 +423,10 @@
       "ma60": 206.1952
     },
     {
+      "source": "Yahoo Finance",
+      "open": 197.24,
+      "high": 200.63,
+      "low": 195.11,
       "date": "2026-06-30",
       "close": 200.09,
       "volume": 166476700,
@@ -315,6 +436,10 @@
       "ma60": 206.5735
     },
     {
+      "source": "Yahoo Finance",
+      "open": 196.2,
+      "high": 199.85,
+      "low": 193.45,
       "date": "2026-07-01",
       "close": 197.58,
       "volume": 146147600,
@@ -324,6 +449,10 @@
       "ma60": 206.9058
     },
     {
+      "source": "Yahoo Finance",
+      "open": 197.14,
+      "high": 200.06,
+      "low": 192.35,
       "date": "2026-07-02",
       "close": 194.83,
       "volume": 142068700,
@@ -333,6 +462,10 @@
       "ma60": 207.1847
     },
     {
+      "source": "Yahoo Finance",
+      "open": 194.42,
+      "high": 197.55,
+      "low": 193.99,
       "date": "2026-07-06",
       "close": 195.55,
       "volume": 108999000,
@@ -342,6 +475,10 @@
       "ma60": 207.4092
     },
     {
+      "source": "Yahoo Finance",
+      "open": 192.37,
+      "high": 198.41,
+      "low": 191.14,
       "date": "2026-07-07",
       "close": 196.93,
       "volume": 124154600,
@@ -351,6 +488,10 @@
       "ma60": 207.6262
     },
     {
+      "source": "Yahoo Finance",
+      "open": 195.18,
+      "high": 205.16,
+      "low": 195.06,
       "date": "2026-07-08",
       "close": 204.12,
       "volume": 147419100,
@@ -360,6 +501,10 @@
       "ma60": 207.8843
     },
     {
+      "source": "Yahoo Finance",
+      "open": 204.46,
+      "high": 204.59,
+      "low": 198.96,
       "date": "2026-07-09",
       "close": 202.78,
       "volume": 132037400,
@@ -369,6 +514,10 @@
       "ma60": 208.1088
     },
     {
+      "source": "Yahoo Finance",
+      "open": 202.0,
+      "high": 211.0,
+      "low": 201.92,
       "date": "2026-07-10",
       "close": 210.96,
       "volume": 148421000,
@@ -378,6 +527,10 @@
       "ma60": 208.3497
     },
     {
+      "source": "Yahoo Finance",
+      "open": 208.54,
+      "high": 210.57,
+      "low": 203.0,
       "date": "2026-07-13",
       "close": 203.53,
       "volume": 121411000,
@@ -387,6 +540,10 @@
       "ma60": 208.4273
     },
     {
+      "source": "Yahoo Finance",
+      "open": 208.2,
+      "high": 212.55,
+      "low": 203.8,
       "date": "2026-07-14",
       "close": 211.8,
       "volume": 124379600,
@@ -396,6 +553,10 @@
       "ma60": 208.6515
     },
     {
+      "source": "Yahoo Finance",
+      "open": 211.96,
+      "high": 213.81,
+      "low": 206.04,
       "date": "2026-07-15",
       "close": 212.5,
       "volume": 124797200,
@@ -405,6 +566,10 @@
       "ma60": 208.8318
     },
     {
+      "source": "Yahoo Finance",
+      "open": 210.17,
+      "high": 211.08,
+      "low": 205.85,
       "date": "2026-07-16",
       "close": 207.4,
       "volume": 122986100,
@@ -414,6 +579,10 @@
       "ma60": 208.9208
     },
     {
+      "source": "Yahoo Finance",
+      "open": 202.64,
+      "high": 206.65,
+      "low": 197.97,
       "date": "2026-07-17",
       "close": 202.81,
       "volume": 144281900,
@@ -423,6 +592,10 @@
       "ma60": 208.9697
     },
     {
+      "source": "Yahoo Finance",
+      "open": 205.87,
+      "high": 207.74,
+      "low": 202.28,
       "date": "2026-07-20",
       "close": 203.28,
       "volume": 88701500,
@@ -432,6 +605,10 @@
       "ma60": 208.9827
     },
     {
+      "source": "Yahoo Finance",
+      "open": 207.54,
+      "high": 208.65,
+      "low": 204.01,
       "date": "2026-07-21",
       "close": 207.29,
       "volume": 108685600,
@@ -441,6 +618,10 @@
       "ma60": 209.1102
     },
     {
+      "source": "Yahoo Finance",
+      "open": 205.81,
+      "high": 214.39,
+      "low": 204.95,
       "date": "2026-07-22",
       "close": 212.06,
       "volume": 137645600,
@@ -450,6 +631,10 @@
       "ma60": 209.1733
     },
     {
+      "source": "Yahoo Finance",
+      "open": 209.46,
+      "high": 210.87,
+      "low": 205.96,
       "date": "2026-07-23",
       "close": 208.76,
       "volume": 110505300,
@@ -459,6 +644,10 @@
       "ma60": 209.0425
     },
     {
+      "source": "Yahoo Finance",
+      "open": 207.45,
+      "high": 211.91,
+      "low": 204.81,
       "date": "2026-07-24",
       "close": 206.84,
       "volume": 114836800,
@@ -468,6 +657,10 @@
       "ma60": 208.937
     },
     {
+      "source": "Yahoo Finance",
+      "open": 208.2,
+      "high": 208.75,
+      "low": 195.44,
       "date": "2026-07-27",
       "close": 196.51,
       "volume": 154353700,
@@ -477,6 +670,10 @@
       "ma60": 208.7247
     },
     {
+      "source": "Yahoo Finance",
+      "open": 195.0,
+      "high": 198.7,
+      "low": 192.74,
       "date": "2026-07-28",
       "close": 197.01,
       "volume": 134111500,
@@ -486,6 +683,10 @@
       "ma60": 208.682
     },
     {
+      "source": "Yahoo Finance",
+      "open": 195.85,
+      "high": 197.07,
+      "low": 190.01,
       "date": "2026-07-29",
       "close": 190.01,
       "volume": 147680800,
@@ -495,6 +696,10 @@
       "ma60": 208.5413
     },
     {
+      "source": "Yahoo Finance",
+      "open": 193.45,
+      "high": 197.25,
+      "low": 191.52,
       "date": "2026-07-30",
       "close": 195.04,
       "volume": 129010200,
@@ -504,6 +709,10 @@
       "ma60": 208.484
     },
     {
+      "source": "Yahoo Finance",
+      "open": 198.44,
+      "high": 202.0,
+      "low": 194.95,
       "date": "2026-07-31",
       "close": 200.75,
       "volume": 139961200,
@@ -513,6 +722,10 @@
       "ma60": 208.5548
     },
     {
+      "source": "Yahoo Finance",
+      "open": 197.69,
+      "high": 208.74,
+      "low": 196.85,
       "date": "2026-08-03",
       "close": 206.64,
       "volume": 128406900,
@@ -522,6 +735,10 @@
       "ma60": 208.535
     },
     {
+      "source": "Yahoo Finance",
+      "open": 211.3,
+      "high": 213.06,
+      "low": 209.05,
       "date": "2026-08-04",
       "close": 211.94,
       "volume": 134922000,
@@ -531,6 +748,10 @@
       "ma60": 208.5423
     },
     {
+      "source": "Yahoo Finance",
+      "open": 216.86,
+      "high": 222.22,
+      "low": 216.4,
       "date": "2026-08-05",
       "close": 219.22,
       "volume": 158187400,
@@ -540,6 +761,10 @@
       "ma60": 208.6093
     },
     {
+      "source": "Yahoo Finance",
+      "open": 221.53,
+      "high": 223.63,
+      "low": 217.0,
       "date": "2026-08-06",
       "close": 218.99,
       "volume": 113940600,
@@ -549,6 +774,10 @@
       "ma60": 208.6018
     },
     {
+      "source": "Yahoo Finance",
+      "open": 221.54,
+      "high": 224.76,
+      "low": 220.66,
       "date": "2026-08-07",
       "close": 223.96,
       "volume": 105669400,
@@ -558,6 +787,10 @@
       "ma60": 208.6548
     },
     {
+      "source": "Yahoo Finance",
+      "open": 223.4,
+      "high": 224.14,
+      "low": 216.77,
       "date": "2026-08-10",
       "close": 217.55,
       "volume": 115846600,
@@ -567,6 +800,10 @@
       "ma60": 208.5168
     },
     {
+      "source": "Yahoo Finance",
+      "open": 222.17,
+      "high": 222.2,
+      "low": 216.2,
       "date": "2026-08-11",
       "close": 217.5,
       "volume": 101273100,
@@ -576,6 +813,10 @@
       "ma60": 208.2128
     },
     {
+      "source": "Yahoo Finance",
+      "open": 221.04,
+      "high": 225.1,
+      "low": 220.2,
       "date": "2026-08-12",
       "close": 224.09,
       "volume": 108783600,
@@ -585,6 +826,10 @@
       "ma60": 208.1923
     },
     {
+      "source": "Yahoo Finance",
+      "open": 225.06,
+      "high": 227.23,
+      "low": 223.71,
       "date": "2026-08-13",
       "close": 225.3,
       "volume": 98867200,
@@ -594,6 +839,10 @@
       "ma60": 208.242
     },
     {
+      "source": "Yahoo Finance",
+      "open": 226.77,
+      "high": 227.49,
+      "low": 224.5,
       "date": "2026-08-14",
       "close": 225.16,
       "volume": 75680900,
@@ -603,6 +852,10 @@
       "ma60": 208.3178
     },
     {
+      "source": "Yahoo Finance",
+      "open": 225.98,
+      "high": 227.92,
+      "low": 224.86,
       "date": "2026-08-17",
       "close": 225.01,
       "volume": 93678700,
@@ -612,6 +865,10 @@
       "ma60": 208.3435
     },
     {
+      "source": "Yahoo Finance",
+      "open": 220.45,
+      "high": 221.64,
+      "low": 218.69,
       "date": "2026-08-18",
       "close": 219.74,
       "volume": 103128200,
@@ -621,6 +878,10 @@
       "ma60": 208.3473
     },
     {
+      "source": "Yahoo Finance",
+      "open": 221.67,
+      "high": 222.87,
+      "low": 216.76,
       "date": "2026-08-19",
       "close": 217.56,
       "volume": 96797300,
@@ -630,6 +891,10 @@
       "ma60": 208.3845
     },
     {
+      "source": "Yahoo Finance",
+      "open": 218.36,
+      "high": 219.86,
+      "low": 215.66,
       "date": "2026-08-20",
       "close": 216.85,
       "volume": 92457000,
@@ -639,6 +904,10 @@
       "ma60": 208.4177
     },
     {
+      "source": "Yahoo Finance",
+      "open": 218.42,
+      "high": 218.74,
+      "low": 214.5,
       "date": "2026-08-21",
       "close": 214.72,
       "volume": 98869300,
@@ -648,6 +917,10 @@
       "ma60": 208.453
     },
     {
+      "source": "Yahoo Finance",
+      "open": 215.53,
+      "high": 215.59,
+      "low": 207.25,
       "date": "2026-08-24",
       "close": 208.48,
       "volume": 135187300,
@@ -657,6 +930,10 @@
       "ma60": 208.3568
     },
     {
+      "source": "Yahoo Finance",
+      "open": 211.03,
+      "high": 214.73,
+      "low": 210.11,
       "date": "2026-08-25",
       "close": 213.05,
       "volume": 122309000,
@@ -666,6 +943,10 @@
       "ma60": 208.3887
     },
     {
+      "source": "Yahoo Finance",
+      "open": 212.64,
+      "high": 213.6,
+      "low": 209.23,
       "date": "2026-08-26",
       "close": 209.66,
       "volume": 179900000,
@@ -675,6 +956,10 @@
       "ma60": 208.1437
     },
     {
+      "source": "Yahoo Finance",
+      "open": 222.86,
+      "high": 230.47,
+      "low": 220.9,
       "date": "2026-08-27",
       "close": 227.98,
       "volume": 298909800,
@@ -684,6 +969,10 @@
       "ma60": 208.2297
     },
     {
+      "source": "Yahoo Finance",
+      "open": 227.36,
+      "high": 229.26,
+      "low": 216.81,
       "date": "2026-08-28",
       "close": 217.55,
       "volume": 195116400,
@@ -693,6 +982,10 @@
       "ma60": 208.2763
     },
     {
+      "source": "Yahoo Finance",
+      "open": 218.87,
+      "high": 221.3,
+      "low": 216.21,
       "date": "2026-08-31",
       "close": 220.78,
       "volume": 124702700,
@@ -702,6 +995,10 @@
       "ma60": 208.3117
     },
     {
+      "source": "Yahoo Finance",
+      "open": 216.75,
+      "high": 220.41,
+      "low": 215.1,
       "date": "2026-09-01",
       "close": 217.44,
       "volume": 109756200,
@@ -711,6 +1008,10 @@
       "ma60": 208.5173
     },
     {
+      "source": "Yahoo Finance",
+      "open": 218.79,
+      "high": 227.95,
+      "low": 218.48,
       "date": "2026-09-02",
       "close": 224.41,
       "volume": 157104700,
@@ -720,6 +1021,10 @@
       "ma60": 208.7802
     },
     {
+      "source": "Yahoo Finance",
+      "open": 226.02,
+      "high": 230.4,
+      "low": 224.75,
       "date": "2026-09-03",
       "close": 228.45,
       "volume": 134681600,
@@ -729,6 +1034,10 @@
       "ma60": 209.1178
     },
     {
+      "source": "Yahoo Finance",
+      "open": 231.09,
+      "high": 234.76,
+      "low": 229.63,
       "date": "2026-09-04",
       "close": 230.36,
       "volume": 135352400,
@@ -738,6 +1047,10 @@
       "ma60": 209.6168
     },
     {
+      "source": "Yahoo Finance",
+      "open": 233.11,
+      "high": 233.71,
+      "low": 224.85,
       "date": "2026-09-08",
       "close": 225.73,
       "volume": 122965600,
@@ -747,6 +1060,10 @@
       "ma60": 209.9645
     },
     {
+      "source": "Yahoo Finance",
+      "open": 225.28,
+      "high": 226.18,
+      "low": 223.46,
       "date": "2026-09-09",
       "close": 223.67,
       "volume": 82955500,
@@ -756,6 +1073,10 @@
       "ma60": 210.2725
     },
     {
+      "source": "Yahoo Finance",
+      "open": 220.53,
+      "high": 220.99,
+      "low": 217.2,
       "date": "2026-09-10",
       "close": 218.36,
       "volume": 105768000,
@@ -765,6 +1086,10 @@
       "ma60": 210.371
     },
     {
+      "source": "Yahoo Finance",
+      "open": 221.24,
+      "high": 222.0,
+      "low": 218.15,
       "date": "2026-09-11",
       "close": 218.29,
       "volume": 89060100,
@@ -774,6 +1099,10 @@
       "ma60": 210.5523
     },
     {
+      "source": "Yahoo Finance",
+      "open": 211.24,
+      "high": 212.77,
+      "low": 208.93,
       "date": "2026-09-14",
       "close": 210.96,
       "volume": 132267200,
@@ -783,6 +1112,10 @@
       "ma60": 210.6575
     },
     {
+      "source": "Yahoo Finance",
+      "open": 213.38,
+      "high": 213.94,
+      "low": 211.16,
       "date": "2026-09-15",
       "close": 212.17,
       "volume": 88059700,
@@ -792,6 +1125,10 @@
       "ma60": 210.6822
     },
     {
+      "source": "Yahoo Finance",
+      "open": 214.14,
+      "high": 216.76,
+      "low": 212.5,
       "date": "2026-09-16",
       "close": 213.9,
       "volume": 96563600,
@@ -801,6 +1138,10 @@
       "ma60": 210.7697
     },
     {
+      "source": "Yahoo Finance",
+      "open": 218.38,
+      "high": 219.91,
+      "low": 217.15,
       "date": "2026-09-17",
       "close": 219.34,
       "volume": 94191300,
@@ -810,6 +1151,10 @@
       "ma60": 211.0913
     },
     {
+      "source": "Yahoo Finance",
+      "open": 219.35,
+      "high": 222.73,
+      "low": 218.03,
       "date": "2026-09-18",
       "close": 222.27,
       "volume": 190287400,
@@ -819,6 +1164,10 @@
       "ma60": 211.4792
     },
     {
+      "source": "Yahoo Finance",
+      "open": 222.94,
+      "high": 228.5,
+      "low": 221.56,
       "date": "2026-09-21",
       "close": 227.38,
       "volume": 109806100,
@@ -828,6 +1177,10 @@
       "ma60": 212.0065
     },
     {
+      "source": "Yahoo Finance",
+      "open": 226.85,
+      "high": 229.98,
+      "low": 226.5,
       "date": "2026-09-22",
       "close": 228.87,
       "volume": 95746700,
@@ -837,6 +1190,10 @@
       "ma60": 212.6122
     },
     {
+      "source": "Yahoo Finance",
+      "open": 228.03,
+      "high": 228.95,
+      "low": 224.02,
       "date": "2026-09-23",
       "close": 225.51,
       "volume": 89547300,
@@ -846,6 +1203,10 @@
       "ma60": 213.1212
     },
     {
+      "source": "Yahoo Finance",
+      "open": 222.08,
+      "high": 224.94,
+      "low": 221.09,
       "date": "2026-09-24",
       "close": 224.58,
       "volume": 77469900,
@@ -855,6 +1216,10 @@
       "ma60": 213.5293
     },
     {
+      "source": "Yahoo Finance",
+      "open": 225.13,
+      "high": 226.94,
+      "low": 223.13,
       "date": "2026-09-25",
       "close": 225.07,
       "volume": 89947700,
@@ -864,6 +1229,10 @@
       "ma60": 213.9875
     },
     {
+      "source": "Yahoo Finance",
+      "open": 229.75,
+      "high": 233.21,
+      "low": 228.04,
       "date": "2026-09-28",
       "close": 228.86,
       "volume": 142344300,
@@ -873,6 +1242,10 @@
       "ma60": 214.5547
     },
     {
+      "source": "Yahoo Finance",
+      "open": 230.97,
+      "high": 232.82,
+      "low": 227.03,
       "date": "2026-09-29",
       "close": 227.21,
       "volume": 101494900,
@@ -882,6 +1255,10 @@
       "ma60": 215.0823
     },
     {
+      "source": "Yahoo Finance",
+      "open": 229.27,
+      "high": 232.37,
+      "low": 228.17,
       "date": "2026-09-30",
       "close": 228.38,
       "volume": 121732200,
@@ -891,6 +1268,10 @@
       "ma60": 215.6065
     },
     {
+      "source": "Yahoo Finance",
+      "open": 229.98,
+      "high": 232.29,
+      "low": 228.16,
       "date": "2026-10-01",
       "close": 230.86,
       "volume": 98591400,
@@ -900,6 +1281,10 @@
       "ma60": 216.0522
     },
     {
+      "source": "Yahoo Finance",
+      "open": 236.06,
+      "high": 237.88,
+      "low": 233.6,
       "date": "2026-10-02",
       "close": 233.95,
       "volume": 135167800,
@@ -909,6 +1294,10 @@
       "ma60": 216.5717
     },
     {
+      "source": "Yahoo Finance",
+      "open": 236.09,
+      "high": 240.1,
+      "low": 235.15,
       "date": "2026-10-05",
       "close": 238.9,
       "volume": 127171500,
@@ -918,6 +1307,10 @@
       "ma60": 217.0373
     },
     {
+      "source": "Yahoo Finance",
+      "open": 242.1,
+      "high": 243.37,
+      "low": 238.93,
       "date": "2026-10-06",
       "close": 239.24,
       "volume": 101701900,
@@ -927,6 +1320,10 @@
       "ma60": 217.6325
     },
     {
+      "source": "Yahoo Finance",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.38,
       "date": "2026-10-07",
       "close": 237.47,
       "volume": 81772400,
@@ -936,6 +1333,10 @@
       "ma60": 218.0603
     },
     {
+      "source": "Yahoo Finance",
+      "open": 234.92,
+      "high": 237.07,
+      "low": 229.85,
       "date": "2026-10-08",
       "close": 230.48,
       "volume": 118697400,
@@ -945,6 +1346,10 @@
       "ma60": 218.36
     },
     {
+      "source": "Yahoo Finance",
+      "open": 233.84,
+      "high": 233.92,
+      "low": 229.11,
       "date": "2026-10-09",
       "close": 229.28,
       "volume": 84645600,
@@ -954,6 +1359,10 @@
       "ma60": 218.7247
     },
     {
+      "source": "Yahoo Finance",
+      "open": 228.73,
+      "high": 228.86,
+      "low": 224.9,
       "date": "2026-10-12",
       "close": 226.32,
       "volume": 70690300,
@@ -963,6 +1372,10 @@
       "ma60": 219.1165
     },
     {
+      "source": "Yahoo Finance",
+      "open": 224.34,
+      "high": 228.64,
+      "low": 223.06,
       "date": "2026-10-13",
       "close": 228.52,
       "volume": 84036900,
@@ -972,6 +1385,10 @@
       "ma60": 219.5372
     },
     {
+      "source": "Yahoo Finance",
+      "open": 225.53,
+      "high": 226.0,
+      "low": 219.64,
       "date": "2026-10-14",
       "close": 221.3,
       "volume": 118730100,
@@ -981,6 +1398,10 @@
       "ma60": 219.7707
     },
     {
+      "source": "Yahoo Finance",
+      "open": 215.3,
+      "high": 218.47,
+      "low": 212.85,
       "date": "2026-10-15",
       "close": 217.23,
       "volume": 127087900,
@@ -990,6 +1411,10 @@
       "ma60": 219.8568
     },
     {
+      "source": "Yahoo Finance",
+      "open": 216.56,
+      "high": 218.68,
+      "low": 213.32,
       "date": "2026-10-16",
       "close": 214.13,
       "volume": 121252500,
@@ -999,6 +1424,10 @@
       "ma60": 219.9463
     },
     {
+      "source": "Yahoo Finance",
+      "open": 218.1,
+      "high": 219.62,
+      "low": 214.7,
       "date": "2026-10-19",
       "close": 217.09,
       "volume": 98684700,
@@ -1008,6 +1437,10 @@
       "ma60": 220.1172
     },
     {
+      "source": "Yahoo Finance",
+      "open": 215.98,
+      "high": 218.46,
+      "low": 212.77,
       "date": "2026-10-20",
       "close": 216.47,
       "volume": 79609100,
@@ -1017,6 +1450,10 @@
       "ma60": 220.4498
     },
     {
+      "source": "Yahoo Finance",
+      "open": 220.96,
+      "high": 222.19,
+      "low": 217.66,
       "date": "2026-10-21",
       "close": 221.97,
       "volume": 87085700,
@@ -1026,6 +1463,10 @@
       "ma60": 220.8658
     },
     {
+      "source": "Yahoo Finance",
+      "open": 217.13,
+      "high": 218.88,
+      "low": 211.26,
       "date": "2026-10-22",
       "close": 212.21,
       "volume": 125407600,
@@ -1035,6 +1476,10 @@
       "ma60": 221.2358
     },
     {
+      "source": "Yahoo Finance",
+      "open": 210.99,
+      "high": 213.85,
+      "low": 210.18,
       "date": "2026-10-23",
       "close": 210.96,
       "volume": 80189800,
@@ -1044,6 +1489,10 @@
       "ma60": 221.5012
     },
     {
+      "source": "Yahoo Finance",
+      "open": 213.11,
+      "high": 217.75,
+      "low": 212.61,
       "date": "2026-10-26",
       "close": 216.0,
       "volume": 90829300,
@@ -1053,6 +1502,10 @@
       "ma60": 221.7553
     },
     {
+      "source": "Yahoo Finance",
+      "open": 218.31,
+      "high": 219.19,
+      "low": 215.53,
       "date": "2026-10-27",
       "close": 217.94,
       "volume": 84799700,
@@ -1062,6 +1515,10 @@
       "ma60": 221.9437
     },
     {
+      "source": "Yahoo Finance",
+      "open": 219.92,
+      "high": 219.99,
+      "low": 214.47,
       "date": "2026-10-28",
       "close": 215.38,
       "volume": 93030200,
@@ -1071,6 +1528,10 @@
       "ma60": 222.001
     },
     {
+      "source": "Yahoo Finance",
+      "open": 214.36,
+      "high": 215.33,
+      "low": 212.08,
       "date": "2026-10-29",
       "close": 213.66,
       "volume": 77568100,
@@ -1080,6 +1541,10 @@
       "ma60": 221.9083
     },
     {
+      "source": "Yahoo Finance",
+      "open": 208.94,
+      "high": 209.06,
+      "low": 200.92,
       "date": "2026-10-30",
       "close": 204.64,
       "volume": 168386400,
@@ -1089,6 +1554,10 @@
       "ma60": 221.6692
     },
     {
+      "source": "Yahoo Finance",
+      "open": 207.53,
+      "high": 209.98,
+      "low": 201.66,
       "date": "2026-11-02",
       "close": 202.06,
       "volume": 119272200,
@@ -1098,6 +1567,10 @@
       "ma60": 221.3042
     },
     {
+      "source": "Yahoo Finance",
+      "open": 207.96,
+      "high": 209.14,
+      "low": 205.93,
       "date": "2026-11-03",
       "close": 206.69,
       "volume": 91943400,
@@ -1107,6 +1580,10 @@
       "ma60": 221.1232
     },
     {
+      "source": "Yahoo Finance",
+      "open": 203.5,
+      "high": 206.79,
+      "low": 199.68,
       "date": "2026-11-04",
       "close": 200.13,
       "volume": 149033300,
@@ -1116,6 +1593,10 @@
       "ma60": 220.8337
     },
     {
+      "source": "Yahoo Finance",
+      "open": 196.07,
+      "high": 196.25,
+      "low": 181.46,
       "date": "2026-11-05",
       "close": 181.6,
       "volume": 306127800,
@@ -1125,6 +1606,10 @@
       "ma60": 220.1255
     },
     {
+      "source": "Yahoo Finance",
+      "open": 191.1,
+      "high": 194.9,
+      "low": 185.22,
       "date": "2026-11-06",
       "close": 186.64,
       "volume": 180212300,
@@ -1134,6 +1619,10 @@
       "ma60": 219.4812
     },
     {
+      "source": "Yahoo Finance",
+      "open": 173.07,
+      "high": 179.92,
+      "low": 170.24,
       "date": "2026-11-09",
       "close": 178.67,
       "volume": 462719300,
@@ -1143,6 +1632,10 @@
       "ma60": 218.7063
     },
     {
+      "source": "Yahoo Finance",
+      "open": 173.97,
+      "high": 174.69,
+      "low": 165.89,
       "date": "2026-11-10",
       "close": 168.89,
       "volume": 429273200,
@@ -1152,6 +1645,10 @@
       "ma60": 217.771
     },
     {
+      "source": "Yahoo Finance",
+      "open": 172.8,
+      "high": 177.54,
+      "low": 170.77,
       "date": "2026-11-11",
       "close": 173.73,
       "volume": 339214800,
@@ -1161,6 +1658,10 @@
       "ma60": 217.0042
     },
     {
+      "source": "Yahoo Finance",
+      "open": 151.01,
+      "high": 167.14,
+      "low": 148.8,
       "date": "2026-11-12",
       "close": 166.19,
       "volume": 747707600,
@@ -1170,6 +1671,10 @@
       "ma60": 216.148
     },
     {
+      "source": "Yahoo Finance",
+      "open": 169.91,
+      "high": 170.0,
+      "low": 158.39,
       "date": "2026-11-13",
       "close": 162.85,
       "volume": 363819700,
@@ -1177,34 +1682,47 @@
       "ma5": 170.066,
       "ma20": 198.6885,
       "ma60": 215.248
+    },
+    {
+      "source": "Nasdaq",
+      "open": 159.015,
+      "high": 163.2,
+      "low": 155.01,
+      "date": "2026-11-16",
+      "close": 156.14,
+      "volume": 333822100,
+      "rsi": 22.72,
+      "ma5": 165.56,
+      "ma20": 195.641,
+      "ma60": 214.2717
     }
   ],
   "news": [
     {
-      "title": "【Nvidia】英偉達上季遭索羅斯等富豪減持 另NVDA對英特爾持倉減少25%至約1.6億股 - 香港經濟日報HKET",
-      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPdklTTHI0VWI2YTZITHdGWW1Jd25STHZLdmpLZ2ozbWFOUC10MWdocm9ZcHZNdXR6T1BLOEtENXhRdGhMNm8waWpyMk43VVdMelpWbUdxMzdnLVpZMU9VTjhxV1NPTE9KSkszdEVqWGdnaFFXeEZPZmloS0RwZHNhNll4Q1JUUC1rRU9OdWVGNDBfNGdVWnlyUGdxcE5fX01fS0J6ajFvMFNNQlVUUkxjVGFrMHZkOGMyWFcwRXF4eld1M2l6YWJxdHdfTkowd1pvZHhjVk9TdTNGZGpMOVVWRHgtZ1pBR0lSMzlaTnhPdEh0UGhBRWtwVkVhNTZZYTVmWXByRHZmLVQ1cmt4WEtDTDF3cjBnSG5aUHJwR2o5UXRrMFoyWUJoeFFvZm5SaHl0TDJtai1xY2V1RnNBYkgxeHY3WEs4aTF0bmJZX3YzU3VfcWpJclg4SEREMXJ6dFYxZC1DRWlhTXNlZWl4alFGeGt6VmRvTGhuaFkxdnNWSzFCeURJMDNzSnRIczUxTVRyVVF2eGhXeWlXbHRSb005dUNRemVveVF4SnI5cExtZFJWR3NXRnZISFpUS19YZ3MwZjdHR2NTOGRNY0NwQ2pjMXVrc1piZ1FFNk93?oc=5",
-      "date": "2026-11-17T09:08:16+08:00"
+      "title": "KB資產運用推美國前十大ETF，Apple、Nvidia、SpaceX一網打盡 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oSjFUUmJYQi1oU1E0d3N3NXdNZmxsZ3BoX0Mzekw0eTA2RFVSbmx4WFRuTTJ4TFhkMEd2U2wtZFlLY09RajF6RGtYeHZXQWZmdEtWMXBvQjhSYnpDTUlWWEUxUkw0U1hlRkdxbklBcndDMjNVMHR4YTlB?oc=5",
+      "date": "2026-11-17T09:56:00+08:00"
     },
     {
-      "title": "Nvidia領導層異動牽動AI產業發展 - 電子工程專輯",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGxiM0U2cGdxdzEyMUVQd2RKdzNMd3ZxWjRuMXZqRXhCX0hicndCLTdGN2pnRzVoNld1NWR3TG5oNFJqRjV6M0xRNDFTanJobHFXVjBJRk03eTRfSk0xRW16MzRKelFZYTE5ei1YV1J6dElDWmsyVjl3SlEwSWZYSEVBMmJhNVJZRTdJVDNQb09Db213em1tdnBBWDE?oc=5",
-      "date": "2026-11-17T09:03:26+08:00"
+      "title": "整理包／失去黃仁勳首場財報 Nvidia的6大重點？股價恐波動8% - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mby1obE5mMVd3QXZZRzlBX2dhTU5ZQVBFMlJSaDMtOHNfRWd4bkp3cUdSM1ptZXBZNGZQWEFJQkdkajNKSUNCWnM3cFpLSVFCWVBIdm9oZjJPc0t6Z0xYc0NB0gFnQVVfeXFMTlJaeC1NbHJjaTI1LXU4ZGVTak9adWRoSkNfRUFtUlFhbGVhemU0c3NzVkFaLTQ0dE1kV254ZVlpeVF6NVBRLTZ4TmhRMlRlcFpGQmNWY1I3c0N5UUIzOEVralBaS3RwQQ?oc=5",
+      "date": "2026-11-17T09:54:34+08:00"
     },
     {
-      "title": "特朗普支持黃仁勳重返Nvidia 稱或與習近平談及間諜疑雲 - Singtaousa",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDlGY2NtR1l6VVhhUThHblBGZFRFV2ozLUNSRU1IQmcwUDRENk5BcTVLbzlhR01iMnpneFQxYnlLbnA5NExDdVRLQUhnenQxUkZWNXFnc0NpWHhRUWM4X2JXdzZ4MHd2d2dSZkRZOTRkUUxEMzFEN2N1aXpLU2pWNllhZlhZMXFwLUZWcw?oc=5",
-      "date": "2026-11-17T08:52:36+08:00"
+      "title": "NVIDIA公布具有超過5萬個CUDA Core的Rubin HPC GPU，專為科學運算而生 #輝達 (254152) - Cool3c",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRldCcVFBem95NTBBU1JWcjZsYlAzUElVdkVTbEg5NzVVbzd3SFpHVjBsRlc3SnNFUlFIdGc1MUNXbXUwMWVEbUF0Vl9YQQ?oc=5",
+      "date": "2026-11-17T09:52:00+08:00"
     },
     {
-      "title": "川普力挺也沒用？傳Nvidia董事會拒黃仁勳回任 路透揭背後阻力 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZmFMNVVBVlVCTjBBYm9nTjljYXNtTm01NWdGWEVPdGFaSlJHTWNmOHpnRTRLcmQzdTVlU0tlRHZ5U0M3cjh6eFFtQVZUci1QN0F1VWNEazVEbFlVUlp3OEtB0gFnQVVfeXFMTkl1QTFpUjRGSy1mZXhEZ0R2QWVxT0dMNmFKRmVIbjNfU0wtOUtmR28wV2Zqc3I3VGl1Q1JWa3c5cDRPTG84VndXdkl1MEE2MUtpaFFnRmExWUEwWmdnREtWa0tDMy1odw?oc=5",
-      "date": "2026-11-17T08:50:25+08:00"
+      "title": "逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkh4ZENPY2dXd1RwNnZjME1ueUZldW1fY3FHV3l4N1AxT0R6Y0R6bXgzVWk5VDZWUVg3V3RUWnBicXA5WnBOaWcyRG5yS181U1RUbldDcC1LVmtrSXB2NmE3Wkxnc042eUtmeC1jeE0yZnJGc2haZWJxU1hiNFdBSTBBN2huX0JoWHB6VzI0T3FqRFU5?oc=5",
+      "date": "2026-11-17T09:51:49+08:00"
     },
     {
-      "title": "《晶片戰爭》作者：輝達挑戰華府對中鷹派，調查不會止於黃仁勳 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTV9DM1Bna1ZMRzZ6cWxRTU9xRkxfZ0ZPN2c0N0JwcXJmcDFoMTZTdlp1UmwteXlwMFI0NHBPUVdIUUwxd2F4REN6cXM5Z2k4U2s5cnlsb0cwc0VkazQyclUxMmdHdFJnTHc0Ry1fVXNFZEZxb3d6WVA1WjczZEpWelE2Y3B1aC14X0dVa1ZzSm1nY1pQOHVZNkdmdmJjQTJlRlROSUlnMzBHaG1UVkxMLTc0U0NuYmVfdTVWNTJFNkJ4ZVk?oc=5",
-      "date": "2026-11-17T08:45:49+08:00"
+      "title": "三星傳開發Meta客製化HBM、擬採自家2奈米 同步為NVIDIA導入台積電製程 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZ1BWMGlBNU16Vmx2T1hDVnE2MFRzWHQ5RmZIY0MwNkxtUXltYkdMY0VycG9aNWNvQkJ1U3hVM2R2eXlkdTZyR2FhZklpNDVJb3dURnBIZW5RanJ2X09XTEE2YkNXbkkzVDRZ?oc=5",
+      "date": "2026-11-17T09:50:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T09:43:51.243166+08:00"
+  "updatedAt": "2026-11-17T10:32:01.279619+08:00"
 }

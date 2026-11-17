@@ -1,5 +1,6 @@
 """Public end-of-day prices and Google News, no credentials required."""
-import json, math, time
+import csv, io, json, math, time
+import pandas as pd
 from pathlib import Path
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -40,15 +41,92 @@ def news(query):
         rows.append({'title':item.findtext('title'), 'url':link, 'date':date.isoformat()})
     return sorted(rows, key=lambda x:x['date'], reverse=True)[:5]
 
+def fetch_text(url):
+    headers = {'User-Agent': 'Mozilla/5.0', 'Accept': 'application/json,text/csv,*/*',
+               'Referer': 'https://www.nasdaq.com/'}
+    with urlopen(Request(url, headers=headers), timeout=30) as response:
+        return response.read().decode('utf-8-sig')
+
+
+def valid_candle(row):
+    try:
+        o, h, l, c, v = [float(row[k]) for k in ('Open', 'High', 'Low', 'Close', 'Volume')]
+        return (all(math.isfinite(x) for x in (o, h, l, c, v)) and
+                min(o, h, l, c) > 0 and v >= 0 and v.is_integer() and
+                l <= min(o, c) <= max(o, c) <= h)
+    except (KeyError, TypeError, ValueError):
+        return False
+
+
+def fetch_stooq(symbol, start, end):
+    url = 'https://stooq.com/q/d/l/?' + urlencode({
+        's': symbol.lower()+'.us', 'i': 'd',
+        'd1': start.strftime('%Y%m%d'), 'd2': end.strftime('%Y%m%d')})
+    reader = csv.DictReader(io.StringIO(fetch_text(url)))
+    if not reader.fieldnames or not {'Date', 'Open', 'High', 'Low', 'Close', 'Volume'} <= set(reader.fieldnames):
+        raise ValueError('Stooq did not return OHLCV CSV')
+    return {datetime.strptime(r['Date'], '%Y-%m-%d').date():
+            {k: float(r[k]) for k in ('Open', 'High', 'Low', 'Close', 'Volume')}
+            for r in reader if valid_candle(r)}
+
+
+def fetch_nasdaq(symbol, start, end):
+    url = f'https://api.nasdaq.com/api/quote/{symbol}/historical?' + urlencode({
+        'assetclass': 'stocks', 'fromdate': start.isoformat(),
+        'todate': end.isoformat(), 'limit': 5000})
+    payload = json.loads(fetch_text(url))
+    rows = ((payload.get('data') or {}).get('tradesTable') or {}).get('rows') or []
+    result = {}
+    for row in rows:
+        try:
+            candle = {k: float(row[k.lower()].replace('$', '').replace(',', ''))
+                      for k in ('Open', 'High', 'Low', 'Close', 'Volume')}
+            if valid_candle(candle):
+                result[datetime.strptime(row['date'], '%m/%d/%Y').date()] = candle
+        except (KeyError, TypeError, ValueError):
+            continue
+    return result
+
+
+def complete_us_history(df, symbol, local):
+    """Keep Yahoo closes; fill only confirmed, complete backup session candles.
+
+    Query the entire history window to also discover dates absent from Yahoo.
+    Never synthesize weekday/holiday candles or use an intraday quote.
+    """
+    df = df.copy()
+    df['source'] = 'Yahoo Finance'
+    end = local.date() if (local.hour, local.minute) >= (16, 15) else local.date()-timedelta(days=1)
+    start = df.index.min().date() if len(df) else end-timedelta(days=366)
+    for source, fetch in [('Stooq', fetch_stooq), ('Nasdaq', fetch_nasdaq)]:
+        try:
+            candles = fetch(symbol, start, end)
+        except Exception as exc:
+            print(f'{symbol} {source} unavailable: {exc}', flush=True)
+            continue
+        for day, candle in sorted(candles.items()):
+            if not start <= day <= end or not valid_candle(candle):
+                continue
+            stamp = pd.Timestamp(day, tz='America/New_York')
+            if stamp in df.index and pd.notna(df.at[stamp, 'Close']):
+                continue
+            for key, value in candle.items():
+                df.loc[stamp, key] = value
+            df.loc[stamp, 'source'] = source
+        # Nasdaq remains available for holes Stooq itself did not cover.
+    return df.sort_index().dropna(subset=['Close'])
+
 def build(stock):
     now = datetime.now(TZ)
     df = yf.Ticker(stock['symbol']).history(period='1y', auto_adjust=False, repair=False)
-    if df.empty: raise ValueError('No price data: '+stock['symbol'])
+    if df.empty and stock['currency']=='TWD': raise ValueError('No price data: '+stock['symbol'])
     # Ignore a currently trading daily candle; keep only completed sessions.
     market_tz = ZoneInfo('Asia/Taipei' if stock['currency']=='TWD' else 'America/New_York')
     local = now.astimezone(market_tz)
     cutoff = (14,0) if stock['currency']=='TWD' else (16,15)
-    df = df[[d.date() < local.date() or (d.date() == local.date() and (local.hour,local.minute) >= cutoff) for d in df.index]]
+    df = df.loc[[d.date() < local.date() or (d.date() == local.date() and (local.hour,local.minute) >= cutoff) for d in df.index]]
+    if stock['currency']=='USD':
+        df = complete_us_history(df, stock['symbol'], local)
     df = df.dropna(subset=['Close'])
     if len(df) < 100: raise ValueError('Insufficient history')
     close = df.Close.tolist()
@@ -60,7 +138,7 @@ def build(stock):
     start = now.date()-timedelta(days=184)
     for i,(date,row) in enumerate(df.iterrows()):
         if date.date() < start: continue
-        rows.append({'date':date.date().isoformat(),'close':round(adjusted[i],4),'volume':int(row.Volume),
+        rows.append({**({'source':row['source'], **{k.lower():round(float(row[k]),4) for k in ('Open','High','Low')}} if stock['currency']=='USD' else {}), 'date':date.date().isoformat(),'close':round(adjusted[i],4),'volume':int(row.Volume),
                      'rsi':None if strength[i] is None else round(strength[i],2),
                      **{f'ma{n}':round(averages[n][i],4) for n in averages}})
     last = rows[-1]; prev = adjusted[-2]; change=adjusted[-1]-prev
@@ -73,10 +151,18 @@ def build(stock):
     commentary = [f'技術面{bias}：{alignment}，近 20 個交易日漲跌 {perf:+.2f}%。',f'本日成交量為前 20 日均量的 {volratio:.2f} 倍，'+('交易較熱絡。' if volratio>1.2 else '量能較平淡。' if volratio<0.8 else '量能接近平常。'),f'RSI(14) 為 {strength[-1]:.1f}。'+caution]
     articles = news(stock['query'])
     if len(articles)!=5: raise ValueError('Expected five news items')
-    return {**stock,'date':last['date'],'dateTaipei':df.index[-1].astimezone(TZ).isoformat(),'close':close[-1],
+    return {**stock, **({'source':last['source']} if stock['currency']=='USD' else {}),'date':last['date'],'dateTaipei':df.index[-1].astimezone(TZ).isoformat(),'close':close[-1],
             'change':round(change,4),'changePct':round(change/prev*100,4),'volume':last['volume'],
             'bias':bias,'performance20':round(perf,2),'volumeRatio':round(volratio,2),
             'recommendation':recommend(rows),'commentary':commentary,'history':rows,'news':articles,'updatedAt':now.isoformat()}
+
+def keep_previous_close(result, previous):
+    # A temporary upstream gap must not roll a published US close backwards.
+    if (result['currency'] == 'USD' and previous and
+            previous['date'] > result['date']):
+        return previous
+    return result
+
 
 def main():
     stocks=json.loads((ROOT/'stocks.json').read_text())
@@ -84,7 +170,11 @@ def main():
     for stock in stocks:
         for attempt in range(3):
             try:
-                result=build(stock); results.append(result)
+                result=build(stock)
+                previous_path=ROOT/'data'/(stock['symbol']+'.json')
+                previous=json.loads(previous_path.read_text()) if previous_path.exists() else None
+                result=keep_previous_close(result, previous)
+                results.append(result)
                 print(stock['symbol'], result['date'], result['close'], flush=True)
                 break
             except Exception:

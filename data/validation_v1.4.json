@@ -1,0 +1,20 @@
+{
+  "fetchedAt": "2026-11-17T10:33:05.819280+08:00",
+  "stooqStatus": "Returned HTML browser verification instead of CSV; comparison unavailable",
+  "comparisons": [
+    {
+      "symbol": "NVDA",
+      "date": "2026-11-13",
+      "yahooClose": 162.85000610351562,
+      "nasdaqClose": 162.85,
+      "differencePct": 3.747936994091816e-06
+    },
+    {
+      "symbol": "TSLA",
+      "date": "2026-11-13",
+      "yahooClose": 390.2200012207031,
+      "nasdaqClose": 390.22,
+      "differencePct": 3.128243331040892e-07
+    }
+  ]
+}
