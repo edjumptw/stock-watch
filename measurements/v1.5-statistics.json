@@ -1,0 +1,10 @@
+{
+  "requests": 12,
+  "successfulResponses": 11,
+  "transportErrors": 1,
+  "fallbackRequests": 0,
+  "fallbackQuotes": 0,
+  "taiwanQuotes": 55,
+  "cacheHits": 1,
+  "twseTimeoutAttempts": 1
+}

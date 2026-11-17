@@ -1,0 +1,87 @@
+{
+  "note": "正式端點初次探查，非後續固定間隔樣本；保留 HTTP 伺服器時間",
+  "responseHeaders": "HTTP/2 200 \ndate: Tue, 17 Nov 2026 04:45:12 GMT\ncontent-type: application/json; charset=utf-8\ncontent-length: 1501\naccess-control-allow-origin: https://edjumptw.github.io\ncache-control: no-store\nvary: Origin\naccess-control-allow-methods: GET, OPTIONS\nx-quote-cache: HIT\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5y%2Bzn1yUgOmsZ%2Ba%2BquxXQQJHy9R%2BkdKPZh74TXqBfUuFeCBNeIQeOxLxbnxfcSFjsvAn2SDNO4mASNqQ9ryyNS5fp1UKsrGbWhQyKeQ7b2m7MKt1uIxaQ86NFxziqNFM6oZqy39Qjj2OF%2BmiCKxCOeX33BmvK6qf2fPd2fuRd4JhvEkszwmGqRya8OVKBivu22JOl9I%2BhA4%3D\"}]}\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\nserver: cloudflare\ncf-ray: a5bc15a8d8c805d0-IAD\nalt-svc: h3=\":443\"; ma=86400\n\n",
+  "payload": {
+    "source": "TWSE / Yahoo Finance",
+    "fetchedAt": "2026-11-17T04:45:05.988Z",
+    "quotes": [
+      {
+        "symbol": "2327.TW",
+        "source": "Yahoo Finance",
+        "price": 358,
+        "previousClose": 374,
+        "change": -16,
+        "changePct": -4.278074866310155,
+        "volume": 45707780,
+        "currency": "TWD",
+        "quoteTime": "2026-11-17T04:25:04.000Z"
+      },
+      {
+        "symbol": "2308.TW",
+        "source": "Yahoo Finance",
+        "price": 1040,
+        "previousClose": 1120,
+        "change": -80,
+        "changePct": -7.14285714285714,
+        "volume": 19209904,
+        "currency": "TWD",
+        "quoteTime": "2026-11-17T04:25:05.000Z"
+      },
+      {
+        "symbol": "2330.TW",
+        "source": "Yahoo Finance",
+        "price": 2185,
+        "previousClose": 2215,
+        "change": -30,
+        "changePct": -1.3544018058690765,
+        "volume": 40361687,
+        "currency": "TWD",
+        "quoteTime": "2026-11-17T04:25:04.000Z"
+      },
+      {
+        "symbol": "2301.TW",
+        "source": "Yahoo Finance",
+        "price": 206.5,
+        "previousClose": 213,
+        "change": -6.5,
+        "changePct": -3.0516431924882625,
+        "volume": 13097046,
+        "currency": "TWD",
+        "quoteTime": "2026-11-17T04:24:44.000Z"
+      },
+      {
+        "symbol": "3711.TW",
+        "source": "Yahoo Finance",
+        "price": 518,
+        "previousClose": 550,
+        "change": -32,
+        "changePct": -5.818181818181822,
+        "volume": 22217525,
+        "currency": "TWD",
+        "quoteTime": "2026-11-17T04:25:02.000Z"
+      },
+      {
+        "symbol": "NVDA",
+        "source": "Yahoo Finance",
+        "price": 156.14,
+        "previousClose": 162.85,
+        "change": -6.710000000000008,
+        "changePct": -4.120356155971761,
+        "volume": 329959344,
+        "currency": "USD",
+        "quoteTime": "2026-11-16T21:00:01.000Z"
+      },
+      {
+        "symbol": "TSLA",
+        "source": "Yahoo Finance",
+        "price": 379.74,
+        "previousClose": 390.22,
+        "change": -10.480000000000018,
+        "changePct": -2.685664496950446,
+        "volume": 30080721,
+        "currency": "USD",
+        "quoteTime": "2026-11-16T21:00:00.000Z"
+      }
+    ]
+  }
+}
