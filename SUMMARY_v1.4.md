@@ -87,3 +87,11 @@
 - 本次派單結果為 **FAILED（驗收條件未全數滿足）**；功能、正式站及資料已保存，失敗原因只限上述跨來源抽核。
 
 【交接】通知誰：Kinki／紀錄存哪：本摘要與 data/validation_v1.4.json／誰經手：Codex／誰接手、下一步：來源恢復提供公開 CSV 後，補做 NVDA、TSLA 同日 Stooq／Yahoo 比對並記錄取數時間與價差，再完成驗收。
+
+## 第三次派單複查（2026-11-17 10:44 台北）
+
+- 再次以 curl 請求 Stooq NVDA、TSLA CSV（20261110–20261117）：仍回 HTML JavaScript 瀏覽器驗證頁，無 OHLCV；未嘗試繞過驗證。
+- 11 個 Python 單元測試、Worker 測試重跑均通過；main 與 origin 同步，最近 workflow 44004515361 成功。功能與資料未更動。
+- **指定 Stooq／Yahoo <0.5% 抽核仍無法完成，本次派單仍回報 FAILED，原因僅此一項。**
+
+【交接】通知誰：Kinki／紀錄存哪：本摘要、data/validation_v1.4.json／誰經手：Claude（第三次複查）／誰接手、下一步：Stooq 恢復公開 CSV 後補做同日比對；或由執董決定是否以已完成的 Nasdaq／Yahoo 比對（<0.000004%）替代此驗收條件。再派同一單前請先確認 Stooq 可用，否則結果相同。
