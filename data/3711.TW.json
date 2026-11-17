@@ -3,45 +3,45 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 550.0,
-  "change": -48.0,
-  "changePct": -8.0268,
-  "volume": 20529504,
+  "date": "2026-11-17",
+  "dateTaipei": "2026-11-17T00:00:00+08:00",
+  "close": 520.0,
+  "change": -30.0,
+  "changePct": -5.4545,
+  "volume": 28986956,
   "bias": "偏弱",
-  "performance20": -18.03,
-  "volumeRatio": 0.94,
+  "performance20": -22.39,
+  "volumeRatio": 1.32,
   "recommendation": {
-    "date": "2026-11-16",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-17",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
-        "price": 527.0,
+        "price": 520.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 627.6,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 520.0,
+        "source": "近 20 日最低收盤價"
       },
       {
-        "price": 643.3667,
-        "source": "MA60（近 60 日收盤均價）"
+        "price": 620.1,
+        "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.9428
+    "volumeRatio": 1.3244
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -18.03%。",
-    "本日成交量為前 20 日均量的 0.94 倍，量能接近平常。",
-    "RSI(14) 為 38.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -22.39%。",
+    "本日成交量為前 20 日均量的 1.32 倍，交易較熱絡。",
+    "RSI(14) 為 34.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,9 +1168,33 @@
       "ma5": 591.2,
       "ma20": 627.6,
       "ma60": 643.3667
+    },
+    {
+      "date": "2026-11-17",
+      "close": 520.0,
+      "volume": 28986956,
+      "rsi": 34.86,
+      "ma5": 574.2,
+      "ma20": 620.1,
+      "ma60": 642.2333
     }
   ],
   "news": [
+    {
+      "title": "封測股重挫不只因Rubin！京元電、欣銓外資借券放空早示警，日月光仍未脫離空方區 - 玩股網",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CZDE0OVo5akxIcmxwUmV1Y2haYmJVNUFCRnpxeVpDWXlPX3prVTlQdFE3ZkMzbWVWLUQxV1Ewc1liMEg1VUxkSFFnNHdUSU9EOWNpMXJvVQ?oc=5",
+      "date": "2026-11-17T17:37:08+08:00"
+    },
+    {
+      "title": "《半導體》日月光投控11月18日赴新加坡參加Morgan Stanley舉辦法說會 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjM5S25KOURULW1BMHNXTGFwWlQ0SFFNQ0ZnRGpvYlJ4R1JxNmwwdWI1ZWJzNnY5eU40dDZPX2dPZnNJcEZDWU85ZmNkZTVHN0ZOS2kyaTZ5NVBCVHZPRldsckF2UVlLVUJmb0VoRXRNOHVCWkI5MFFiUUl3QmZzWUZCVHBmZFpk?oc=5",
+      "date": "2026-11-17T14:19:00+08:00"
+    },
+    {
+      "title": "個股：日月光投控(3711)11/18-11/19受邀參加Morgan Stanley舉辦之法人說明會 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjN2QkRJRjctaUVPdG8wZEwweGx2cFc0clI3ZDZFbng3akkxdXhkYU5YcDRnclp6Tlh6M2VzRXFsTVNxaWRReFlkZWs1VGtkUXhNRzZjOV93ZVZQVzVaTjVnUFJlN19CSHZqc19QTVRxY0tOUm4tLVJ4ZFFrcG5qa1gxalRkT1Vz?oc=5",
+      "date": "2026-11-17T13:56:00+08:00"
+    },
     {
       "title": "日月光豪砸1237億帶動擴產潮！技術員職缺年增35%大廠開年薪80萬搶人 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OWmc1VzhudXpPcDRKSnpxY1BSWkFIUTB1UzF3ZVJ2Z3ZOWUI0NGFhZWg5ZUhFWVliTk14bXlwUU9nTVhjajh0bG5HQmJuZHc?oc=5",
@@ -1180,22 +1204,7 @@
       "title": "一顆晶片運送托盤，揭開日月光的減碳神話！當 AI 算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？ - TechNews 科技新報",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3Y4WEdaazF1RmYyUEowMF8zUmlWbGRwLUFIYXlCXzV2U25yTUNQTjZqRk9NZ3JXRGp4MUdmdUlycl92MGo2cE5zNVFDbk5manE1NzdfWnpQM1NXUTRjZmJmakZLbmtsZ0VUdjZRU0JObnh1dTFXdEVPN2xKZzRlSXloZ18wOGktR00wTlhfZkVadE1POExmeUkxb01JYldIcVRXZzhhckc5aFZk?oc=5",
       "date": "2026-11-17T09:31:22+08:00"
-    },
-    {
-      "title": "日月光投控ADR週一收32.80美元，大跌7.74%，折合台幣每股約539.33元 - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEdoVE1oVVEzM0lIOExJZlhaMjBFZkhob25ZZmozaEd1MkVqZms5cGFqNktMUmVPVk9lQWZvQjhjWWNLb2hCT0dVSUVSeFNsN3dmb1YtQjlYeFNOS1cwOE1QeVlvUjlZc2pUd3VtRDBPVXZxWEY4c2x3b3FFRUZONFJYNS1fa2pq?oc=5",
-      "date": "2026-11-17T08:15:00+08:00"
-    },
-    {
-      "title": "台達電崩6%、日月光挫4%！台積電開低跌15元至2335元台股早盤重挫722點摜破43000點大關 - FTNN",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1teG5VOTFiRUMweXdzWm84X0lxSzVSdm43MVRmbHNzdjFSNWRNcllKWmxSWUdVX1VMOEJkZzJraHdEd2I5WFFvLUdObw?oc=5",
-      "date": "2026-11-16T09:08:00+08:00"
-    },
-    {
-      "title": "日月光投控ADR上週五收35.55美元，下跌2.04%，折合台幣每股約583.69元 - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHdWbmk1M1NvaURlLWtNWTF0QzVUX2l5ejF3RUppRjdmemVybm9oaF81Zms0N3FtTEM1YU93S1JiXzhFYVlaeFJfLUQ3VWpIdTFBWG5NZVluWHNWaGNnYll6RWNmV0dCdGdSbjN6Rk0tSmNSNVRyOVVaWFNPQWd2bEl3SG96MVNI?oc=5",
-      "date": "2026-11-16T08:15:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T12:18:24.748900+08:00"
+  "updatedAt": "2026-11-17T18:25:28.390314+08:00"
 }

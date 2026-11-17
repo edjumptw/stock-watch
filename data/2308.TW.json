@@ -3,17 +3,17 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 1120.0,
-  "change": -120.0,
-  "changePct": -9.6774,
-  "volume": 19602150,
+  "date": "2026-11-17",
+  "dateTaipei": "2026-11-17T00:00:00+08:00",
+  "close": 1055.0,
+  "change": -65.0,
+  "changePct": -5.8036,
+  "volume": 24334297,
   "bias": "偏弱",
-  "performance20": -31.5,
-  "volumeRatio": 1.36,
+  "performance20": -35.67,
+  "volumeRatio": 1.62,
   "recommendation": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 1361.25,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 1055.0,
+        "source": "近 20 日最低收盤價"
       },
       {
-        "price": 1640.0,
-        "source": "近 20 日最高收盤價"
+        "price": 1332.0,
+        "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.3644
+    "volumeRatio": 1.6248
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.50%。",
-    "本日成交量為前 20 日均量的 1.36 倍，交易較熱絡。",
-    "RSI(14) 為 31.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -35.67%。",
+    "本日成交量為前 20 日均量的 1.62 倍，交易較熱絡。",
+    "RSI(14) 為 29.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1168,34 +1168,43 @@
       "ma5": 1234.0,
       "ma20": 1361.25,
       "ma60": 1655.0
+    },
+    {
+      "date": "2026-11-17",
+      "close": 1055.0,
+      "volume": 24334297,
+      "rsi": 29.0,
+      "ma5": 1190.0,
+      "ma20": 1332.0,
+      "ma60": 1643.1667
     }
   ],
   "news": [
     {
-      "title": "台股狂殺2635點！分析師曝「3大操作原則」：多頭結構沒破 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNLXNnT1QwZmJRdllIR1Y2RTVGMUdaZWxiQW9NRmlSYWR3bUhKbjFlNzZZaGQtU3dfVzBpbWZVbWRiZjlQeHZHYlI5ZHVLaWl6a0k1U2EtcndxNmtZS2ZxaS02LXU5MEdkOEtreWpwdFJVOWg2NkdXeXVoYVRuakpPN19xTk5qUS1GWTkxU2VnYUZzNlVzeEFtRDNkQ2x4eDJBbkZJalRwSm5CS3dRVUFXTTQ2dmdxZEZoRkpBTS1GdlJCWjZsQUNkOWtIaUVlenQwU1NPWG5rRk1adGhKNjFsV2lRTVpEYU9EZ2FMLUY4RkNkY2h1aHRGUnFYUHdYSWR3RndrWkJOb09PdjNOUXhDcTQyYzgyNDJmVXR2VDJDT3QwVWN2ZFNqTl93b3o2czFRSks2VWlwM1FHVGtoMFhZR1JGWHQyaGJudUJnSEtiRFRiNEhFX3c?oc=5",
-      "date": "2026-11-17T12:11:29+08:00"
+      "title": "光電股再收一片慘綠！「這檔」卻無畏處置再強漲8.2%、中環收連4紅光學雙雄齊收黑、台表科挫近9% - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQTGFWYkdFY2FJTF9PN2xleGJ0RWtULThZNGd5dEFCRVdpRzM1RWJwUlo2U205Q2x0c1VMcF9GXzNjNWRfVlBEWDVRQVFCODdmbkhuVzhLY2RIUVJxa3JINVNDcjdBc2FUbWdwVE9DQVJDSUlMVjVwallzYzc3Q0s4WTlZZDVXcWcwY05LR1IzSkpJYTczOWxUMk1UcUR3VWhJREZ2NjlJVFY4SVFJVDVsdlNrVjN4d0NnNFBITk5Tc3BZSUFCUEdZYjdtMHlfTDFWYjg0dll0TE9EbUg0M2k4ME9tVWdKMHdNWDhRbVdoQUFlRENBc2ZKaWRKbTZMNy00RUdiSGtSelZIZ2ZRUy1PWmtyWFFBXzNKR0ozQXVsRXZQMFdfb05lMl9iVk1WVU05ak9WQVlWMjEwNnM?oc=5",
+      "date": "2026-11-17T18:15:00+08:00"
     },
     {
-      "title": "研揚AI佔比達23%、今年以來專案達452個 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU3dGXzkwT0twOEp0RTduWHZvNG51OTE0WGpkcE1DR2lHU082czJES2Y2eUdWTDAtZnVHS1BIelpOUGstWldoSGNUMkt1NHFZWWprMWhCYlJhdUMxRWROTzNreWhxVzlVZko0aV9Wc0FOcHJiY3YzdS1PX19WU0hzbXh3UGVvNGw5bGlQdWpKR3I5WjMzc1BPWV9faC1ibG9kdUQ3c0pHWnNnYnJieVEzNFVJUWVpNG1INkdnUy1NbFpCdmJwZjlzaWs4TWhPeDloLWRYbHpyVFM0bGx1bE00T0FIS2dzemFnSVFEd0JOZWJSOHVETjR5cDhMNHBIMW9WcEE?oc=5",
-      "date": "2026-11-17T12:07:30+08:00"
+      "title": "國安基金撐盤？6檔「護盤概念股」一度漲逾2% 分析師：點火跡象明顯 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPQlFIcThQR3NxdWVsOGZWbExQdVN5SXNEaG92TEM4bUVSSThzeW1WNFdLV0VsWllQWGFqNlJDZE44MFRrOEdFNEx4TkRoUWlwVEhEZGlSM3ZKRDBaTVhRcjhianZBZWhTWTN0Wm5JUnBoa04yNF95dUR3VGxYOWUzOWNRU3JEV0dydTdwS3BSM0RuLTlpQXR5WHozQW1sdjNzYzBTVC1JeXAwN29JaER5M1Q3Um5qUGVqV2NlNklYX0FoQ2pYeExJMFhwZ2RkUjFpZzVjdUlqQ2N6OVZlb0FWNW5ySGJVV1lPaTVsODV0QnFRNWMxVEZuakNXMjUtRHFiSUxSXzVEd3E3QzhzMTVMZzVfWU14QkJwdUlHRHRjLWszUE5SNnZKakM5SVlNbElXZkZVaVp4SmVjN3NLaHd4M2ZGaTM2ZUdMcXdKblJiUGVJMUhDVnBjOVVOUGs4V2RnZ01oQ2hId0hkMkUwN2JEdGdZNDFSMEVndl9mVWpYaWREWldBUm53U2sxcVNMcDAtTXNjeG1JZ2ZsZXhLM1VtLUVSNi1OSWhXbUp5NXQtNl80M0c4NEpFTzQ4TQ?oc=5",
+      "date": "2026-11-17T17:44:05+08:00"
     },
     {
-      "title": "國安基金護盤+利多題材 台新投信：台股Q1漲升可期 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVW0zOVZ0QzlmVkJCU2puTEhFRU9GVldleXZJSUYtRmJKN250U2RYV0tKZUxEU2NIUVJKajFva1BXRjZPalVvMWI2X1RVTUFMXzFNYmdqMXZtVDlPQ3h5NUFxMGpoSmdOWnZZN1ozdElMaU1sWDZQZm5MYVlDSks5ZE9JalNVWWxjQ0dPTkpBdHUzUjRCRjZtRmpuOVV3UWZlLWFQakRMUGVZVElFZHZTMmlyR0I3OG1kQnJTYk1HWEJ3ZG5wbUtGZVdGQkZFN1hQV2NlU1cwRGFqSFdqX1NtazZnSk5YZExneElRTFBTVXkyT01TVHFiMGhyMlBLTk9OMjM2TWpnT29vZEVybzNiLVl0cHBTWHRDbHVaQkhBbDBUVnI2SE1wbnZfcUFXbHFwRGFOM2syV2MzM0FadURIanR4dHYwelNFMTRiODRSUE9WUQ?oc=5",
-      "date": "2026-11-17T12:07:30+08:00"
+      "title": "輝達財報今晚揭曉！台股連2日重挫險守4萬點 股王信驊跌破萬元 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPVk5fY3pzTEUzVEFQT3hiSUhPS0dKQ3FmYnY5Y3NfWkFQb2NvOFRKMHNpT0lmenBKRFBpWVY5LW9QYWZpTFUyM1RyTFZDOEtFeVo2OWx6UUVMOElZeERMU2hLYUpTaG5YWkZPcFlSU0lJU2xtVlNaS3A1TGRNX0J0ckROV3NFN3pYdklHcGNxU2ZCY3VEajlSM1ZSYU11QWFEaklneG85aGNvR3JOdzZmbGwxNWpONDJRUHdaMU16aF9kTXp0RG9jRmhfSUI1WGRlTC1rSEVVeFY0YXZ3LXJBalpYdmt2d1JMZkdpU2NaTVhMNlM5R3dBRExoeGJLdXdMQ2piN3lXMTRQVjBWY2VlMGJqemtScVJJMmd6UTNKNUlJakNtZ3o5eWc4bzRwbGV1c2RIbjZXVGR5eTRhOG1sSUZJQlY0cWI5TVlBUU8taDlnUUhXQWViTHQyYjZnaXR6UjN4enRtMHNmZ3hOQjcwdUNNQXlZOUdqYUkzT25veFRWTHYxZmpya3VwSEpDT2pj?oc=5",
+      "date": "2026-11-17T17:41:16+08:00"
     },
     {
-      "title": "台股暴跌國家隊出手救！八大公股砸狂掃「6檔ETF」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPY04xNGcyWHlkWDdPTTJ6eUZtcU9WTjB0aGJ1d1owTmZCeXVpZmdESVlSRk5semxVdWtlWWNjSk5KdHVvcEt1UEd0b21PUFl1RGgwd2JFYTZRU3BSYWpIUzk3bHBLekxMWmlzNGJzLW10a1p5Q0NoMkN2dnFpdUlubkNKTldVTHlya1FwNk1zak1mNE1aaEl2Q3F3WUdSRzd2NThuV3NVaXlWSTlQTlp0ekJKcjI4aUQ5WTU4VkVJWi03aWx4Yk12ZWJOemlVTjlNSHppaFF1QjRXa0RzckY1VXJZeDlCa3dCY0ttYkgta19hVmY0TFU3Sk53bWdKckFvRWhJcHVpTmFGT09IX2NjM1pKUWNQTHRWQTU1SG9QRXJ4VXFZc0dxRklPbUhab21GbFJ6UzhEZmVMQjg?oc=5",
-      "date": "2026-11-17T11:50:15+08:00"
+      "title": "矽谷大咖接力挺黃仁勳！馬斯克前女友也盛讚：無人能與他匹敵 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPWkpWcWtwVDRLTnZZUXl0UkhiVWRIdWp2LWNBTzBScXN1azA5NFlnV0RjMXkyVFZ3OGZua0JWdTBjQk1YZFZGR0t0dy1lODc2c1N6d2VsX1pXN1lUOGlGY0Utd0JGNEhLaG5mT0hxTXFmRUYxTGItSEtETTVzVEd3RUFzeXMxUkRKc1puc3J6WGQyNXo4UllBSUlWbFhjTjd1RzB4X2VWdmxYMzZCMVBxa0Rhakk3VW5zSHE0M2g0SER1U0Y4bmppa2FCSjNhUU5IejVfLVZyYXBRZmw3VS10eWpGLTItVVdtdjMtS0hNX1J4a1lFWWhEU180d2NKMmZHOWhOZFJDbmRzN2JINmVheUZBNjNqb21wXzdNN1c4V0JUbi1PMFQxdFYxdnpxVGlRb3VEREtGMkx2UURuWkJxLVFZZkNmazUteWJhTjZZMEN5bENmdGh4aU1jenRIZEx2cEEydUY4UWV0VTZjS2FET2VKbmxfZ1VZNGpBZ0dLNEExOUFCOEFTSUlmaXRxUVJLWG5DbUJ3?oc=5",
+      "date": "2026-11-17T17:39:00+08:00"
     },
     {
-      "title": "台達電衝刺AI電源液冷，檳城建大型自動化基地 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSTdBRGt3ZnJEN2FuQ29Oc3VFdU5OS1Vjd2NlNEpKZkRUOFJWdlBrZEN3bkZHUmNnUGptRGdzWXhqd29VMTg2WDdEX2RqWEJpeGdIOXBFOW5PVWlINTBOSFE3NW9ySE9heDltSzhIMUkxaDVlM2dyWXlwekZCVk84MFczcTZNOFRIX1J2YXhDMDRGZw?oc=5",
-      "date": "2026-11-17T11:47:53+08:00"
+      "title": "5檔ETF換股！00940「10進10出」 刪英業達、聯發科增南亞科 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQRDVXdEVwNUhRZWlFRXIzS003QTlZX1VSVkRmdHAxWXN4WXBaZ08xdnFhRjYxaDJYeGVPTUFiYnczNFZDSDllV2NGQ2JZNE5FbEpadzc4d2JoQjFPbnNyeHlReDVwX2txZ1Y4a01KblpSdlFtZUl3NWlKd05Vci1iQ2l2ZEdtTlFGLUlVUy1xSWdyVDhMbkgxVGZlU2pXbkdkcEhQdlRxMGdva056Qm9NbFg4VHozX3BRdEZzdUVDbzdVWjJMWTBfLVBNcXF6SFoxRGkzRUtLOG8tXzBCMGhVYVo4MHdZeUxXU19yeHVHckZxaUZiMzJkcHlsOHdaTGgxRm8wTnlselFTZWpRTS1tUWNKcTJPM1VXcEhtajI1cXlQd2JSWWd4S3JTdWFzeGFGSzFtOXgyX1lKaDFMbjFaWTFEMGtYVGpDYjVmOEd5SnZhQ3dkX01mUFAwMTZjZw?oc=5",
+      "date": "2026-11-17T17:25:11+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T12:18:23.241030+08:00"
+  "updatedAt": "2026-11-17T18:25:26.674591+08:00"
 }

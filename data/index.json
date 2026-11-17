@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-11-17T12:18:38.648064+08:00",
+  "updatedAt": "2026-11-17T18:25:36.587071+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
       "name": "國巨",
       "query": "國巨",
       "currency": "TWD",
-      "date": "2026-11-16",
-      "dateTaipei": "2026-11-16T00:00:00+08:00",
-      "close": 374.0,
-      "change": -37.0,
-      "changePct": -9.0024,
-      "volume": 40418094,
+      "date": "2026-11-17",
+      "dateTaipei": "2026-11-17T00:00:00+08:00",
+      "close": 361.0,
+      "change": -13.0,
+      "changePct": -3.4759,
+      "volume": 57237588,
       "bias": "偏弱",
-      "performance20": -34.04,
-      "volumeRatio": 1.08,
+      "performance20": -32.4,
+      "volumeRatio": 1.52,
       "recommendation": {
-        "date": "2026-11-16",
-        "action": "觀望",
-        "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+        "date": "2026-11-17",
+        "action": "減碼",
+        "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
-          "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-          "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+          "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+          "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
         ],
         "support": [
           {
-            "price": 374.0,
+            "price": 361.0,
             "source": "近 20 日最低收盤價"
           }
         ],
         "resistance": [
           {
-            "price": 374.0,
+            "price": 361.0,
             "source": "近 20 日最低收盤價"
           },
           {
-            "price": 467.45,
+            "price": 458.8,
             "source": "MA20（近 20 日收盤均價）"
           }
         ],
-        "volumeRatio": 1.0806
+        "volumeRatio": 1.5196
       },
       "commentary": [
-        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -34.04%。",
-        "本日成交量為前 20 日均量的 1.08 倍，量能接近平常。",
-        "RSI(14) 為 30.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.40%。",
+        "本日成交量為前 20 日均量的 1.52 倍，交易較熱絡。",
+        "RSI(14) 為 29.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
       ],
       "history": [
         {
@@ -1171,53 +1171,62 @@
           "ma5": 406.6,
           "ma20": 467.45,
           "ma60": 537.0833
+        },
+        {
+          "date": "2026-11-17",
+          "close": 361.0,
+          "volume": 57237588,
+          "rsi": 29.1,
+          "ma5": 395.5,
+          "ma20": 458.8,
+          "ma60": 533.5
         }
       ],
       "news": [
         {
-          "title": "萬金股走入歷史？「股王」跌停打開仍陷萬元保衛戰 1張再蒸發108萬 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPUU9YOW5hMG5pN002VHc4dlZXczZnZl9SNEtVXzBmaDlVR2NaSnUyREloZFNSZWtpdDZhc1JsXzRmUnY5V2hEM2wyRnFyM0lacDNJT2dFMkR5NnRyZDhaTl9OU3pXYWZVMmhicHVmSmJ3UXp1czN4cG1fSGREcWVNbmRyMkdzNmVxcHJYSHU5Mm5QVlhrNkNMZTF4SG9rSXZrQS01a1VCOTBKYWV2T1ZJZU4yLV9xaWptYko4VkpScE4tT09iYUFfSks1SW5GTHlBQ0ZfZWJWZHNka3YxbmY0SnVMX3Y2OUhUQjF2alQ4d2lYQXdYc2xfOURheTJSdTNPTEdMV1RXalJ3SnlEMWxrbG5FTlN6T29UbEFrbHF5OUJVXy1vcTUzajUtUjlnUGJyV2JmRGtDd2FGa3Z0cHpDVkNLVmxHMGRmczdPQ1YweUhfSjZYcHkwMV9RZm1meGprUG84VDdqNFJqelhwUUw1RElhaVZlMGN3aktzNGJnM09IMURZWl9nYl81eU1id1dt?oc=5",
-          "date": "2026-11-17T12:07:45+08:00"
+          "title": "美商務部、司法部發布聯合聲明！2024年就在查Megaspeed 隻字未提黃仁勳 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQZmFveVZFXzNVQmp5aGtqMHBCazNwSXRpQUJGcEZkSmlCcE9zVnpJajM5U0xYQ0JTekR0cmRCRWgwZk9KbjdFTmNjZGMxTEJUbEtMek9iWXFZby16Y3prNzZsME1ZaEtKYWN3SlJYTmxPcVAwQ0xSblZMZlNTdFRpUzRxMXJSd1ZIYkVHV0k0UnlOT3hUZjRRM0RnRXdNVVoya3h0akh3ZGpIN1lSbHNRM3lZZmNDT1M5S0FxdGZjVVRnbEs1cTAzT2lHY1VVMm9aRXJvMll1bnVnOXJENXZENTlmMEVyeGVXb1hYa01OTkk3X1U3dWU1U2Z3MFdIb2Q3TE5qMG15RWhZUUZXRFp5WUsxWXFhdGgwRFhNeXZSOTk1c1B1dUFBcnRSelN3cjRzYmxvY3M3V0dOV29lUTJxdWZPUXFUbFRJdkMzc002M1VkRkN2OVhQLUxzOXVQNXJlc0dkb2JVakEzZHdHNDVHcjJqWTYyc2dyYlc3NURPREhXVXFETnVrZGUzRWV3Q0s1?oc=5",
+          "date": "2026-11-17T17:45:00+08:00"
         },
         {
-          "title": "【Hot台股】大盤急拉千點後又走跌...網哀「糖漿是外資解渴飲料」 分析師點關鍵：選股不選市 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPdXhSbTdvWUJ3dENkM0xuY3RuNTFjUHBMalUzNGd5RzdBdDdUbDFXRnp6cVNGYThDeTlfTDNGRi1JbGYxZkNoUjlxYkh2eV9ZOVF2ZkkzU2YwT1lnZEZRbHE5YTF3OGktb2NXcTlfMEJ1R09sMTdGcFdmR1VZZmtBZmJXQ01lcFBMaW4wV01uQ05neWJCZWhrd24wQWtQcEhQWXhEbVh6eWdNdHVQc210ZjBDdWJqV3NTUzJaV2Y4blFUZ1MtbFJmUnNvTHl3OWRvMmp4Nk5NYkZZZlFtcC1uN2hYSzBqOWpFUkE5NFZGZkpKWVNxcFFWM200WWZ5YzRhSW5qYUhBbjdESnJkamdwOTAycmZPRDhWOEFlWHYxbGx6YnVuTDhweG5RNW9yejlqYWJZb3RxNDl4ZTVWTjMzbDl4ZGVZYjd4a1RYVUNKYlpIV1BfRVJHUy1Gb0NuMGFfbHRlY0dISzROUGZKZFZ1QnZaRnRQM3JqcFdCeTNtOE02dnNRby0zR3Y1T3BBNllabzhIWWdydWs2Rlh2SnRYVFc4MnNzUVdMX2VMamphZ3hUT2ZHZUNrdHNoaXNYYmlveUNkb3FHNmhTRzRlbEJLU1VReVduTUFDVXJGQTUzNThyTDc1SWFoSXJZMTdTcENOUUtYdWN1bTgxRDQ2eDFlckFjU1ZDWThkZkxDT1V3QTBKTzZ1N0lDLXRpNXQzSVQxR09veVBEM3Z1bWNNempaWFFnLVU?oc=5",
-          "date": "2026-11-17T11:56:21+08:00"
+          "title": "民主黨掌國會 海龍CEO看美風電仍難轉好 評價台灣3-3期成功 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUklVZGstZE1VZ0tGd0dUZHQ5LXVQVmlrck9mWXd1WmpXUVZ2RHBHRzF4ZUYzU1FIa1ZaNFlkUVJMaXlCZjA0SVktZ25wMW5RdTJSUnVUdjRsbHB6ZjVHblZTeVJYRWthZlRKak9kRGtEQ3Q1WTQ5MU5oZ1FtRWJVbFpCYXBiUGtiMm9GZW8zSWp5V0xwNHFRVmZLcmo3YWRLTGhXZElkWGZmbjFFaUl6RTRJbDBpYUNGNWt2aVJjTXpaVXpWT1BOeWxHRVlaamQxUnh5R2RNV2JITzR5bE1kd1dzT0NNQUZPZllsZ1NnWmZXM041bW5Xa0wxZFJGRjZnN3c5SGRrbTFMdk5Ud0d3eURuQzctWTBSM2t4UDVobW5qWm16eTg3RGYxd2xEQm9UQ2V1V3RJMjB3VlpwYXUzQjBTTmhFRUZobUJ5LUJYczBBMmcxdmdYbHI1bFV2TWZfWTdrNGNNbGgwRHpRLWxGWDlySmIxZWw1Smc?oc=5",
+          "date": "2026-11-17T17:44:28+08:00"
         },
         {
-          "title": "國巨買在630元！他「慘賠76萬」不敢停損 釣出一票苦主哀號 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSkQ5WVhlNnBwSDFKN3JHWXZ1WXk2NWtSR1oybzFLVEg5elZUaVpZYU5lVFlyNjExakxTMTRoY1g3VUZZRVhIYW5ORzZvVGdvTDNtQ01nMWdBMFFZM1JPZWFsNzB5WVlkWjhjMnctLTc4UzltZ0pjRUUxbUpjTVVEaGZrVVBEQ1A4Ty1vMFhuNWlaTmw4cnhzMGtaR0ZqNjJVSDNod0IwczJwLUlqZ2pMLVhETC1DQmNLanhvazBMR2J4S0pJX190anpRLUxNNEZrbWZmTUtaY1c0eHFCSjQ4UUJxVm9PS2J0cE9PUlZPOUR5V0NSaWxJalFycEkxWVVoR19XdU5rd0x3ajhPOUMwdlhubDRDVDlHMnZr?oc=5",
-          "date": "2026-11-17T11:51:21+08:00"
+          "title": "國安基金撐盤？6檔「護盤概念股」一度漲逾2% 分析師：點火跡象明顯 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPQlFIcThQR3NxdWVsOGZWbExQdVN5SXNEaG92TEM4bUVSSThzeW1WNFdLV0VsWllQWGFqNlJDZE44MFRrOEdFNEx4TkRoUWlwVEhEZGlSM3ZKRDBaTVhRcjhianZBZWhTWTN0Wm5JUnBoa04yNF95dUR3VGxYOWUzOWNRU3JEV0dydTdwS3BSM0RuLTlpQXR5WHozQW1sdjNzYzBTVC1JeXAwN29JaER5M1Q3Um5qUGVqV2NlNklYX0FoQ2pYeExJMFhwZ2RkUjFpZzVjdUlqQ2N6OVZlb0FWNW5ySGJVV1lPaTVsODV0QnFRNWMxVEZuakNXMjUtRHFiSUxSXzVEd3E3QzhzMTVMZzVfWU14QkJwdUlHRHRjLWszUE5SNnZKakM5SVlNbElXZkZVaVp4SmVjN3NLaHd4M2ZGaTM2ZUdMcXdKblJiUGVJMUhDVnBjOVVOUGs4V2RnZ01oQ2hId0hkMkUwN2JEdGdZNDFSMEVndl9mVWpYaWREWldBUm53U2sxcVNMcDAtTXNjeG1JZ2ZsZXhLM1VtLUVSNi1OSWhXbUp5NXQtNl80M0c4NEpFTzQ4TQ?oc=5",
+          "date": "2026-11-17T17:44:05+08:00"
         },
         {
-          "title": "被動元件集體倒下！「這檔」連拉2根跌停拖累金山電挫逾9% 國巨又現3字頭、信昌電也亮綠燈 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNdEZkaU1xTndPZ2hqdkhabkJIb1ZHYlFHQjVvaEUya1ZjaUIwaFdXU1NMZjluQ2hscWlXYlY0Sld5RlhyckMxeGtCWm15WmJvcVlVQWxPc0d1VGdLTVI2d1ptRTR6THplNzFxRXhNbjh4T1FGREJwTFhWQ2lILTh3U3R6bVlpN1E1TFVSb0VqT2RhRVBManZGYlZWWXhGRVFaRFpFRzNzUUNZdW5lNFdvd183Ykl1eUxQa2N5SW1lY3RoNVo2VlVNSE05eVZWQ3ZBQ01JM192VHA3NTBhY2ZlSWxMbTZOakc4LXlzZmg1bFQwT2sxNW04X1l0YUhad0pFc0F6dm9fdWJsUmNvMVhOV3NGYndYVVZwdjZ2SksyelNsUElYMkRmbEVWaTZPdUNFaUYyVEdsNi16aXNUZjB4Vm80R25qdDBXZHRJR2g0d0t4Uzl6UDNBbDN3eFgwUEJkcl9DOHBDT3ZyVHFXbWlqZDJkZnNJckJfWDZUTWZqOFdueFlURGtKeGVNalpuZjVSR0tfeEstTDR6SE9NYVVmS0dyY2hhV2I4bU9rdTZsMi1JczFla1k0SlREWi1UeGNhWmZ0RmpwSFg3X1B6NkJ6a0ItR3JzSkw4T1lwSTBlSjJnWXNWOXFSNV94Nl8yQmdPamE0MTBkT2lyejIxVWl1UDQ5ZXFzWm1i?oc=5",
-          "date": "2026-11-17T11:22:30+08:00"
+          "title": "返台機票補貼千元人民幣？國安官員揭露中國介選5大手法 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTTFDYXp3bFFkcjJwc1hmNzNtRWR3b0RGdGZReHY4N1U0aFJBV0hpOUFXR0hxcm03clV6NVB4Ml9hb3pPRHF0a25HbE94RVB1U2pURG05M0xGcnhQaHhkeVhiYTFkOTRvTENxcTIyQWg3NGRnR1dRcHhaSk41aVYxMnR2aG5ReWV4dmtQNmd6RlBiSVpwUXdLb3pzaWdVLVVYT09NOEdRdUttOWRzUUJRd0VWS1Rpc2hzSVA1ZnIwYkJWWUxnQ1REcWxGTGlLX2hEUTJfRHBsS1ZoUkVwZGE5c1QzLWtlczMtNVdrQ0Y5NWM4U1BDaC1LUU5WMEExMkNPOGY2NjZlSmJjaHRRaGdZRlVXQjd0d3Jac1ZzS2Vjc1lrOVhZeGlLNjh6T2JOeGcxM3JUUXhtYm9RZlZmWkFFcEJMN0NTSWFtWV92UWZzQkZDdXRUZHg0WWdQcENHRUNTQklxS1Y4NkZKeVlZc3Q1VWhCOXpxbU1qZHp6N3Fn?oc=5",
+          "date": "2026-11-17T17:36:00+08:00"
         },
         {
-          "title": "專家看盤》外資提款、融資承壓、台股短線震盪、留意斷頭賣壓股 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQeEdGYUlsamowcDZjNVNZSWpTWlBuQlVyOUlEOEJ2U2xRRnRfVkRFVktRSDJPei1XR04tMnlkQmVHa1VOODM3MjhMeEpiNmJvMkxKWEZOeDItNk9xVWRjYnFVZjFrWDEtRWhFODRnaExZaE1SMWd1UWpFNFRwdk5lVFFjUWVuNlRIckdtTk5vMXkxZDFIY1lVdTRPZlphRzZ0RTNBN0JFZ3JoQ21ELXMtNW1qUGZ0cjdGay1TeUdJaHhjZ05HeVpxOE85azF3WEhSYS1wb2tQM0hrNmFEOVN0RzRnbDBxR0Q1bHMwcWctQlFROWEyWEhIUGotQnZuTXNwWC1COGRxTzBtaG1sU3VsYl82NjZjWWhFSVIxU0NsY1U3SUFsUEJxS1Itc092alRrNjJONklfTmJZZ3ljVnJ1aVhwejkwSmV4eEZkWGJUN3NFUDA3YXYtV25tOEhrVHBrQVB4OTFJcmdDTG1uNnhmaXVzSk9reEFKZnU0RDRJdEtqUEZZ?oc=5",
-          "date": "2026-11-17T10:36:45+08:00"
+          "title": "百利好金融集團十六週年晚宴 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb2JDY3Q2d28tZVU2ek5MRXpHTjJUMTMzaXZiSW1FZ0hKMXlWMXBDZDJzQnkzdTJHSmtCNmJQRDFJXzNYMGVfUUZ1OXdFNlc2c25IZ1lMR2drTWwyVHJCSXlncE1Db1Vpa0dmQnVqZERhVWRueFdLdV83U0ZCdFVOWXdiTTV3WTBNUDVqTVQtbmVXWVNVMTRSTkJkeDZQenZRS0Z6NG96MTMycW1WZlQtT3VLUXE2N2ZtamVoeWlVaUJrZnRYWndUYU1oOTUwQ0wyMmdMVTEyNzNCUkYyS3Z1dTFlc2lQNjNlVzB2a2QyZmNuSTItYjN3?oc=5",
+          "date": "2026-11-17T17:31:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-17T12:18:06.661206+08:00"
+      "updatedAt": "2026-11-17T18:25:25.844457+08:00"
     },
     {
       "symbol": "2308.TW",
       "name": "台達電",
       "query": "台達電",
       "currency": "TWD",
-      "date": "2026-11-16",
-      "dateTaipei": "2026-11-16T00:00:00+08:00",
-      "close": 1120.0,
-      "change": -120.0,
-      "changePct": -9.6774,
-      "volume": 19602150,
+      "date": "2026-11-17",
+      "dateTaipei": "2026-11-17T00:00:00+08:00",
+      "close": 1055.0,
+      "change": -65.0,
+      "changePct": -5.8036,
+      "volume": 24334297,
       "bias": "偏弱",
-      "performance20": -31.5,
-      "volumeRatio": 1.36,
+      "performance20": -35.67,
+      "volumeRatio": 1.62,
       "recommendation": {
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "action": "減碼",
         "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
@@ -1232,20 +1241,20 @@
         ],
         "resistance": [
           {
-            "price": 1361.25,
-            "source": "MA20（近 20 日收盤均價）"
+            "price": 1055.0,
+            "source": "近 20 日最低收盤價"
           },
           {
-            "price": 1640.0,
-            "source": "近 20 日最高收盤價"
+            "price": 1332.0,
+            "source": "MA20（近 20 日收盤均價）"
           }
         ],
-        "volumeRatio": 1.3644
+        "volumeRatio": 1.6248
       },
       "commentary": [
-        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.50%。",
-        "本日成交量為前 20 日均量的 1.36 倍，交易較熱絡。",
-        "RSI(14) 為 31.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -35.67%。",
+        "本日成交量為前 20 日均量的 1.62 倍，交易較熱絡。",
+        "RSI(14) 為 29.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
       ],
       "history": [
         {
@@ -2372,53 +2381,62 @@
           "ma5": 1234.0,
           "ma20": 1361.25,
           "ma60": 1655.0
+        },
+        {
+          "date": "2026-11-17",
+          "close": 1055.0,
+          "volume": 24334297,
+          "rsi": 29.0,
+          "ma5": 1190.0,
+          "ma20": 1332.0,
+          "ma60": 1643.1667
         }
       ],
       "news": [
         {
-          "title": "台股狂殺2635點！分析師曝「3大操作原則」：多頭結構沒破 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNLXNnT1QwZmJRdllIR1Y2RTVGMUdaZWxiQW9NRmlSYWR3bUhKbjFlNzZZaGQtU3dfVzBpbWZVbWRiZjlQeHZHYlI5ZHVLaWl6a0k1U2EtcndxNmtZS2ZxaS02LXU5MEdkOEtreWpwdFJVOWg2NkdXeXVoYVRuakpPN19xTk5qUS1GWTkxU2VnYUZzNlVzeEFtRDNkQ2x4eDJBbkZJalRwSm5CS3dRVUFXTTQ2dmdxZEZoRkpBTS1GdlJCWjZsQUNkOWtIaUVlenQwU1NPWG5rRk1adGhKNjFsV2lRTVpEYU9EZ2FMLUY4RkNkY2h1aHRGUnFYUHdYSWR3RndrWkJOb09PdjNOUXhDcTQyYzgyNDJmVXR2VDJDT3QwVWN2ZFNqTl93b3o2czFRSks2VWlwM1FHVGtoMFhZR1JGWHQyaGJudUJnSEtiRFRiNEhFX3c?oc=5",
-          "date": "2026-11-17T12:11:29+08:00"
+          "title": "光電股再收一片慘綠！「這檔」卻無畏處置再強漲8.2%、中環收連4紅光學雙雄齊收黑、台表科挫近9% - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQTGFWYkdFY2FJTF9PN2xleGJ0RWtULThZNGd5dEFCRVdpRzM1RWJwUlo2U205Q2x0c1VMcF9GXzNjNWRfVlBEWDVRQVFCODdmbkhuVzhLY2RIUVJxa3JINVNDcjdBc2FUbWdwVE9DQVJDSUlMVjVwallzYzc3Q0s4WTlZZDVXcWcwY05LR1IzSkpJYTczOWxUMk1UcUR3VWhJREZ2NjlJVFY4SVFJVDVsdlNrVjN4d0NnNFBITk5Tc3BZSUFCUEdZYjdtMHlfTDFWYjg0dll0TE9EbUg0M2k4ME9tVWdKMHdNWDhRbVdoQUFlRENBc2ZKaWRKbTZMNy00RUdiSGtSelZIZ2ZRUy1PWmtyWFFBXzNKR0ozQXVsRXZQMFdfb05lMl9iVk1WVU05ak9WQVlWMjEwNnM?oc=5",
+          "date": "2026-11-17T18:15:00+08:00"
         },
         {
-          "title": "研揚AI佔比達23%、今年以來專案達452個 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU3dGXzkwT0twOEp0RTduWHZvNG51OTE0WGpkcE1DR2lHU082czJES2Y2eUdWTDAtZnVHS1BIelpOUGstWldoSGNUMkt1NHFZWWprMWhCYlJhdUMxRWROTzNreWhxVzlVZko0aV9Wc0FOcHJiY3YzdS1PX19WU0hzbXh3UGVvNGw5bGlQdWpKR3I5WjMzc1BPWV9faC1ibG9kdUQ3c0pHWnNnYnJieVEzNFVJUWVpNG1INkdnUy1NbFpCdmJwZjlzaWs4TWhPeDloLWRYbHpyVFM0bGx1bE00T0FIS2dzemFnSVFEd0JOZWJSOHVETjR5cDhMNHBIMW9WcEE?oc=5",
-          "date": "2026-11-17T12:07:30+08:00"
+          "title": "國安基金撐盤？6檔「護盤概念股」一度漲逾2% 分析師：點火跡象明顯 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPQlFIcThQR3NxdWVsOGZWbExQdVN5SXNEaG92TEM4bUVSSThzeW1WNFdLV0VsWllQWGFqNlJDZE44MFRrOEdFNEx4TkRoUWlwVEhEZGlSM3ZKRDBaTVhRcjhianZBZWhTWTN0Wm5JUnBoa04yNF95dUR3VGxYOWUzOWNRU3JEV0dydTdwS3BSM0RuLTlpQXR5WHozQW1sdjNzYzBTVC1JeXAwN29JaER5M1Q3Um5qUGVqV2NlNklYX0FoQ2pYeExJMFhwZ2RkUjFpZzVjdUlqQ2N6OVZlb0FWNW5ySGJVV1lPaTVsODV0QnFRNWMxVEZuakNXMjUtRHFiSUxSXzVEd3E3QzhzMTVMZzVfWU14QkJwdUlHRHRjLWszUE5SNnZKakM5SVlNbElXZkZVaVp4SmVjN3NLaHd4M2ZGaTM2ZUdMcXdKblJiUGVJMUhDVnBjOVVOUGs4V2RnZ01oQ2hId0hkMkUwN2JEdGdZNDFSMEVndl9mVWpYaWREWldBUm53U2sxcVNMcDAtTXNjeG1JZ2ZsZXhLM1VtLUVSNi1OSWhXbUp5NXQtNl80M0c4NEpFTzQ4TQ?oc=5",
+          "date": "2026-11-17T17:44:05+08:00"
         },
         {
-          "title": "國安基金護盤+利多題材 台新投信：台股Q1漲升可期 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVW0zOVZ0QzlmVkJCU2puTEhFRU9GVldleXZJSUYtRmJKN250U2RYV0tKZUxEU2NIUVJKajFva1BXRjZPalVvMWI2X1RVTUFMXzFNYmdqMXZtVDlPQ3h5NUFxMGpoSmdOWnZZN1ozdElMaU1sWDZQZm5MYVlDSks5ZE9JalNVWWxjQ0dPTkpBdHUzUjRCRjZtRmpuOVV3UWZlLWFQakRMUGVZVElFZHZTMmlyR0I3OG1kQnJTYk1HWEJ3ZG5wbUtGZVdGQkZFN1hQV2NlU1cwRGFqSFdqX1NtazZnSk5YZExneElRTFBTVXkyT01TVHFiMGhyMlBLTk9OMjM2TWpnT29vZEVybzNiLVl0cHBTWHRDbHVaQkhBbDBUVnI2SE1wbnZfcUFXbHFwRGFOM2syV2MzM0FadURIanR4dHYwelNFMTRiODRSUE9WUQ?oc=5",
-          "date": "2026-11-17T12:07:30+08:00"
+          "title": "輝達財報今晚揭曉！台股連2日重挫險守4萬點 股王信驊跌破萬元 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPVk5fY3pzTEUzVEFQT3hiSUhPS0dKQ3FmYnY5Y3NfWkFQb2NvOFRKMHNpT0lmenBKRFBpWVY5LW9QYWZpTFUyM1RyTFZDOEtFeVo2OWx6UUVMOElZeERMU2hLYUpTaG5YWkZPcFlSU0lJU2xtVlNaS3A1TGRNX0J0ckROV3NFN3pYdklHcGNxU2ZCY3VEajlSM1ZSYU11QWFEaklneG85aGNvR3JOdzZmbGwxNWpONDJRUHdaMU16aF9kTXp0RG9jRmhfSUI1WGRlTC1rSEVVeFY0YXZ3LXJBalpYdmt2d1JMZkdpU2NaTVhMNlM5R3dBRExoeGJLdXdMQ2piN3lXMTRQVjBWY2VlMGJqemtScVJJMmd6UTNKNUlJakNtZ3o5eWc4bzRwbGV1c2RIbjZXVGR5eTRhOG1sSUZJQlY0cWI5TVlBUU8taDlnUUhXQWViTHQyYjZnaXR6UjN4enRtMHNmZ3hOQjcwdUNNQXlZOUdqYUkzT25veFRWTHYxZmpya3VwSEpDT2pj?oc=5",
+          "date": "2026-11-17T17:41:16+08:00"
         },
         {
-          "title": "台股暴跌國家隊出手救！八大公股砸狂掃「6檔ETF」 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPY04xNGcyWHlkWDdPTTJ6eUZtcU9WTjB0aGJ1d1owTmZCeXVpZmdESVlSRk5semxVdWtlWWNjSk5KdHVvcEt1UEd0b21PUFl1RGgwd2JFYTZRU3BSYWpIUzk3bHBLekxMWmlzNGJzLW10a1p5Q0NoMkN2dnFpdUlubkNKTldVTHlya1FwNk1zak1mNE1aaEl2Q3F3WUdSRzd2NThuV3NVaXlWSTlQTlp0ekJKcjI4aUQ5WTU4VkVJWi03aWx4Yk12ZWJOemlVTjlNSHppaFF1QjRXa0RzckY1VXJZeDlCa3dCY0ttYkgta19hVmY0TFU3Sk53bWdKckFvRWhJcHVpTmFGT09IX2NjM1pKUWNQTHRWQTU1SG9QRXJ4VXFZc0dxRklPbUhab21GbFJ6UzhEZmVMQjg?oc=5",
-          "date": "2026-11-17T11:50:15+08:00"
+          "title": "矽谷大咖接力挺黃仁勳！馬斯克前女友也盛讚：無人能與他匹敵 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPWkpWcWtwVDRLTnZZUXl0UkhiVWRIdWp2LWNBTzBScXN1azA5NFlnV0RjMXkyVFZ3OGZua0JWdTBjQk1YZFZGR0t0dy1lODc2c1N6d2VsX1pXN1lUOGlGY0Utd0JGNEhLaG5mT0hxTXFmRUYxTGItSEtETTVzVEd3RUFzeXMxUkRKc1puc3J6WGQyNXo4UllBSUlWbFhjTjd1RzB4X2VWdmxYMzZCMVBxa0Rhakk3VW5zSHE0M2g0SER1U0Y4bmppa2FCSjNhUU5IejVfLVZyYXBRZmw3VS10eWpGLTItVVdtdjMtS0hNX1J4a1lFWWhEU180d2NKMmZHOWhOZFJDbmRzN2JINmVheUZBNjNqb21wXzdNN1c4V0JUbi1PMFQxdFYxdnpxVGlRb3VEREtGMkx2UURuWkJxLVFZZkNmazUteWJhTjZZMEN5bENmdGh4aU1jenRIZEx2cEEydUY4UWV0VTZjS2FET2VKbmxfZ1VZNGpBZ0dLNEExOUFCOEFTSUlmaXRxUVJLWG5DbUJ3?oc=5",
+          "date": "2026-11-17T17:39:00+08:00"
         },
         {
-          "title": "台達電衝刺AI電源液冷，檳城建大型自動化基地 - 台視全球資訊網",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSTdBRGt3ZnJEN2FuQ29Oc3VFdU5OS1Vjd2NlNEpKZkRUOFJWdlBrZEN3bkZHUmNnUGptRGdzWXhqd29VMTg2WDdEX2RqWEJpeGdIOXBFOW5PVWlINTBOSFE3NW9ySE9heDltSzhIMUkxaDVlM2dyWXlwekZCVk84MFczcTZNOFRIX1J2YXhDMDRGZw?oc=5",
-          "date": "2026-11-17T11:47:53+08:00"
+          "title": "5檔ETF換股！00940「10進10出」 刪英業達、聯發科增南亞科 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQRDVXdEVwNUhRZWlFRXIzS003QTlZX1VSVkRmdHAxWXN4WXBaZ08xdnFhRjYxaDJYeGVPTUFiYnczNFZDSDllV2NGQ2JZNE5FbEpadzc4d2JoQjFPbnNyeHlReDVwX2txZ1Y4a01KblpSdlFtZUl3NWlKd05Vci1iQ2l2ZEdtTlFGLUlVUy1xSWdyVDhMbkgxVGZlU2pXbkdkcEhQdlRxMGdva056Qm9NbFg4VHozX3BRdEZzdUVDbzdVWjJMWTBfLVBNcXF6SFoxRGkzRUtLOG8tXzBCMGhVYVo4MHdZeUxXU19yeHVHckZxaUZiMzJkcHlsOHdaTGgxRm8wTnlselFTZWpRTS1tUWNKcTJPM1VXcEhtajI1cXlQd2JSWWd4S3JTdWFzeGFGSzFtOXgyX1lKaDFMbjFaWTFEMGtYVGpDYjVmOEd5SnZhQ3dkX01mUFAwMTZjZw?oc=5",
+          "date": "2026-11-17T17:25:11+08:00"
         }
       ],
-      "updatedAt": "2026-11-17T12:18:23.241030+08:00"
+      "updatedAt": "2026-11-17T18:25:26.674591+08:00"
     },
     {
       "symbol": "2330.TW",
       "name": "台積電",
       "query": "台積電",
       "currency": "TWD",
-      "date": "2026-11-16",
-      "dateTaipei": "2026-11-16T00:00:00+08:00",
-      "close": 2215.0,
-      "change": -135.0,
-      "changePct": -5.7447,
-      "volume": 44330597,
+      "date": "2026-11-17",
+      "dateTaipei": "2026-11-17T00:00:00+08:00",
+      "close": 2170.0,
+      "change": -45.0,
+      "changePct": -2.0316,
+      "volume": 59782612,
       "bias": "偏弱",
-      "performance20": -8.47,
-      "volumeRatio": 1.4,
+      "performance20": -10.33,
+      "volumeRatio": 1.85,
       "recommendation": {
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "action": "減碼",
         "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
@@ -2433,20 +2451,20 @@
         ],
         "resistance": [
           {
-            "price": 2335.25,
+            "price": 2322.75,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 2412.1667,
+            "price": 2409.1667,
             "source": "MA60（近 60 日收盤均價）"
           }
         ],
-        "volumeRatio": 1.396
+        "volumeRatio": 1.8509
       },
       "commentary": [
-        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -8.47%。",
-        "本日成交量為前 20 日均量的 1.40 倍，交易較熱絡。",
-        "RSI(14) 為 38.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -10.33%。",
+        "本日成交量為前 20 日均量的 1.85 倍，交易較熱絡。",
+        "RSI(14) 為 36.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -3573,58 +3591,67 @@
           "ma5": 2317.0,
           "ma20": 2335.25,
           "ma60": 2412.1667
+        },
+        {
+          "date": "2026-11-17",
+          "close": 2170.0,
+          "volume": 59782612,
+          "rsi": 36.14,
+          "ma5": 2294.0,
+          "ma20": 2322.75,
+          "ma60": 2409.1667
         }
       ],
       "news": [
         {
-          "title": "大盤拖累！台積電「親兒子」連2根跌停 失守7000元大關 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNNl9hcmZlejNaa2VfYlRCTm53LVhqQmVVdXJISVVNTHZ4RENpODRLcVJKSU1DelBuY012VV94aGxEMFEtZzJ6MVc0VTVrekNJMFZtbDdjX1I4aGZWWlBBZnZGQnQyNzVBQnY2MEI5WmVweW1Xc3F0NGw2QXpiRWJwWkY1Mlpmc1NCWGVkM2NERlF0WWxrN1l1WTYxd1FReG9JYmJ5VmJ4eWpOSEZmcmRlaVRVa1cwNUxJdmJJQlNVazgtNGJ3R2RhRXdhUkd2eXR6VVZ2dDkxM1MtZENMRnNQTHh4bnRUbnprOERUd25OWm03RkNDWFNidjhHc0NybkxtUThQeE15bWhmNzQ4TEk3ajhEOUNMRGFQTTF1N3d3ZG9udzhHSHpuNF9Ba2p5eFZ3VC14QWpmcFZpbThsU013b05zWQ?oc=5",
-          "date": "2026-11-17T12:09:31+08:00"
+          "title": "傳奇投資人家族大砍台積電持股94％ 科技股逃命波？ - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03T0drZ2hibEdtREpXY05UWVlLYWtEajRLRWJibkVnc3l6NXppMXUtcEh5Tmlqa19VUEZ5NUY1clg0S0hyR3g1LVd6V0x3X2t4V2RHR2twNnB4cnBMM2Fv0gFkQVVfeXFMTlhZWnpRRE04d05sRkQxdjNmZ0w3Y0puUmdkTTk3MTd2SmRRWFY1Nlk3a0c5cEVlZEo4S1Z1YlZROE96M2FKQ0J4TDBnNGo5U2JER2xFV0huektScUVSUUc0SWhZYg?oc=5",
+          "date": "2026-11-17T18:05:23+08:00"
         },
         {
-          "title": "後黃仁勳時代恐慌引爆！台股暴跌2635點「台積電、鴻海全重挫」 法人點「4大止跌訊號」 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQRHRyQ2k3ZVFsMkFJbnJnUFZVT19lU2I5ZXlmNnh5ODN1a21vX2xiZS1jWVJDeGR4Smk4b3RoVnQteURMdVcwZFhGTDlINVBuODRnUWdZN3U4VXZvM2RaaHhpajJZMTBfeVFqRFZCd3c3aXVpWTBPLTI1LW5JNUp6WFdETjQ3ZGxxX0owOVhrMHRPLTlGUDlGVkRHU0V4X2NscTJmSGl0cVZFZWtTZ0RvV2UwWkpaaEM0VWxLa1Z5eldfVWU1QlFNLW5ZM2UxVThWRnZUeXdpSHljWllWWWhRU3RkbWJWTWJEdm5QMXlFTGVrMzVILW40SDNSQXBidjRfcUVOdXI5eGk3T0FQNUM2bTJJWHV2QnZkaWo0ZDNJZ1ljOGs1WWp1Y3dVUTdGejJlbVpKclU4SmVKUkhhSENSellsU29wdkE1UnV0c0lhay1YcU5DMTZLdWVZQWNvT1hYVVVmdjExVngzNTdKbHliVk1JcFZHeFdKXzRrQ2FZektZUXNfVWRxRnNUY0FTdTBfTnRROUJR?oc=5",
-          "date": "2026-11-17T12:07:30+08:00"
+          "title": "2330 台積電 - 【美股盤前】輝達今晚財報出爐，AI供應鏈押注還是逃命？（2026.11.17） - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OXJCWV9YS3otYTFmcVFNLXB4d2FNTGpZRmVvcjFYdDhkVjJLcVZkeUpvZThtRktXRzZHR0JiTGZOMjFMRHFQRDAxQ1N6OE5qOUd0aExUTDQ?oc=5",
+          "date": "2026-11-17T18:03:11+08:00"
         },
         {
-          "title": "美中貿易休戰延長兩個月 台積電全球分散製造戰略不變 - 商傳媒",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNR2FHTzVNTzVSbFlOQ0U1WHNTNXBOVGVUaW1wWl80bVMwbHNrYkVpR21MakVFZlNESlZ0YUczT0Z4SUpRNmNBejZrWmk2VTZOcGpEVVVSVGhiMEU1OGNXZGxhaGltNDBoclpKOTluNHZPWXhhQV9LSlNLREdaZWY1NkRsdWZkekVRNnNvTDRsR0FZT1dXM3dYWXdsenVKTEJNblgwaVY1dGVUVmhzb0tDZmRUcFlIQXlqRi1KTHU2Nlk5UEx2bTljTjlOOVBBVktzR1M5dEVxM1k5dXh3QkNlUXJBR1U0TmpLMmUtZlRfY01FUjZWY0E1akVwMXhLaDJNcS01MHF6RjhNemZLSi1ETXZKRVNOMjRJNGd3VTI1M0h4WENFSVJWVGxLeUxJdWhMWHBzSmpsT2dNSElqMWlGdEhRQnBZNF92X1R0NlVWcHF1WC1sSW1MNXNfVi15ZUVzd1ZvX0Z4YTB6MEw1NE5VQ09jN0RNNzZpY1gybnI4bUU1LW8?oc=5",
-          "date": "2026-11-17T11:56:16+08:00"
+          "title": "2026年台積電優良供應商名單出列 健策、萬潤連續上榜 和碩、台灣紙業今年首度上榜 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOY3pxX1ZRRmhWOVJnS1pmQWllSXoyNC1lcXZBX3ZvYUFSYXhTUFRkNnkwYVMtRXNrQjBqVV9hWGVWMUxtN3IxVGZMcEUyWjl3YnR1MDhLSG1ER2NpUlU4RXY4MnBsOVFXeGJPQmY5ckJtX1QtdUlxWmhZWk1MNk85U0dOYk4xSUNET1BIZ2JPQ2hhenNtSUhGQnRpdmZQQjluS1lZU0JrME5ONlRqajhTc2ZzQklpSkpyY1Bjal9ER0h3VU91aFRTWXBoVFY2aGJBTVRKNTBKMl9qT3RiRTk2SEttSmtFdFNDYnhDUXRhR3VZQWVSUV9vV1JJc3ZybWNwU3ZkcVpEZjFXSlBpSE9pMmZhT29TUjE5V2hOLWhiczI5elRHY2Z1M1JFcDVJd19NaTZGVlFYak1NME5MYnlKRjBFSmY0ekhRTl9XWk5UQ3FmVkRSSS1OV1BFMU9nUXd1dGlEeVhtakhGeDFnVGM2YlpGalV5NWpjSW9KdVU1LTFfY1U0Rm05M0MxcTdHLUJEU0ZuV29SRW1iZDlZT2JJS1k3bEMwNjFRNHVDV2hPNmlDamkwcU9Wa0ZWNmZPMnNaZHhuQ2R0QWtxRzk2QWpEa0xONTZOSDBod2NqY1JBNnN1QklPZnQxVDRn?oc=5",
+          "date": "2026-11-17T18:00:53+08:00"
         },
         {
-          "title": "傳奇投資人Druckenmiller大砍台積電持股94%！增持SpaceX、Palantir、AppLovin - 鉅亨網",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03TEpPUmRXWl9nUXhmUXU1NXNIV3BHQWhWMDVHUUtpaGxERGl1WXRyNjBSWklQQm9NS3VVZGpCWE1FX0k5RUpHM1BtMTRvU2c?oc=5",
-          "date": "2026-11-17T11:50:52+08:00"
+          "title": "獨家／台積電最新回應！駭客公開260份HR檔案 下一個目標點名AMD - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNT2lOaUNpSXRGd2c3RGxMMjVhYWNrSklBTS1XVExxdkxQYWNWTHdaOUd1bDFzNHRNT2p3eUJyclhMTy1tZGR4T3NGOFlDX0NkZ0R3MnR1cTZ2STlWeFpMSy1BN3NqVlkzWWRLdDZSQ0x5ZzB2Nl9oT1FycDRUckwtUmNKRklhcmNWUmtsVWVuenV6eDdyZjRLLUY5N1JjNHV4TTRZaGJubHpnUVNJd2dVdUs3R3ZWbVdlNno4VEhmOE0yWE1DRHQ3aENwVnJrelV6YjhSREd0aXFETFRPUWExMTI3MFVZUEtTU0tZdUpPS3BZTVc3bW1POVNfMWU5NVhXR2IyWThyT3dEOENjSlozVlVPYWs0WFhWZEZwQzl4VkI?oc=5",
+          "date": "2026-11-17T17:56:15+08:00"
         },
         {
-          "title": "0050、00878、台積電聯發科鴻海…八大官股行庫砸206億撿貨！台股崩盤10大買超曝光，這檔正二也入列 - 今周刊",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWtfM2FWSk5jSGNLT2NLTURtUTRZQXRGWnZ6WU41V2VrR0pYczFjMHphQnBYVW9mRHZlOVBlMTZKSVRyaWNmQ1ZNU1JhUEQ3RmxVUXZYOXh4YndsS0lHYmVjTjdVSDNCaVBzZ2VlX3I5TFl3Z2UzSmhtN2FWaDJQNQ?oc=5",
-          "date": "2026-11-17T11:46:00+08:00"
+          "title": "台積電優良供應商數量創新高　10餘家台廠獲獎 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tdmtHR1MwVUdaMUxCMDZCLVRfUWUyVkNHSklueERNSzFxcENHQW9WR29HN2VyaDNFWGhtWWdfS0xVUjdfcU15Si1rSVRzY2Rvd3ZsZFlLRTR1UdIBX0FVX3lxTE93TlRhcUJQT0lQSUozVnpFejdwcnFjOFZkTG5oemJhYVowMk1HTXl4NFo0M2dfWlU4SDBoQWVTNUJNUWl3MUpldzJuS28yakNCdXJUSGZFRnpOZ3pHbXUw?oc=5",
+          "date": "2026-11-17T17:54:41+08:00"
         }
       ],
-      "updatedAt": "2026-11-17T12:18:23.716269+08:00"
+      "updatedAt": "2026-11-17T18:25:27.170361+08:00"
     },
     {
       "symbol": "2301.TW",
       "name": "光寶科",
       "query": "光寶科",
       "currency": "TWD",
-      "date": "2026-11-16",
-      "dateTaipei": "2026-11-16T00:00:00+08:00",
-      "close": 213.0,
-      "change": -18.5,
-      "changePct": -7.9914,
-      "volume": 19265812,
+      "date": "2026-11-17",
+      "dateTaipei": "2026-11-17T00:00:00+08:00",
+      "close": 207.0,
+      "change": -6.0,
+      "changePct": -2.8169,
+      "volume": 16785912,
       "bias": "偏弱",
-      "performance20": -19.47,
-      "volumeRatio": 1.31,
+      "performance20": -21.59,
+      "volumeRatio": 1.13,
       "recommendation": {
-        "date": "2026-11-16",
-        "action": "減碼",
-        "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+        "date": "2026-11-17",
+        "action": "觀望",
+        "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
         "reasons": [
-          "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-          "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+          "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+          "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
         ],
         "support": [
           {
@@ -3634,20 +3661,20 @@
         ],
         "resistance": [
           {
-            "price": 238.825,
+            "price": 235.975,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 264.0,
+            "price": 263.5,
             "source": "近 20 日最高收盤價"
           }
         ],
-        "volumeRatio": 1.3085
+        "volumeRatio": 1.1343
       },
       "commentary": [
-        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -19.47%。",
-        "本日成交量為前 20 日均量的 1.31 倍，交易較熱絡。",
-        "RSI(14) 為 36.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -21.59%。",
+        "本日成交量為前 20 日均量的 1.13 倍，量能接近平常。",
+        "RSI(14) 為 35.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -4774,9 +4801,23 @@
           "ma5": 229.0,
           "ma20": 238.825,
           "ma60": 271.6167
+        },
+        {
+          "date": "2026-11-17",
+          "close": 207.0,
+          "volume": 16785912,
+          "rsi": 34.97,
+          "ma5": 223.7,
+          "ma20": 235.975,
+          "ma60": 270.5083
         }
       ],
       "news": [
+        {
+          "title": "《投信買超7-7》光寶科(136)、旭隼(132)、瑞儀(130) - 富聯網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0NJZDJJU0JoY1NsYkx5MTNoTVgxdTJmN3M5bnRtbXpkVk5YbU5mSkpsYktiR19HTTNhTS05MHlBRDFkZFBEMHZKVzZ0STljdzhxazlFdkN3d2ZGc2p5YWlsN1MxSm1PS09NUXpWQUp5bmJ6QWE5RHNYdHMtbHl1VXhkQnJncU1p?oc=5",
+          "date": "2026-11-17T15:55:00+08:00"
+        },
         {
           "title": "AI伺服器不只缺晶片！高壓直流電源成新戰場 光寶科、群電搶布局 - 聚財網",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxUUhWZjA1UVEwaHJhalBiTTZMVUhtWEZoWXNkLWx0UklnczI3TUlZblR5eWsxS1p3cVM4a0k4TjRYY2dhVy1vNy1tUWQ?oc=5",
@@ -4796,59 +4837,54 @@
           "title": "2301 光寶科- 【00403A】11/16 操作日報｜淨值重挫，經理人急轉金融防禦- 股市爆料同學會 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lNWtRZlZZdnU0bHFuZElHR2VhTGJRZXQ2QVZzUVQ1bjkyZDVFbG1wckZhd2NzVG13NVlEQkdiQnFOYUI1X3RZMlp0cmVKS2pOZUdJVXJfX0c?oc=5",
           "date": "2026-11-16T19:01:38+08:00"
-        },
-        {
-          "title": "光寶科「Powers AI」赴德參展，秀跨領域整合實力- 新聞 - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdHM0WUtxQnNacDBxU1VPZHp1R1k1Y0MydXFXbUVVZl82cmx6Z21NSzJNQnpFSy0teWw3dFFNLVN5S3BhdXpwNm90Vk5adlUxeGk5aTlxZXZIOXVWRDdYN1Z0RURCMnVaeGE0OFlYVzdxa1BDWS1ZY1pzUkp4MnNpaXR6YmpOd2JUc0YyRDYwb0hndw?oc=5",
-          "date": "2026-11-16T10:29:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-17T12:18:24.270447+08:00"
+      "updatedAt": "2026-11-17T18:25:27.829285+08:00"
     },
     {
       "symbol": "3711.TW",
       "name": "日月光投控",
       "query": "日月光投控",
       "currency": "TWD",
-      "date": "2026-11-16",
-      "dateTaipei": "2026-11-16T00:00:00+08:00",
-      "close": 550.0,
-      "change": -48.0,
-      "changePct": -8.0268,
-      "volume": 20529504,
+      "date": "2026-11-17",
+      "dateTaipei": "2026-11-17T00:00:00+08:00",
+      "close": 520.0,
+      "change": -30.0,
+      "changePct": -5.4545,
+      "volume": 28986956,
       "bias": "偏弱",
-      "performance20": -18.03,
-      "volumeRatio": 0.94,
+      "performance20": -22.39,
+      "volumeRatio": 1.32,
       "recommendation": {
-        "date": "2026-11-16",
-        "action": "觀望",
-        "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+        "date": "2026-11-17",
+        "action": "減碼",
+        "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
-          "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-          "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+          "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+          "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
         ],
         "support": [
           {
-            "price": 527.0,
+            "price": 520.0,
             "source": "近 20 日最低收盤價"
           }
         ],
         "resistance": [
           {
-            "price": 627.6,
-            "source": "MA20（近 20 日收盤均價）"
+            "price": 520.0,
+            "source": "近 20 日最低收盤價"
           },
           {
-            "price": 643.3667,
-            "source": "MA60（近 60 日收盤均價）"
+            "price": 620.1,
+            "source": "MA20（近 20 日收盤均價）"
           }
         ],
-        "volumeRatio": 0.9428
+        "volumeRatio": 1.3244
       },
       "commentary": [
-        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -18.03%。",
-        "本日成交量為前 20 日均量的 0.94 倍，量能接近平常。",
-        "RSI(14) 為 38.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -22.39%。",
+        "本日成交量為前 20 日均量的 1.32 倍，交易較熱絡。",
+        "RSI(14) 為 34.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -5975,9 +6011,33 @@
           "ma5": 591.2,
           "ma20": 627.6,
           "ma60": 643.3667
+        },
+        {
+          "date": "2026-11-17",
+          "close": 520.0,
+          "volume": 28986956,
+          "rsi": 34.86,
+          "ma5": 574.2,
+          "ma20": 620.1,
+          "ma60": 642.2333
         }
       ],
       "news": [
+        {
+          "title": "封測股重挫不只因Rubin！京元電、欣銓外資借券放空早示警，日月光仍未脫離空方區 - 玩股網",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CZDE0OVo5akxIcmxwUmV1Y2haYmJVNUFCRnpxeVpDWXlPX3prVTlQdFE3ZkMzbWVWLUQxV1Ewc1liMEg1VUxkSFFnNHdUSU9EOWNpMXJvVQ?oc=5",
+          "date": "2026-11-17T17:37:08+08:00"
+        },
+        {
+          "title": "《半導體》日月光投控11月18日赴新加坡參加Morgan Stanley舉辦法說會 - 富聯網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjM5S25KOURULW1BMHNXTGFwWlQ0SFFNQ0ZnRGpvYlJ4R1JxNmwwdWI1ZWJzNnY5eU40dDZPX2dPZnNJcEZDWU85ZmNkZTVHN0ZOS2kyaTZ5NVBCVHZPRldsckF2UVlLVUJmb0VoRXRNOHVCWkI5MFFiUUl3QmZzWUZCVHBmZFpk?oc=5",
+          "date": "2026-11-17T14:19:00+08:00"
+        },
+        {
+          "title": "個股：日月光投控(3711)11/18-11/19受邀參加Morgan Stanley舉辦之法人說明會 - 富聯網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjN2QkRJRjctaUVPdG8wZEwweGx2cFc0clI3ZDZFbng3akkxdXhkYU5YcDRnclp6Tlh6M2VzRXFsTVNxaWRReFlkZWs1VGtkUXhNRzZjOV93ZVZQVzVaTjVnUFJlN19CSHZqc19QTVRxY0tOUm4tLVJ4ZFFrcG5qa1gxalRkT1Vz?oc=5",
+          "date": "2026-11-17T13:56:00+08:00"
+        },
         {
           "title": "日月光豪砸1237億帶動擴產潮！技術員職缺年增35%大廠開年薪80萬搶人 - 鉅亨網",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OWmc1VzhudXpPcDRKSnpxY1BSWkFIUTB1UzF3ZVJ2Z3ZOWUI0NGFhZWg5ZUhFWVliTk14bXlwUU9nTVhjajh0bG5HQmJuZHc?oc=5",
@@ -5987,24 +6047,9 @@
           "title": "一顆晶片運送托盤，揭開日月光的減碳神話！當 AI 算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？ - TechNews 科技新報",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3Y4WEdaazF1RmYyUEowMF8zUmlWbGRwLUFIYXlCXzV2U25yTUNQTjZqRk9NZ3JXRGp4MUdmdUlycl92MGo2cE5zNVFDbk5manE1NzdfWnpQM1NXUTRjZmJmakZLbmtsZ0VUdjZRU0JObnh1dTFXdEVPN2xKZzRlSXloZ18wOGktR00wTlhfZkVadE1POExmeUkxb01JYldIcVRXZzhhckc5aFZk?oc=5",
           "date": "2026-11-17T09:31:22+08:00"
-        },
-        {
-          "title": "日月光投控ADR週一收32.80美元，大跌7.74%，折合台幣每股約539.33元 - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEdoVE1oVVEzM0lIOExJZlhaMjBFZkhob25ZZmozaEd1MkVqZms5cGFqNktMUmVPVk9lQWZvQjhjWWNLb2hCT0dVSUVSeFNsN3dmb1YtQjlYeFNOS1cwOE1QeVlvUjlZc2pUd3VtRDBPVXZxWEY4c2x3b3FFRUZONFJYNS1fa2pq?oc=5",
-          "date": "2026-11-17T08:15:00+08:00"
-        },
-        {
-          "title": "台達電崩6%、日月光挫4%！台積電開低跌15元至2335元台股早盤重挫722點摜破43000點大關 - FTNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1teG5VOTFiRUMweXdzWm84X0lxSzVSdm43MVRmbHNzdjFSNWRNcllKWmxSWUdVX1VMOEJkZzJraHdEd2I5WFFvLUdObw?oc=5",
-          "date": "2026-11-16T09:08:00+08:00"
-        },
-        {
-          "title": "日月光投控ADR上週五收35.55美元，下跌2.04%，折合台幣每股約583.69元 - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHdWbmk1M1NvaURlLWtNWTF0QzVUX2l5ejF3RUppRjdmemVybm9oaF81Zms0N3FtTEM1YU93S1JiXzhFYVlaeFJfLUQ3VWpIdTFBWG5NZVluWHNWaGNnYll6RWNmV0dCdGdSbjN6Rk0tSmNSNVRyOVVaWFNPQWd2bEl3SG96MVNI?oc=5",
-          "date": "2026-11-16T08:15:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-17T12:18:24.748900+08:00"
+      "updatedAt": "2026-11-17T18:25:28.390314+08:00"
     },
     {
       "symbol": "NVDA",
@@ -7707,32 +7752,32 @@
       ],
       "news": [
         {
-          "title": "微星參展SC26 聚焦代理式AI與AI工廠部署需求 - 台視全球資訊網",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVTZ3SE0xZzZwaFB1endBWHpIdVVzQldqeTYtcmt6TG45MGpNUVBaZXh4bmdRSV9rMWZrNVRWbUx4OEFRZlV0akoyc3U5VzBZNnZ1S3JpalJBSDVUVk83cjRHRGZEVHROVDVqN3Q2bmZFZEx6WllsblhHM1dLNTByR2h0aml3b0pidUZKaGQxejBYVEpRbUFTbzREMGI?oc=5",
-          "date": "2026-11-17T12:17:35+08:00"
+          "title": "美新法案擬加強AI監管！輝達急示警買家：逾半GPU租中國就不賣了 - TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lejRYcVJHZXRLWWRoOWl4Z2pnb0NDb0xZTThEOXB2M09iZ2pxMWtxdzZPQm5RZ1REZUphaWx5TnUzRFVxSE16N2EyU0hEZXc?oc=5",
+          "date": "2026-11-17T17:54:00+08:00"
         },
         {
-          "title": "邊緣AI：Nvidia對嵌入式系統的影響 - 電子工程專輯",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXl3NXpoYjM4NkUyVkRUVTZPQkNPUWxnT3NETzVEcTFNSW9xemNDZkk3V1p0NTZ5X0NheE4zb1dmTjFaaFdLWnl3VWJDaTgtQzJ3YTktSjRELWdHYmdjZl9kdE42X2VZZlBNeGhPNkFfYkZONTdPZXkxNUhFWUFDek5tZVNvTEt1YUp4ZEQzUEU4VU8xdzBTdUtKdlF3Zw?oc=5",
-          "date": "2026-11-17T12:02:40+08:00"
+          "title": "Nvidia今夜放榜 黃仁勳接班安排成焦點 專家續看好技術優勢 一個價位以下考慮吸納 - 星島頭條",
+          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOVWFaQ1lNR0VIV01hNlltV0I2dmw1ZnVjZlMwRlY0SmNDOFNVa3VZaEJzNFNTQkpYdjA4bmtlYndZZjZ3bTIydzROYlVoRjFoQlBKQmtpS29hbE9KV0pEMzNDT2dlbllUQm42el8wUUhneUozb3JSU3F3eUZJWmVCWTJ6OElXb3YyQmItMHJrX2N5ZUwydURXZGh0bTAxS0hzMjZVOHNiUERyTGI2YVlaaFBoNmpVMHd1SXQ5UkFkcTNTbjYyRS1Xd0JsTzFFSGZvMW5YS1FaRTRtS1VVclR1LWp4enhVN0pTU1NIMThzeXVoekxfeUNBbTJEekt4N1EwcGVDZ29ucFdGM19xUGZKWHp2dkJHRXUwaHAwSnkxMnlKSThsekJfdGJaa21DVXZBU2E3SzQtRmdPMkhYVFItcHdpdURaWjRRbklzbVRWNG4zSWpQTTg1WnRKR0UxNTU1NUVlSlVETzJVbTdES1luZWtrelIxVWd4eV9vZDA5VEtXcFZzUWpKQzVTVS1TRlhIYWZockdvXzdiOTl2OWxoX2dsRHcyZjZXX29jcW9KdVphZFlJMTNUamJYdWhTZHAwWEtBQmJEZGEyRVlWWWxHcWtoZkU5X0VQZmFPaGFLYmNoOGFnUGN3RVVwRmtNMHV5M3Izcw?oc=5",
+          "date": "2026-11-17T17:46:40+08:00"
         },
         {
-          "title": "Nvidia Board Warned of 'Irreplaceable' Talent Loss in Employee Letter -- WSJ - 富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1R1a25UQ3NQZkNBSjZ4d1VPdXBVcTNzZWNDZ0xvb29tYVNxU2p2Vkk2LXlzVzRsamlra3Q2aER4SmRicGZZSWRhZnNWampCQkRhRkZrcjYzQkZ1MUp3TlJpam5UbVdfcnlkZTc2b01MZHI0YU1xZnFUazBaeDhfaXp6SUdzNnI3YjhLVnJteWNvRzdJRWlsVnIyRzh0b24tY1pMd1hZS2dGdy1PTkhV?oc=5",
-          "date": "2026-11-17T11:34:49+08:00"
+          "title": "黃仁勳去職牽動 AI 建設布局，輝達融資平台恐趨保守 - TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHdaekkwR0RydUs5aFc3YThzbGMyNkpBNjVjaV83UVI4SGE2MklNbUI2QXprQzNvNjA3ZjJSc0k3c0JwdDk5ajhNUjlpMW9kTUE0SjF4eDJ4X0IwQ1JKNDRyd0dTMW55OVN0aExadUpUTG94SkFoUUYtQkFlblJDS1RKZEVreTFNRmJrNmtrNEduZw?oc=5",
+          "date": "2026-11-17T17:35:58+08:00"
         },
         {
-          "title": "AI 踩煞車？調查機構下修支出預估、輝達承壓 - TechNews 科技新報",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzJKeXpwOFlpWkJrSmd1LVR1WENUQU5lMm43WmE3UnFTTHBJZlc0RDNxSlJ0TWNIS0VvdlJGZ1RDeEg4a0x0bzc2UVp6QXB6MG9lRTQySkxzVDl2djU4eFFVNkRBdFBaUmNqam1PbnJoaUh6U05vMTNnYjJIQUN0OU9kZlVyWlRiSmtRVHhROGp5WmxURk5vUGhpZndBWE5EMS15amZHUEhreFBNRmxJd3EzeDhOZHQx?oc=5",
-          "date": "2026-11-17T11:27:54+08:00"
+          "title": "【Nvidia】黃仁勳辭職前數月、神準轉讓百億美元股份予家族信託 完美避過遺產稅 - 香港經濟日報HKET",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOQXA4YmU3MnVDUjI1bHhvUzZJdUo5WEIybzFnMGdRU3pWcC1lWThZNGxTVThtdkdVeGxRc3RvcWhTNndRaXhzSnNqQ3lnaDR6SWZrZmlnRjVzQV9mQ3ZYUzlaRk5KM3Q2SUFxQ3k5eXprQ002WDdLbkJxNFNVa0lIc3hORDRNYUlLemFWSy1HWkZpbUIya1JodFNpZ1NDcUFvdW40Vi00VnhiVHpjSXF6eV85SExMa2w3aWd0MmtzZFFKZTUtN0F4ZkJHckYzTnc0QXN6N0dNa0g0SS1wMnJXNV9iaGNxSWI2M1dYTGR0WGdEVlM1S0FObjl2RldSMDZHQlRLbUM4b0s3WUhSWDlTS3BtOXhWRmpQQXRzTy1WUW5HMXJaTWRqWG1DeDhmeVpraEpRRE9ZRUttcGlsWlJNX2pxSFNpdzJyczd6dm5NN092Ymsta0dRS1pseWZPVjVxSW5PZlR2ZlViS2FpdlhjSmNtdWgzcnFMcFExT0RkYV83d3k4ZnBiWFA5ajJHU1NDRktfLUZ0ZXMwbXVIUEdob2YwZGZCYnVGZm5FdUIwNkVUaldmek5jWVA2NmJhRWp3V0JFSTJzM29yeENGWFY4WXpUV2xGUVdwbldqOFoyamFITnVQalk5R0xuSzJ0UV90?oc=5",
+          "date": "2026-11-17T17:23:44+08:00"
         },
         {
-          "title": "快訊／黃仁勳最新動態！X帳號悄刪除CEO頭銜 只剩這一行 - TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hNnh3SmVaLU9jTmg4cUVvTUNIcGVhb0tqa2tLM2FDTjBjTUNFUzBVSXJFTDBxTGJEMGZZcFpLX2l5ZEtkbkNjT2p3WlpZUFE?oc=5",
-          "date": "2026-11-17T11:27:00+08:00"
+          "title": "「讓黃仁勳回歸」運動：Nvidia駁斥　特朗普支持 - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uT192NnFybElBc2wtNjlCM3MwM01rWm1jM2hVRG53eVFmOV9MVVFSSUxOa2Z4M1FHTC1LNmctNTF0bGo4dV9NaG94VjNDb2dUN1ZONWZacTByenJrTXdpczBfbjFuaFnSAWxBVV95cUxQQURfcG1uS1g4cGJlQ2NtQlpnU3BWSHRkMWdLNTk4TGdNZi1GdDhzLUxXWWFOR0pvWUFkWVpEczF5Yjd3dFdBWXdnVjVyUzZJMU9Ba1IyLWd6VU1FcVpnejJUS09kM3ZLdnhCWVE?oc=5",
+          "date": "2026-11-17T17:11:03+08:00"
         }
       ],
-      "updatedAt": "2026-11-17T12:18:25.207038+08:00"
+      "updatedAt": "2026-11-17T18:25:28.777107+08:00"
     },
     {
       "symbol": "TSLA",
@@ -9439,32 +9484,32 @@
       ],
       "news": [
         {
-          "title": "馬斯克稱特斯拉最早12月啓動車主Robotaxi試運營 - 富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb08xVVdCaEJ5R3hyOFNBYTVDSGxRbnJOX01xTlEzVGVVT1JCWC1rWU9rTl9NeFhQanhVdDZGU2NzUlBjOVhXSUVnSTBCXzJsYlRJbDNTa0prbFMxYUw0MlpTQnBjcWNzNk03TTd0ODRUcWtuSkM1VE94YnFpQXppazVKUzE0cE5EckhwZzlVRDZtZlN1UFpSbDZJWlRyU3lL?oc=5",
-          "date": "2026-11-17T12:04:25+08:00"
+          "title": "傳統汽車品牌終於邁向全自動駕駛！Mercedes-Benz於德國、美國搶先啟動MB.DRIVE ASSIST PRO全自動駕駛功能全面迎戰Tesla FSD！ - www.tcar.tv",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HSS14d1kwZTl4bDgyaUJYZElma2NHekk4RFFuWUE5dUlaZ2hBQ2FFZ0dZOXY5X0xZZTFLTXdueGZhbDFiVFdlSWNvbkZPTVktVWE2RmtsLWwxWkpZOW9Zbg?oc=5",
+          "date": "2026-11-17T18:13:11+08:00"
         },
         {
-          "title": "特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab - TechNews 科技新報",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5QWdZYm5aZFVmeC11cXpQVk9GVDlpSDNWckE4VFdCS1NmakRpeXlUcEFmeDRHTVBPaWo5SGQ0Y1U4bmVRSkdnZUNjcGpSVFB2VnpnNGFwWUhvV2ZuUTl5a2p6ZjBMY3pHSVJSd0RyM3Q4NldIdXQ4?oc=5",
-          "date": "2026-11-17T11:40:54+08:00"
+          "title": "Q3 13F文件：閃迪遭機構大幅減持，特斯拉成買入首選 - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXVuTUpQaUVOcWVscDZ0RWNvXzl0a243aTFnNTl3c0VJV1RXX2NTRmdRVExwanE0RWFoUDR3TXM5UjF2cDZzeGlGMGJRd3lDLTNEcldMRzBJeFdGbUZTWTZabWZxQ3NRMUU3VUFFZjlqUWRxbWhnZVp5ZnN5UnhHS0RBckltVUplaFNoel9WZV9LOVQ4YUR3YVdYeTFHQ2laN2ZJSnpJNkdCN3poNlBLRG5nRXdDLUZC?oc=5",
+          "date": "2026-11-17T17:42:46+08:00"
         },
         {
-          "title": "Tesla輸了！10月台灣電動車銷量冠軍換人當，國產車逆襲奪第一：車主讚內裝質感好、 物有所值 - 風傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80akpyR1ctSXQ4dFpJNDBqNU5jUDBsQVhIRThYQmJZOV9XLW05X0xOaVZHQXFoZ2t1WG0yUVF1dGl6MXd0aGhjQnNXeEI0VFNv?oc=5",
-          "date": "2026-11-17T11:30:00+08:00"
+          "title": "買完仲要每月俾錢訂閱服務 #Tesla #Cybercab #無人駕駛 #ElonMusk #電動車 #am730 - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPZTlEZjZkVTVMYzlYbU9FX2FxT0JOWXNOWndoZGRoUjBia2paLVpxUDZjSXl4VjE1eEQ5MXVBMEF6cXRyTzZBRUNvYlF1TEFtMjJHYXZVTlBuUkc0MDNENUI4c0RqUXFQTXUtS3ZDb3pqczA5cEpfU3ZmNWRyWEUzbW1FdzhSNVVqaVNJUDZnS2txSWlYMlR2eGJpanE1cFc2TU9iZXFrSEpNSndEVXItaWs3M2Z4QnZFMmZXNm5ydkVnWkdUaFRVMWxOd0pkcEx6NmZBNi1hUTd6UnN6Z2x1LVpLOTJ3RHZ6Q3BINGVHTWUxcDhodm40ZXhINDVXN3ZjVHYtY1dlZjhiTzg5dWl2RC1CZV80RDd1WmtGVjRJWV92dk93UlhibWVzWVYtYXp5MkpVWEVPV2RPNktjWHZtbEtndzZYajNKZ1JGcEg5NW9ZOV9wVm5vTTFTVWxyZUlNMm1yUGZyamw4UEdEemZwQTlJSjNKQQ?oc=5",
+          "date": "2026-11-17T17:21:44+08:00"
         },
         {
-          "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFBNZEhEV2xxUkFzRjByYWJwN2x5Zy1TOUlPOHpSRjRjSEZ5Ml9Ha1BudXg2dVFIVXpJUEhTRV9FbTRITGtYd0U4M20zUE1JX1JfWVJFR05naVM4UWhPOHVmS3g2YndkZXZDZjg2aUpUR0FoeXJmRUppT1NJUi1SY1MxNUI4WXpHdUxiUmFXbXgtUQ?oc=5",
-          "date": "2026-11-17T11:23:00+08:00"
+          "title": "特斯拉（TSLA）技術面：375美元至386美元區間期權資金流向不一 - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY18xQlpHZVVuUGxEWnVFR0ZOSjFXN0pUbTkyT29sMXpxcHVWS19DalhYNEhpY2N0NERGb0NtUlZZQzkxdV9DZC1henBQOU5JNDA3QURWZC1GenQ0YUVaN2xERXBZRkhLbURqODVNNkEzb1lGYjdRQkN1QnAtcUZ0bC00bDhnbGE5NzhweW5uT0xxOUpmalFaYTF5VTdMZTV3MlotVWFHTGlhTFltU0w0ZnRidm85WEdkc05uVHBn?oc=5",
+          "date": "2026-11-17T16:56:51+08:00"
         },
         {
-          "title": "特斯拉擬投30億歐元擴建德國工廠 年產百萬輛Cybercab - 鉅亨網",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFbEwwVUkzSWhKQTdmVFFRREdHUkh2T0lNS1JrZk5KWUh5YzlpNVFoUzRqYnNVcEc1OFcxbTVGWDN6VFBSREppdVotRm4zckU?oc=5",
-          "date": "2026-11-17T10:57:08+08:00"
+          "title": "特斯拉×SpaceX：3.5萬億美元合併談判取得進展，華爾街對交易溢價與監管問題意見分歧 - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPanFyV0FLYWlocWVOLU9DWUhvV0U0ancyNFF1OS1Yck54WkRYeFE0SEV3SHc3SkNuV2lSbERDdmx4blRyc1BuQXBGcWRveGQ0eFYxZkhZU19oNm5xZllDZmdUQ2tkZngzS3I3akxIbnJUd1BJN3RGamdpblVHWDN2X0xCN1pCQl9UUDFXLXlrcnBhV21UNEhXdVd3YW5hYXZHeWloNy1RUlZxNm8tNUtUWWktbGpidw?oc=5",
+          "date": "2026-11-17T15:21:32+08:00"
         }
       ],
-      "updatedAt": "2026-11-17T12:18:36.336776+08:00"
+      "updatedAt": "2026-11-17T18:25:33.267436+08:00"
     }
   ]
 }

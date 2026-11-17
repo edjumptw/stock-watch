@@ -3,45 +3,45 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 374.0,
-  "change": -37.0,
-  "changePct": -9.0024,
-  "volume": 40418094,
+  "date": "2026-11-17",
+  "dateTaipei": "2026-11-17T00:00:00+08:00",
+  "close": 361.0,
+  "change": -13.0,
+  "changePct": -3.4759,
+  "volume": 57237588,
   "bias": "偏弱",
-  "performance20": -34.04,
-  "volumeRatio": 1.08,
+  "performance20": -32.4,
+  "volumeRatio": 1.52,
   "recommendation": {
-    "date": "2026-11-16",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-17",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
-        "price": 374.0,
+        "price": 361.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 374.0,
+        "price": 361.0,
         "source": "近 20 日最低收盤價"
       },
       {
-        "price": 467.45,
+        "price": 458.8,
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.0806
+    "volumeRatio": 1.5196
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -34.04%。",
-    "本日成交量為前 20 日均量的 1.08 倍，量能接近平常。",
-    "RSI(14) 為 30.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.40%。",
+    "本日成交量為前 20 日均量的 1.52 倍，交易較熱絡。",
+    "RSI(14) 為 29.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1168,34 +1168,43 @@
       "ma5": 406.6,
       "ma20": 467.45,
       "ma60": 537.0833
+    },
+    {
+      "date": "2026-11-17",
+      "close": 361.0,
+      "volume": 57237588,
+      "rsi": 29.1,
+      "ma5": 395.5,
+      "ma20": 458.8,
+      "ma60": 533.5
     }
   ],
   "news": [
     {
-      "title": "萬金股走入歷史？「股王」跌停打開仍陷萬元保衛戰 1張再蒸發108萬 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPUU9YOW5hMG5pN002VHc4dlZXczZnZl9SNEtVXzBmaDlVR2NaSnUyREloZFNSZWtpdDZhc1JsXzRmUnY5V2hEM2wyRnFyM0lacDNJT2dFMkR5NnRyZDhaTl9OU3pXYWZVMmhicHVmSmJ3UXp1czN4cG1fSGREcWVNbmRyMkdzNmVxcHJYSHU5Mm5QVlhrNkNMZTF4SG9rSXZrQS01a1VCOTBKYWV2T1ZJZU4yLV9xaWptYko4VkpScE4tT09iYUFfSks1SW5GTHlBQ0ZfZWJWZHNka3YxbmY0SnVMX3Y2OUhUQjF2alQ4d2lYQXdYc2xfOURheTJSdTNPTEdMV1RXalJ3SnlEMWxrbG5FTlN6T29UbEFrbHF5OUJVXy1vcTUzajUtUjlnUGJyV2JmRGtDd2FGa3Z0cHpDVkNLVmxHMGRmczdPQ1YweUhfSjZYcHkwMV9RZm1meGprUG84VDdqNFJqelhwUUw1RElhaVZlMGN3aktzNGJnM09IMURZWl9nYl81eU1id1dt?oc=5",
-      "date": "2026-11-17T12:07:45+08:00"
+      "title": "美商務部、司法部發布聯合聲明！2024年就在查Megaspeed 隻字未提黃仁勳 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQZmFveVZFXzNVQmp5aGtqMHBCazNwSXRpQUJGcEZkSmlCcE9zVnpJajM5U0xYQ0JTekR0cmRCRWgwZk9KbjdFTmNjZGMxTEJUbEtMek9iWXFZby16Y3prNzZsME1ZaEtKYWN3SlJYTmxPcVAwQ0xSblZMZlNTdFRpUzRxMXJSd1ZIYkVHV0k0UnlOT3hUZjRRM0RnRXdNVVoya3h0akh3ZGpIN1lSbHNRM3lZZmNDT1M5S0FxdGZjVVRnbEs1cTAzT2lHY1VVMm9aRXJvMll1bnVnOXJENXZENTlmMEVyeGVXb1hYa01OTkk3X1U3dWU1U2Z3MFdIb2Q3TE5qMG15RWhZUUZXRFp5WUsxWXFhdGgwRFhNeXZSOTk1c1B1dUFBcnRSelN3cjRzYmxvY3M3V0dOV29lUTJxdWZPUXFUbFRJdkMzc002M1VkRkN2OVhQLUxzOXVQNXJlc0dkb2JVakEzZHdHNDVHcjJqWTYyc2dyYlc3NURPREhXVXFETnVrZGUzRWV3Q0s1?oc=5",
+      "date": "2026-11-17T17:45:00+08:00"
     },
     {
-      "title": "【Hot台股】大盤急拉千點後又走跌...網哀「糖漿是外資解渴飲料」 分析師點關鍵：選股不選市 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPdXhSbTdvWUJ3dENkM0xuY3RuNTFjUHBMalUzNGd5RzdBdDdUbDFXRnp6cVNGYThDeTlfTDNGRi1JbGYxZkNoUjlxYkh2eV9ZOVF2ZkkzU2YwT1lnZEZRbHE5YTF3OGktb2NXcTlfMEJ1R09sMTdGcFdmR1VZZmtBZmJXQ01lcFBMaW4wV01uQ05neWJCZWhrd24wQWtQcEhQWXhEbVh6eWdNdHVQc210ZjBDdWJqV3NTUzJaV2Y4blFUZ1MtbFJmUnNvTHl3OWRvMmp4Nk5NYkZZZlFtcC1uN2hYSzBqOWpFUkE5NFZGZkpKWVNxcFFWM200WWZ5YzRhSW5qYUhBbjdESnJkamdwOTAycmZPRDhWOEFlWHYxbGx6YnVuTDhweG5RNW9yejlqYWJZb3RxNDl4ZTVWTjMzbDl4ZGVZYjd4a1RYVUNKYlpIV1BfRVJHUy1Gb0NuMGFfbHRlY0dISzROUGZKZFZ1QnZaRnRQM3JqcFdCeTNtOE02dnNRby0zR3Y1T3BBNllabzhIWWdydWs2Rlh2SnRYVFc4MnNzUVdMX2VMamphZ3hUT2ZHZUNrdHNoaXNYYmlveUNkb3FHNmhTRzRlbEJLU1VReVduTUFDVXJGQTUzNThyTDc1SWFoSXJZMTdTcENOUUtYdWN1bTgxRDQ2eDFlckFjU1ZDWThkZkxDT1V3QTBKTzZ1N0lDLXRpNXQzSVQxR09veVBEM3Z1bWNNempaWFFnLVU?oc=5",
-      "date": "2026-11-17T11:56:21+08:00"
+      "title": "民主黨掌國會 海龍CEO看美風電仍難轉好 評價台灣3-3期成功 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUklVZGstZE1VZ0tGd0dUZHQ5LXVQVmlrck9mWXd1WmpXUVZ2RHBHRzF4ZUYzU1FIa1ZaNFlkUVJMaXlCZjA0SVktZ25wMW5RdTJSUnVUdjRsbHB6ZjVHblZTeVJYRWthZlRKak9kRGtEQ3Q1WTQ5MU5oZ1FtRWJVbFpCYXBiUGtiMm9GZW8zSWp5V0xwNHFRVmZLcmo3YWRLTGhXZElkWGZmbjFFaUl6RTRJbDBpYUNGNWt2aVJjTXpaVXpWT1BOeWxHRVlaamQxUnh5R2RNV2JITzR5bE1kd1dzT0NNQUZPZllsZ1NnWmZXM041bW5Xa0wxZFJGRjZnN3c5SGRrbTFMdk5Ud0d3eURuQzctWTBSM2t4UDVobW5qWm16eTg3RGYxd2xEQm9UQ2V1V3RJMjB3VlpwYXUzQjBTTmhFRUZobUJ5LUJYczBBMmcxdmdYbHI1bFV2TWZfWTdrNGNNbGgwRHpRLWxGWDlySmIxZWw1Smc?oc=5",
+      "date": "2026-11-17T17:44:28+08:00"
     },
     {
-      "title": "國巨買在630元！他「慘賠76萬」不敢停損 釣出一票苦主哀號 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSkQ5WVhlNnBwSDFKN3JHWXZ1WXk2NWtSR1oybzFLVEg5elZUaVpZYU5lVFlyNjExakxTMTRoY1g3VUZZRVhIYW5ORzZvVGdvTDNtQ01nMWdBMFFZM1JPZWFsNzB5WVlkWjhjMnctLTc4UzltZ0pjRUUxbUpjTVVEaGZrVVBEQ1A4Ty1vMFhuNWlaTmw4cnhzMGtaR0ZqNjJVSDNod0IwczJwLUlqZ2pMLVhETC1DQmNLanhvazBMR2J4S0pJX190anpRLUxNNEZrbWZmTUtaY1c0eHFCSjQ4UUJxVm9PS2J0cE9PUlZPOUR5V0NSaWxJalFycEkxWVVoR19XdU5rd0x3ajhPOUMwdlhubDRDVDlHMnZr?oc=5",
-      "date": "2026-11-17T11:51:21+08:00"
+      "title": "國安基金撐盤？6檔「護盤概念股」一度漲逾2% 分析師：點火跡象明顯 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPQlFIcThQR3NxdWVsOGZWbExQdVN5SXNEaG92TEM4bUVSSThzeW1WNFdLV0VsWllQWGFqNlJDZE44MFRrOEdFNEx4TkRoUWlwVEhEZGlSM3ZKRDBaTVhRcjhianZBZWhTWTN0Wm5JUnBoa04yNF95dUR3VGxYOWUzOWNRU3JEV0dydTdwS3BSM0RuLTlpQXR5WHozQW1sdjNzYzBTVC1JeXAwN29JaER5M1Q3Um5qUGVqV2NlNklYX0FoQ2pYeExJMFhwZ2RkUjFpZzVjdUlqQ2N6OVZlb0FWNW5ySGJVV1lPaTVsODV0QnFRNWMxVEZuakNXMjUtRHFiSUxSXzVEd3E3QzhzMTVMZzVfWU14QkJwdUlHRHRjLWszUE5SNnZKakM5SVlNbElXZkZVaVp4SmVjN3NLaHd4M2ZGaTM2ZUdMcXdKblJiUGVJMUhDVnBjOVVOUGs4V2RnZ01oQ2hId0hkMkUwN2JEdGdZNDFSMEVndl9mVWpYaWREWldBUm53U2sxcVNMcDAtTXNjeG1JZ2ZsZXhLM1VtLUVSNi1OSWhXbUp5NXQtNl80M0c4NEpFTzQ4TQ?oc=5",
+      "date": "2026-11-17T17:44:05+08:00"
     },
     {
-      "title": "被動元件集體倒下！「這檔」連拉2根跌停拖累金山電挫逾9% 國巨又現3字頭、信昌電也亮綠燈 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNdEZkaU1xTndPZ2hqdkhabkJIb1ZHYlFHQjVvaEUya1ZjaUIwaFdXU1NMZjluQ2hscWlXYlY0Sld5RlhyckMxeGtCWm15WmJvcVlVQWxPc0d1VGdLTVI2d1ptRTR6THplNzFxRXhNbjh4T1FGREJwTFhWQ2lILTh3U3R6bVlpN1E1TFVSb0VqT2RhRVBManZGYlZWWXhGRVFaRFpFRzNzUUNZdW5lNFdvd183Ykl1eUxQa2N5SW1lY3RoNVo2VlVNSE05eVZWQ3ZBQ01JM192VHA3NTBhY2ZlSWxMbTZOakc4LXlzZmg1bFQwT2sxNW04X1l0YUhad0pFc0F6dm9fdWJsUmNvMVhOV3NGYndYVVZwdjZ2SksyelNsUElYMkRmbEVWaTZPdUNFaUYyVEdsNi16aXNUZjB4Vm80R25qdDBXZHRJR2g0d0t4Uzl6UDNBbDN3eFgwUEJkcl9DOHBDT3ZyVHFXbWlqZDJkZnNJckJfWDZUTWZqOFdueFlURGtKeGVNalpuZjVSR0tfeEstTDR6SE9NYVVmS0dyY2hhV2I4bU9rdTZsMi1JczFla1k0SlREWi1UeGNhWmZ0RmpwSFg3X1B6NkJ6a0ItR3JzSkw4T1lwSTBlSjJnWXNWOXFSNV94Nl8yQmdPamE0MTBkT2lyejIxVWl1UDQ5ZXFzWm1i?oc=5",
-      "date": "2026-11-17T11:22:30+08:00"
+      "title": "返台機票補貼千元人民幣？國安官員揭露中國介選5大手法 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTTFDYXp3bFFkcjJwc1hmNzNtRWR3b0RGdGZReHY4N1U0aFJBV0hpOUFXR0hxcm03clV6NVB4Ml9hb3pPRHF0a25HbE94RVB1U2pURG05M0xGcnhQaHhkeVhiYTFkOTRvTENxcTIyQWg3NGRnR1dRcHhaSk41aVYxMnR2aG5ReWV4dmtQNmd6RlBiSVpwUXdLb3pzaWdVLVVYT09NOEdRdUttOWRzUUJRd0VWS1Rpc2hzSVA1ZnIwYkJWWUxnQ1REcWxGTGlLX2hEUTJfRHBsS1ZoUkVwZGE5c1QzLWtlczMtNVdrQ0Y5NWM4U1BDaC1LUU5WMEExMkNPOGY2NjZlSmJjaHRRaGdZRlVXQjd0d3Jac1ZzS2Vjc1lrOVhZeGlLNjh6T2JOeGcxM3JUUXhtYm9RZlZmWkFFcEJMN0NTSWFtWV92UWZzQkZDdXRUZHg0WWdQcENHRUNTQklxS1Y4NkZKeVlZc3Q1VWhCOXpxbU1qZHp6N3Fn?oc=5",
+      "date": "2026-11-17T17:36:00+08:00"
     },
     {
-      "title": "專家看盤》外資提款、融資承壓、台股短線震盪、留意斷頭賣壓股 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQeEdGYUlsamowcDZjNVNZSWpTWlBuQlVyOUlEOEJ2U2xRRnRfVkRFVktRSDJPei1XR04tMnlkQmVHa1VOODM3MjhMeEpiNmJvMkxKWEZOeDItNk9xVWRjYnFVZjFrWDEtRWhFODRnaExZaE1SMWd1UWpFNFRwdk5lVFFjUWVuNlRIckdtTk5vMXkxZDFIY1lVdTRPZlphRzZ0RTNBN0JFZ3JoQ21ELXMtNW1qUGZ0cjdGay1TeUdJaHhjZ05HeVpxOE85azF3WEhSYS1wb2tQM0hrNmFEOVN0RzRnbDBxR0Q1bHMwcWctQlFROWEyWEhIUGotQnZuTXNwWC1COGRxTzBtaG1sU3VsYl82NjZjWWhFSVIxU0NsY1U3SUFsUEJxS1Itc092alRrNjJONklfTmJZZ3ljVnJ1aVhwejkwSmV4eEZkWGJUN3NFUDA3YXYtV25tOEhrVHBrQVB4OTFJcmdDTG1uNnhmaXVzSk9reEFKZnU0RDRJdEtqUEZZ?oc=5",
-      "date": "2026-11-17T10:36:45+08:00"
+      "title": "百利好金融集團十六週年晚宴 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb2JDY3Q2d28tZVU2ek5MRXpHTjJUMTMzaXZiSW1FZ0hKMXlWMXBDZDJzQnkzdTJHSmtCNmJQRDFJXzNYMGVfUUZ1OXdFNlc2c25IZ1lMR2drTWwyVHJCSXlncE1Db1Vpa0dmQnVqZERhVWRueFdLdV83U0ZCdFVOWXdiTTV3WTBNUDVqTVQtbmVXWVNVMTRSTkJkeDZQenZRS0Z6NG96MTMycW1WZlQtT3VLUXE2N2ZtamVoeWlVaUJrZnRYWndUYU1oOTUwQ0wyMmdMVTEyNzNCUkYyS3Z1dTFlc2lQNjNlVzB2a2QyZmNuSTItYjN3?oc=5",
+      "date": "2026-11-17T17:31:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T12:18:06.661206+08:00"
+  "updatedAt": "2026-11-17T18:25:25.844457+08:00"
 }
