@@ -113,3 +113,29 @@ v1.2 的「下一步建議」由 `scripts/recommendation.py` 使用已完成交�
 台股批次讀取 MIS `getStockInfo.jsp`：`z` 為成交價、`y` 為昨收、`tlong` 為毫秒時間；`v` 原單位為張，**乘以 1000 換算為股**。`z` 缺值時盤中使用最佳一檔買賣中間價並明確標示，否則用 `trade.z` 最後成交；收盤後只採實際成交，不以中間價冒充收盤價。沒有有效價格、時間或量時該檔退回 Yahoo，不以零或昨收冒充報價。TWSE 逾時 2.5 秒後退回 Yahoo（7 秒上限），每檔回傳並顯示 `source`；快取 20 秒，前端仍每 60 秒更新。
 
 日線 NaN 繼續濾除，等下一次排程補完整日線；不以 regularMarketPrice 填入歷史收盤，避免日期、量與均線錯配。GitHub 排程不保證準時或必定執行，五次冗餘降低漏跑影響，必要時手動補跑。
+
+## v1.6 交易工具
+
+從頂端「交易工具」分頁進入，或開啟 [交易工具](https://edjumptw.github.io/stock-watch/#tools)。
+
+- 買幾張計算器：輸入買價、停損價及願虧金額，計算可買股數、整張、零股與投入金額，選填總資金可查看投入佔比。
+- 交易筆記：記下買進理由及停損價，賣出時填入價格、股數及檢討，可分批賣出並查看當初理由與實際結果的對照。
+- 下單前檢查：新增買進前須完成四項勾選。資金設定預設以 20% 為單檔警戒比例，可自行修改，超標時會再次提醒。
+- 虧損煞車：設定每週與每月可接受虧損，達標時在所有分頁頂端提醒「先停手」。
+
+金額統一使用新台幣，美股請先換算再記錄。損益未含手續費與稅，未賣出部分不列入。週統計從週一開始，日期以台北時區為準。淨損益包含獲利及虧損，煞車採「虧損累計」，只加總虧錢的賣出，不用獲利抵銷，畫面同時列出兩種金額供核對。單檔警告以相同股票名稱的剩餘持股買進成本加上本次投入計算，請統一股票名稱。
+
+資料只存於目前瀏覽器的 localStorage，不會上傳伺服器，也不會下單。不同裝置不會同步，清除網站資料或使用無痕模式可能遺失，請定期按「匯出 JSON 備份」。匯入會驗證版本、日期、價格、股數及分批賣出總量，確認後取代目前筆記與設定，請先備份。
+
+新增檔案為 `trading-core.js`（計算及資料驗證）與 `trading.js`（介面及本機儲存），部署流程會一併發布。執行以下檢查：
+
+```bash
+node tests/test_trading.cjs
+node tests/test_ui.mjs
+node tests/test_worker.mjs
+.venv/bin/python -m unittest discover -s tests -v
+.venv/bin/python scripts/check_v16_browser.py
+LOCAL_SITE=1 .venv/bin/python scripts/check_v15_browser.py
+```
+
+瀏覽器檢查需要 Playwright 及 Chromium。新功能測試使用合成交易資料，截圖位於 `screenshots/v1.6-tools-390.png` 及 `screenshots/v1.6-tools-1440.png`。

@@ -47,6 +47,7 @@ jobs:
         with:
           node-version: '22'
       - run: node tests/test_worker.mjs
+      - run: node tests/test_trading.cjs
       - run: node tests/test_ui.mjs
       - run: python -m unittest discover -s tests -v
       - name: Commit fresh data
@@ -62,7 +63,7 @@ jobs:
       - name: Prepare public site
         run: |
           mkdir -p public
-          cp index.html style.css app.js public/
+          cp index.html style.css app.js trading-core.js trading.js public/
           cp -r data vendor public/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
