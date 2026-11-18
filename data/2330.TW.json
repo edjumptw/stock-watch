@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-18T00:00:00+08:00",
-  "close": 2175.0,
-  "change": 5.0,
-  "changePct": 0.2304,
-  "volume": 45159352,
+  "date": "2026-11-17",
+  "dateTaipei": "2026-11-17T00:00:00+08:00",
+  "close": 2170.0,
+  "change": -45.0,
+  "changePct": -2.0316,
+  "volume": 54811661,
   "bias": "偏弱",
-  "performance20": -9.56,
-  "volumeRatio": 1.33,
+  "performance20": -10.33,
+  "volumeRatio": 1.7,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-17",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 2311.25,
+        "price": 2322.75,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2405.8333,
+        "price": 2409.1667,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.3339
+    "volumeRatio": 1.697
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -9.56%。",
-    "本日成交量為前 20 日均量的 1.33 倍，交易較熱絡。",
-    "RSI(14) 為 36.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -10.33%。",
+    "本日成交量為前 20 日均量的 1.70 倍，交易較熱絡。",
+    "RSI(14) 為 36.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-18",
-      "close": 2240.0,
-      "volume": 25875079,
-      "rsi": 58.48,
-      "ma5": 2250.0,
-      "ma20": 2202.25,
-      "ma60": 2001.5
-    },
     {
       "date": "2026-05-19",
       "close": 2205.0,
@@ -1177,22 +1168,13 @@
       "ma5": 2294.0,
       "ma20": 2322.75,
       "ma60": 2409.1667
-    },
-    {
-      "date": "2026-11-18",
-      "close": 2175.0,
-      "volume": 45159352,
-      "rsi": 36.66,
-      "ma5": 2250.0,
-      "ma20": 2311.25,
-      "ma60": 2405.8333
     }
   ],
   "news": [
     {
-      "title": "勝一綠色製造 台積授獎 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN2ZFQ2NzWVNQbGlXRVNiaVpWUEh4dmdWYWtDdW9zclBzcEUtRi1HTmkzc0pnVnhFZ0xiRUNaRUZXSktGNmhDUUYzSVFkcG5fZ3hZZFdrRTZvQdIBX0FVX3lxTFBwNFlDUzVyVWl4a2FydjQtSl9zRl90Tl9RQlFYcEdyM0xUakE1TUlqaGVpdlNjX28tSEdnSWlZUXlycWxyaFNlUVRHby03Qy1tWldmSDRYaFJjR0NmZkRV?oc=5",
-      "date": "2026-11-18T23:22:02+08:00"
+      "title": "2330 台積電 - 明天又要跌幾千點- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95R0FPeHdOb28tNU9MMVpWRkJXT3ZDNW1YOE1oMGVqSGRNa0NEbUNQMG8zZHpyWFlsNVZHdURkTzZBa3FkcTJQTmdxR2I0aEF1bkw1OEJia2Y?oc=5",
+      "date": "2026-11-19T00:07:56+08:00"
     },
     {
       "title": "不只台積電、鴻海！輝達宣示與供應鏈夥伴擴大合作 「這幾家台廠」都被點名了 - Yahoo新聞",
@@ -1205,15 +1187,15 @@
       "date": "2026-11-18T23:17:06+08:00"
     },
     {
+      "title": "美股早盤／輝達財報亮眼也難救 大盤由紅翻黑、台積電ADR跌0.4% - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nNEFpVEx0X21VdS1hWWJHT3MxajF2VjhKRTM3dEo2QlpuNlhQUWlRckZtVjlCd3dmb052RXhpQ3RMREEtU0xxTzRvcVJaRll2?oc=5",
+      "date": "2026-11-18T22:54:08+08:00"
+    },
+    {
       "title": "黃仁勳被董事會拒絕！美股開盤道瓊跌300點、台積電ADR走揚 輝達盤前漲幅吐光光 - FTNN",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lMVk0M25iR3lSVWZkN0t6NWpsOWRvVUFWSF9LTnNaSGRKRWhONXZiLTNqOVBTcVRRMVZOUkxCeGotQm5HQmJFNHBIdw?oc=5",
       "date": "2026-11-18T22:54:00+08:00"
-    },
-    {
-      "title": "2330 台積電 - 乾夜盤跌70 - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ckNWU19UaUQ0cnpuUHJKUTlzUFZPUkRIVkVJNG9tb0Y4bm94SS0tNmpmSUw1dFlMVEszajJzRXVTR0NfX1VmTWZLcFZFaFpvTmQwZlNqajk?oc=5",
-      "date": "2026-11-18T22:52:19+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T23:56:41.147536+08:00"
+  "updatedAt": "2026-11-19T00:28:13.997070+08:00"
 }

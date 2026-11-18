@@ -47,19 +47,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 229.87,
-      "high": 230.0,
-      "low": 218.37,
-      "date": "2026-05-18",
-      "close": 222.32,
-      "volume": 146280900,
-      "rsi": 61.66,
-      "ma5": 225.998,
-      "ma20": 211.314,
-      "ma60": 192.4472
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 219.62,
       "high": 224.48,
       "low": 217.91,
@@ -1712,30 +1699,30 @@
   ],
   "news": [
     {
-      "title": "UBS維持NVIDIA「買進」評等，目標價從240美元調降至220美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwR0oyRHFzTlRNd2h5cnp1OG1hSG9JX19tWlItbE16X1QzUGpwVU1URi0xakNHR21CeTF1Sy1SaG1OWF9UaS1DQjNjbHVydHdBdjRBNllvVmpZSkhzRXN0anNiV2UxY09rd2dpUw?oc=5",
-      "date": "2026-11-18T23:39:51+08:00"
+      "title": "NVIDIA管理層無論誰掌舵 AI晶片散熱需求估只增不減 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1JFYnF0bHZSaHFNNDdrNnMtWDBnT3VBX01scEt0V202V3BVbHloMTFSaEIzWTlKcTdhNlZTamF4WS0tY3NmMUVuQUlZWlczLW84WGtDMHNXVUtJNC1xQUtJelBwanhuZmxOckRKTmVVbjVxS0VxRjk3QlhSNVYwc0ZHd29GWmVEbGxfVUk3YWpQbDdqTThURHlJVlBGTkd3ZW5zbjloS1BSS3N0aXFvM01wOGhKZXlUUnZ6ZVJjMnZHQQ?oc=5",
+      "date": "2026-11-19T00:20:34+08:00"
     },
     {
-      "title": "拆解 NVIDIA 這份不尋常的財報：業績亮眼但股價沒暴漲？｜美股評析｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQb2JaWUdmYmVKSnd6RUpOdERvMHVqZ19maTRHS3dYVk1MZEg3OHMzZnJVVDBiRVlBTlN3T3R2ak9yelZIazhHbTJOMjZmRmpXYXZVSFlMa2x5WldWOVJscU83cjdjSDFndGVnUzJhRjJ2X1JnYllMaEFxMWxuYS14emhRVjdLYXo4WXA3a1JKVTZwS2k2M2p3YktQbjBHdU42eFlaVkRYMUV2VFJpQ1hCdmlrWVV1VDV6TDBZc2x1S3p6TDh6Mk5MUjBENUlfU19xT0ZWUTY3akJKbU55TkxkaWZzT1lNT2hIeTh4cXpHOVZkQ1oyRTA0LVc0RzZNaTY1VVVrRTBBU1MtejJLRkZQRGg2OEV1aFRpbkhSZEZXQW1UQ214NktJYi1iVXFDX1oxY2hhQkFWUmp2ZGJLQk5HU0E0RWdVVHZJNURFcThmM2xpQWhpdm9BTm1wSEp4NGN4bnp3VDcyaFRGeTA5Sm03QTRZOGVubGlXOUI4ZW1jMkppNEhvXzJ2UkQxMW1GNi02N3BMTk1yR1dfR0c2UFhfQlNnUGVkVUhfdmpYWEJnZWk5UzA?oc=5",
-      "date": "2026-11-18T23:22:30+08:00"
+      "title": "AI算力需求續擴張 NVIDIA仍有供應鏈、融資與商業化考驗 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT29IZlI4ZnRPS29BMTNOd0swaWVqR09wcWFaRWNKcGdCUUUtTkFObkxFMnlJYzVVY3A3enh1YmdVTzUzMlY4d1FfQ0tjRG9zRVNkT3ZmNGJkNkFiWGtNS1RMQkJMLWFPajhxVzBmVGI1Q0xqN1N2SFE1UW5HSGFfWDJYQ2tubjNoS3BTMjhqNXBWLVRkWGhVZFZTRHJ3VXNyalpaYkU1SUNhemZ5cDAzc0Y3YThsaE5MYU5aTE9xdlNHUQ?oc=5",
+      "date": "2026-11-19T00:20:33+08:00"
     },
     {
-      "title": "DA Davidson維持NVIDIA「買進」評等，目標價200美元不變 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMaFlWSUx2a3dSUktBTV9ibzVtYWFaLUlsaWg1VDhaVGpWVEQ0ZGYzYWh3NUNvUDdOMFNyNE5UREFBZkFNQ3ZKZlo0Z1o2UnM3bUtPVDFIQ2Z6S2kybmt0SDEyT01SLU9ieTd0LQ?oc=5",
-      "date": "2026-11-18T23:11:18+08:00"
+      "title": "NVIDIA強調產品節奏不變 AI晶片供應鏈估短期衝擊有限 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRi1aV2swNVdLSlZHRWpQRXViY1l1VDNJR2RUUmxyejZVV05jOFpYZ1ZhaUFDQS02b0M3NkhubUtvV045MU9FamRFblB3N1VyUlBfQmtzWkdpNV9UekpTQjNfUDJHM3VLWXBEM2U1VmxENUlfT1F4b3J1MmFRRjBwRi16MndGME5vdUNNWUtVY2pNalh1amlseUk4NFhFcHAzTUhZc0lNQVkzZEprX3hSUVNUamNzcWNJMkR0Zm9oam9aZw?oc=5",
+      "date": "2026-11-19T00:20:33+08:00"
     },
     {
-      "title": "Argus Research維持NVIDIA「買進」評等，目標價220美元不變 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjazNxZmQ2bXE4aGl3X1dKeEJyVlJSXzRmazNpZ3Myc1lTYURtaUZ4enRyRGNUdjFxcWI4WldMN2Z5dUVFVXE3SENXWGV4cjhIUUFsZmN2MmdFdk94N09tWC11M2FNLUlCZlViSA?oc=5",
-      "date": "2026-11-18T23:11:04+08:00"
+      "title": "標題 : Nvidia不需要「大牌外援」接班？專家：內部接任或短期名將穩定戰艦，避免黃仁勳式體系被擾亂 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeG1UOGJnazBPS0NDNzBpOEZJeEgyQk9lazByeUJWRXExQ0hfNWx5VDF4aWJzSm51d0xrMG5pOG9ncTljZkV1Mk0ySGdnVW9kRFdUcVZ0cVZnWXdicFhXUWl0NEJRUTc1bnBzaldmYnd0NVVreXpIRlV5UnE3U0J3VlVHWVRKUlA4MUdzNlJR?oc=5",
+      "date": "2026-11-19T00:08:09+08:00"
     },
     {
-      "title": "Wells Fargo維持NVIDIA「加碼」評等，目標價從300美元調降至250美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MOUlDdTlSUTNDQ2tlNVV3ZFZ4bjVTWnpCaVdZcm9uQmNTS20ybVhTNXcyUTItOXA1Z2NnMERrb3kwNEF5XzVtRnVWSDE2YzRxNzF6R005ZEV5UXdBX3Y5eHBoaFlnU00xcThTQQ?oc=5",
-      "date": "2026-11-18T23:08:30+08:00"
+      "title": "JP Morgan維持NVIDIA「加碼」評等，目標價從215美元調升至230美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ecy1sQ0RnYXJ0TDA0U0ppck1iQlI5U2FSRVJSaGlTZTU5WGZaeU1LWHZmdXE0VkpGdFZJV1AySjcwR1lfY2ZGLU5xR256SFE4M09oZzZGSjMxVURvMGtQd0FOQXdGTmtaRlRtaw?oc=5",
+      "date": "2026-11-19T00:04:53+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T23:56:43.199544+08:00"
+  "updatedAt": "2026-11-19T00:28:16.041743+08:00"
 }
