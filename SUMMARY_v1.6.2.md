@@ -27,3 +27,9 @@
 - [1440px 完整畫面](screenshots/v1.6.2-tools-1440.png)
 - [390px 錯誤提示](screenshots/v1.6.2-errors-390.png)
 - [1440px 錯誤提示](screenshots/v1.6.2-errors-1440.png)
+
+## 正式站與交付
+
+修正提交為 `deea188`，已推送至 `main`，[GitHub Pages 部署成功](https://github.com/edjumptw/stock-watch/actions/runs/44235685565)。正式站的五個 CSS／JavaScript 資源均已確認使用 `?v=1.6.2`，並以 `LIVE=1 .venv/bin/python scripts/check_v162_browser.py` 在 [交易工具頁](https://edjumptw.github.io/stock-watch/#tools) 重跑 390px、1440px 的表單驗證，全部通過。
+
+本摘要連結的四張截圖均更新為正式站操作結果，使用獨立瀏覽器環境與虛構交易資料，測試時停用外部報價請求。交付時間為台北 2026 年 11 月 18 日 12:15 前，早於派單期限 13:00。
