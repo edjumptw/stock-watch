@@ -9,10 +9,10 @@
   "close": 155.4600067138672,
   "change": -0.68,
   "changePct": -0.4355,
-  "volume": 398625600,
+  "volume": 406985100,
   "bias": "偏弱",
   "performance20": -28.18,
-  "volumeRatio": 1.81,
+  "volumeRatio": 1.84,
   "recommendation": {
     "date": "2026-11-17",
     "action": "減碼",
@@ -37,11 +37,11 @@
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.807
+    "volumeRatio": 1.8449
   },
   "commentary": [
     "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.18%。",
-    "本日成交量為前 20 日均量的 1.81 倍，交易較熱絡。",
+    "本日成交量為前 20 日均量的 1.84 倍，交易較熱絡。",
     "RSI(14) 為 22.5。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
@@ -1690,7 +1690,7 @@
       "low": 150.33,
       "date": "2026-11-17",
       "close": 155.46,
-      "volume": 398625600,
+      "volume": 406985100,
       "rsi": 22.5,
       "ma5": 162.874,
       "ma20": 192.5905,
@@ -1699,30 +1699,30 @@
   ],
   "news": [
     {
+      "title": "美股震盪！NVIDIA業績短暫推升後回吐、美元攀19個月高壓制市場、Anthropic掛牌在即 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nUDl2LUlFZVVEWFd2N3RneXhMZXV1M2tncjVfS2NjVGc5aDRLYnFpYWRLTmZQdFZNTFBCc2d1TlplM0R5aXdJaHdUUkFmblc2UUQzTHBDQl85dDR4OHF5c3R2ODNfNWM?oc=5",
+      "date": "2026-11-19T03:08:10+08:00"
+    },
+    {
+      "title": "美股震盪！NVIDIA業績短暫推升後回吐、美元攀19個月高壓制市場、Anthropic掛牌在即 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3R2NnUtd2N6SmNsN3J5TmI5VmNQRC02emRqRTk2cFBPWkZXWUNOSGkzSkV2MU5yLUhycGhWZkZOWXdkY2NaeU9aMHM2TGZQOEI0bEx4b0ZBd2VWbzZQTm1VMWxfTlpPVVB5YXFZdjVSanRrSENqWE9kemZ5ZmVoTFBQemxtdlZqT29pZEdB?oc=5",
+      "date": "2026-11-19T03:08:10+08:00"
+    },
+    {
+      "title": "《TAIPEI TIMES》 Nvidia issue part of a supply chain trend: academic - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OMnhKc0pUQ01DbEYzX3MyTS1MZUh2T3EyZXJOTWhzSWpWRXJMTnFQbzh1eExGbjQ3cm5iMXc2NDRfc25XV2s2ZmZabHVyOGdhejUtWXpNWVVpbGtsenV3RnNHckh2UdIBa0FVX3lxTFBzUjEtSG5CVXBWUHJiUWFxckhHdW5mbU5MVzEtVG1tcnZQN3liR1VnSUJ2REtQeTkwSHJuaFVJYU5vTi02OVljZHZKTFpWNlVsaHZSVDVTVnBEUnJrV2YxSzNFVExNYV9MVVFN?oc=5",
+      "date": "2026-11-19T03:00:00+08:00"
+    },
+    {
+      "title": "Jefferies維持NVIDIA「買進」評等，目標價從300美元調降至250美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lRmpLcUtTNWJsbkZJd2FjZmRXVmZpT2pmSDk5UzN2dmxzdkxtSnExUkpMWlBNNVhRemFHSUNSYXZQRUZXdUM1SmNIQ21wbURENjhTSDRZNXJ1N0hPZEhvRzN4Tk4tRWZRZHMyOA?oc=5",
+      "date": "2026-11-19T02:23:00+08:00"
+    },
+    {
       "title": "標題 : 納指震盪走高！NVIDIA財測亮眼仍疫心，Anthropic天價IPO定價左右市場 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajZ5amluUHR6QVE0WlV2aFVGMzJERWJhWll5Qm0tTWV1SnAwRExQRHhBaG9LMkFjYnpmVklrZEZNcE8zSGxreXl3aFVHbkppM0FMOXUyaFZlNlo2NXlaUnExNjl1OHhiTFJjUmt3NXYzQloydTRKMVE3X1BTdmVPVkdBajNnbGZoeHdxcUd3?oc=5",
       "date": "2026-11-19T02:08:42+08:00"
-    },
-    {
-      "title": "華爾街日報：Nvidia風暴下的散戶心聲 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pajFpZFNtRXVWRXVoVGg0emVmVVBYVW5iSjJRLVZVZ3VaRVFKWGZRWFZIM0ZrQ2ltdzBVUmswNTVkNFBYa0lwaExuUjBTWXg0NFRleldsQXZRaFF2WWxzamNR0gFnQVVfeXFMTTFTS0xRdFJkSC1oMTVqLWdRWXl4a3pNY1ZuWXFvLW51WkNwOGpqX3BhZlUyQ2Fya1p5THM0T05yUncxM25tZWpPS0FpcW5fZkw4YllmOWFLU3o5aTlyMlZrQm1MU1ZCYw?oc=5",
-      "date": "2026-11-19T02:05:00+08:00"
-    },
-    {
-      "title": "Ackman 批 NVIDIA 董事會草率逼退黃仁勳，恐違反德拉瓦公司法 - 鏈新聞 ABMedia",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jU2gtYVBLRExRa01mMW1vYlJLMHc3Xzd4UDNpc3ZhanEyVGlOMHRNcy1kUDNsQzZ5VEFvV3U1b3FqQjd2WS1EZlZRUFNpRWNaNnJHVDhUOXp4QlRk?oc=5",
-      "date": "2026-11-19T01:51:59+08:00"
-    },
-    {
-      "title": "Nvidia停止對中國出貨AI晶片⋯今日5件事 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HcjkzZnd3eGtEVHRZQS1WbVF3Y2JjSm9HUVNWZHZUUEdaM0JQTko3dFI3Wlk1WkxBVnM3Ykd4WGpOUWVBZWZVZ3lPUVFPM1pWRTFpM3lyQnF4N1FFRm1KUy1R0gFnQVVfeXFMT1J4ZklMeHlDcG1oZTBEUHpxbW03ODVydkhveFlSWkNSQWNuNGYyNno5cFViT1I2SS1wRjA2dEd3SG5TZFJNRjdlT2JrZ2VBUktzWE5nYzVGdXRGdDhDdU5VSUl0V2JUQQ?oc=5",
-      "date": "2026-11-19T01:50:02+08:00"
-    },
-    {
-      "title": "輝達財報未能帶動美股全面反彈！Serenity：誰還記得採購承諾曾是存儲股利多 - 鏈新聞 ABMedia",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCR21mVWZKMkw0SEtwNFFjdUhLNk5TY3Fmc1NpeHVsdnROUkdSbDRCQmhVdUlZR01JWkNuRXdKR1hGWnYxMndiLWRxZWhnUThlY3ZFT1ZqODNwd0tXVENr?oc=5",
-      "date": "2026-11-19T01:41:02+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T02:25:07.801192+08:00"
+  "updatedAt": "2026-11-19T03:24:18.124666+08:00"
 }
