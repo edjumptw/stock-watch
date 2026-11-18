@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 2170.0,
-  "change": -45.0,
-  "changePct": -2.0316,
-  "volume": 54811661,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 2175.0,
+  "change": 5.0,
+  "changePct": 0.2304,
+  "volume": 45159352,
   "bias": "偏弱",
-  "performance20": -10.33,
-  "volumeRatio": 1.7,
+  "performance20": -9.56,
+  "volumeRatio": 1.33,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2322.75,
+        "price": 2311.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2409.1667,
+        "price": 2405.8333,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.697
+    "volumeRatio": 1.3339
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -10.33%。",
-    "本日成交量為前 20 日均量的 1.70 倍，交易較熱絡。",
-    "RSI(14) 為 36.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -9.56%。",
+    "本日成交量為前 20 日均量的 1.33 倍，交易較熱絡。",
+    "RSI(14) 為 36.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 2294.0,
       "ma20": 2322.75,
       "ma60": 2409.1667
+    },
+    {
+      "date": "2026-11-18",
+      "close": 2175.0,
+      "volume": 45159352,
+      "rsi": 36.66,
+      "ma5": 2250.0,
+      "ma20": 2311.25,
+      "ma60": 2405.8333
     }
   ],
   "news": [
     {
-      "title": "台積電米玉傑：半導體創新不能單打獨鬥 攜手科林研發加速AI世代技術開發 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rRHlJRnIyWUlPbGdHalczUXhMU1laY3BtZzJqQ1R0RnNGaDk4UmkyLU1LWnhEblBKdmVkSVFVNXZzdjk5TUMwZm1hNXJtSkFfNV9ad3NBQkc?oc=5",
-      "date": "2026-11-18T12:34:05+08:00"
+      "title": "出手護盤了？台積電最後一盤湧近5千張力挺 台股強震1600點 失守年線後強彈保4萬 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnNzZHT2paNFdONXdPM29kZGxCWjlPaGpLU0hSbzBMbzdnVGNPeTRhSExZQU1PeHk1cVhUejRkcndQbERFbHJiTTI3V0tFWkxlXzJlbzZ2V1NTMk5f?oc=5",
+      "date": "2026-11-18T14:24:31+08:00"
     },
     {
-      "title": "剛成為台積電夥伴！「這檔封測股」卻苦吞3根跌停 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzVnUtQ0VfdHFkMWc1OGpaU1JEcGlMdlRlVFhJX1hheXhXVXN1YVZvWXhBUGJ0bkVkdTlac3pMQVlCX3pPUGV1RGtBbw?oc=5",
-      "date": "2026-11-18T12:30:53+08:00"
+      "title": "今日台股》尾盤買單挹注！台積電上漲5元收2175元 台股終場上漲102點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZTAyc0dheHZHQmdJUENqbHRBRG5xZHNaX25BYUd3R3lRSjB1VWJuckVvczJvYVdEX0xBVU52aGdMZ1dOMkJTVS1YNUlzUThkdXBxNzMzRWk2SkJWRTlzejVZU19IT3hiRXMyR01nM2stZ21EYTg5WF9uN1UyN3dpQVp5aEk3ZFJWT0s4ZU9zQkJFblR2cXRZaG14RURFc2Z1Y1E1X09rYURXblJ3ZFRIdk14azRIakR3MDJabEtaN3I5OTRBQTUwNWtKY0t4QmdfSWVWQmNDUnRZUURTVEdORmhiSHdiX0xuQ0lkVExBZEtwd3YwbFhaQS1kVEpvV2tTV3d4ZmZKNjM2UkFwakE4bnJMSHJLeVZZM2tvdVM3NVF4MVlMQ0g2ODhYTENkUGVBZ1ZsQnFYTUJFRnY0dF9lY0lMNXZybnNKN0l2UFZIbEgyYnhUX2NYajRrRUwyMzZESDJxeDVWY1NxY0hmT2RZcVlrdnRmcjJRYzdaUm03UDg1UVdhX2pQd3l5cklVUQ?oc=5",
+      "date": "2026-11-18T14:15:01+08:00"
     },
     {
-      "title": "「上市公司」連吞3根跌停！抱上台積電大腿為何慘崩？股價暴跌「4大原因」曝光 | 下班經濟學| 財經 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhb1ZYYW02VThwbFRiWmt4SkM4b2tvOE1PZS1od2xjSDN4ak5tYWppNmprY1hLX1dadEJRUVlsVmk4MTlqZk1jUV9LZ3g4Zw?oc=5",
-      "date": "2026-11-18T12:26:00+08:00"
+      "title": "台積電拉回拖累0050跌破百元！法人算出130元目標價 分析師預言「這2天」現黃金W底 - 旺得富理財網",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91UUxSQzdRS0dWejAyN3lBSXlQVWdNZEpDOUwwTjlDdWlsWmlyRkU4SVJ5MmJKYm1QUXhUR3ZEU2FQWDZTc1hnTkwyZ0l5cU1GMHE0ODFCOU5VMDFNTXJrRFgtbFBmMzBTVUE?oc=5",
+      "date": "2026-11-18T14:10:23+08:00"
     },
     {
-      "title": "4萬點失守還有人喊55000點！周代運點頭信了 揭台積電「不到15倍」關鍵 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQOWVjUE92LVRkNzNVTDBSUW1acjhEQ3hrb0Zfdm9GcWZJdVg1dHVoRW01VWhEMHJXSjc2aEhQTlkzSW40bDlWX3diaEtHQk1Zb3FIbG5ZWENsQi15MkRSU3FPUmZlaHl1eGE3NHVCZnFQWFhYLU1hZW1Hdk56MUFfUS0yY19lRzg3b1Y0T0s2TDFlVVlyN1ZqLXUxZmlXRkp5MGhFMXRocHBxMFo0QTFCWXRvYmdQZE5UdnFPU2ExMm1FVzVYTm96dzJVTVF3ZHVVajNIT2FObkMwbng5aHVZY3pjb1JCQlVJNER1aWtUbFM2el9VcjExanhURnl0UzZaMHpEQW9aY3AtQUh1S0VNYXpOTUZZUVJnemdkLXhBVEM4M0FncWZpTDY0eU1NWEotVWVsNTNEcW9adndnWktZcDVyYTBOSDBIcE50WGxDSDdYQ1hkemladUM1OTdOVk5rVThJMUFoakJWbHkyZDVkQnpNZ3I1Nk5vQ3BTV05jMkZCeWtrbVFkTTA1bG5ZMTlHRUdwLWFSMA?oc=5",
-      "date": "2026-11-18T12:18:45+08:00"
+      "title": "不是輝達、博通！外媒點名年底前買進「台積電」是首選 理由曝光 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kN2R3cVJDQzBzbkxETUp4NjlCVHZSN3poRVAtSm1yck1YdjBGeE1EN051WUgyTjFQR1MwS2NUb3M5RUg2OXFIZlc4ZHllVWpEZ0Vsb1hIM0FENlFrdG5n0gFkQVVfeXFMTzZSejQ3RnF3dnNxRWNVUnN6LTd5RkRUZmpfTVZaYkVLaHQtMXNnWGx2SHNLVW5OQkZZQmpuU2RJQ2M5ajVNNDJCSlF6ZUNEYzhrbmpZSTdvUkhhMnM4R0pvU1Frdw?oc=5",
+      "date": "2026-11-18T14:09:54+08:00"
     },
     {
-      "title": "邱建富打台積電牌 解決彰化低薪及人口流失兩大困境 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQYUxiZlFWbFlyYnpwdlBUWkFRMDVWR19QcjdlM0JMNXV0Y0hHcTFVa3ZCdWNLRHlXZWwzcjVuU0RYTV9kSmJPalg1ZWYtbTBwUWp0N3Bmd1B1dUlRMllDX2NTcURwenI3aXduaHF1V3BZaUc2WGFyODRVZGYweUNCODNSMEVaVnN1Z2ltYWpuY0Y0dFR1MVJwNWRRRHlrWnZmRjRkWFQxN09Ec2sxcWJoMFpPdHNMX3BxTEkwM2JMZUJiRUVvYnU5OVdRdDBUMy1KaVBIU3hxNzh1b0JFcTVrMkZhelFfSW9iaUt3eGpXVDhlc1lld25VektTNFBpbm94R0RlcG95bXE2bWdoTFRTaWZiWXY5WXVKVVBTQjJGQlJuVHFGZHJvN3dwNHpwdmxtbHZ0VVZHcjFjX3RUNzVaTDJndGxLMWxxYm9QT2RKSzNtd2h0cU5mWm1ON0pLaWhtTXNDNFNyeWQ?oc=5",
-      "date": "2026-11-18T12:11:11+08:00"
+      "title": "今日台股》尾盤買單挹注！台積電上漲5元收2175元 台股終場上漲102點 - 卡優新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XOVVlaEN2RnVJYmI2RFBJbENDQlRoekpDYXFLSzNIam1wUmFVUUVKa0lOMEZILUpxdXBLVlk5bGg0UWRQQkpfb1dYbGkzWTk2Qjdkb2dqNkVYc3NK?oc=5",
+      "date": "2026-11-18T14:03:51+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T12:35:36.433053+08:00"
+  "updatedAt": "2026-11-18T14:43:26.361287+08:00"
 }

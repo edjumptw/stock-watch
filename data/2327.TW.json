@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 361.0,
-  "change": -13.0,
-  "changePct": -3.4759,
-  "volume": 56205998,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 352.0,
+  "change": -9.0,
+  "changePct": -2.4931,
+  "volume": 56850532,
   "bias": "偏弱",
-  "performance20": -32.4,
+  "performance20": -32.7,
   "volumeRatio": 1.49,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 361.0,
+        "price": 352.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 361.0,
+        "price": 352.0,
         "source": "近 20 日最低收盤價"
       },
       {
-        "price": 458.8,
+        "price": 450.25,
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.4922
+    "volumeRatio": 1.4866
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.40%。",
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.70%。",
     "本日成交量為前 20 日均量的 1.49 倍，交易較熱絡。",
-    "RSI(14) 為 29.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "RSI(14) 為 28.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 395.5,
       "ma20": 458.8,
       "ma60": 533.5
+    },
+    {
+      "date": "2026-11-18",
+      "close": 352.0,
+      "volume": 56850532,
+      "rsi": 28.14,
+      "ma5": 381.0,
+      "ma20": 450.25,
+      "ma60": 530.0
     }
   ],
   "news": [
     {
-      "title": "國巨*股價持續探底！暴跌逾7成 股民嘆：2字頭不遠了 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YMGx0dnhRbnBNUGxKYmoxdWFVWUZaNlBlWTlkNDBrRlY2c3FUVWhjcWJUTm1MS19lMnZRMTdMNXZWYTdwOUVyNUNKMnM?oc=5",
-      "date": "2026-11-18T12:31:36+08:00"
+      "title": "今日台股》尾盤買單挹注！台積電上漲5元收2175元 台股終場上漲102點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZTAyc0dheHZHQmdJUENqbHRBRG5xZHNaX25BYUd3R3lRSjB1VWJuckVvczJvYVdEX0xBVU52aGdMZ1dOMkJTVS1YNUlzUThkdXBxNzMzRWk2SkJWRTlzejVZU19IT3hiRXMyR01nM2stZ21EYTg5WF9uN1UyN3dpQVp5aEk3ZFJWT0s4ZU9zQkJFblR2cXRZaG14RURFc2Z1Y1E1X09rYURXblJ3ZFRIdk14azRIakR3MDJabEtaN3I5OTRBQTUwNWtKY0t4QmdfSWVWQmNDUnRZUURTVEdORmhiSHdiX0xuQ0lkVExBZEtwd3YwbFhaQS1kVEpvV2tTV3d4ZmZKNjM2UkFwakE4bnJMSHJLeVZZM2tvdVM3NVF4MVlMQ0g2ODhYTENkUGVBZ1ZsQnFYTUJFRnY0dF9lY0lMNXZybnNKN0l2UFZIbEgyYnhUX2NYajRrRUwyMzZESDJxeDVWY1NxY0hmT2RZcVlrdnRmcjJRYzdaUm03UDg1UVdhX2pQd3l5cklVUQ?oc=5",
+      "date": "2026-11-18T14:15:01+08:00"
     },
     {
-      "title": "台股畢業文出現了！他賠234萬上半年獲利全蒸發 釣出一票苦主：這波少了2000萬 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPbkxWWUYxUUExcUJJclhOZDRrYVZ2Q0ZsVDJiNndSSGMzcmkwUUtfeVFzTFNiaTl1dElEcUg3cXRXanJBcTFJRGZJbmRDdXhnWTZZWWYyRHdPN2RHLUlTTTFuRnpkMGZhQm00ZU1scjluVGlobi1TMS1TNlVjZjZKM3drcnhZUjJVTHpzMGVlLWNhekhvbmJvN2d6YXdCa1BxMWtHa0lkRml0QzhudHMxdzNlOVBUdlhHb1M0eXgwbkpNeC1NdGpwc2xMYWstcUYwQXFUMGhPUUcxbThTQ2QzWDMyVFdLVjhHSXZINEFPaUt6OU5oX3FOek9vMk16R3VIdHhVX0dGMlhWZWFWX3NBVHZ0cTc5dzRUbmJnTWJVbDFFMFNCU2JadGV0NG1oQXVVOXdncFQxckZGQmU2UVVaMnk2TmM4V0dSWDlieE5PZEhLZkJ6Y1dMR21rNExTTGY0SDVaejlnQkZQN2JDUi0yTlN2NFhELW9mVXZ3R2JuX1BuTERKQ1VJSUE4dmVQUEh5MDk2R2h5UEoyNXRSREQ3WjZrUUllbzlKZFpJR2hITGJKYlVNMUc4QmNCRUNpenhid3JTRHR3?oc=5",
-      "date": "2026-11-18T12:27:23+08:00"
+      "title": "輝達財報報喜！AI需求續旺 法人點名5檔台廠受惠股 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNdWdaUE5odFQ3MU8wN2NoUU1ULUxiQUtrVzBtZmg3eXFRRXoxSlQzVTRmQlg4NWVDWk11YjZlMGE2NEVQRUg0b2h6N3NRdHExVmQwMFdGbzVjbF9xTjBlQndjSVliejg3clRudzB5cXNIbVBZNmVBMEp5X3FNUjhzQmVVV1RlUndSZFl3aV9Ca1ZGc3NRaXctb1p1aVBQNDZsYnZQSUlwZVAxbnY5cjdOcWQzWTREc3pGZ1NtcDU1TlNkbXBfbDVMUjJZdk5lNVhodzM1anhMNTlDSUktblBYVGtFemh6QlQ3NHVwLUJ0Rlk4eXdqb3lkVWo4M052b3JVS19XLUJZcVozSTkzZ0M3QUY1R3BmZ1RxdXRicFh1TUpQdi16V0ZieFRIeG5iXzRWM0lXUmx4RERzR3RYZjBKaGxfWWxkUUtUUnc?oc=5",
+      "date": "2026-11-18T13:57:31+08:00"
     },
     {
-      "title": "台達電險摔出「千元俱樂部」...甜甜價將至？分析師曝：千元下隨時找買點 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPVnlGdm5kVTRzLWJCc09pS3B2TjE3dHFxVjhLcG5QdXJQYVdETFRNY1c1RllYQlBHYVdBYWYyOWdQaldjZUNBTkxwUXhiNGdhaDVCc19MakppM1RjUFJ1bFBwUG5LUzVPVG5DdC0wc0hMaWU3Snd5NDZ3MWtraEZLaXNDYjZHM3R0dnI0b3poYmtWU1VBZFhNYUVGbGtxaDZlcUE2MnBLeUdOWW94X0hWaWJjSFBjRXNJd0xzaHdtb2h3dFMwR2Fxd3dnd1hDX29LellYNnlPVGMwX0VjODd4ZHdUS18yVDNlRHdpcGxmQThTeDZ0UDRuSW4zUWJ4SUhJWWNMTy1ZNldfeTR0QUpmTi02V2ZoTkRGSjNOQmUyMXFjdm84Z09Kalprc3hPc3o1cFVNRTJkXzlDMnZ2dWZLR0ctb1Z3aWx6U2NiVFpGSHRQYzd4WWFhZC0ySnpOblo5cEFxYmx6OHE0M3ZyeHNkbnlxd1J4NVFTRWlmWkVObUxiblhlZWFRSjVneWtXSzdFYnRCelhmZ3BoNlJpV2k1a0RPYVA5aE5VR3dmTmQ1NTNleHYyU2lGQlpyRFA0LXQ1TUtYVkxXRmMtM1JjdEJaQ25SUVNXQmNmSEVr?oc=5",
-      "date": "2026-11-18T11:53:30+08:00"
+      "title": "沒有黃仁勳的輝達！代理CEO曝「台積電高層本週親訪」：獲他們100％支持 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOSHBFb0JKN1pXUUQ3WUU3eXJCeGN0MG15V0tXTzRFMk9XT00wQWNYLTc5dlQzazhuOTdBbEh5dFEtSkJ3RDNfUzRLbkNHTXZYYTVUUGxUU2R1b05LbG14Rm1QSXliLWtJejFVZ2dva0xTZ1hULWhad1lnNjdOTHJsVXBQU3dlYUNqYkNhUndfVVZUZHNYNDFCMV9UM1ZHMXRidEx2VGdUUGZYZDhkaGcyX3FxZTJKc0hIVEdhRnpQcGFiQjZTMGl6M1ZQSlJtTVNsZ05iekZsaURBbmRzdDRHbURxNXg4clRSVmJlRTZTTE01SjE4YzRMcEZvY01pLWJtNGVlX0VtQ2ZCOG1wdWwwV1BsQjB4ZlpZVjhWLXpqdFlLSWNtZkh3RS1EY2l6ZG56M3FpZzctTy1LaFFDR2pOZjlJdlRqYy1MNjBYQlN1amdLZWtQaktfdFM1elE2dEktQm91TEN2enJydVlhNUxTRFpIa1FTSVB3ZnZOVC1GOW9SMGluLXRmVXhNTTNNSmkwZVFSSQ?oc=5",
+      "date": "2026-11-18T13:35:12+08:00"
     },
     {
-      "title": "台股狂瀉3,500點還沒完！陳嘉偉突喊「主跌段才開始」 PCB、散熱股再陷殺盤 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQRndzeWVZUl9RNHhtQ09qRFE2bnI1alE4bG03TmJYUDVSWjc1cmlRY0ctcVE0UnNiQkgtcFRERXpwMGkwYm85dnJQYnQ4WVV4cEJIQ1BHc20wbnloR25Wa0tnVFlyTDNzaFpnR1lMemRRU0RKR29Dd1ExQ2pJc215SkJ6ZndVZ1c2RmxDZjhMZ1VaTUxMM1MxYnpxNEp1ZGNhQU1wbDRqbXg3UTF3VHZqc1piXy1pdHJGTTVNbFR0UzJIWHVRZndfU1RPc2tCMnVCVml0RWFCbW5NMElFajBsR20yNDhsaF93Y0lVejd6MWxiQ1M3M1BwZW83cE50d1pZNzZxRmVMOGVGSXFOeWFyUjF1VXpFeDREY3JhVTBJdHZDUThoV1NLb25rS0tPdnM2U0xVTEFKSkFpVTZiQkNtcFV3MWZDTFNIQVQ2X0lR?oc=5",
-      "date": "2026-11-18T11:44:01+08:00"
+      "title": "千元股崩成3字頭還沒完？國巨*盤中殺到331元 股民狂喊「2字頭這週見」 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPVUplWnRRM1ROdHQtaGR2dHZIMGM5cWVldlpVcDVMMEJkdGxnZkk1Y3FSUDdaS28xMkRUdHExeWMtUFp4eVhFNmtPaHV3RmU4Qk1KMUplM19jaVpxcVpKVVQ2bDVpai1oOG5tNnkxQ0ZIUl9TTzdLNTV4R1Q4aVRZd05GaXZlUzNIajNEbzNrWE42Xzd4VllTWjhnUEJlTmdteWR4TlFtOGtOdDdLazREQ0VvSGZlWktIbXdneVJzeWhDb1kyVVgyeTU5UldYclE4S2VyelNEc2FSbkZIeXBncEdfZ0ZjSjlVYURCV2dBd21INlZpMGNwNlBOM3VfLVlDNVVfNkJwRVdtWjFpS1VKU2hXZnV4R21JY29Ka0RxU29IeW13aEc1eE45bDZlNUZVNlZHQ0xDcndudUQyZVVMZEdGclVyOGV5WUEybk1ySFlNeFg5ZV93c0syWW1XVTNGc0tKMWc2cUpZdEZVTTBIV3gyZmZHMmFadUhlTm5hYV9WYk5vNE8zNWdqVGRvQjYzdU01NE9vMzg3WVAxNzBN?oc=5",
+      "date": "2026-11-18T13:24:26+08:00"
     },
     {
-      "title": "【11/18 產業即時新聞】被動元件族群下挫權值股重壓，個股逆勢突圍點火撐盤 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzREQ19Nb3Z6azdyVUcxWTVzSUVDbWZTQURHNmYtSXdDbUtvc1B6bzFILV9DendIOUo0cjRfMDNTb3RpM1VwREx1WmZmQmQ5OHJRMFlvcHFZbVN2Z0pZdzNuN0JYdWpHTTBqN3JKN0tNWnZuc1JoSDdaS3ZFM1lvVVZkbTlYSWQ0b2Z6MmhB?oc=5",
-      "date": "2026-11-18T10:31:00+08:00"
+      "title": "台股再殺破4萬點還能抱？哲哲急喊「別砍在阿呆谷」 這幾檔竟悄悄二次打底 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNM2RZYTlrM3l6RUNWdjBiM1Z0TXRCNHNvREEyQlJHbXZkZGVnZ3hPbjhlLUdMaWZXSExxNmJWYmI2M3ZGWUtRQ1JLT1c3cEg4d0wtaHhSbmJoSXN5RDRJVlVvQVNneG5ncmNncmlrLTM5Vms5Ul9JNWhVOHNmUkhUWHd6blFzTjJ2M1IyRy1fZTd6eWRZR1Q4aG1uUGtKRHhHTm9TeHhSdDVxNDVDNnZvcFdJSXlSZ2lScEZEWEE0a1JjcG45ZWdwZ2tZNGdBb21zc3YzSnR4QVh5WVg3ZkVSZkR2dEtQWEZGdkJBeDRKZEdaYVppQkNYZGpoeW8zNWZ5UkhjUlp2UFdEWDZhS3JhTVBpOTMxZlBKdXRXUEhvY1p1QXhUZEdnSUV1Wl9yeUppOEtZeHRRWFZLMGVFR1FINjRSQVdNNWV5Uy10T3JyeGszVkRNU1o0eWpGNVVfaFlRZlBNNmFWWkpJWXVHcFYySi1rR1BMZDBDMjNGWmUxa0J3dTY3RHFYQ21UZzdsTkk0MTQtTGhKaWFYc0YxSi1ockVpdlVuOFVZeEJiUzY4eGdBTlE2WXZTbXJrOEVVMUo4LW1uN0JHUzM?oc=5",
+      "date": "2026-11-18T12:53:07+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T12:35:34.559949+08:00"
+  "updatedAt": "2026-11-18T14:43:24.986763+08:00"
 }

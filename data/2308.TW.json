@@ -3,17 +3,17 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 1055.0,
-  "change": -65.0,
-  "changePct": -5.8036,
-  "volume": 23241046,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 1060.0,
+  "change": 5.0,
+  "changePct": 0.4739,
+  "volume": 20729259,
   "bias": "偏弱",
-  "performance20": -35.67,
-  "volumeRatio": 1.55,
+  "performance20": -33.96,
+  "volumeRatio": 1.31,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 1055.0,
-        "source": "近 20 日最低收盤價"
+        "price": 1304.75,
+        "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1332.0,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 1625.0,
+        "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.5518
+    "volumeRatio": 1.3128
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -35.67%。",
-    "本日成交量為前 20 日均量的 1.55 倍，交易較熱絡。",
-    "RSI(14) 為 29.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -33.96%。",
+    "本日成交量為前 20 日均量的 1.31 倍，交易較熱絡。",
+    "RSI(14) 為 29.4。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 1190.0,
       "ma20": 1332.0,
       "ma60": 1643.1667
+    },
+    {
+      "date": "2026-11-18",
+      "close": 1060.0,
+      "volume": 20729259,
+      "rsi": 29.44,
+      "ma5": 1143.0,
+      "ma20": 1304.75,
+      "ma60": 1631.75
     }
   ],
   "news": [
     {
-      "title": "〈台幣〉33元上下拋補激烈拉扯 國家隊蹲馬步穩台股匯市 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOblk3Q2R3NVBTY0t2N2pWUGhUaENTYXdNZjBKcTN4Y2RiY1BKX201VHVqZzI5cV9qMHJDVEdBZWlWeWUyUGVROTE1d1dXc3cxZF9xZWs4TW1PNi1BX2l6NkNRcVdYMUxjdldpeVd0M1Q5eDcyWFUyYnIxUWF2UThHcTVHcDc4Ymt3bWJzVE9ua0RVdVk0UlVFb2NhQUQ4Z2lPSUZWTTNwTFdOWHl5eGl5eGtESFRBU3NiUTlEZEZxTVJCNndrVERETTFBUmJiSlI1V1M2NUJvMW5SX1BEYVhsTVB3cC05NGxmQzNVeUNKdjZZUXZ3YnJ2NFdTVUlhYmhVRWpsM1NjRFdUUjRmVzNHTHNQenZ5QmxqcWFYdU1TUVZPRDNfM25xQ0RWT3hyZmF6a1pzYWI1NlBuNFBYN3lEaUlnQ3UyUThoZElocm9HZC04a0w2QUhSU0w5bFo2YkkzcWJ0RWF1N2s?oc=5",
-      "date": "2026-11-18T12:19:44+08:00"
+      "title": "波蘭TEEMA產業日吸引逾千位國際買主參展 電電公會估：帶動2千萬美元採購商機 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNZEdkYjdzZG5hd3dFV3JrNXMyNUZIaGtrUlBlSUo1WS1kQS1QelpsZEJ4ZjlkNFZHRzZxYVpKbGhSaG1WVWw2R08yOGNRRGttVEEyVXpvQTBfZHRqRjRWZ0hoaUhhYlpSTDBUQ1R5TDhVN0p5TGo2Vkd5MWY2cnZacXFEMExoZDgtVjBTZVQyYXZZcU5DNEo3bzdlN2dQaWxBT2VSZlYzT2JtcGRjMlRZV2M4UmFmMHFqRzViQm9nMGJmSUV3VjVidUg2TE9KM25vNldTbXpXYmdWTVRHOXY5WTBVNFhSakJBampNN1dZTDlDb0NHS09CRUVLb3d0MDU4bmJkT2x6TWpwVHVicEgyV2dKNnlFZ09KaGdXOEV6akdSTDhhNE1ocE5HYXJUM2ZsLWJRejN5LUlqYTgwaTMzNm5kQnE1QV93bEtweG9nLVJINlo5NHQzbzM3djRWWVZ2OTlQazFBc01aUlFlZWkzUVBIcG01T1BlUFNKck44bWdhTmNhUVZNQkFlc0hGbVM1SGIxSjR0WWpmdWhWZDNBMEtxbkN5Y1FVVlpvYUh5TU5Tbi1lSzRIcmlBcnJCYk5lYjlCd2h4UmIxOVBJeXNHWUZ4b1hDQ1FCSVE?oc=5",
+      "date": "2026-11-18T14:19:22+08:00"
     },
     {
-      "title": "4萬點失守還有人喊55000點！周代運點頭信了 揭台積電「不到15倍」關鍵 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQOWVjUE92LVRkNzNVTDBSUW1acjhEQ3hrb0Zfdm9GcWZJdVg1dHVoRW01VWhEMHJXSjc2aEhQTlkzSW40bDlWX3diaEtHQk1Zb3FIbG5ZWENsQi15MkRSU3FPUmZlaHl1eGE3NHVCZnFQWFhYLU1hZW1Hdk56MUFfUS0yY19lRzg3b1Y0T0s2TDFlVVlyN1ZqLXUxZmlXRkp5MGhFMXRocHBxMFo0QTFCWXRvYmdQZE5UdnFPU2ExMm1FVzVYTm96dzJVTVF3ZHVVajNIT2FObkMwbng5aHVZY3pjb1JCQlVJNER1aWtUbFM2el9VcjExanhURnl0UzZaMHpEQW9aY3AtQUh1S0VNYXpOTUZZUVJnemdkLXhBVEM4M0FncWZpTDY0eU1NWEotVWVsNTNEcW9adndnWktZcDVyYTBOSDBIcE50WGxDSDdYQ1hkemladUM1OTdOVk5rVThJMUFoakJWbHkyZDVkQnpNZ3I1Nk5vQ3BTV05jMkZCeWtrbVFkTTA1bG5ZMTlHRUdwLWFSMA?oc=5",
-      "date": "2026-11-18T12:18:45+08:00"
+      "title": "輝達救不了全村？台股從高點急殺1677點！景碩漲停後也翻臉 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQWnkySjVGTHBDRUswZGdCZVNNUnk0c25oRTZPZkNocEFzZzZBTnZEM0Zsajk4V2Z6LXVnOXJzcXRCeEgwLWVfWHk5LUJCckdReGhqZEl2bTVrbkpuNDZzNUpjRFBLRGVZR29xb2NsMnR3U2hxUW1aa3pDMTFvN2lmb1pxS0V0RlpTUWVLT2RyYjlkYlM1UVltZ2phUkR3aU8wTks1c2V0ajBqXzVQMzJrZzdJeGhGSkFlUzBfQXpxd0NYMjVINDl6bC15eU1raDk1a1pwUU91WDBoLWpwOHMzUmhyc1JGWERWdkJHYTdYalZ0d0ZZaEx6bTRFMUZyS3dTNzFnRXBLRGpZb2E3MVF4M01OQV9HUE1YOHlydnJvYUJnY0ZsbHRNN0lQLVdsOEctak5Nc0Y1c1BqU1VUbG1ZeC1IV1hkZ0xORmNRa2VzZ01FMEtscFpyeXVFOU1ENFJvbDZscEVPaVBnNWpXdC00?oc=5",
+      "date": "2026-11-18T14:16:00+08:00"
     },
     {
-      "title": "【Hot台股】股后創意連吞3根跌停...網哭「還有救嗎？」 分析師揭支撐價位 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPb1pfd0dKWEZPSzNZOEwtT2hNYWZJMFBpQ0xpaE1sMjI0QVk5ai1TRXNwejkyNWpybUZucGZKeHZQUmtWNkgwVVhTWjNkUGtnZmNvOUQwczNQVTFiU1JRLXJfeWxUUXRRT0M4Y1Q5UUh2T1ZoTUpTcHh3bmxzbWxQOEpkNlJ5OGdnLVR6Z3dBTzZqUjhySkhnZ1YtQ3lkTklNZWtHTHFycnRyYjdPQU11bkJHbnRXaHlaNEpVakR2ajVfMTZ1MW5lb2ZWZzBDR29wQUVwbTlnOW9Yd1ItQS1mZ0Fjc3FVRnFPZWI2U2MwWVdXOEY5cVRyS2k2VDFPdVgzMEw2cmRlcjlDbktzRUE2bUROcUNxUWNvMHVaNnNCZ1dLLV9Kb3RKMFRkdkNhRTZ3cmU4aThQdkd6NWNheGdoQW5hYnlYQUhwUWpFSVZJTjRLSDFHZ2Zsd3Q0MTNxUjhvZGc0WVBLSWV4dnRFZ29DTVM2S3ZUYmNXclBYUGI3UjhlM3NOb2RpbVF0M095dmtKVVpTZGRTSE41bmhBcUNpSk1yS0xJZVVXVlRhRVJmb3FKSlJEanI5Zm04UXpON1phbHQ4Y2lNNXFpZw?oc=5",
-      "date": "2026-11-18T12:18:05+08:00"
+      "title": "今日台股》尾盤買單挹注！台積電上漲5元收2175元 台股終場上漲102點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZTAyc0dheHZHQmdJUENqbHRBRG5xZHNaX25BYUd3R3lRSjB1VWJuckVvczJvYVdEX0xBVU52aGdMZ1dOMkJTVS1YNUlzUThkdXBxNzMzRWk2SkJWRTlzejVZU19IT3hiRXMyR01nM2stZ21EYTg5WF9uN1UyN3dpQVp5aEk3ZFJWT0s4ZU9zQkJFblR2cXRZaG14RURFc2Z1Y1E1X09rYURXblJ3ZFRIdk14azRIakR3MDJabEtaN3I5OTRBQTUwNWtKY0t4QmdfSWVWQmNDUnRZUURTVEdORmhiSHdiX0xuQ0lkVExBZEtwd3YwbFhaQS1kVEpvV2tTV3d4ZmZKNjM2UkFwakE4bnJMSHJLeVZZM2tvdVM3NVF4MVlMQ0g2ODhYTENkUGVBZ1ZsQnFYTUJFRnY0dF9lY0lMNXZybnNKN0l2UFZIbEgyYnhUX2NYajRrRUwyMzZESDJxeDVWY1NxY0hmT2RZcVlrdnRmcjJRYzdaUm03UDg1UVdhX2pQd3l5cklVUQ?oc=5",
+      "date": "2026-11-18T14:15:01+08:00"
     },
     {
-      "title": "台塑新智能攜手立碁強化供電韌性 擴大全台微電網布局建置 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQdTZqZDhvSTA3cnFpemhRM0p3SGxweTZUejJ0Z3U1dXFUZWxnM0JienhwMkdFWXQtVWJxcVQ5STlGS3J5YjQ2bWVvdjJJNVRObjJZYmhpbm94NURlMkpTb19SODAzcXBoOHlYeTBsMjNOSFQ2aXplTWlCSG81cHJmUTZDdFRXMHBkRHdINDRPRmZqWjVodGtmc191UzBPdnctMjZ1cXAxdnJjNHI0RzN2VkN4clVBZGtQb0xmaU5NNndYQkJuWm1Rc1BSajVrV2JSU3Rkd0pwUzJVZDZTYm9CNE5VZnYtRWJoMThvMk9xem5yU1d2czVNMHEyZmpiSU4yRFFrY1h4emg5TV9PWmgxZy1MZXgzY25ISGx4YUs0eVFMTjliZW9tZWhlWlBoYTl0WFVKUzVMcFZwdHAwWF95RHdXNUpZODZad0xBeC1rbkVzQmNNWmZfWE54V1BzU2RFUldNOUZlRnc3NTY0ZFVwV1A5QkhGOWJpVDBsRnBnRUhRR083a2JWc05tRUJncTFhQ2tPeA?oc=5",
-      "date": "2026-11-18T12:11:24+08:00"
+      "title": "盤中突開高走低！台股小漲102點 驚險守住4萬大關 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOejdfTlJhZ0VJb25zaVFtbEJjbmFIRkY2NHVudmgzSWNsVGptdzlFaGpfcWFEM0s4MlZCSmN4cEswRmYxR1FnWFpmQWZEVWVBOWVtUUJZZWlXWHVUVjBYTENrbHJWYmotTEM3endWUE5iejZ4YVk3NGxhUlR5UWc1OWdLd3JSSnd6QmQtX3dEbVBtXzRwVU9uX2RqMWNzMjduQ0laMWRRM1VydTQza2JyRFFtYWNiUmhyeUtGdzItdVpLM2s2bzhDRTgtdmlGZDYtc0p4S2xVbkV1WllqeEM0a0hvV2VzUkp6QTluM0dMUUhaaC00OVBCM1luamZodEpiRzgxalNpRUNUdi1MMy1HLTNHQVVtWkJrM0Y2TGpSWFcxVUlpUEpMeGgzazFFSTJvUWJ4Y1V0SjBWQVRSYTRuQU5TbWJZcVE?oc=5",
+      "date": "2026-11-18T14:10:40+08:00"
     },
     {
-      "title": "【即時新聞】台達電最新Q3每股獲利9.04元，AI電源與水冷帶動全年上看38元 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVZsUVBZRmxaUU9zWE5uU0pYeXZIdmUwSERVVXVleW96cFR3QVpkNXJlaEpsNVBNRFFLT0FvcGZ1Vl9oSUlPaXc2VXc2S2lmZWlLaWRjQ25SajloN2w5UGYydW5MMnE0ZUNzSUdLc0k4eHE3UlI2aVFqdF94S0Z4clA2VEVKblotakM4VHFueEY?oc=5",
-      "date": "2026-11-18T12:06:39+08:00"
+      "title": "台股上演大怒神！早盤漲627點後翻黑摜破40K 尾盤急拉翻紅險守大關 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUnc5UVY0Q25BTEhRMUFhOTRKcE5helVDUkVHT0lKSlRHY05KdFVLbEYyQUprYWpyTF9ZRkI2ZWpobnZkMFRUV0dvaGlHb1kzTDNtQjBmaVBpaUxYa2tlZ3hMQnFxRHVNa2RNMEwzOC1VNEVRVzJ5ZFVrQW5aQ3lQdVdZVUtwcGdLdjlfX1hNYzcxWHU4VEdkTW1JdzdJMmVvSUVXZ1dVbFJGQVA3SG1lNUI0OV9OOHh5ekxSOFVhSVFtUWtwRHJpZnE5R0FtalRqdFVKQUlnV1NuTE1TYldHU1FFUFNaTXRzMmtaTk1mZUV1R0ZWWnpXQ2pwbGZMZWo2eXdhZGVjVzRiVVQyQzREdm5FZ2xmYzFFdU13WVdmTkxJbC1NN0lsYUJnMG9lUV9hZEE2N1h5UmRWb3J3bzlDX3V4UDd6a3NKMnc4Rl9IWmkzVUJ5Vk9BM1JWU0JDckN1Um1sRkJIVjJIT210ZWF2VHVZd1ZGSEhjUXJEUXFSUFM1cjJwLUF4OS1HQ2daQkprTHRfbkhn?oc=5",
+      "date": "2026-11-18T14:05:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T12:35:35.699985+08:00"
+  "updatedAt": "2026-11-18T14:43:25.729917+08:00"
 }
