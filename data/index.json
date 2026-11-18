@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:20:14.879371+08:00",
+  "updatedAt": "2026-11-19T02:25:13.451558+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -1200,7 +1200,7 @@
           "date": "2026-11-18T17:52:03+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T01:20:05.159728+08:00"
+      "updatedAt": "2026-11-19T02:25:04.308840+08:00"
     },
     {
       "symbol": "2308.TW",
@@ -2401,7 +2401,7 @@
           "date": "2026-11-18T17:00:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T01:20:06.021124+08:00"
+      "updatedAt": "2026-11-19T02:25:05.073269+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -3577,9 +3577,14 @@
       ],
       "news": [
         {
-          "title": "2330 台積電 - 跌落38915至39701這個區間，建議全數出場，跌破X就死- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qTnQtZG9meHk2eG1vaTJzUkJBb1NOcVg1RnVxY0ExX05Ca21JNjFQajJYVDhxZVVPT21haHVSRWsyanFWRGFYN3hfNWIzUzBIM2tvZThnSVE?oc=5",
-          "date": "2026-11-19T00:32:56+08:00"
+          "title": "2330 台積電 - 嚴重懷疑外資跑去玩印度股市了，起漲點剛好是台股開始跌的那一天- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZko1Mkt2SjJBUFh1NnkxcjNIeTRXUXczcXZDQWxoNW10ckVHUk5IR0dvSEZoamcyWjJhOUFidzFTSUJXRUNkdnZBR3IwU3ZMTFMxWEJESnk?oc=5",
+          "date": "2026-11-19T00:58:51+08:00"
+        },
+        {
+          "title": "2330 台積電 - 台股有夠慘- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiaUkxN01CTzdoRGZUOG5OLVh3eVNwRHFmTngtOEFoUE51VmtDcnlkV0tFSVZzZXpwaS1DV0dnTXBCdnkwS2dJeEhXdDZEV2ZXZVJ6RTluRnc?oc=5",
+          "date": "2026-11-19T00:38:15+08:00"
         },
         {
           "title": "2330 台積電 - 明天又要跌幾千點- 股市爆料同學會 - CMoney",
@@ -3587,22 +3592,17 @@
           "date": "2026-11-19T00:07:56+08:00"
         },
         {
+          "title": "台積電、南亞科高層站台 美設備巨頭搶下一代晶片研發 - 民報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsSmpjWlk2azllZm8yZnhDelVkQW1JUkFfRjltWXFIRVdTY1podTQ4aElhUFFta3BPdkRFb29kNWgyWHUwblMtNGxxRlZYSWsxOEU2c195bkZYc0xuUXZsY2tsLU8?oc=5",
+          "date": "2026-11-18T23:54:53+08:00"
+        },
+        {
           "title": "不只台積電、鴻海！輝達宣示與供應鏈夥伴擴大合作 「這幾家台廠」都被點名了 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOZFplaldYNWhjSGs0N0RkMXd6am1OdnFQVlFYLUJEUVBqOEJxVDRUWlJPYlBfaG1KQjRQRzUtaUFwbzB0Uk91MXJoLUpPa1ZNOG0yN3RCa19jRl9FRElqdkh4aGNfMjNnbGRsVjBnMzdVc09ONzY1VHQ5YVRtcTF0cnc3Tk11c1RvbWpEbHBqTm8tR2dFYmtSYWFacEUxLVhUNnpLempuNzNhV3p0eE1oblctSlZHcEZaQ3NHRHloaXZiQ21WSldwQlBRTmNXSGptQWZUZnpLVnkzeWdiS3dEWk1xNVd6dG5ZdnNNQ1VEZkZPTVNfY2dXT0E1OWlCYnVHMnAyVFBvXzhsYVNROG9TRE4yTll1NXhabzBNM1FsS1Z6Z25LVERwZHNRRG1HbXlrWkM0XzlwNkl4LWlkNjRSOS0xdDJsSE9mN3RwWjZvODdndTFlTzlVdGVMenBXUUhjMmxLc1FORlh2U2hqajF6Z1UyZGFnUnpOZzNyLVJkRk9CYUVsOG9MVDZ4Q1RxRTBfWjJIX2tneWxnVWZfV2Y3VWRBMUFnbXUxamo3b0VIZDBMZGJySUk5NFo3aDZSZk92TnRJVnVFd0J6OWdv?oc=5",
           "date": "2026-11-18T23:21:07+08:00"
-        },
-        {
-          "title": "TWA00 加權指數- 台積電代工要漲價了- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Rb0NrYzJ1VlN5WWhXLS0zbmhldkI0NG8tUWljZHRpUFNqU2c5T04xOEl1ZG1LRUdBTWRSWnlVTGNINzhHUVRTMnQxcGlJNnJfanlycVVFZVg?oc=5",
-          "date": "2026-11-18T23:17:06+08:00"
-        },
-        {
-          "title": "美股早盤／輝達財報亮眼也難救 大盤由紅翻黑、台積電ADR跌0.4% - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nNEFpVEx0X21VdS1hWWJHT3MxajF2VjhKRTM3dEo2QlpuNlhQUWlRckZtVjlCd3dmb052RXhpQ3RMREEtU0xxTzRvcVJaRll2?oc=5",
-          "date": "2026-11-18T22:54:08+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T01:20:06.507255+08:00"
+      "updatedAt": "2026-11-19T02:25:05.697014+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -4803,7 +4803,7 @@
           "date": "2026-11-16T19:01:38+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T01:20:06.995751+08:00"
+      "updatedAt": "2026-11-19T02:25:06.421728+08:00"
     },
     {
       "symbol": "3711.TW",
@@ -6004,7 +6004,7 @@
           "date": "2026-11-18T10:47:40+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T01:20:07.606191+08:00"
+      "updatedAt": "2026-11-19T02:25:07.119560+08:00"
     },
     {
       "symbol": "NVDA",
@@ -7707,32 +7707,32 @@
       ],
       "news": [
         {
-          "title": "NVIDIA代理CEO收緊「AI銀行」 轉趨審慎、AI投資精挑細選 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mSF82clJON2hIdTlZdi04OF9XVnJpTzNiR0JMTGdVLUpES0d4UzUyYzduTkZkQlBpQzNsTVoxVk1XNmEwb051Uk5rY0hIWnczX0dUMUc2YXZ4OEhrTUdxd3BtTUFuY3dLQWVR?oc=5",
-          "date": "2026-11-19T01:08:53+08:00"
+          "title": "標題 : 納指震盪走高！NVIDIA財測亮眼仍疫心，Anthropic天價IPO定價左右市場 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajZ5amluUHR6QVE0WlV2aFVGMzJERWJhWll5Qm0tTWV1SnAwRExQRHhBaG9LMkFjYnpmVklrZEZNcE8zSGxreXl3aFVHbkppM0FMOXUyaFZlNlo2NXlaUnExNjl1OHhiTFJjUmt3NXYzQloydTRKMVE3X1BTdmVPVkdBajNnbGZoeHdxcUd3?oc=5",
+          "date": "2026-11-19T02:08:42+08:00"
         },
         {
-          "title": "AI算力需求續擴張 NVIDIA仍有供應鏈、融資與商業化考驗 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFg2Ml9xNFhhNHVRbFcxQ1ZxbEt3bS1aSGlYQzgzWHgwOXFyVmlQbUdtVE5wYmZZVlRVeElpUWZJckVWZHA5dXVQOFJLNGZ6SGVRUVdXaHRRUDRZRGxZRU9CVDdOUUpjS05OaVpfTGRNVkZEY19LZU1tWnRxSmd3Ym9fbW5xNkpZWWdWU1FZVXJmcDI5S3U3VWFlOWYtZ2tjWjBQMzRCLW1nWXdrcV9PT2M3dnZxM2MxUlFQeldfUU9qUQ?oc=5",
-          "date": "2026-11-19T01:08:52+08:00"
+          "title": "華爾街日報：Nvidia風暴下的散戶心聲 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pajFpZFNtRXVWRXVoVGg0emVmVVBYVW5iSjJRLVZVZ3VaRVFKWGZRWFZIM0ZrQ2ltdzBVUmswNTVkNFBYa0lwaExuUjBTWXg0NFRleldsQXZRaFF2WWxzamNR0gFnQVVfeXFMTTFTS0xRdFJkSC1oMTVqLWdRWXl4a3pNY1ZuWXFvLW51WkNwOGpqX3BhZlUyQ2Fya1p5THM0T05yUncxM25tZWpPS0FpcW5fZkw4YllmOWFLU3o5aTlyMlZrQm1MU1ZCYw?oc=5",
+          "date": "2026-11-19T02:05:00+08:00"
         },
         {
-          "title": "NVIDIA供應鏈：不論誰接任執行長 AI迭代速度難如以往 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWk9uMTgyTFh3MUJUeWc4anRwSlFmT2dBUkpOYzVCOFZyOTNRZ0daMzc3VEJMV1FTY1Nhck9CRGtVTVBJdmNXb2lUTURtLU5idmFlVWpaeGRzUmRwWnM3Ym1xTkVRZVdxMHRv?oc=5",
-          "date": "2026-11-19T01:03:55+08:00"
+          "title": "Ackman 批 NVIDIA 董事會草率逼退黃仁勳，恐違反德拉瓦公司法 - 鏈新聞 ABMedia",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jU2gtYVBLRExRa01mMW1vYlJLMHc3Xzd4UDNpc3ZhanEyVGlOMHRNcy1kUDNsQzZ5VEFvV3U1b3FqQjd2WS1EZlZRUFNpRWNaNnJHVDhUOXp4QlRk?oc=5",
+          "date": "2026-11-19T01:51:59+08:00"
         },
         {
-          "title": "Rebellions昔喊挑戰NVIDIA獲南韓政府扶植 今投入生態系惹議 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04NVBRcWJjNG95VFRvWjdZMUFBRzcwcVVWRlA1RFdHNmM1ejA1LVRFeGZtaldUQ1dHZk5tOTJGMlRreFh3U3ZKZklKTC1ncXZXd1h0cDJWTHEwWTNEWEtEZW90T2FNUEVJMjNB?oc=5",
-          "date": "2026-11-19T00:42:10+08:00"
+          "title": "Nvidia停止對中國出貨AI晶片⋯今日5件事 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HcjkzZnd3eGtEVHRZQS1WbVF3Y2JjSm9HUVNWZHZUUEdaM0JQTko3dFI3Wlk1WkxBVnM3Ykd4WGpOUWVBZWZVZ3lPUVFPM1pWRTFpM3lyQnF4N1FFRm1KUy1R0gFnQVVfeXFMT1J4ZklMeHlDcG1oZTBEUHpxbW03ODVydkhveFlSWkNSQWNuNGYyNno5cFViT1I2SS1wRjA2dEd3SG5TZFJNRjdlT2JrZ2VBUktzWE5nYzVGdXRGdDhDdU5VSUl0V2JUQQ?oc=5",
+          "date": "2026-11-19T01:50:02+08:00"
         },
         {
-          "title": "NVIDIA供應鏈策略佈局：從Vera Rubin量產看九大夥伴如何支撐AI生態系 - Mashdigi",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zSnNjUWs3MnBWdUxtMzNxRmdhMWFSb1pMMXY2Z0dqaEE4VmtmZmVHSkM0a1JaRDlFWTNQWXR0bnM1WmpuUnM1eUM1MENmdWx0UVk3REJFX1JSc3ZIQzVPOS1mbjh2TFBrN3E1MHN3?oc=5",
-          "date": "2026-11-19T00:29:49+08:00"
+          "title": "輝達財報未能帶動美股全面反彈！Serenity：誰還記得採購承諾曾是存儲股利多 - 鏈新聞 ABMedia",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCR21mVWZKMkw0SEtwNFFjdUhLNk5TY3Fmc1NpeHVsdnROUkdSbDRCQmhVdUlZR01JWkNuRXdKR1hGWnYxMndiLWRxZWhnUThlY3ZFT1ZqODNwd0tXVENr?oc=5",
+          "date": "2026-11-19T01:41:02+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T01:20:08.139541+08:00"
+      "updatedAt": "2026-11-19T02:25:07.801192+08:00"
     },
     {
       "symbol": "TSLA",
@@ -9439,9 +9439,9 @@
       ],
       "news": [
         {
-          "title": "特斯拉從儲能跨向供電 Powercore瞄準AI資料中心 - 優分析 UAnalyze",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KMjVsS2dpRFZudEREUVZ0ZC11STYwbjI2SVZMMkZ4NkRIdHRucGxJMVNMTVdjWVcyaFVFSGNzXzNCU1dLbk1kRFVCRy1hU3hmNTJDVV93?oc=5",
-          "date": "2026-11-19T00:53:00+08:00"
+          "title": "特斯拉從儲能跨向供電Powercore瞄準AI資料中心 - 鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MkV2aEowMmJXSnVTM0dSZE1rR3RDWHRWSjFPY2RDV2xiemdEakZ4SUczTUczY1pJcWJMT1RkUmt2aDlYVVp2MGxuOTdwbmM?oc=5",
+          "date": "2026-11-19T01:01:30+08:00"
         },
         {
           "title": "$特斯拉 (TSLA.US)$ - Moomoo",
@@ -9464,7 +9464,7 @@
           "date": "2026-11-18T16:55:12+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T01:20:12.409897+08:00"
+      "updatedAt": "2026-11-19T02:25:10.077689+08:00"
     }
   ]
 }
