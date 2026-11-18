@@ -28,8 +28,12 @@
 
 - [手機畫面，寬度 390](screenshots/v1.6-tools-390.png)
 - [電腦畫面，寬度 1440](screenshots/v1.6-tools-1440.png)
+- [正式站手機畫面](screenshots/v1.6-tools-390-production.png)
+- [正式站電腦畫面](screenshots/v1.6-tools-1440-production.png)
 
 新增的交易模組及單元測試已納入既有 GitHub Pages 發布流程，原有七檔行情、建議規則、收盤排程及 worker 未更動。公開入口為 [交易工具](https://edjumptw.github.io/stock-watch/#tools)。
+
+[GitHub Pages 部署已成功](https://github.com/edjumptw/stock-watch/actions/runs/44233354721)，正式站亦以無頭瀏覽器完成上述交易流程驗證，兩種畫面寬度均無水平捲動或程式錯誤。
 
 ## 使用限制
 
