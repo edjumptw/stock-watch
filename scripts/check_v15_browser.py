@@ -34,7 +34,7 @@ with sync_playwright() as p:
    assert page.locator('.term-help dd').count()>=20
    assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),(width,symbol)
    if symbol in ['2330.TW','NVDA'] and not local:page.screenshot(path=f'screenshots/v1.5-{symbol}-{width}-production.png',full_page=True)
-  assert '2026-11-17T05:00:00+08:00'==page.evaluate("data.stocks.find(s=>s.symbol==='NVDA').dateTaipei")
+  assert json.loads(Path('data/NVDA.json').read_text())['dateTaipei']==page.evaluate("data.stocks.find(s=>s.symbol==='NVDA').dateTaipei")
  # Controlled quote and trading-time fixtures exercise live UI without changing production data.
  page.goto(URL+'#2330.TW');page.wait_for_selector('.intraday')
  before=page.evaluate('JSON.stringify(data.stocks)')
