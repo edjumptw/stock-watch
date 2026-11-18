@@ -7,7 +7,7 @@
  function date(v){if(typeof v!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(v)||!Number.isFinite(Date.parse(v))||new Date(v).toISOString().slice(0,10)!==v)fail('請填有效日期');return v;}
  function shares(v){v=positive(v,'股數');if(!Number.isSafeInteger(v))fail('股數請填整數');return v;}
  const remaining=t=>t.shares-t.sales.reduce((n,s)=>n+s.shares,0);
- const pnl=(t,s)=>(s.price-t.price)*s.shares;
+ const pnl=(t,s)=>Math.round((s.price-t.price)*s.shares*100)/100;
  function validate(raw){
   if(!raw||raw.version!==1||!Array.isArray(raw.trades)||raw.trades.length>10000||!raw.settings)fail('JSON 格式或版本不正確');
   const s=raw.settings,settings={capital:s.capital===''?'':positive(s.capital,'總資金'),ratio:positive(s.ratio,'投入比例'),week:s.week===''?'':positive(s.week,'每週虧損上限'),month:s.month===''?'':positive(s.month,'每月虧損上限')};if(settings.ratio>100)fail('投入比例不可超過 100%');
@@ -20,7 +20,7 @@
  }
  function stats(trades,now=new Date()){
   const end=today(now),d=new Date(end+'T00:00:00Z');d.setUTCDate(d.getUTCDate()-(d.getUTCDay()+6)%7);const starts={week:d.toISOString().slice(0,10),month:end.slice(0,7)+'-01'};
-  return Object.fromEntries(Object.entries(starts).map(([key,start])=>{let net=0,loss=0;for(const t of trades)for(const s of t.sales)if(s.date>=start&&s.date<=end){const v=pnl(t,s);net+=v;loss+=Math.max(0,-v);}return [key,{net,loss,start,end}];}));
+  return Object.fromEntries(Object.entries(starts).map(([key,start])=>{let net=0,loss=0;for(const t of trades)for(const s of t.sales)if(s.date>=start&&s.date<=end){const v=pnl(t,s);net+=Math.round(v*100);loss+=Math.max(0,-Math.round(v*100));}return [key,{net:net/100,loss:loss/100,start,end}];}));
  }
  const brakes=(stat,settings)=>['week','month'].filter(k=>settings[k]!==''&&stat[k].loss>=Number(settings[k]));
  const api={size,today,date,positive,shares,remaining,pnl,validate,stats,brakes};if(typeof module!=='undefined')module.exports=api;else root.TradingCore=api;

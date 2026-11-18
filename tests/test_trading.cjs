@@ -22,3 +22,7 @@ for(const v of ['2026-02-30','xxx','2026-1-01'])assert.throws(()=>C.date(v));
 assert.throws(()=>C.validate({...state,trades:[{...t,reason:' '}]}));
 assert.throws(()=>C.validate({...state,trades:[{...t,shares:0.5}]}));
 console.log('PASS: sizing, validation, partial sales, net/loss sums, brake thresholds, Taipei week/month rollover, JSON validation');
+
+const decimal={...t,price:10.1,sales:[{date:"2026-11-18",price:10,shares:10000}]};
+assert.equal(C.pnl(decimal,decimal.sales[0]),-1000);
+assert.deepEqual(C.brakes(C.stats([decimal],now),{week:1000,month:1000}),["week","month"]);
