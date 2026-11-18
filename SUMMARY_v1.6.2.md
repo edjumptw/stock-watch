@@ -1,12 +1,13 @@
 # 盯盤網頁 v1.6.2 修正摘要
 
-依 `tasks/v1.6.2_fix.md` 完成三項修正，修改範圍為 `trading.js`、`style.css` 與 `index.html`，另附瀏覽器驗證腳本及截圖。行情資料、交易運算、觀察清單、報價來源與既有版面配置均未更動，沒有接券商或上傳交易資料。
+依 `tasks/v1.6.2_fix.md` 完成第 1–4 點修正，修改範圍為 `trading.js`、`app.js`、`style.css` 與 `index.html`，另附瀏覽器驗證腳本及截圖。行情資料、交易運算、觀察清單、報價來源與既有版面配置均未更動，沒有接券商或上傳交易資料。
 
 ## 修正內容
 
 1. 交易工具頁的英文小標改為「交易筆記」，計算結果旁補上零股與滑價的白話說明。備份操作改為「匯出備份檔」「匯入備份檔」，附上下載、取代本機資料及先備份的說明，並新增可展開的六項名詞說明：停損、零股、滑價、已實現損益、張、集中風險。
 2. 計算器、資金設定、買進及賣出的成功與錯誤提示，都顯示在各自表單按鈕附近，同時支援螢幕閱讀器公告與焦點定位。必填欄位空白時顯示欄位名稱，未勾選的下單前檢查也逐項指出。部分賣出後保持表單展開，全數賣出後將成功提示保留在原交易卡片內。
-3. `index.html` 所有 CSS、JavaScript 資源的版本參數統一為 `?v=1.6.2`，包含圖表程式庫。
+3. `index.html` 所有 CSS、JavaScript 資源的版本參數原統一為 `?v=1.6.2`，本次追加修正依派單要求改為 `?v=1.6.3`，包含圖表程式庫。
+4. 買進筆記改用股票下拉選單，由 `app.js` 將網頁已載入的 `data/index.json` 觀察清單傳入，逐項顯示「代號 名稱」，選取後自動帶入。最後一項為「其他（手動填寫）」，只有選取這項才顯示原文字框，儲存成功後會重設選單並收起文字框。直接開啟交易工具頁時，觀察清單載入後會更新選項，不清除已填寫的表單。計算器原本沒有股票欄，因此維持原功能；交易儲存格式與本機儲存鍵均不變，舊紀錄照常顯示。
 
 ## 驗證
 
@@ -33,3 +34,25 @@
 修正提交為 `deea188`，已推送至 `main`，[GitHub Pages 部署成功](https://github.com/edjumptw/stock-watch/actions/runs/44235685565)。正式站的五個 CSS／JavaScript 資源均已確認使用 `?v=1.6.2`，並以 `LIVE=1 .venv/bin/python scripts/check_v162_browser.py` 在 [交易工具頁](https://edjumptw.github.io/stock-watch/#tools) 重跑 390px、1440px 的表單驗證，全部通過。
 
 本摘要連結的四張截圖均更新為正式站操作結果，使用獨立瀏覽器環境與虛構交易資料，測試時停用外部報價請求。交付時間為台北 2026 年 11 月 18 日 12:15 前，早於派單期限 13:00。
+
+
+## 第 4 點追加驗證與截圖（v1.6.3）
+
+本次先執行 `git pull`，以下檢查全部通過：
+
+- `node tests/test_trading.cjs`：原有交易測試全過。
+- `node tests/test_ui.mjs`、`node tests/test_worker.mjs`：原有介面與報價測試全過。
+- `.venv/bin/python scripts/check_stock_picker.py`：390px、1440px 驗證完整觀察清單及動態新增選項、選取自動帶入、手動文字框切換、兩種方式儲存、儲存後重設、重新整理保留資料，並逐欄比對舊交易及賣出紀錄未變。兩種寬度均無橫向溢出或 JavaScript 錯誤。
+- `.venv/bin/python scripts/check_v163_browser.py`：沿用第 1–3 點的瀏覽器檢查，買進測試先選「其他（手動填寫）」，白話用語、六項名詞、所有必填欄位、四項勾選、各表單提示、部分與全數賣出、儲存失敗均通過。
+- `node --check trading.js`、`git diff --check`。
+
+截圖使用獨立瀏覽器及虛構交易資料，動態測試另加入一筆測試觀察股票，不會寫入正式觀察清單或使用者資料。
+
+- [390px 股票選單](screenshots/v1.6.3-stock-picker-390.png)
+- [1440px 股票選單](screenshots/v1.6.3-stock-picker-1440.png)
+- [390px 手動填寫](screenshots/v1.6.3-stock-manual-390.png)
+- [1440px 手動填寫](screenshots/v1.6.3-stock-manual-1440.png)
+- [390px 表單驗證](screenshots/v1.6.3-errors-390.png)
+- [1440px 表單驗證](screenshots/v1.6.3-errors-1440.png)
+- [390px 交易工具](screenshots/v1.6.3-tools-390.png)
+- [1440px 交易工具](screenshots/v1.6.3-tools-1440.png)

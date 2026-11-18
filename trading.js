@@ -1,7 +1,7 @@
 'use strict';
 const Trading=(()=>{
  const C=TradingCore,KEY='stock-watch-trading-v1',blank=()=>({version:1,settings:{capital:'',ratio:20,week:'',month:''},trades:[]});
- let state=blank(),loadError='',mounted=false;
+ let state=blank(),loadError='',mounted=false,stocks=[];
  const e=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const money=n=>new Intl.NumberFormat('zh-TW',{maximumFractionDigits:2}).format(n);
  try{const raw=localStorage.getItem(KEY);if(raw)state=C.validate(JSON.parse(raw));}catch{loadError='無法讀取本機資料，可能是儲存空間被封鎖或資料損壞。請先匯出備份，再匯入有效檔案；本頁不會自動覆寫原資料。';}
@@ -11,13 +11,16 @@ const Trading=(()=>{
  const field=(id,label,type='number',value='',optional=false)=>`<div class="trade-field"><label for="${id}">${label}${optional?'（選填）':'（必填）'}</label><input id="${id}" name="${id}" type="${type}" ${type==='number'?'step="any" inputmode="decimal"':''} ${optional?'':'required'} value="${e(value)}"></div>`;
  const feedback=id=>`<p id="${id}-message" class="form-message" role="status" tabindex="-1"></p>`;
  const form=(id,title,body,button)=>`<section class="panel"><h2 id="${id}-title">${title}</h2><form id="${id}" aria-labelledby="${id}-title" novalidate>${body}<button type="submit">${button}</button>${feedback(id)}</form></section>`;
+ function stockOptions(){return '<option value="">請選擇股票</option>'+stocks.map(s=>{const label=s.symbol+' '+s.name;return `<option value="${e(label)}">${e(label)}</option>`;}).join('')+'<option value="__other__">其他（手動填寫）</option>';}
+ function syncStock(){const select=document.getElementById('buy-stock-select'),input=document.getElementById('buy-stock'),manual=select.value==='__other__';document.getElementById('buy-stock-manual').hidden=!manual;if(manual&&input.disabled)input.value='';input.required=manual;input.disabled=!manual;if(!manual)input.value=select.value;document.getElementById('allocation-warning').textContent=allocation();}
+ function setStocks(next){stocks=next;const select=document.getElementById('buy-stock-select');if(select){const value=select.value;select.innerHTML=stockOptions();select.value=value;syncStock();}}
  function render(){
   if(mounted&&document.getElementById('trade-calc'))return;
   mounted=true;document.title='交易工具 · 收盤筆記';
   const s=state.settings;
   document.querySelector('main').innerHTML=`<div class="intro"><div><p class="eyebrow">交易筆記</p><h1>交易工具</h1><p>先算風險，再記下每次決定。</p></div><span class="badge">僅存這台裝置</span></div><p class="note">所有金額統一用新台幣；美股請先換算新台幣再記錄。資料不會上傳，清除瀏覽器資料會遺失，請定期匯出備份。</p><p id="trade-message" role="status" tabindex="-1">${e(loadError)}</p><details class="term-help"><summary>專業名詞白話說明（點開）</summary><dl><dt>停損</dt><dd>事先決定跌到什麼價格就賣出，避免虧損繼續擴大。</dd><dt>零股</dt><dd>不滿 1 張、1 到 999 股的買法。</dd><dt>滑價</dt><dd>實際成交價比你設的停損價更差，可能比預計虧得更多。</dd><dt>已實現損益</dt><dd>已經賣出的股票賺了或虧了多少錢，本頁未扣手續費與稅。</dd><dt>張</dt><dd>台股 1 張等於 1,000 股。</dd><dt>集中風險</dt><dd>太多資金放在同一檔股票，這檔下跌時，整體資金也會受較大影響。</dd></dl></details><div id="trade-stats"></div><div class="tools-grid"><div>${form('trade-calc','買幾張計算器',field('calc-price','買價（每股價格）')+field('calc-stop','停損價（跌到這裡就賣，避免虧更多）')+field('calc-risk','這筆最多願意虧多少元')+field('calc-capital','總資金（手上可用的投資金額）','number',s.capital,true)+'<output id="calc-result" aria-live="polite"></output>','計算可買股數')}
   ${form('trade-settings','資金設定與虧損煞車',field('set-capital','總資金','number',s.capital,true)+field('set-ratio','單檔投入警戒比例（%）','number',s.ratio)+field('set-week','每週最大可接受虧損（元）','number',s.week,true)+field('set-month','每月最大可接受虧損（元）','number',s.month,true)+'<p class="plain-help">留空表示未設定上限。虧損累計只加總虧錢的賣出，獲利不抵銷；淨損益則含獲利與虧損。每週從週一開始，均按台北日期計算。</p>','儲存設定')}</div><div>
-  ${form('trade-buy','買進筆記',field('buy-date','買進日期','date',C.today())+field('buy-stock','股票（代號或名稱）','text')+field('buy-price','買進價格（每股）')+field('buy-shares','買進股數（1 張＝1000 股）')+field('buy-stop','停損價（跌到這裡就賣）')+'<div class="trade-field"><label for="buy-reason">買進理由（必填）</label><textarea id="buy-reason" name="reason" required></textarea></div><fieldset><legend>下單前檢查（四項必勾）</legend>'+['已設停損價','不是追高（沒有因為急漲而衝動買入）','已用計算器算過張數','清楚買進理由'].map((v,i)=>`<div class="trade-check"><input type="checkbox" id="check-${i}" name="check-${i}" required><label for="check-${i}">${v}</label></div>`).join('')+'</fieldset><p id="allocation-warning" role="status"></p>','儲存買進紀錄')}
+  ${form('trade-buy','買進筆記',field('buy-date','買進日期','date',C.today())+'<div class="trade-field"><label for="buy-stock-select">股票（必填）</label><select id="buy-stock-select" name="buy-stock-select" required aria-controls="buy-stock-manual">'+stockOptions()+'</select></div><div id="buy-stock-manual" hidden>'+field('buy-stock','股票（代號或名稱）','text')+'</div>'+field('buy-price','買進價格（每股）')+field('buy-shares','買進股數（1 張＝1000 股）')+field('buy-stop','停損價（跌到這裡就賣）')+'<div class="trade-field"><label for="buy-reason">買進理由（必填）</label><textarea id="buy-reason" name="reason" required></textarea></div><fieldset><legend>下單前檢查（四項必勾）</legend>'+['已設停損價','不是追高（沒有因為急漲而衝動買入）','已用計算器算過張數','清楚買進理由'].map((v,i)=>`<div class="trade-check"><input type="checkbox" id="check-${i}" name="check-${i}" required><label for="check-${i}">${v}</label></div>`).join('')+'</fieldset><p id="allocation-warning" role="status"></p>','儲存買進紀錄')}
   </div></div><section class="panel"><h2>交易筆記與事後檢討</h2><p class="plain-help">已實現損益＝（賣價－買價）× 賣出股數，未含手續費與稅。可分批賣出，尚未賣出的股數不列入損益。</p><div class="trade-backup"><button id="trade-export" type="button">匯出備份檔</button><label for="trade-import">匯入備份檔</label><input id="trade-import" class="sr-only" type="file" accept="application/json,.json"></div><p class="plain-help">匯出會下載這台裝置的設定與交易筆記；匯入會用備份檔取代本機資料，請先匯出保留現有紀錄。</p><div id="trade-list"></div></section>`;
   bind();list();banner();
  }
@@ -34,6 +37,8 @@ const Trading=(()=>{
  }
  function allocation(){const capital=Number(state.settings.capital);if(!(capital>0))return '';const stock=get('buy-stock'),existing=state.trades.filter(t=>t.stock===stock).reduce((n,t)=>n+C.remaining(t)*t.price,0),total=existing+Number(get('buy-price'))*Number(get('buy-shares'));return total/capital*100>state.settings.ratio?`警告：此股票含原持股的投入約 ${money(total/capital*100)}%，超過設定 ${state.settings.ratio}%。請重新評估集中風險。`:'';}
  function bind(){
+  document.getElementById('buy-stock-select').addEventListener('change',()=>{syncStock();const select=document.getElementById('buy-stock-select');select.removeAttribute('aria-invalid');select.removeAttribute('aria-describedby');document.getElementById('trade-buy-message').textContent='';});
+  syncStock();
   handler('trade-calc',()=>{document.getElementById('calc-result').textContent='';const r=C.size(get('calc-price'),get('calc-stop'),get('calc-risk'),get('calc-capital'));document.getElementById('calc-result').textContent=`可買 ${money(r.shares)} 股＝${money(r.lots)} 張＋${r.odd} 股零股；總投入 ${money(r.total)} 元${r.ratio===null?'':`，佔總資金 ${money(r.ratio)}%`}。停損可能滑價，實際虧損可能較高。`;document.getElementById('calc-result').insertAdjacentHTML('beforeend','<small class="plain-help">零股（不滿 1 張、1 到 999 股的買法）；滑價（實際成交價比你設的停損價更差）。</small>');msg('計算完成',false,'trade-calc-message');});
   handler('trade-settings',()=>{save({...state,settings:{capital:get('set-capital'),ratio:get('set-ratio'),week:get('set-week'),month:get('set-month')}});list();document.getElementById('allocation-warning').textContent=allocation();msg('設定已儲存',false,'trade-settings-message');});
   ['buy-stock','buy-price','buy-shares'].forEach(id=>document.getElementById(id).addEventListener('input',()=>document.getElementById('allocation-warning').textContent=allocation()));
@@ -41,7 +46,7 @@ const Trading=(()=>{
    if(![0,1,2,3].every(i=>document.getElementById('check-'+i).checked))throw new Error('請先完成四項下單前檢查，才能儲存');
    const t={id:crypto.randomUUID(),date:get('buy-date'),stock:get('buy-stock'),price:get('buy-price'),shares:get('buy-shares'),stop:get('buy-stop'),reason:get('buy-reason'),sales:[]};const next=C.validate({...state,trades:[...state.trades,t]});
    const warning=allocation();if(warning&&!window.confirm(warning+'\n仍要儲存這筆買進筆記嗎？'))return;
-   save(next);document.getElementById('trade-buy').reset();list();msg('買進紀錄已儲存',false,'trade-buy-message');
+   save(next);document.getElementById('trade-buy').reset();syncStock();list();msg('買進紀錄已儲存',false,'trade-buy-message');
   });
   document.getElementById('trade-export').onclick=()=>{const blob=new Blob([JSON.stringify(state,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='交易筆記-'+C.today()+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);msg('已匯出目前可讀取的資料，請保管備份');};
   document.getElementById('trade-import').onchange=async ev=>{try{const file=ev.target.files[0];if(!file)return;if(file.size>5*1024*1024)throw new Error('檔案不可超過 5 MB');const next=C.validate(JSON.parse(await file.text()));if(!window.confirm(`匯入 ${next.trades.length} 筆買進紀錄將取代目前資料。已完成備份並確定匯入？`))return;save(next);mounted=false;render();msg('匯入完成，設定與筆記已更新');}catch(err){msg('匯入失敗：'+err.message,true);}finally{ev.target.value='';}};
@@ -52,5 +57,5 @@ const Trading=(()=>{
  }
  function leave(){mounted=false;}
  window.addEventListener('storage',ev=>{if(ev.key===KEY){try{state=ev.newValue?C.validate(JSON.parse(ev.newValue)):blank();banner();if(location.hash==='#tools')msg('另一個分頁已更新資料，請重新整理後繼續記錄',true);}catch{msg('另一個分頁資料格式異常，請重新整理檢查',true);}}});
- return {render,banner,leave};
+ return {render,banner,leave,setStocks};
 })();
