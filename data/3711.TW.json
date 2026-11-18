@@ -3,45 +3,45 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-16T00:00:00+08:00",
-  "close": 550.0,
-  "change": -48.0,
-  "changePct": -8.0268,
-  "volume": 20529504,
+  "date": "2026-11-17",
+  "dateTaipei": "2026-11-17T00:00:00+08:00",
+  "close": 520.0,
+  "change": -30.0,
+  "changePct": -5.4545,
+  "volume": 28083582,
   "bias": "偏弱",
-  "performance20": -18.03,
-  "volumeRatio": 0.94,
+  "performance20": -22.39,
+  "volumeRatio": 1.28,
   "recommendation": {
-    "date": "2026-11-16",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-17",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
-        "price": 527.0,
+        "price": 520.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 627.6,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 520.0,
+        "source": "近 20 日最低收盤價"
       },
       {
-        "price": 643.3667,
-        "source": "MA60（近 60 日收盤均價）"
+        "price": 620.1,
+        "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.9428
+    "volumeRatio": 1.2831
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -18.03%。",
-    "本日成交量為前 20 日均量的 0.94 倍，量能接近平常。",
-    "RSI(14) 為 38.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -22.39%。",
+    "本日成交量為前 20 日均量的 1.28 倍，交易較熱絡。",
+    "RSI(14) 為 34.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -66,7 +66,7 @@
       "date": "2026-05-20",
       "close": 476.0,
       "volume": 25163348,
-      "rsi": 47.41,
+      "rsi": 47.42,
       "ma5": 510.6,
       "ma20": 510.05,
       "ma60": 416.425
@@ -309,7 +309,7 @@
       "date": "2026-06-29",
       "close": 627.0,
       "volume": 17306319,
-      "rsi": 57.15,
+      "rsi": 57.16,
       "ma5": 643.0,
       "ma20": 602.0,
       "ma60": 529.6
@@ -1168,34 +1168,43 @@
       "ma5": 591.2,
       "ma20": 627.6,
       "ma60": 643.3667
+    },
+    {
+      "date": "2026-11-17",
+      "close": 520.0,
+      "volume": 28083582,
+      "rsi": 34.86,
+      "ma5": 574.2,
+      "ma20": 620.1,
+      "ma60": 642.2333
     }
   ],
   "news": [
     {
-      "title": "日月光投控：台灣福雷電子10/16~11/17向帆宣取得廠務工程，計約4.98億元 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0NPUGhMcGZ3YldLcUlDVXZJenlmMmJVVS1MMHprT1Y5cTc2cnVqMHIwSWExQkNxS3hGWUpLcWVpSEk0TUxqYW9vQkZqeDg4TkJ5aF9oeDBFU3F6VkxnV052Z1VlcFNMT1dMVmV3aWY3SGZWT1F0WmFwSDBnTjVzZ0tUQ1ZLTXM5Vzk1WWsxeHNiUQ?oc=5",
-      "date": "2026-11-17T19:17:17+08:00"
+      "title": "【即時新聞】日月光半導體最新宣布千億擴產，外資狂倒近五千張還能追嗎？ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRE1ZMDdpTHFXRjc5ZnBVWXVRMWw2UXFEcGNKTElIQXdDWk8wdDJCYTRzRWE1M2tJdG8zalBvQzdCZGVJZEN5UGlLQTh3RkxPNWlaNm56UVFha1hTM1gyNGlsWURERnFQZXJFTTl6c3E0WXRXWjR1eUZFdE9TNTBkUklTd3lacnI0U1J3LVlqWng?oc=5",
+      "date": "2026-11-18T10:47:40+08:00"
     },
     {
-      "title": "封測股重挫不只因Rubin！京元電、欣銓外資借券放空早示警，日月光仍未脫離空方區 - 玩股網",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CZDE0OVo5akxIcmxwUmV1Y2haYmJVNUFCRnpxeVpDWXlPX3prVTlQdFE3ZkMzbWVWLUQxV1Ewc1liMEg1VUxkSFFnNHdUSU9EOWNpMXJvVQ?oc=5",
-      "date": "2026-11-17T17:37:08+08:00"
+      "title": "輝達擴大供應鏈長約點名6台廠！景碩開盤漲停　京元電漲逾5% - ETtoday財經雲",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jVlFLOHR5WjZYeU5QSzA0cWJnQUJwcGx3dFpVMTNtTHc4TzBFMnBfVEZSbF9RWVltdmx6eERMQjB2MXlXY052SHd5S3hiRlBhQ3fSAVBBVV95cUxQSnQ0Y1VqMWp4MU5Jb0tKNkphUmtOc2t2UUI1Rlk5eG44cmduMExYcnd3eU96UHdmYXI0SzV4WlpyQ0R3LURybE9oNC01cVhtYQ?oc=5",
+      "date": "2026-11-18T09:53:00+08:00"
     },
     {
-      "title": "《半導體》日月光投控11月18日赴新加坡參加Morgan Stanley舉辦法說會 - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjM5S25KOURULW1BMHNXTGFwWlQ0SFFNQ0ZnRGpvYlJ4R1JxNmwwdWI1ZWJzNnY5eU40dDZPX2dPZnNJcEZDWU85ZmNkZTVHN0ZOS2kyaTZ5NVBCVHZPRldsckF2UVlLVUJmb0VoRXRNOHVCWkI5MFFiUUl3QmZzWUZCVHBmZFpk?oc=5",
-      "date": "2026-11-17T14:19:00+08:00"
+      "title": "【09:10 即時新聞】日月光投控(3711)盤中走強，AI封測族群買盤回流 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFFUN0F3Zm9hUWJtMHVMSDlLTHdBSmJ0cmUza2JhS2R3a05PNnNuT0xQWmFsZk80dDdWZnJDcDhTY2d3c00teTNnd1NqRkdRcUhDRDd0Y2pFVldJUnE4QXowNmpJWVZGSmdWNWswbFdaYnJvb3VrLUs3YXFJR295a3ljekhTLXI3WGgwX3BB?oc=5",
+      "date": "2026-11-18T09:10:32+08:00"
     },
     {
-      "title": "個股：日月光投控(3711)11/18-11/19受邀參加Morgan Stanley舉辦之法人說明會 - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjN2QkRJRjctaUVPdG8wZEwweGx2cFc0clI3ZDZFbng3akkxdXhkYU5YcDRnclp6Tlh6M2VzRXFsTVNxaWRReFlkZWs1VGtkUXhNRzZjOV93ZVZQVzVaTjVnUFJlN19CSHZqc19QTVRxY0tOUm4tLVJ4ZFFrcG5qa1gxalRkT1Vz?oc=5",
-      "date": "2026-11-17T13:56:00+08:00"
+      "title": "輝達先進封裝大單力挺　矽品2029年產能擴大3倍 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93dEsxZFNpeW9sbkZ2eGdFaDZlQ18wYmxWY0s5b3NtdVpfRjJvWnZCSlY0X1g0a2VTQ2hJTVZ0c29ZNkJBRU5oaEkwUVhIRE5ocGlkclI1Q0M0VmhqbS1wMHJpUdIBaEFVX3lxTE1ONHp6dE1ZMTJQRWVuREVnOWNOMWh0ZnR4X2g5ckV4V2k5Z2x1bWxobHIzbGpsZ0doR2trclRydVRpQllRLTh5NTFSSWdjTThwX1kydHhBVDFpTU11My1sWmk4OEhDRG1y?oc=5",
+      "date": "2026-11-18T09:00:00+08:00"
     },
     {
-      "title": "日月光豪砸1237億帶動擴產潮！技術員職缺年增35%大廠開年薪80萬搶人 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OWmc1VzhudXpPcDRKSnpxY1BSWkFIUTB1UzF3ZVJ2Z3ZOWUI0NGFhZWg5ZUhFWVliTk14bXlwUU9nTVhjajh0bG5HQmJuZHc?oc=5",
-      "date": "2026-11-17T12:02:36+08:00"
+      "title": "日月光投控ADR週二收31.83美元，下跌0.97美元或2.96%，折合台幣每股約522.8元 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0cyWEdLWGtHZ1Z5TE5rT01RemZYWVlhT256bVRCLTkzYmJlVFQ1cm9MZ3g5cGdwd2dXSmNXel81ekp3eGpzT0RTMnBPNXp2bUs0dkN4cmFJU2E4NTlIaERYTDR2a0FrVzV2aEJqVkJzTHlhRnllbUt1NzZHa3BMdHVHTmFmRDlf?oc=5",
+      "date": "2026-11-18T08:15:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T05:02:42.378525+08:00"
+  "updatedAt": "2026-11-18T11:08:54.198719+08:00"
 }

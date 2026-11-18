@@ -4,17 +4,17 @@
   "query": "Tesla",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-16",
-  "dateTaipei": "2026-11-17T05:00:00+08:00",
-  "close": 379.739990234375,
-  "change": -10.48,
-  "changePct": -2.6857,
-  "volume": 30242400,
+  "date": "2026-11-17",
+  "dateTaipei": "2026-11-18T05:00:00+08:00",
+  "close": 380.1099853515625,
+  "change": 0.37,
+  "changePct": 0.0974,
+  "volume": 22138200,
   "bias": "中性",
-  "performance20": 3.17,
-  "volumeRatio": 0.77,
+  "performance20": 1.71,
+  "volumeRatio": 0.57,
   "recommendation": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -23,7 +23,7 @@
     ],
     "support": [
       {
-        "price": 372.0462,
+        "price": 372.5655,
         "source": "MA60（近 60 日收盤均價）"
       },
       {
@@ -33,7 +33,7 @@
     ],
     "resistance": [
       {
-        "price": 385.9445,
+        "price": 386.2645,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -41,12 +41,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.767
+    "volumeRatio": 0.5676
   },
   "commentary": [
-    "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 +3.17%。",
-    "本日成交量為前 20 日均量的 0.77 倍，量能較平淡。",
-    "RSI(14) 為 49.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 +1.71%。",
+    "本日成交量為前 20 日均量的 0.57 倍，量能較平淡。",
+    "RSI(14) 為 49.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1699,9 +1699,27 @@
       "ma5": 387.606,
       "ma20": 385.9445,
       "ma60": 372.0462
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 382.19,
+      "high": 382.84,
+      "low": 374.13,
+      "date": "2026-11-17",
+      "close": 380.11,
+      "volume": 22138200,
+      "rsi": 49.61,
+      "ma5": 387.672,
+      "ma20": 386.2645,
+      "ma60": 372.5655
     }
   ],
   "news": [
+    {
+      "title": "特斯拉（TSLA）的機構資金流向：55%的期權資金流入看漲期權，11月17日 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaDJhZVRNWktVelh0ekVGdlJXbTM3b2p0NDlZVmFmT21ZbmFIQXd5RnNMc3diYU85ZkVmYnk2X1dGN0tXYUFaRi1zbTE2Uk00T0hfOHU0Qm9iOTA2OFgtZy11LWtJQlBHM1puU1huZC1rbkxsNUJtdDVtUTNmX0RkV2NqQXFIaG1ZTmxqNTVpcnItT3lUVE1HdzY3SGZESl90RkNGQmc5MnVXMV8xbnQ5N2RlanBZdw?oc=5",
+      "date": "2026-11-18T10:41:44+08:00"
+    },
     {
       "title": "特斯拉金色「無人駕駛車」開放私人購買 售23.5 萬每月需另付智駕費 - 巴士的報",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOVjBycENaV2JZb3VtbkpTbmt2ZWgxcUZ3dG1hRmhla3FNVlQxN2pHSGxweVRRTHczM0puZGNQWVhObmRvYnBET2JVT2Fzbk9odGRxM3hkaEZPWVgwTTZnYjc5UG1zUHRzQXBQRE1sSkpOemlUbGd4bFJvak1zczdvSm45aVJhV0NXa1BocTUtMXZjOVdFVndPc2ZwSW5BV0k0eG1ieEdBRU50eHNjUjlGUVpqS2FWUURSUjlhQWhwaHkyaGkxNGEtWkthcDJsSmxjNW14YlJCZkFEdVNORERKSk9mV3dKamlXbUJkRjlHZEZ3N2llSWVQdnpPNXNMeEtHM0RHLU5vN2pyOXNKRUkyd1BjMzRWZndIOVk3ZnJqRmpEQ3l0WkQ5RVFtOWlfenlYUGw0aTBzVUF1TmtHT0ZpaFgtYndCODV1eUVfZGhVNEtHU1JmV0tyOGhRX0RHQUtSRTVGalE3TVpqUQ?oc=5",
@@ -1711,11 +1729,6 @@
       "title": "馬斯克確認將訪華 市場憧憬特斯拉落實推廣全自動駕駛 - 信報網站",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQMkkzcTV2SUc2dGJ1b2FpQjh3amkyclp3T01pSjcxdFJCVFRjVUVHY20wUl9ZVUNxZHZER0pmeXVuTktLd2ZIZ25DWHl4amQ0b2dtaFhhM3dSM3RvTVhJZjhVUmsxMUV3Tk9lcTVRNVhyZ1lyNU9VT1piR09uNFppeEVUZ2xtai1YY1ZqZFEzaGU3VDBvd181OW9sekRlcXRJYkpLb2g5ejBLMjU5VFN4Wk1BMDR4bUlrTWpyZHZLVm11cHJ5alZsanpsY3pVbEpyRjJGT19heEl2a1FLcWRJY0ZJeFlzdEMyUklTd2V1b1E1bEk5LU5DdG1JVS1ZdVAwMXVENnNOU1NwcDN1dkREck9SanB1elFvNU9JN3VSdVFyQjVYUEhrVFdvOGQ0UGo3RFh6RzZlXzZ3VnBjX2p5R3FQNGF5cUhVR1VKOG1XS0dlUWI2alg0b1FieFFVLXQtZC1IMFBsbVk4X1BtVnBWcHhCdTkzTnNHOGhpbFRnYkZjaTA?oc=5",
       "date": "2026-11-18T01:44:49+08:00"
-    },
-    {
-      "title": "馬斯克確認將訪華 市場憧憬特斯拉落實推廣全自動駕駛 - 信報網站",
-      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQQk1nempTcno4QUlmUERyTWNQWFVNWnNabXo0dDljdTBsSHZnVkh5RDBZdVo3cy0wVHhMUjRGSTdJd2E5VFBWOVZwSGZBNGwxWVlEREw0UWU0bktBZjlEMTdwSm5RTVROa0RBYXdwdHJlTEVnRURkUXhFaVJTbUpOT29FTG1iZW5PVk9XV01nVUtQQWpiN1JoYTlxTTJrcVkwaGF0ZlJPNTBqY1U3Nld5SE04dGdzVTRHUnlyczBYOGlfRlkxak1YUkVyVXc5VlZVeDJuTlpCa3hiWkZ0QWVvNzlqdjVEbENGOW5XUl9NeE5BUTZEemNjTFpIZXU1OTBOYnRTQnRZcnVPN0lKQy1vMkpuV2Y0Z19oSU43N19ZWXRPd3VrVXJmTmpUMmpOYWZ5ZEFIT2l5STd0YWswSm9BVkk5WUVfLU5DZlNMMjRwNEROb2wxWE5oaDJWTGg0MTVkQTU1eEFYNkF3TlJMX2otXzZxckJFZFpJZnlRNDd0amZZMlQwZjlaMDYzRTVtM3JxNUE?oc=5",
-      "date": "2026-11-18T01:43:43+08:00"
     },
     {
       "title": "特斯拉砸33億 擴建柏林廠 - Singtaousa",
@@ -1728,5 +1741,5 @@
       "date": "2026-11-17T22:00:58+08:00"
     }
   ],
-  "updatedAt": "2026-11-18T05:02:47.651813+08:00"
+  "updatedAt": "2026-11-18T11:09:56.759051+08:00"
 }
