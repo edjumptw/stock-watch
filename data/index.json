@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:17:39.680392+08:00",
+  "updatedAt": "2026-11-19T11:40:35.757886+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -1184,14 +1184,19 @@
       ],
       "news": [
         {
+          "title": "【熊市衝擊新股抽籤3】第三季上市新股6成都破發 漢測昔喊抽中一張賺250萬元…如今賠37萬元 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNNVo0YlU0SVNJLTU4c2FsV0NlU1pyYlhHNFJYc2pRYXJvdVhiZ29UOXV5SDYxSFN0Ym1lWFVoTmhicDVGV1JnNlFUY3htRTlxMFhzMVB5Q3IxWjdmbHRnTkRwNjlzb1daOGk1bW1KWVdDOEN3aXJUWjViX0w1N0pMZ2hDUDVXT3FYVEVQMEt6cWF5a2MtbVFmTzBXYjdFRFZpcEJaOXZCTE1DYTJQOGhBdzU2VzBnV1Flb1JSTTJLRzV2NFhzNXFpNmJOWmV0d2tXc1ZKLTdIdFZyR01Xa29XSVFnSEs0cE50VVh3MUJoOHJaQzA3bWlDQTgxQVA1cjdVeWJVS2pKQ3Z3bTBnbm9IVzRiOFUwdGc2SmxwY2RCeG5xVVpLRzZLQzdmaTVTTmdaWUlwSFpkVEtPM3gydV9uTjAxRFJYRGZqWTY4U3ZVdTlEbUZIMFNMMVRlakE1UHEwaXZMTVRGcWYzeHZKRHEzSjNYd215VWhfN0VCT1pVVERMd3RNaDFfcXZ4dHgteWtDa1RPUDNaeWNuR2RSWmFJSjhxLWZDek1HdzZhNU5xQ0EzdWVBQVZnc2o1REVFRl9zWE9NY1RpdXlObGhKUFpjcmRqaS1YSHNNQkxJUm1LcW5PU3d4TTNUTXJ3d21FbjdEeGU3UDJ4cFdCVXJBQlhmT3U1M1RwMlJBVVV2T2FvWkU2X0I4cjFRR0JYSzM0NW9vMmc?oc=5",
+          "date": "2026-11-19T11:20:06+08:00"
+        },
+        {
+          "title": "抗跌「永遠走在最前面」？中華電信漲近4%寫171元新天價 重登台股市值前十強 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOaGJBM3BSNXFXMGdITWU1SlZCbm0xcEpielRZNGd6R2hTQjcyd0dRdGFKY3BIRjBOUEhYYVBvdHdxd2xESjB3LTZ0OHNFN04xMUxwWmxPUFFmNXZCOS02cHByeWFRZkUwd0Z6OWprRmE0XzY5US10blpnaTFZTXdzcUNSakJVNndfUm5jVWFLS3dZdFFxOTVLXzhpTW52Q1BzV0YxbTViWWlBWkFlckFTN29mcUlWam5NZzVQdTZHQ19CcGNZa21vWFRTS1BDbDdXMjdGZ25GYnAxMGFlbFM3QVZHX3RIVkM1NUVRSUJReDNrYkczS2d4dC1ZTUFoZ2doQ1BKZi12UVRoNFctMXVBeVpuVnRKZUFITGNMak55cHhIcTA5OE5TalluMnNlZzFERDFkUmFYUFB2WDdZdUM5UGJGVEF6Wkx2QXplZ1RXSTlocGxpQmVuZmFOY25BLUl6VTRNdEZZcUFxV0JPajNjZmFoQnlBdEhQTk1yd3dWeWpfa3k0bmo0emZuZjl3emxteUYzRTkxM0VQLUNzYWhyOTJVM1RkdXFmS2cydmpqRFN6TE5hVW1pbmJqcnltT0ZHUXdDNnBLTTNVbWhTS2xvWG0zeGhiRGk0T0NWb1JubllLQQ?oc=5",
+          "date": "2026-11-19T11:11:33+08:00"
+        },
+        {
           "title": "才爆9453萬違約交割！創意摜跌停「高掛近千張賣單逃不出」 千金股19檔亮綠燈、3檔慘摔出排行 - Yahoo股市",
           "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPYWVvclFQcVluWDdpZm91UkYyVkdaV3NLcFlNSFg0b0RtcmRUb1BuOUs3VExkeEJxcUhLb0NBa2ltNmQ3MW4yOGVxSFpxZ3dWdHZnaXVwaG5ZTXp6ZTYydi13WXRiUEVOZzNiYloyRHlhQzhocnhmbGtFc0I3Z0xHaGRDV0c1SXFtN3pFUG1ibzZPd2piR01uaVMzMU9QTFliRDUxblVHZ2xvQVFWZXA3UGpIandWaW9yaXctMlJEc3RUQzQzN3dRd2VkMUFoN092cUd6QXp3b3Y1SDNyd0tQeGhnbU42R2p4U0lKYjlSdVhvOVMzQnpjOEFaN0d4cndQVG1OWktIeHVmeTJBSHRrQkRCTnpoX3JMTmlMcTdic0NVQTNCYXhxYU91VnJjamZneU10dV9HZDJlQ0ExRlFlbWp0eVp3d3N1U1l3MmpkV3c2ZlVQdlRTRGVYWW9kaTZ1RlQ5YWszbTUyU0JuUEZUZmVPVFFGOXhrR1Uxa1A1VGVBc3hQZE9vYmFxb0dzRHBjdXRLalEtUXJEYzY5QjBNdVE2UEpJMl9BU01XaGc5N1FFQm9YdzF5TDVndE43cHdVOGw1UHpDVTVVSjdiN1NhZlBCRU0zanNZVjlFUlJIOG1NUjUxUHNNTjNiNkRMc21pQkQ0NzBNNEVCZWt0SXJxOXZUbnBRdWRsN3VOajRn?oc=5",
           "date": "2026-11-19T11:11:15+08:00"
-        },
-        {
-          "title": "【熊市衝擊新股抽籤3】第三季上市新股6成都破發 漢測最慘一張賠37萬元 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQX0ZHdEpaQjgzcFk5ZlRseXE4YUExclRUZEdBME0zcE1pdm82bU1FMXpqQzVPOWJtNy1HSFRRVVc0clpoS3lsTUpJMnpyMjVwZ2JLNG9nRmNBdzJTTnVCQnUxOUJNWGk0LXVvam1PNlZBZ3Vud3NUcjNObHhUOFpjV08wbUxVQ2pXa3Y4VEFvU1ZWV1ZXZU00LXB1dWJvd095TFdQbHYyLVZjTHY4eVEzSUhrUkhzTVdVNWJ6Zzg3MVpKT1g1ZUdvMUk0dTk1VHp4RGNqenJKQU9TMy1sTmRwaE01MlJqNHFqY2NLa1N2SXFha0RJYlQyLXJvcUgxck4tUERONWNpVGE0SzlpNEdiMFd3WkJOam5TUWdjVEF0MFZpZkxSd0haM2IwY2gxXzMwR1V3aEdxUjZBYjlYWEtmOVllekpuY1VhNnc2LUlzU3I2cU9KWVpJb210TFR1OTdyUW9kTUxBNTdWaEZobnZ4a2Fqc05EcF9HWVRTNmJMOHRMWWRUWVhfYmsxWUVfTHdIUXF6djNoZ2ZGNjFjdkFYb2ppSmptMjZ4am96bS1xRDRrcm5uc1lBeV8za0JWbXZoUDVMdmYtLTdpQQ?oc=5",
-          "date": "2026-11-19T11:03:30+08:00"
         },
         {
           "title": "台股震盪別急著抄底！過來人揭2000年股災慘況：反彈4、5次全是假象 - Yahoo股市",
@@ -1202,14 +1207,9 @@
           "title": "國巨*（2327）破底陳嘉偉被罵！郭哲榮、環球晶被點名：是要打電話給他 - UDN",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hNWx4bjM4dlBUcHJJN3ZwYWgzSWd0M2sxaHN3VnI4ZWRtYU90QjVlb0FLSF9keW5YSEpoOUdEcmR1RnZDRlNNcktWdGtiQ2JIZ2hWLVZSdlo4OFF2SlhRejBLWG5nekRLbF8yLVlWeVl2U1nSAVdBVV95cUxOUUdfcFZQWUZNSHBuTTJuZnVXdWJjVW9HY0pPdllvYmkwbDM0OTBRQWU2ZklsRUNsTk5CRHliemFxVUlTZ0c3NlJtRHNfNzZzYzh5aFJzQWM?oc=5",
           "date": "2026-11-19T10:46:44+08:00"
-        },
-        {
-          "title": "記憶體遭利空圍剿！南亞科驚見3字頭、華邦電連5黑 專家示警明年報價「漲不動」：短線先別碰 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOMGhnQjVOeFMyQTY1N3FET3ZpaWotUnIxSDIxUU1EdFVWeUxtaHBfZE5vdDE1UDdpSDE2YURhMGFQdHpUakcxMVhzWUpQajFqc2h3Z2YtaXpMZmJvVE1JOWZnamUwS1dTMVJuZjItMjBjMVZRd09IVWxKQXJ4LW94UFZ6M3FEUHV4ZGVtbVJRR0JNZ1hNcHoyR2dxQ29wb21vUGFaMEJlT0N2R2paOWlPMXJodWc4T1hIcFU5UnR0UXZiS2d6RkFZWnlaY251alpLQWFjQXBBMkpTeUdNWVY0T1FjWmhqSEo1cEZfMDdDN2hvWHl1QmhhczdUc3MteXlTYjVxYjZDS2liN0hTeTQ3OHdfY1RrMC00VkVQOVdoaHhQX1JoR3FVZExWZVB2R3l2dE44LWlFd0prY09UcXpZQ0xYYmRXS2JiLTczbktuWXl5Q0hDVDZKRERncm5GbmpBbTY0SGVlR01tQWlVUWZZTEpvbkJMSy1LUS1KSzlPelJsTUVRUUtHN1BMcG83Q21BYldBODlQLVhFajAtR2tteFZYQzRacU1qTDQwcmdRdlhoUl90RUF3dUdTczN3b3h2cWtPSERCUVNoNDhUVU9JSlVxVTVNREE?oc=5",
-          "date": "2026-11-19T10:28:28+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:17:31.279599+08:00"
+      "updatedAt": "2026-11-19T11:40:26.379565+08:00"
     },
     {
       "symbol": "2308.TW",
@@ -2394,32 +2394,32 @@
       ],
       "news": [
         {
-          "title": "〈台股開盤〉台股受權值股疲弱賣壓沉重 早盤重挫逾1500點貫破3萬9千點大關 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOMTFVSjczTmJpMW13WVdaWTJ0LXNlX180Ukk0aGxsMmc3WHVZblhUeFBMTTNEelBrS2tNaWJpU3AtSWJZZGpuc3l2TDdjY1J3bnJ2UHhWSG9saUhMVDM2RjlJWjVuQUxVa0QxQl9Ud2hETW5YN0ladmdNajVyZVZaZkhreUVHOU03UFZLWUdvXzZVaF93MVNzSEt6UWNiVWg0eVlDYU1PV1BVREMwLXp4bjRTYjdzVGtnQUZMdmx1SzM1dm5zWHRjTE5IQVNPdzRmLUlJcXNrTk9Hb3JnZkFCMzBwUHJ0RWdCdDUxNEZock9yRnh5ZnUxRGdUckRHcWYyODNKT20zWVJhSGVPcEg2cU50SFBfeUY2TUx4VjhmMW5UMlRkOFZXWngtVm5OUHpzeFhkZUVyb0pOVkUxX2VIQXMyVUNOTjZ3d1ZtQXA2bkM4QkNkMWpzeVpqTDAzYVRCcUZkaWh6LW8zLTRkanBvSi0ydEdjOHEyeXZrZXpMWWxLUUFhZS0weWlGSEtQWmhQc1dTRFQ5OHBDUmJVbUthQ29Gd0xtNmhXdXgxaFVrc0JCMzU4eDZXUko2Vk9uMzlDSWc?oc=5",
-          "date": "2026-11-19T11:11:31+08:00"
+          "title": "【Hot台股】台達電千元關卡一度失守！網喊「1000城牆破了」分析師：別急著抄底 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNVkVXYzVyNUdiVzdXYmZLVnc4MENLSHQwdzU3d1BrQkQtZ3JPV2EwZGZ2S3ZyZHFzdUdtZmFUZGZQc2ZFUEFIb3d0d3gtWGJ2Tkhpa0k5Y05nNVFZNjhaaElHWmRWRUMtOTN1TEpOMXBMVUh6cXR3a2haeWZpV3ZOWEVrZHZZbVF0a0U5bTZXQTc3OGdDbUVzZWxmZnlTTEE0anVIeVUyY1NDYTdsSlNqYzRzT3VWSjZvYUpJSmpmakY2SWxIclFBRzZvTDJWMkQ1VXpDRXItczNGQlBTUmhIak1VSFJGNzZvbG56X25jc05nQ0FDeEFtQTU4RFlQNWFVTTRneTNzWlNYX1V6Y01HZHVfNTcySTRGbjRGRkhLVENPN21UWUdMdmd6NGhhWXUyR3ZYeFF6TWhlcHh4RXFENU9xLTBROTlDaXZzQTdKMkw0TjNoZ1pIOTItaElMcWJLaElZMXR6VUI2VTNxdG5LVlp0d2cwWC1JS0lxaG10amxUQ1RYQk5lV2tVTEVRNXp3cHJZLWNBTUN0WFRXQUdjcURuX1lhUl9zSFppY19UYWF6ellTczZvbU9qN1JEN0Y4NklpTXBLalozdFFGYVI3WFRLUVoybGhjOHJELWxDYVJ0b3Bwc1oyeW0zMUhQSXRa?oc=5",
+          "date": "2026-11-19T11:38:57+08:00"
         },
         {
-          "title": "黃仁勳請辭掀輝達震盪｜新聞事件整理與重點摘要 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VX0E2UHkyV1dfczljQ3JGYmRBQ0FlNDlPN0hUTy1hX19Iakh6akE4aXp1eEtweHg4SS14M3VIXzByWHRHMU1wSEhrYnJqek9SRGVYQlVoel80MEFMWFlrd0VmbmxOMTg2YlRBa0VCVEZ2NFAwMHF0ckQ4UWRrZw?oc=5",
-          "date": "2026-11-19T11:02:36+08:00"
+          "title": "日本總研估台灣成長11.1% 憂AI退潮 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaTFpbmFYWWF6WmR6ZkZxOU9yQzdoVTVscTZoVGZ0NkNRNGRFNFd6TjN4Z2g5TWxLWHJrWGxxcVlYNTV3LXVRa1Y1elk2anpkcHM0MW5rMEVEUnBBTHVUdjNuQndRdG5hT2MyNXBsdmNQemxaS2s0a2tUQVlmMEJNcHBWLVo3U0ZtTFRtT21TWTBkMmU4b2NHRjN0aEtma1J6MXhFVEpkVHMwbHBvZDFUZDdvSF83MXQ1SzcxWm1Fd1JOTGdrX2JlMWM5S1RkYUVDRkd4d1BSdk16TDJxUlpQS1JCZ0lUakoxeFJBZQ?oc=5",
+          "date": "2026-11-19T11:38:55+08:00"
         },
         {
-          "title": "國家隊護盤也擋不住？台股暴殺1400點 林友銘點名「4檔反攻指標」全翻黑 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQb3pvOGtUWHVBaGYyZ1BJb0dRazFrSUxWdkZ1YVNpZGQ4M1FHcFA3TDlSV3BNb3A5bFJITkxORjdjc0dOUkYwaktqSmNVUFVnWDFwM1NBUHdPdFo2N2RpRmRfd2xBQXJiXzZBOHhoQ2t3NFN1WjA5anIzUGU0NjRoMFJXM21qWU9rQjJub1dTbWZmU2s4OThxT0xnX0ZPd3dkM2l5QzByTHVvYU1qUFYxbURGa3VKQkJiclh3Nmt0YWhSWVFScW5qOUhrUFRBYTQ5WXRlWkEwVFVBQXd1Tm54OTFJOEdPSGZCYk84X2c0LVY3RnZ6X0s0Rzl4Vkh6eFhaX0FaOG5NSWdDNG9uNnprY3ZFMmgwblhUZWNYaWdKMDhtd1VyMnFuQVdwSEhabmJZOExwUGxOZDlUZC1GWnl0VUpWNVVRbUZrQ25fYkhYLUFkOTQ2Y2djLWdTTDdNM25SSjBOWWMxOE1EMWRRZlBocHpyUzJNWTZFQl9KWXd2SVVDdUJZSFo4bHFTV0hvTDRLc1lqXzcwckRfbTdDZUNTc19yaVlXR1JwN2Zv?oc=5",
-          "date": "2026-11-19T10:59:40+08:00"
+          "title": "焦點股》台達電：告別千金股 吐回今年漲幅 - 聚財網",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZSXQ3aTN6MGUyQkhKX25VTlBCVUtSWmxUeEREV2dacENLcG9odEtHeGtUMzkxN1hZdG4yOENZRzR3dFY1TzFtTktLaFc?oc=5",
+          "date": "2026-11-19T11:30:21+08:00"
         },
         {
-          "title": "台股盤中／血洗逾1400點摜破39K 台積電跌50元、信驊跌停 - TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOZFpaWmprLXpMUjJiOWkwY3ZqNmtaSlRaRWY5dWZ6YjdYaXRZZXpDMVcwdzB0X0lHdF9tQURzZ1dnSjlEQ0htSlZhV1BPeE0?oc=5",
-          "date": "2026-11-19T10:53:00+08:00"
+          "title": "【即時新聞】台達電(2308)急殺爆千元保衛戰，這「5檔概念股」同步遭調節！ - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVGgtQUM3RFQ5RGZaLTg2MGwwSTYwbUprbFZHN254SHQ0Tm1fbk1sYnBPT01wa1BRdk5sWEVrTzJOZzRhTWVELTA5cm5pNzAwZ3VEelB3MjhGQ2daMkY3d2hJV0dtVTQ5XzE4ZEFHT3ExZ0ZpSEtuY1BBbkxDb0hteU85U2VPWWdoY1ZjcDhCWU0?oc=5",
+          "date": "2026-11-19T11:25:56+08:00"
         },
         {
-          "title": "【即時新聞】最新台達電面臨千元保衛戰，外資狂賣2575張要反轉了？ - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjFlQ3JMMDl1N1RsN2Uwc0VMMmhLT1Nic0UwV2RMdHRlb0FHSEtaMzUweF9rN00tZGVWQXo2R0N1QllNRnVjVHJBell3VlVjRm8walc3U2F1ZnRqZDFtNjdmanRhQTljaHhFTVdmcHJodG9GSlhLM1ZnSU9GeGo4VGlyZVpsV1owU3AyTzd2YjY?oc=5",
-          "date": "2026-11-19T10:50:31+08:00"
+          "title": "台股狂瀉逾1900點！股王信驊等21檔千金股亮燈跌停 台達電4檔跌出千元俱樂部 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNcC1UTXZUZXVVOER4MGNNRUdLbHQxV2hDa0FRTHh2ekRfb21PdFFYRUNVaTlNZ0Itb1RYamFOa0xqcnNfM1BjR0tFd1k0TDJnWHMzMW81UlZGZHZkWHZEU1R6dHp2a1ZuRlk3WkEyRzdHUXhFTzZDN3IzVjlFaWJPVENXS05MU3IzbFctVFhRVEpZRDdmb2g2cllzRXpHVDdqUk5xNGhyZjduNUgxWXc2SGg4cU5aVGZURXlJN1pyTzhqdV9pUGNkMGxWVHlNdU42d0FiM2NRRWJXX0ExVFdBSHFQTGFoTjFmWGFneGt6LW4tY0dFZndiaklFdWhtYlpDRVpOUUswdnI0YUl4SGhQeXYyUXBiUTdzbzcyQ05Fc051aTlZTWQ1NkpSbHNFOWdkNkxDVTJUbU9ySGhMOWVzWl94ZHlUUlJfUTJZek5SYWJCTFIzdzdyUnhobkdpOEZpNnY5d0QzV0ZMUWNHamxPRDEwaG9jRHI2NjJod3RaMDRjQkRTMUdnQmVtR0xJUWZVanM4dWY3Tm1hNnZCeVdUaUxrTm04bFZSdnZidHNvVWh2VUpQNmFOeVczV05DeS1RNThxanFfc1VMU00zLXdFdnVid0R1Qy1ramc?oc=5",
+          "date": "2026-11-19T11:22:30+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:17:32.027506+08:00"
+      "updatedAt": "2026-11-19T11:40:27.079787+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -3604,32 +3604,32 @@
       ],
       "news": [
         {
-          "title": "2330 台積電 - 估計糖漿下週才會出手- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2REZHTGxvS1M0U1B6VkxhTnlsQUVhZ1g3aTdIZGhYSVQwZkFDWWdQcTNVY3JPdHpsMTZFWDBjQW9EVEM0T3BzTmw4cTViVmdwczB2aEVjaFg?oc=5",
-          "date": "2026-11-19T11:10:59+08:00"
+          "title": "台積電強敵來了？陳立武證實英特爾18A晶片 首度拿下外部訂單 - 聚財網",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45anpyM3lEMHB5aVo0bjFaOWNWd3NpMlU1dFBoenhfUEdoYkVpTUxCRDVoUmZGM0t2QllKN3o4SGZUOHBqN3ZRMGVKMHQ?oc=5",
+          "date": "2026-11-19T11:25:18+08:00"
         },
         {
-          "title": "【即時新聞】安謀(ARM)獲台積電(TSM)產能支援迎業績大爆發，最新 5 檔潛力股評等出爐！ - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUkVxd0x6aGEwcjNwWElrOU85bjAtOThLNk9raTl2aW9ZUEJHLV83OEl4NXplRFI3QjI2U1ctVjRKUmFzclp0c3kyek56eDk2V3pDRkIwMThxTVoxal9uOFVhV3Y3LTUtQ3VnTEJJa1NxS0dmUTdOd0dKeFBjTm1yTEt0dU90eTREVC05ZXlsN18?oc=5",
-          "date": "2026-11-19T10:53:27+08:00"
+          "title": "台股盤中震盪逾2000點失守3萬9 台積電挫90元 大立光跌停 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPV3YwOEUzNVhaLWZBUW91YTN1QXdtMHJhWXpTbDRQRF9wU2t1UVpoYVhoWmp6MFdtaHQ5cVdtdWg3S3dwTll1LUJnTDVuUEpnbXp6Q2dGMUZ1ZEszYzN4a1A2ZlNkYXVHeW5fbXdrX0YxUnNLMVNoQmlmeTd0Ml83MFFkSUswel92dEJOV0xhcE9mdm95NkwzdmtOclZtV0Fkejc3d2xUWl9hNm56OWdNYlhSMXpmRTlacGxPeVBKN25zcVQ4Mzl0dG1JSGM5ejF5OFEzYkVBNldvRVFLUFRTVDk4QWY1QTk1M1JjSU1KWUphbi1zWGFNdHJwa0NEd1lEbFdTZHhDcHFnYmRELVVBcHRNZlhCWGdRT0dRTkZpTVRqNHg2TGRlUXMwcnBMQ3JjUjFkcXhmdGtaTjhpeHlQRGxidlNIY1d4TFYwQmZsRE9GOEh5STVDeGRJLVg?oc=5",
+          "date": "2026-11-19T11:22:30+08:00"
         },
         {
-          "title": "台股盤中／血洗逾1400點摜破39K 台積電跌50元、信驊跌停 - TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOZFpaWmprLXpMUjJiOWkwY3ZqNmtaSlRaRWY5dWZ6YjdYaXRZZXpDMVcwdzB0X0lHdF9tQURzZ1dnSjlEQ0htSlZhV1BPeE0?oc=5",
-          "date": "2026-11-19T10:53:00+08:00"
+          "title": "台股盤中震盪逾1600點失守3萬9 台積電挫90元 大立光跌停 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQOGwzbWZUWlZCYXItWWJEUTQ4QXhiYXlHS1RMVTUzUFg1M3N2aXJwOHZ0Y3dkSlVBdUR5cTQ4TFBqUUlRcDhqcmc3MUdQSDAwbmZKdEdHV2NuMFlTdVRnYzB6RHhyNDNtbk1MbmlqV3J3UW1vVmpYenFDOV81S3FTdHNaU2c0azVGQ25oWGY1Ukx6akxiVExNMWZXTFAxTVNRZkxNVkxwaGt2TmY4YUFOZTZZOGpreTZ2bjlOcGdHbXE3dzFVSmdPU3EzbFA0d0U3RTF2NlE2NFJZT2IxNVMzRmdMVkY5UG5xWkViS011dnNmWEdJNldkTmMtNVZoRWk3RTRNYWdXSFAxdGhpakswNDFUbkYzVUZSMi0wMURTanJobnFSOF9kWjBKbWhqSUI5ZzQ5MktDWEl4WGVDMEtOaUhmN1kyUFp4RWg0TG1WWGUyQ2xUcVh0V3dBamY?oc=5",
+          "date": "2026-11-19T11:21:34+08:00"
         },
         {
-          "title": "AnthropicIPO定價83美元、台積電也入股！孫正義坦言未投資Anthropic是失誤 - 緯來新聞網",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkJWTmxveHZ3Mm1NaGlEeTZDRTFBR29JN0FXb2JCZWRWUFdMYjJwVDFQSHRzcFYxcENMdFc2aWQzelBtVFBIX3l2cFE1ZDRhTFF1RVVYd1k1NHo3MVZpbkJKUFBieHc5c0tsaUVXMC1CYTVCdnVfZ0F6U1luN19fQXFPWm1mUQ?oc=5",
-          "date": "2026-11-19T10:49:00+08:00"
+          "title": "輝達大簽長約擴產 台積電、矽品等台廠供應鏈受惠 - 商傳媒",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQS2VPWFB0RFRfWWJEQWMtdTQ2QlFBS0ktZXRyci0yM01sX05PSDlTZ2ZLd3l0MkhYRUJ5aUtLcUNTN3o4TXNtd2FBTFZreU9tMzBRNkR6Q0xhWnh0MGdYdnVwVmtTQUVOX1ZZTGFWOG5taU5kMkVycmhyVDczbTQ5QzgzMVhNSFRFdGh2T2U2RERSZGVxbUZEN0FIN3QtenpxTnNlQ2RYZWtUMVRmWmxDeS1KWk5HaU9mYjYwcldmbXlaUV9HX2dybTBhUXdaMVdzZmJiZ0xEX0pmTnppT25pOG1Fc25mUm1INDRYbFJiRWtoNUFTNE1qWDFhVktBNnV3NjJYc2ktb19fY2NHLU1XbHFaZkRHNktfVXhuRTRWcTl4Q1VVYzRlaXVoU3ZkbVV0STdrQmt4MHcxY1hXNXJnNWRJb09vQ1g2ZHlpSWVZR2lod0dvSGg1bU8zQkdQZVNERDBBcUN1MTI4T0k?oc=5",
+          "date": "2026-11-19T11:20:12+08:00"
         },
         {
-          "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
-          "date": "2026-11-19T10:42:49+08:00"
+          "title": "台積電強敵來了？陳立武證實英特爾18A晶片 首度拿下外部訂單 - 自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSXVPbHNneWkxWk9lRUZTczNXWG9aVmt6LTdWUWZQb1VrZnBBVXJjNjFIRnNkMGFMSWJXNFFKcGtYTUMtQnhNcGhCc2Yzblh1TThpZFo2eXdIcmJfN2Zz0gFkQVVfeXFMTkNMRU9PQWlkMzFYX1ZhWkNhbEJ2VjdHdTg2cjBpYzhHQVR0aWtYZ2xTMHliS2ppWmpRZmlIRGYxRjc2bzVfd0RrYm1laFJ4U3hOb2FhTlJreU50TlRVVHB1OXZzaA?oc=5",
+          "date": "2026-11-19T11:16:36+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:17:32.588765+08:00"
+      "updatedAt": "2026-11-19T11:40:27.595441+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -4839,7 +4839,7 @@
           "date": "2026-11-16T20:30:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:17:33.176340+08:00"
+      "updatedAt": "2026-11-19T11:40:28.114516+08:00"
     },
     {
       "symbol": "3711.TW",
@@ -6024,6 +6024,16 @@
       ],
       "news": [
         {
+          "title": "日月光投2,489億進軍仁武J坵塊 AI高階半導體測試基地2029年前分期完工 - 大成報",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sM1R3RmQ2N0g5cThBWmFFS2ZqanBudzBmaHdHWDBVaWZzLXZIV0NSU0R3aVRHbUdzcGFiS05WUHpMM0NFMGVDTXFLeTZSb2JyU3JDTDNza2M1X250VkZiRjVpWHVZb1RDYlo3UW54bDY?oc=5",
+          "date": "2026-11-19T11:13:34+08:00"
+        },
+        {
+          "title": "主動ETF連26天站買方！57億資金湧入日月光、台積、奇鋐吸金| 財經 - Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aTJITVd5ZVl0N0l4T0djYTZURVFVSFYyNV9mN1AxVzZsd1VlcFJ4SjA0SmdKdmFBNkJwM096Y0t2MndVRVRxVEFzcVZ1aUFwQU9RSEdBNjVZcDQ?oc=5",
+          "date": "2026-11-19T10:25:27+08:00"
+        },
+        {
           "title": "日月光投控ADR週三收32.52美元，漲0.69美元或2.17%，折合台幣每股約535.71元 - 富聯網",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1hRMUkwRk40V3VkaWJqV0x1ZjVfTVJYRTFwUk1tYlFQbXNrd1RvMENFVEdCUUVFaFNZZ3B3VU9PM1loUlhHX0ktZU45emduUDJWaTJaQ0ROZTRPS1VjcTVLVVZ5Z3A5NHA4dHc2M0ZUNjlVN0tMV3k3akNIVXpfYllUU2gyTzlM?oc=5",
           "date": "2026-11-19T08:15:00+08:00"
@@ -6031,25 +6041,15 @@
         {
           "title": "熱門股》輝達簽長約 日月光投控股價樂 - 聚財網",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rUXNDaDhGVnFfOXdHaUg2MGliMnZIOE85RWl1NmtlNm1SYkhvYTdBUnBtOTNjYU5hY0h4T3FLTWV0bmFCY05PZEJ5Tkk?oc=5",
-          "date": "2026-11-19T05:37:13+08:00"
+          "date": "2026-11-19T05:43:44+08:00"
         },
         {
           "title": "熱門股》輝達簽長約 日月光投控股價樂 - 自由財經",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYNGJyMC1vbE9UbS1VSnBPSE0wa2ZoYUU0YnVnWXctVWNkQ2g4TlJnVnNCODdEckpPaXFzX0lfMFFFNm9MeWo0dF9hNGtwdmJEWnFIbkJn?oc=5",
           "date": "2026-11-19T05:30:00+08:00"
-        },
-        {
-          "title": "世芯、日月光 四檔威風 - 經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QNFh5eW01X0w3LUpyaTVkLXdTNy01MDRSSkRzT0VtamYxcThCamlsMlYyeEE4dmVPS2JnNC1YdTRyYVg3d0ZnQzVQWHVSMDZmN05CV24tb21oUdIBX0FVX3lxTE1KZmhUcy1wa2ZVaFRYTnZ6dFREWkk3YmMyeWtUNXo1T1k4d2JBN1RTZVJWSHlvVGhidmtzbTljVlgtMnIwQ0tYaDZORHV6cGoxcmlWY29JMFUxNGlIa21r?oc=5",
-          "date": "2026-11-19T00:35:41+08:00"
-        },
-        {
-          "title": "三大法人買賣超 – 外資買超(6274)台燿、(8046)南電，投信買超(2330)台積電、(3711)日月光投控，法人合計賣超632.07億元 - 永豐金證券",
-          "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxQUUtfZlBqODZrZ3JfSGt2eWZ6a1p5RGcxcjJBLWlFVDlZV3RNVnNYX19BTGhMTno5NXltZmtQSjRlYmwzY2ZiWnJISW1LV0RrcmFiam5iU3ZXLTNQUUF3UGFwcFc5aFVJcU4xakdPbC05dm56bEJhM0JUVTcwOXNSVHpaS1FfU0hyQ0pHS0RXMklDNi1CbnJrYjFXbkdaNHF6ZkJfdHRIdW9pZzgtVkg3bHpVMmpSbEJKZ2d2SjYyd3NNVk9veFNpWXRHb2FSSlRPdV9MMjNTOS0xOVEzdTkwZ3VTcHo4WVhCZTZPLXI2SnVBcGU1SzRNNEhRU2lxV2RaLVhkS3pURDlZcERuaUZzbVRJT1NRc29kQmNSQWJXNEZKSHpqd2VRZUo1cFFNaUVaZHdNRWs4Yjlqd0NyTTVLeWg5Z2lRd1FFRHFlTnE3dkVnaHlfaWh2Y2tkeUtpSGJuSlFtVVFUMHBXTGg2cm1vamRwR05HY3djRUJrMUZfMWoyUVR1LXQ4cWE3c2JFQ3VfemJRSUNhRGlQcl9PZkFtSXFNaGM5eHJjOVg1SkFPekE3ODZMX3B2b0ZKUGljX2tsYlM5SmNTVDJ3YjBhS1BTYTlWQXV4SGNaeFZ6bnc2dTVwM0xXSXRULU1ibmgzM0V3YjdzbnRobFVYTUcwVWR6ZTRYQmQwdE5PeEV4bEF6TlpleUt2dkdpRkFYRWJPa2RtQ0w4cl83WlFSTzVieFQ1Nk1nZks5akZjQlhIb2FhV3hwUjBCQTBrQTBXWXI2c1FUNUUtN3p4OUN5Q2FZMm5QUGVFZ3dMMHFiZXpF?oc=5",
-          "date": "2026-11-18T16:52:36+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:17:33.723457+08:00"
+      "updatedAt": "2026-11-19T11:40:28.632581+08:00"
     },
     {
       "symbol": "NVDA",
@@ -7765,6 +7765,16 @@
       ],
       "news": [
         {
+          "title": "《專欄》黃仁勳醜聞之前，Nvidia深層隱憂已現 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDc2s0cXlUdUVPdzJEWThLYjcwMXpKMkpkcTRaSnQ0R3BkZ2RuVXowVnduZTdLQi03MGxJa2xSQ3VodHo4ZUhudXBQb1RtSWFtZl9nbUlqMThveUNCU1h2b3RlMkg5eFBtODJhbkliVGhQLXlYd3U4?oc=5",
+          "date": "2026-11-19T11:34:35+08:00"
+        },
+        {
+          "title": "Nvidia股價為什麼救不起來？董事長一句話反成利空 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkhUeUJQTHlKOHNhdVlZcXdtTzF4VExkRUlWcEJ5NGEwSE1abHRIeGhVM2tveTd4bVFhUHZWUkMzLXBVVk0xMDhFYmRRWk5CNjREMXpXSGViUS1FN0hCVThiZHlFQkplSzA4Rm9OaElhYVpDLUFiQ3R0ZWJlUkh4cHln0gFnQVVfeXFMUEMwbHdacmlpekZCMFVRWENJY1pGa0FrcnA4bzlfT3VTZXRWRmNsckU3dUhaRmhCV0l1MzF4akNTLXZhT2NxT1R5STRLSUpjRmVsZm9Qa2g1R3hYbjc4LXo5TjRwZkt6NA?oc=5",
+          "date": "2026-11-19T11:20:55+08:00"
+        },
+        {
           "title": "美國會示警解放軍積極取得NVIDIA先進晶片 加強封堵第三國轉運漏洞 - DIGITIMES",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFE5NU4tdEVEN1VjaHp4NVlyQnQtU2JCWlRtWC1xWFh6eGtPMl81NmJpT2dnYUVQLTNyczdmNkdWZmJYTmg2VWVSSS0xa0VYRy1obmxEOUtaQXo5OUYzc2dwWlJ2c1Z3ZUdOWWMxaENzNGthM3R3d1JhaUFFMDhpQ1F6U1Vlb1JvSWc2WHFwMlQwUkh6czRmMQ?oc=5",
           "date": "2026-11-19T10:54:00+08:00"
@@ -7778,19 +7788,9 @@
           "title": "勒索組織喊已入侵輝達，Nvidia 說自家系統沒事| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWpUSGZNV0tHcVllOXktb3hiVkNXaTM5NHBIaG45X1A4Z1ZObjlqcEdMb0VoSTludjg3ZlpDUVd0TmdiR2s3MFY3bHhLQ3BSdmVld0hHZEMzVmtDZks2dThfUmk4dU5QYU9YYmptREY2U2MzSFlNZVZ4MFZWRVNZbGpjcThTOGNwTmtJSHVLRXlyazRiaVQ1RXdhVGxYcHg2cUN3UzdDdHNuUTR4?oc=5",
           "date": "2026-11-19T10:25:28+08:00"
-        },
-        {
-          "title": "後黃仁勳時代的輝達：標誌性「T5T」電郵文化不滅，續寫極致協作 - TechNews 科技新報",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjZCZmlISUxTZjlheGpXc3Z1aGRrdU0wVElzVXlhblVZeS1TeHBBcGk1UW95M0J1SUZ3bVYtV3p1UzRMYnFveGtmNGNRM284aDdxVEI5S3Zoa2xXLS1XcTN6RHE3X3FTYTh4Z2QwMWR4RC1laTl6YzZQWGNiVHcxMnByb2RDNEJKRXZz?oc=5",
-          "date": "2026-11-19T10:00:43+08:00"
-        },
-        {
-          "title": "AI 熱潮狂飆卻遇領袖變天：Nvidia被「投票出局」，Intel奪回晶片製造話語權？ - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTlvOGs0YndDRU5GUzlCNDZfckMwbDd5c0pKOUhaQ25WcHo0V1NGZFAzS2VKQ1dSakIweDNaX0hCdTZBTXdrU0Z5NUx5NHJza2JlSlN3QWpNMldOaThuVFBtSFQ2eVhrTEk1bndMY2xDX1o1b0xSczRvRFU4QVRFZXdhSXU4UVZ5RjhYanNB?oc=5",
-          "date": "2026-11-19T10:00:26+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:17:34.174835+08:00"
+      "updatedAt": "2026-11-19T11:40:29.040307+08:00"
     },
     {
       "symbol": "TSLA",
@@ -9535,7 +9535,7 @@
           "date": "2026-11-19T07:30:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:17:36.864783+08:00"
+      "updatedAt": "2026-11-19T11:40:32.577009+08:00"
     }
   ]
 }
