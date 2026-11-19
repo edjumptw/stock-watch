@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 2100.0,
-  "change": -75.0,
-  "changePct": -3.4483,
-  "volume": 52381317,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 2175.0,
+  "change": 5.0,
+  "changePct": 0.2304,
+  "volume": 42413873,
   "bias": "偏弱",
-  "performance20": -13.22,
-  "volumeRatio": 1.49,
+  "performance20": -9.56,
+  "volumeRatio": 1.25,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,37 +22,28 @@
     ],
     "support": [
       {
-        "price": 2100.0,
+        "price": 2135.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 2295.25,
+        "price": 2311.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2400.6667,
+        "price": 2405.8333,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.4915
+    "volumeRatio": 1.2528
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -13.22%。",
-    "本日成交量為前 20 日均量的 1.49 倍，交易較熱絡。",
-    "RSI(14) 為 32.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -9.56%。",
+    "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
+    "RSI(14) 為 36.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-19",
-      "close": 2205.0,
-      "volume": 34824449,
-      "rsi": 54.6,
-      "ma5": 2240.0,
-      "ma20": 2211.25,
-      "ma60": 2008.0
-    },
     {
       "date": "2026-05-20",
       "close": 2185.0,
@@ -1177,22 +1168,23 @@
       "ma5": 2250.0,
       "ma20": 2311.25,
       "ma60": 2405.8333
-    },
-    {
-      "date": "2026-11-19",
-      "close": 2100.0,
-      "volume": 52381317,
-      "rsi": 32.4,
-      "ma5": 2202.0,
-      "ma20": 2295.25,
-      "ma60": 2400.6667
     }
   ],
   "news": [
     {
+      "title": "美國新規生效，台積電與三星暫停部分中國客戶先進製程訂單 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNeHRlbkFxX29Xb1ZTb3E0c0hEX1ZtbUU1UkZxN3RzVERDeVc4YXNlUUlFTGtiRDVkX1VLa3MycVlMdVZ5b3c5WU9XUlZabEp0bUY1bHJpSGludjY3Ri0tN05GU2JMZzQ4OWowem1valdZTkJmVHNud3ZlOWs5QmRvdjNQMVV3MTdSMVRSRkFxRHF2Z1pKOElBVGFtaFhQbUVHV2NEeUs1YzNMeHZDQUxHN19CRGoxMlVPd2g0djR1VXg2eXFXUDdXb2RleXJtWU95cmt6aThycWJ0VW94eTVlUlliVlVJM0ZHRTFLam5wbGg0UktFRXoycWZvcHQ2SVpaNlV1bk5lWERRRHZGaFpPZ2ZyczZtRmRvQU0tT0o5dkJJT3VCc0dZYm9XM0RrNnNPd3piVGxJZ2pPYnhraDV4eEZGaWdHTzBlQS1haGlVWXVha3F1d1Zfd21nNlUtUkxpWFQ3MXY2WC1ydTdlZ1gtUDE1QkFpS3dselhRRjN0SlNRNThSZUNTR2FfM2NrUDZaaVN3aE1jSXpZbWNnUEpPRHg1SQ?oc=5",
+      "date": "2026-11-19T23:42:35+08:00"
+    },
+    {
       "title": "【即時新聞】大摩最新重申台積電目標價3,088元，看好2027年獲利爆發！ - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2NmT1pFR1JkTG4xUGpDdldPUEVUV2l2WkY3c2JjUl9PeFN4elZldHpVRkNuM1VwbXJON0VKRDAyNElsZlJPZXE1ZEpYT3ZSMzRGcXZWNDFiT0c2ZklvTTFNQmh3OTFqMTdxQ1VRV3FJbmxYRzgxWVpBVnVOWUxDVkZ2T0xQcExkOGRhQlhfQnY?oc=5",
       "date": "2026-11-19T23:34:36+08:00"
+    },
+    {
+      "title": "FT：台積電和三星電子暫停向陸客戶出貨部分晶片手機品牌也受影響| 全球財經| 全球 - udn",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tYVdHQUVXQVdCeU02c0tCSmFrUDhkaVpSTWYyUjNxUUtMWlpzM3FLOTVWWFY0LUNTbmV4U0gyeDlvQXpvY3dGXzllT2ZhUnp0?oc=5",
+      "date": "2026-11-19T23:28:13+08:00"
     },
     {
       "title": "【胡瓜專操台積電與0050 今天再投千萬買進2330】 （#大表哥） - Facebook",
@@ -1203,17 +1195,7 @@
       "title": "台股失守年線別慌！杜金龍曝「個人持股拉高至9成」：台積電買點曝光 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNQkd4ZHhEUUc5TjdWYURyX2ZMZ20tUUNDX3E2RlY1STVhUEltdDFDNllKY3hUa1VNQkRfUG0xeUVxOXM0U01peHltMzkzWS1tNklkYXIxTV83MjhoU1lQU3gxNVFIYVR6Vkw0WWt5UDhoRUt5b0g3dHdHMFhuYVgyUXk0S3ZtNHF2NS1HSWh6dmVvbGtqV3BIT3VJa252VFJEbENoM05YTDYyRTN3Zi1fWDhMbEdoTWd3T2Z6LUJlWTd6RVlTRmtpcmhoOUt3UC1mT29ZMWRod08zTmhKNVdDWkVMc3JHd2N5N3o4OGV3bmNQcHFsT3VzYWJjd0lhOUFzUXhSWGVwTFlXSzUzaWdUNUIxWVlBUzhMXzRZMU9uMTBJRXRmb2VLSnRweEF4eE4zaE9ELWtHaDEtcnZtRENVVUtfSkhXT0xla2xuMmpYWlVVdm85V2lCVDQxWVZuaFp4TE16Y3FLNHg2SjdDY1g4WTM4X0l5N3NFbXFPYUtuZ1Y3T0U4ZnVBNVQ5SWhvVGZDWUZaS0VranhOanQy?oc=5",
       "date": "2026-11-19T23:00:00+08:00"
-    },
-    {
-      "title": "美算力新規生效！台積電收緊代工，設備廠承壓- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwbHVmRFExM0x6NGlxcGZzY0kzZ2o5emFiSFdxWnhIMmhycTFFZXBwVzdIZmNVRE9vT3RWbS11OWtyTTFGcmxRenJiZmFNZUhpWnBBWlRPTVd4S3A4cVFGcGsxMU1SbEVFRktpMU9zTk5iVHp1b2c5cnd3?oc=5",
-      "date": "2026-11-19T22:59:41+08:00"
-    },
-    {
-      "title": "超車SpaceX奪史上最大IPO！Anthropic今掛牌上市、美股四大指數全開高 台積電ADR漲3.14% - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPbUg2aVowWklDNnJST243aVRLMV9MeGQybVBkbFNJY3FkUHA2TU5qSVZYVWxNODdDVHBGV0hIZzVEcEJqYzBaU2VpcHhYeTk5ZkhqS1l1WUlRMGVGNzBHQlhiRm5fTjYyRjVJd01rMlBsTVhPMmNfU3FJRWN2R0NrVFpOSnNCalh6VEdlZ3VxTk5SUUFZSlkwY0p6czhxc0s4MmJISllzbmVuUGtRaU1TeTJVOFF3UlU3ajBzMEhOS2NVNFlfcHNaZkRkNExNdHZQMks3cE5fUi0tS2lFcEZ0OVNVTWVWTi0wTmpKTFdGZGJKcVl0Q1QxeDFmY0xfZ0dkLV95djRfVDVSdkhjZ0l1dGNuNUZIdmlwOEVMUjJ0V1F0Y3VQbnhjeHB6TEYzajU0MEVDdjNOQlRfdlpFaDIyaTNYN2NGRXRZUGxpcUw2cVY2TmVSZEdPSlVjUXdEMVlES2VBQmFQQlV6OG9IWk1USXVpZll1TnkxRTYzTXN5TGFlQ3BrRkNfZUVQaC1XWEVUUy1rT1BnUzVSQXhPbEFobk9ZWm1DMnRlOUNxSg?oc=5",
-      "date": "2026-11-19T22:55:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T23:39:22.605982+08:00"
+  "updatedAt": "2026-11-20T00:00:56.588386+08:00"
 }

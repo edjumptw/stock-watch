@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 322.5,
-  "change": -29.5,
-  "changePct": -8.3807,
-  "volume": 61367779,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 352.0,
+  "change": -9.0,
+  "changePct": -2.4931,
+  "volume": 55766251,
   "bias": "偏弱",
-  "performance20": -40.5,
-  "volumeRatio": 1.57,
+  "performance20": -32.7,
+  "volumeRatio": 1.46,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,37 +22,28 @@
     ],
     "support": [
       {
-        "price": 322.5,
+        "price": 352.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 439.275,
+        "price": 450.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 526.1417,
+        "price": 530.0,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.5747
+    "volumeRatio": 1.4582
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
-    "本日成交量為前 20 日均量的 1.57 倍，交易較熱絡。",
-    "RSI(14) 為 25.2。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.70%。",
+    "本日成交量為前 20 日均量的 1.46 倍，交易較熱絡。",
+    "RSI(14) 為 28.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
-    {
-      "date": "2026-05-19",
-      "close": 497.0,
-      "volume": 87505631,
-      "rsi": 82.79,
-      "ma5": 467.1,
-      "ma20": 371.85,
-      "ma60": 307.0333
-    },
     {
       "date": "2026-05-20",
       "close": 520.0,
@@ -1177,15 +1168,6 @@
       "ma5": 381.0,
       "ma20": 450.25,
       "ma60": 530.0
-    },
-    {
-      "date": "2026-11-19",
-      "close": 322.5,
-      "volume": 61367779,
-      "rsi": 25.18,
-      "ma5": 364.1,
-      "ma20": 439.275,
-      "ma60": 526.1417
     }
   ],
   "news": [
@@ -1205,8 +1187,8 @@
       "date": "2026-11-19T20:18:41+08:00"
     },
     {
-      "title": "昔持有80張台積電！胡瓜長抱2檔股獲利 加碼國巨嘆「住在套房」 - 東森電視",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RUTFaOW1yYmZzb2IwejFVUDBvcF8zbkZtVmQ0OHYzTlBVajR0S0tHR3ZtZVlPVFZCdnBSaTd5bGlSUXVrUkNzQmNhV3h6WFlXSlNoWg?oc=5",
+      "title": "昔持有80張台積電！胡瓜長抱2檔股獲利 加碼國巨嘆「住在套房」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPQ0xRcHkyQVd0Qy1IMnVycGJaemVfZ1B3M0QxSGNNWkR0TDkwYXpSeF9CeURVdmVoak1TT2Y3R3d0VWlwYnR6eDBvQkdvdnhvLWZOdlBlWnRUQU9CcEl6b3Q1eFE2RGZLVHpuYWVXZVlpMTd1WHQ2WHlZUjdTWWgzUWdURlNDZmVoQmFyN25xbVZodFdsZWExRXM3S2g4NTVLdl9qcVZUUzZEMTNJZDZoRkdPRHZ6RDh2bVUxOWI2MjFoYlJwVjZ0YUtCNm9QenlrYkdXcEpCWUJmUXhyMW01RnpwNFo0OHVXQ3JWbVZTZVVWaXVBdHg3djhPeXJZVThMZnFhSkVNNTBHRnZiMzNKSGNJVnZsX1lKTzJscEVBU1JlNW9rWTdRekFCdWl6c1BWMVVydFFfVC1udkMwMmNMUzU3Q2ZHc2hneWJKUWxoczc4Z2dFNzdRdlJxc0VIbmV5QmlWR0JuYnNGTDVTbDdUQmFYTGc1RDNYbFlz?oc=5",
       "date": "2026-11-19T19:52:00+08:00"
     },
     {
@@ -1215,5 +1197,5 @@
       "date": "2026-11-19T19:24:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T23:39:20.427563+08:00"
+  "updatedAt": "2026-11-20T00:00:54.970527+08:00"
 }

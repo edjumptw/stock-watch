@@ -3,17 +3,17 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 1000.0,
-  "change": -60.0,
-  "changePct": -5.6604,
-  "volume": 28960659,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 1060.0,
+  "change": 5.0,
+  "changePct": 0.4739,
+  "volume": 20002510,
   "bias": "偏弱",
-  "performance20": -38.46,
-  "volumeRatio": 1.77,
+  "performance20": -33.96,
+  "volumeRatio": 1.27,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,37 +22,28 @@
     ],
     "support": [
       {
-        "price": 1000.0,
+        "price": 1055.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 1273.5,
+        "price": 1304.75,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1560.0,
+        "price": 1625.0,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.7668
+    "volumeRatio": 1.2668
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -38.46%。",
-    "本日成交量為前 20 日均量的 1.77 倍，交易較熱絡。",
-    "RSI(14) 為 27.3。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -33.96%。",
+    "本日成交量為前 20 日均量的 1.27 倍，交易較熱絡。",
+    "RSI(14) 為 29.4。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
-    {
-      "date": "2026-05-19",
-      "close": 1915.0,
-      "volume": 13603182,
-      "rsi": 44.13,
-      "ma5": 2066.0,
-      "ma20": 2120.25,
-      "ma60": 1692.1667
-    },
     {
       "date": "2026-05-20",
       "close": 1915.0,
@@ -1177,22 +1168,13 @@
       "ma5": 1143.0,
       "ma20": 1304.75,
       "ma60": 1631.75
-    },
-    {
-      "date": "2026-11-19",
-      "close": 1000.0,
-      "volume": 28960659,
-      "rsi": 27.25,
-      "ma5": 1095.0,
-      "ma20": 1273.5,
-      "ma60": 1619.25
     }
   ],
   "news": [
     {
       "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
-      "date": "2026-11-19T22:44:39+08:00"
+      "date": "2026-11-19T23:45:47+08:00"
     },
     {
       "title": "台達電鎖定日本高壓直流市場 攜手羅姆半導體簽署協議 - 自由時報",
@@ -1215,5 +1197,5 @@
       "date": "2026-11-19T16:31:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T23:39:21.768534+08:00"
+  "updatedAt": "2026-11-20T00:00:55.797068+08:00"
 }
