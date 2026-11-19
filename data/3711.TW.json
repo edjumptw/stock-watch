@@ -3,17 +3,17 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-18T00:00:00+08:00",
-  "close": 548.0,
-  "change": 28.0,
-  "changePct": 5.3846,
-  "volume": 29583241,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-19T00:00:00+08:00",
+  "close": 504.0,
+  "change": -44.0,
+  "changePct": -8.0292,
+  "volume": 30032855,
   "bias": "偏弱",
-  "performance20": -16.97,
-  "volumeRatio": 1.31,
+  "performance20": -26.32,
+  "volumeRatio": 1.28,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 520.0,
+        "price": 504.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 614.5,
+        "price": 605.5,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 641.5333,
+        "price": 640.15,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.3095
+    "volumeRatio": 1.2791
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -16.97%。",
-    "本日成交量為前 20 日均量的 1.31 倍，交易較熱絡。",
-    "RSI(14) 為 39.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -26.32%。",
+    "本日成交量為前 20 日均量的 1.28 倍，交易較熱絡。",
+    "RSI(14) 為 35.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1177,13 +1177,27 @@
       "ma5": 560.4,
       "ma20": 614.5,
       "ma60": 641.5333
+    },
+    {
+      "date": "2026-11-19",
+      "close": 504.0,
+      "volume": 30032855,
+      "rsi": 35.28,
+      "ma5": 544.0,
+      "ma20": 605.5,
+      "ma60": 640.15
     }
   ],
   "news": [
     {
-      "title": "日月光旗下福雷電子 仁武J坵塊投資2489億元擴大高階半導體測試聚落 | 信傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nX2p2c09jTWYwUkZtTWZHeHZIcWRPaV8yY1FPcTNLQUY0VWJrYTRWN19RSjgzV0ozZEZrRlAtMjltdjZmSHlycUFmZHQwNndBSU1VeWln?oc=5",
-      "date": "2026-11-19T11:42:01+08:00"
+      "title": "日月光投控 2,489 億元投資高雄仁武 J 坵塊，擴大高階半導體測試聚落 - 聚財網",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90YnlhcVJsaFZvM3pKLUdweFZKcHN6RGdTWFBDcV9ESUVEOWtyaGlKR3RoaFpkUWlpY095UnZiSmVoaGR5enFPMGk1RUM?oc=5",
+      "date": "2026-11-19T13:34:57+08:00"
+    },
+    {
+      "title": "輝達數十億美元大單落袋！日月光拿下AI封裝大機會 股價今卻重挫逾5％ - FTNN",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51VEEwQWpHOUVQSnJySG9wNW1CZElvcHFjZmpqQ1E1dDlVLUdnd2V0bkVJZERWaU9SVW8taTR3ODZ6YmFDamVuQkVfTQ?oc=5",
+      "date": "2026-11-19T12:40:00+08:00"
     },
     {
       "title": "日月光投2,489億進軍仁武J坵塊 AI高階半導體測試基地2029年前分期完工 - 大成報",
@@ -1199,12 +1213,7 @@
       "title": "熱門股》輝達簽長約 日月光投控股價樂 - 聚財網",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rUXNDaDhGVnFfOXdHaUg2MGliMnZIOE85RWl1NmtlNm1SYkhvYTdBUnBtOTNjYU5hY0h4T3FLTWV0bmFCY05PZEJ5Tkk?oc=5",
       "date": "2026-11-19T05:43:44+08:00"
-    },
-    {
-      "title": "績優生貿聯、日月光法人挺- 日報 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDODE2YnFkd1pQRXZXcFpMUGVvZ2ZpMEd4d2lRWVdlc1lCc1cyTnJiWm1pbzVhNXpySkJ2bHdEV1ZBYmc1Tl9kLXN4ZTNJSHpmcVhVS202R1ZObnJZUldV?oc=5",
-      "date": "2026-11-19T03:00:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T12:20:59.611127+08:00"
+  "updatedAt": "2026-11-19T15:53:05.923949+08:00"
 }

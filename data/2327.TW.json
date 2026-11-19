@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-18T00:00:00+08:00",
-  "close": 352.0,
-  "change": -9.0,
-  "changePct": -2.4931,
-  "volume": 55766251,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-19T00:00:00+08:00",
+  "close": 322.5,
+  "change": -29.5,
+  "changePct": -8.3807,
+  "volume": 61367779,
   "bias": "偏弱",
-  "performance20": -32.7,
-  "volumeRatio": 1.46,
+  "performance20": -40.5,
+  "volumeRatio": 1.57,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 352.0,
+        "price": 322.5,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 450.25,
+        "price": 439.275,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 530.0,
+        "price": 526.1417,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.4582
+    "volumeRatio": 1.5747
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.70%。",
-    "本日成交量為前 20 日均量的 1.46 倍，交易較熱絡。",
-    "RSI(14) 為 28.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
+    "本日成交量為前 20 日均量的 1.57 倍，交易較熱絡。",
+    "RSI(14) 為 25.2。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 381.0,
       "ma20": 450.25,
       "ma60": 530.0
+    },
+    {
+      "date": "2026-11-19",
+      "close": 322.5,
+      "volume": 61367779,
+      "rsi": 25.18,
+      "ma5": 364.1,
+      "ma20": 439.275,
+      "ma60": 526.1417
     }
   ],
   "news": [
+    {
+      "title": "1802 台玻- 🥰籌碼跌大量；南亞國巨敬鵬華通京元電華經驊宏資眾達啟碁定穎- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44Y0kxSnZTZDhTNC1JQ0xXSHFWR0kwVmxma0owWGg3ZFRxRk04QTh0Y015dGdJQ2diNUpqZFBhYjdSR1p2LW1sQm5qRERVZjY2TlJpdnp3UGE?oc=5",
+      "date": "2026-11-19T14:26:51+08:00"
+    },
+    {
+      "title": "《電零組》國巨*11月24日參加Citi舉辦之投資人說明會 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbGJTbkVnSG14RnlDLUF5cXVUeS1XTUZKSHRxTGZJU29qYlNCZXRhZmRqNlFpa05KS2Joa3RqQzZpaGpMUjU1a2RmbFdrZXlfUURDQ2MxdVVIQTZQREZpeGZEQ0dLMFNKMVo0NEN0eDBEV2JCZ20tZEZRckVLUEgxaXJLemxzaEI0?oc=5",
+      "date": "2026-11-19T14:22:00+08:00"
+    },
+    {
+      "title": "2327 國巨* - 都已經是谷底了 還能低到哪裡 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zdmlBTHZYNmxTdnBUSmNPTUVhU3pEc3lGSENoVHltLXNDN1MtMUpYOFY4Zi1LNlJiMk9wOUVnTkZQZnRqSGY5WjRacjV3NHlHWVc3TlMtNWs?oc=5",
+      "date": "2026-11-19T11:18:54+08:00"
+    },
     {
       "title": "國巨*（2327）破底陳嘉偉被罵！郭哲榮、環球晶被點名：是要打電話給他 - UDN",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hNWx4bjM4dlBUcHJJN3ZwYWgzSWd0M2sxaHN3VnI4ZWRtYU90QjVlb0FLSF9keW5YSEpoOUdEcmR1RnZDRlNNcktWdGtiQ2JIZ2hWLVZSdlo4OFF2SlhRejBLWG5nekRLbF8yLVlWeVl2U1nSAVdBVV95cUxOUUdfcFZQWUZNSHBuTTJuZnVXdWJjVW9HY0pPdllvYmkwbDM0OTBRQWU2ZklsRUNsTk5CRHliemFxVUlTZ0c3NlJtRHNfNzZzYzh5aFJzQWM?oc=5",
       "date": "2026-11-19T10:46:44+08:00"
     },
     {
-      "title": "3481 群創- 最強基本面的國巨都能跌快回起漲點- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGN2k4emV0MzBBOUYzWDBLZkNGX3BWR0RrZzQxTDR2SnAxUEtzWkg3SW1CN1R0aDRGVWdmWWMtOEprUU9iRVBSVkxBS0s2STRTMWJpUXZOQzA?oc=5",
-      "date": "2026-11-19T07:58:18+08:00"
-    },
-    {
-      "title": "《11月18日融資動態13-13》高股息(0.37%)、國巨*(0.27%) - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXdJTTVUM1VVdUVTSjdwM0g5T2ZnVW9feEtFY0E5ZDhxWGdOOXFEdTIzOHIwLXNnRW9EbjRSbEdINFJfNVJzdjJGUElCZlRhdzBEek92Q1pMOGlBb085dmx1ZUJJU3ZEQmRwQ2ZRMUFiaURWc2tvNG54d010XzVFNDZ5cnpSQjFk?oc=5",
-      "date": "2026-11-19T07:33:00+08:00"
-    },
-    {
-      "title": "11/18 強棒旺旺來交易回顧｜國巨(2327)表現弱勢 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Jc01mbXVWcE1ZYlg5QkE4dExyb1huQ0NMclQ3VkVyaWdWaS13bWxTQXp0cEE2Q0ZlNDJkVTBTMnhxZzlXaFctVDdnM3FySTRxTDdfRWk5UVI0cy1GdC01UUtXbU80cEk?oc=5",
-      "date": "2026-11-18T18:46:02+08:00"
-    },
-    {
-      "title": "11/18 強棒旺旺來交易回顧｜國巨(2327)表現弱勢-林恩如 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UmxTYVRRUkd6eUh3Q0RhS1o3MzlkSmkxSXBnTkg2WmRrR1U5aHMzaGZiN0NLSGVadjVjUm5ZWERlWFBrV0ZLOWk4aE1qVEloMmhGc1RkbjhKZnItZC1FUE1SWGs1M0F5akE4VXZmb0dfQjM4SmlObXBsMWNWN0U?oc=5",
-      "date": "2026-11-18T18:46:01+08:00"
+      "title": "38K快失守！台股暴跌近2000點國巨等250家跌停- 財經 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMzBpWDFVaEtwMUN1MVRnV1hQQUpUZVJOZTJ5WkpZTUk1WlZobzRXSmF2eUJyTGpXM1VrQkZ3clZSeHE5NkZSU0M5aVAzUEtITFc0R1RjY28wVVpmcjRCaW12eGF1MjVlVDlrMUlR?oc=5",
+      "date": "2026-11-19T09:02:11+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T12:20:57.285856+08:00"
+  "updatedAt": "2026-11-19T15:53:02.729502+08:00"
 }
