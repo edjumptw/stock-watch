@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:28:37.535070+08:00",
+  "updatedAt": "2026-11-20T02:41:11.070667+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -1190,8 +1190,8 @@
           "date": "2026-11-19T20:18:41+08:00"
         },
         {
-          "title": "昔持有80張台積電！胡瓜長抱2檔股獲利 加碼國巨嘆「住在套房」 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPQ0xRcHkyQVd0Qy1IMnVycGJaemVfZ1B3M0QxSGNNWkR0TDkwYXpSeF9CeURVdmVoak1TT2Y3R3d0VWlwYnR6eDBvQkdvdnhvLWZOdlBlWnRUQU9CcEl6b3Q1eFE2RGZLVHpuYWVXZVlpMTd1WHQ2WHlZUjdTWWgzUWdURlNDZmVoQmFyN25xbVZodFdsZWExRXM3S2g4NTVLdl9qcVZUUzZEMTNJZDZoRkdPRHZ6RDh2bVUxOWI2MjFoYlJwVjZ0YUtCNm9QenlrYkdXcEpCWUJmUXhyMW01RnpwNFo0OHVXQ3JWbVZTZVVWaXVBdHg3djhPeXJZVThMZnFhSkVNNTBHRnZiMzNKSGNJVnZsX1lKTzJscEVBU1JlNW9rWTdRekFCdWl6c1BWMVVydFFfVC1udkMwMmNMUzU3Q2ZHc2hneWJKUWxoczc4Z2dFNzdRdlJxc0VIbmV5QmlWR0JuYnNGTDVTbDdUQmFYTGc1RDNYbFlz?oc=5",
+          "title": "昔持有80張台積電！胡瓜長抱2檔股獲利 加碼國巨嘆「住在套房」 - 東森電視",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RUTFaOW1yYmZzb2IwejFVUDBvcF8zbkZtVmQ0OHYzTlBVajR0S0tHR3ZtZVlPVFZCdnBSaTd5bGlSUXVrUkNzQmNhV3h6WFlXSlNoWg?oc=5",
           "date": "2026-11-19T19:52:00+08:00"
         },
         {
@@ -1200,7 +1200,7 @@
           "date": "2026-11-19T19:24:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T01:26:28.659103+08:00"
+      "updatedAt": "2026-11-20T02:41:00.582565+08:00"
     },
     {
       "symbol": "2308.TW",
@@ -2376,14 +2376,19 @@
       ],
       "news": [
         {
+          "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
+          "date": "2026-11-20T02:20:04+08:00"
+        },
+        {
+          "title": "AI吃電引爆碳排爭議牽動台股 科技與金融巨頭下週齊聚找解方 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XNzg3R0c3cFVsNnljc01lUkd3dHRrd1RlamNvYk82dDYyakk3RGlCV3Q4SExhODd6bWRPc0xySzU4TnBndWZEUW02Sl94aGVGM3Z3dXNsN2FEVFcyTUUyNVBreTFKQdIBa0FVX3lxTE1iaU1JVFFxU2FUNjg3aWZ1UGNzWk1BX0x2aFZtTmNfWWZqeUs3clNuYm82TU4tNW9yMGt0QkdSV25ibl8xVkZlTnhRMjZpWkxTVkptYlF0VkVaeHUyYzVzcV9RbXhTdHpZR3RJ?oc=5",
+          "date": "2026-11-20T01:17:00+08:00"
+        },
+        {
           "title": "美國資料中心建置卡關，台灣AI供應鏈會受影響嗎？廣達、台達電等訂單與獲利關鍵一次看｜股市話題 - 永豐金證券",
           "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQSUlSMGJNM1h4eG5pdFUwR1hhaXdnUU1OMHFmX01fVHd2ME51c1B2TXdUVC1WS1RnOVFkRmdjaDlENnduNzhJei1kTXVvQ2dPcEdsUUdvR3RvTlRfZXVyMDFCSHFXclMwOVZFWWRTNzZheVVvUkdyaE1lNmVHX21OLU9EaV9PNlo0ZmVuYUlhTUItOXlLb1R4Z0I5aEVWOEtEWHFpeDN4SjE3bnNvUmJxSDhjMGdGdThJUXROajFFeDdWOUhWOHU0M0tlQ2tkTEhXXzVTdHBwLXFNck02V2VFSGNPMFBGenhCWjQ4OEJPYVFnNGdXSXVrYUUwTUlQbHRxTHM2TkM2R1V0LXNabUZYSHBDY0s1YnRTeGdKajlOWW1NemRKXzJPaXFqcmpGYk5ZMm9sTUItcmxvc0ZNS3BxcGszTFVLR0FDR1hQSVdITXVyM3ZiX0RvRXNKdEMzV1J6Z2RoNTBiQUdzTHFOY0Z3OVNpNXctbVBadFBRQUlqTEpYUENiNTFiVXlpLXpRQUd6V2pDRFVvZE9YdVloYzNkNGVScXJSN3RrRTZ0RkRsdnZDYjNMX19xYTVaSThkdGZEeU0xa1ViUFBPSl9lYlIyVlZyazlsVm41ekhLdzFtZml0S0VBVlkxeGFlRHFaaUdlTzg1RDkwRTRiNjNGUkprUGRkTVRTaTQ0YlhZNHRRSjhtRnc5b01BNllYM0k5T2ZyYndENlFqczM5Y1B0NlRSRDIxSUpLME5PS3dZMGdwWkVfMnpCWGhSbFFUVDk0VjgteDBQZkZmc1dwT0FTZTlYT0t4OUg?oc=5",
           "date": "2026-11-20T00:34:29+08:00"
-        },
-        {
-          "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
-          "date": "2026-11-19T23:45:47+08:00"
         },
         {
           "title": "台達電鎖定日本高壓直流市場 攜手羅姆半導體簽署協議 - 自由時報",
@@ -2394,14 +2399,9 @@
           "title": "中華電166元守紅，台灣大、台達電在大盤跌1768點下分化-起漲K線 - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQi1RQmtyZHdxOGhnRTIzbUpNQnE0ZUtlNVNIWDlWcG9xYk85MzFET3hmOExNWFM4ZzFYUllMSWtqYXktNmVla3lXUzJoVEhxWTFCemgwVDI4Ukg4cDZ2d0YtVi1HN1RZTW1KZVgtMnhfNTRqeElfM3BORVRaM0hJSExUYWs?oc=5",
           "date": "2026-11-19T18:28:44+08:00"
-        },
-        {
-          "title": "台達電深化電子組裝業布局 斬獲巨輪興業新專案 - 聚財網",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jUGRXaC1XOTZMNzQ1RG9DQnVvRU1ZSjJaNWJKMUdRd1RDQS1WdjB5MG5ZcFpPNy1mOEM0OHMxQWNUaVZZNEpOV3IyeEw?oc=5",
-          "date": "2026-11-19T17:35:21+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T00:35:31.428952+08:00"
+      "updatedAt": "2026-11-20T02:41:01.568481+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -3577,9 +3577,19 @@
       ],
       "news": [
         {
+          "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
+          "date": "2026-11-20T02:20:04+08:00"
+        },
+        {
           "title": "2330 台積電 - 突發：visa master 大摩 遭到駭客攻擊，資料洩漏，... - 股市爆料同學會 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15bEZJd3hXdFlKVElsZ3M3bWxQa0FwOXA3bFd5dVJDNGI0NlVXd2RvU3dxUDFMZGp1dkJFMk5oUU1GNzJVUFFFWFh4UGJpdzlCU2w2S1ZnZXo?oc=5",
           "date": "2026-11-20T00:23:23+08:00"
+        },
+        {
+          "title": "美國收緊晶圓代工管制，台積電停接中國客戶訂單，中國表態將反制 - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaOUpnS1F4NHd4djY2bHVBdVVSQkxlVEJEQk1WdHZYcWFVZkx1WHpmMm1QZ0tNZUdvZ180U0htM05pb1FEU2RSRFlxTXhFMkxCZkYwcWlNVXowS2F5LU83TW1Majk4Szdleng3RjVwTWlMYThvUWRBUEx3?oc=5",
+          "date": "2026-11-19T23:55:00+08:00"
         },
         {
           "title": "美國新規生效，台積電與三星暫停部分中國客戶先進製程訂單 - RFI",
@@ -3590,19 +3600,9 @@
           "title": "胡瓜專操台積電與0050 今天再投千萬買進2330 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GcWtxcEI2OV9KWlV3VlNvd2FsNmpPYk01d09ySnFiZHBvYkNtRTlZdEsyQ29sVUsybmppRDlxdkVmUWs1X1RYNFVGUlZ2VEpvZkFCV3oxMkU?oc=5",
           "date": "2026-11-19T23:34:52+08:00"
-        },
-        {
-          "title": "【即時新聞】大摩最新重申台積電目標價3,088元，看好2027年獲利爆發！ - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2NmT1pFR1JkTG4xUGpDdldPUEVUV2l2WkY3c2JjUl9PeFN4elZldHpVRkNuM1VwbXJON0VKRDAyNElsZlJPZXE1ZEpYT3ZSMzRGcXZWNDFiT0c2ZklvTTFNQmh3OTFqMTdxQ1VRV3FJbmxYRzgxWVpBVnVOWUxDVkZ2T0xQcExkOGRhQlhfQnY?oc=5",
-          "date": "2026-11-19T23:34:36+08:00"
-        },
-        {
-          "title": "FT：台積電和三星電子暫停向陸客戶出貨部分晶片手機品牌也受影響| 全球財經| 全球 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tYVdHQUVXQVdCeU02c0tCSmFrUDhkaVpSTWYyUjNxUUtMWlpzM3FLOTVWWFY0LUNTbmV4U0gyeDlvQXpvY3dGXzllT2ZhUnp0?oc=5",
-          "date": "2026-11-19T23:28:13+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T01:26:29.945749+08:00"
+      "updatedAt": "2026-11-20T02:41:02.223488+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -5979,6 +5979,11 @@
       ],
       "news": [
         {
+          "title": "日月光加速擴充先進封測產能 砸2,489億興建高雄新廠 | 產業熱點 | 產業 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZ24wUmQ5dXdKdXNha2kzVi1YTllXbVpDNVdtTVc3MVVhaHNNTkQxX0tER1Q2NDlfd1RGSmtMYVV5cUhkS3RmSHBicHBlU1dqeExqMGJYZ1ZyUQ?oc=5",
+          "date": "2026-11-20T01:40:48+08:00"
+        },
+        {
           "title": "日月光福雷電子加碼2489億元布局仁武園區 | NOWNEWS今日新聞 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MYjRzZzBueEI2TC12bzlCM1RhU0ZNMTZMV2NXV005eUlMeS13QjM2V0JNeDJqc1BUWG42Zmx2WlRmVkp0YUlRc3VOT0JHd2ZWNFp2UXNn?oc=5",
           "date": "2026-11-19T22:00:17+08:00"
@@ -5997,14 +6002,9 @@
           "title": "輝達數十億美元大單落袋！日月光拿下AI封裝大機會 股價今卻重挫逾5％ - FTNN 新聞網",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51VEEwQWpHOUVQSnJySG9wNW1CZElvcHFjZmpqQ1E1dDlVLUdnd2V0bkVJZERWaU9SVW8taTR3ODZ6YmFDamVuQkVfTQ?oc=5",
           "date": "2026-11-19T12:40:00+08:00"
-        },
-        {
-          "title": "日月光投2,489億進軍仁武J坵塊 AI高階半導體測試基地2029年前分期完工 - 大成報",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sM1R3RmQ2N0g5cThBWmFFS2ZqanBudzBmaHdHWDBVaWZzLXZIV0NSU0R3aVRHbUdzcGFiS05WUHpMM0NFMGVDTXFLeTZSb2JyU3JDTDNza2M1X250VkZiRjVpWHVZb1RDYlo3UW54bDY?oc=5",
-          "date": "2026-11-19T11:13:34+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T00:00:57.866543+08:00"
+      "updatedAt": "2026-11-20T02:41:03.739387+08:00"
     },
     {
       "symbol": "NVDA",
@@ -7707,6 +7707,11 @@
       ],
       "news": [
         {
+          "title": "爆：川普9月大買Nvidia高達26.5萬美元 執行長涉疑慮前的敏感交易引關切 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGkyNFhrR25OdTZ5OVZqQV9zY21WT3VFTGpxblNPOXo0Mi03VlR5MkxtYWJmWlJTYTNCVW5VWXN3SGtua2JfNXc4M0FmWmVueGk0VG5jaDFaMFR4TnF4Q0k5WkVlUVJ3NEZZc0dFQ2VCZ0RvcDEwRnhlN3NWdDZkVFZ6cVd0UFlVei1GdTVR?oc=5",
+          "date": "2026-11-20T01:38:12+08:00"
+        },
+        {
           "title": "NVIDIA重申支持開源AI 黃仁勳留下的布局能否延續？ - DIGITIMES",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MMUltX2lYdlpmVWJXeDljbzhLR2ZWREZSSGtpM21iR1hsdFFieWZCbWNycUJvVGk0dE12b01USUhHUU1WTmdMQ2FRZ2JnbDFpQzlmYjFDNzhnSThtc25BakhTbFJtYVhQNS1J?oc=5",
           "date": "2026-11-20T01:06:03+08:00"
@@ -7725,14 +7730,9 @@
           "title": "Colette Kress接NVIDIA燙手山芋 倚靠的是黃仁勳打下的底氣？ - DIGITIMES",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIN1V4MVlsb1hxSkE4bnBJZW54c0Y3cWdkZS15VEZHbmlhOWM2RS1aOWRFQUNkdVVPU08wX3Jic2hFSFFWclNKb3dhQlZLZ2JBT1Fic0VHMnNXY3NOaUFLQlJYU0xKQWMxZ3gw?oc=5",
           "date": "2026-11-20T00:35:19+08:00"
-        },
-        {
-          "title": "川普說Nvidia Blackwell兩、三年後可能放行輸中 黃仁勳捲桃色風波是悲劇 - 世界新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0MmIwYWdBWXZ3aWFZVUZ6Y2JfcTNNeHgzbzJUdl9kc19FSDVLbmlSUTdaZUN1U0s2RlRWY2RJX3NJSmR1NFV6SEFqVXZTN3kxNEtVaGdTd1UyMDU2UWQ1c29B0gFnQVVfeXFMT2dhTWlaSVJsVHh6Sll4anF0NUN0QjNTTGpUUDdrbG8yNWNyS213V0NKX25VbTBlSjZMekJ4MTl6TlV0Z0p5MGM2M19MUEFZTnBHbUFPbTBLMkJrYUFEU0JIZVhUVzA4TQ?oc=5",
-          "date": "2026-11-20T00:28:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T01:26:31.532281+08:00"
+      "updatedAt": "2026-11-20T02:41:04.512268+08:00"
     },
     {
       "symbol": "TSLA",
