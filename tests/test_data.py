@@ -35,6 +35,24 @@ class MarketTests(unittest.TestCase):
         with patch('update_data.urlopen', return_value=response):
             self.assertEqual(len(news('test')),5)
 
+    def test_news_deduplicates_after_sort_and_backfills(self):
+        articles=[('Same - Media', 'old', 1), (' Same   - Media ', 'new', 9),
+                  ('Same - Other', 'other', 8), ('Different', 'other', 7),
+                  ('', 'empty', 10), ('Unsafe', 'unsafe', 10)]
+        articles += [(f'Extra {i}', f'extra{i}', 6-i) for i in range(5)]
+        items=''.join(f'<item><title>{title}</title><link>{"http" if url=="unsafe" else "https"}://example.com/{url}</link>'
+                      f'<pubDate>Wed, 18 Nov 2026 {hour:02}:00:00 GMT</pubDate></item>'
+                      for title,url,hour in articles)
+        response=Mock()
+        response.__enter__=Mock(return_value=response)
+        response.__exit__=Mock(return_value=False)
+        response.read.return_value=f'<rss><channel>{items}</channel></rss>'.encode()
+        with patch('update_data.urlopen', return_value=response):
+            rows=news('test')
+        self.assertEqual([r['title'] for r in rows],
+                         ['Same - Media', 'Same - Other', 'Extra 0', 'Extra 1', 'Extra 2'])
+        self.assertEqual(rows[0]['url'], 'https://example.com/new')
+
     def test_published_data(self):
         data=json.loads((ROOT/'data/index.json').read_text())
         expected=json.loads((ROOT/'stocks.json').read_text())

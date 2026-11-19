@@ -64,7 +64,16 @@ jobs:
         run: |
           mkdir -p public
           cp index.html style.css app.js trading-core.js trading.js public/
-          cp -r data vendor public/
+          cp -r vendor public/
+          mkdir -p public/data
+          python - <<'PYDATA'
+          import json, shutil
+          from pathlib import Path
+          shutil.copy('data/index.json', 'public/data/index.json')
+          for stock in json.loads(Path('data/index.json').read_text())['stocks']:
+              name = stock['symbol'] + '.json'
+              shutil.copy(Path('data') / name, Path('public/data') / name)
+          PYDATA
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

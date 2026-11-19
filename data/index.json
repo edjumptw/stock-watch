@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:40:35.757886+08:00",
+  "updatedAt": "2026-11-19T11:43:10.391371+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -1209,7 +1209,7 @@
           "date": "2026-11-19T10:46:44+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:40:26.379565+08:00"
+      "updatedAt": "2026-11-19T11:43:02.853614+08:00"
     },
     {
       "symbol": "2308.TW",
@@ -2419,7 +2419,7 @@
           "date": "2026-11-19T11:22:30+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:40:27.079787+08:00"
+      "updatedAt": "2026-11-19T11:43:03.597793+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -3604,19 +3604,9 @@
       ],
       "news": [
         {
-          "title": "台積電強敵來了？陳立武證實英特爾18A晶片 首度拿下外部訂單 - 聚財網",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45anpyM3lEMHB5aVo0bjFaOWNWd3NpMlU1dFBoenhfUEdoYkVpTUxCRDVoUmZGM0t2QllKN3o4SGZUOHBqN3ZRMGVKMHQ?oc=5",
-          "date": "2026-11-19T11:25:18+08:00"
-        },
-        {
           "title": "台股盤中震盪逾2000點失守3萬9 台積電挫90元 大立光跌停 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPV3YwOEUzNVhaLWZBUW91YTN1QXdtMHJhWXpTbDRQRF9wU2t1UVpoYVhoWmp6MFdtaHQ5cVdtdWg3S3dwTll1LUJnTDVuUEpnbXp6Q2dGMUZ1ZEszYzN4a1A2ZlNkYXVHeW5fbXdrX0YxUnNLMVNoQmlmeTd0Ml83MFFkSUswel92dEJOV0xhcE9mdm95NkwzdmtOclZtV0Fkejc3d2xUWl9hNm56OWdNYlhSMXpmRTlacGxPeVBKN25zcVQ4Mzl0dG1JSGM5ejF5OFEzYkVBNldvRVFLUFRTVDk4QWY1QTk1M1JjSU1KWUphbi1zWGFNdHJwa0NEd1lEbFdTZHhDcHFnYmRELVVBcHRNZlhCWGdRT0dRTkZpTVRqNHg2TGRlUXMwcnBMQ3JjUjFkcXhmdGtaTjhpeHlQRGxidlNIY1d4TFYwQmZsRE9GOEh5STVDeGRJLVg?oc=5",
           "date": "2026-11-19T11:22:30+08:00"
-        },
-        {
-          "title": "台股盤中震盪逾1600點失守3萬9 台積電挫90元 大立光跌停 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQOGwzbWZUWlZCYXItWWJEUTQ4QXhiYXlHS1RMVTUzUFg1M3N2aXJwOHZ0Y3dkSlVBdUR5cTQ4TFBqUUlRcDhqcmc3MUdQSDAwbmZKdEdHV2NuMFlTdVRnYzB6RHhyNDNtbk1MbmlqV3J3UW1vVmpYenFDOV81S3FTdHNaU2c0azVGQ25oWGY1Ukx6akxiVExNMWZXTFAxTVNRZkxNVkxwaGt2TmY4YUFOZTZZOGpreTZ2bjlOcGdHbXE3dzFVSmdPU3EzbFA0d0U3RTF2NlE2NFJZT2IxNVMzRmdMVkY5UG5xWkViS011dnNmWEdJNldkTmMtNVZoRWk3RTRNYWdXSFAxdGhpakswNDFUbkYzVUZSMi0wMURTanJobnFSOF9kWjBKbWhqSUI5ZzQ5MktDWEl4WGVDMEtOaUhmN1kyUFp4RWg0TG1WWGUyQ2xUcVh0V3dBamY?oc=5",
-          "date": "2026-11-19T11:21:34+08:00"
         },
         {
           "title": "輝達大簽長約擴產 台積電、矽品等台廠供應鏈受惠 - 商傳媒",
@@ -3627,9 +3617,19 @@
           "title": "台積電強敵來了？陳立武證實英特爾18A晶片 首度拿下外部訂單 - 自由財經",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSXVPbHNneWkxWk9lRUZTczNXWG9aVmt6LTdWUWZQb1VrZnBBVXJjNjFIRnNkMGFMSWJXNFFKcGtYTUMtQnhNcGhCc2Yzblh1TThpZFo2eXdIcmJfN2Zz0gFkQVVfeXFMTkNMRU9PQWlkMzFYX1ZhWkNhbEJ2VjdHdTg2cjBpYzhHQVR0aWtYZ2xTMHliS2ppWmpRZmlIRGYxRjc2bzVfd0RrYm1laFJ4U3hOb2FhTlJreU50TlRVVHB1OXZzaA?oc=5",
           "date": "2026-11-19T11:16:36+08:00"
+        },
+        {
+          "title": "2330 台積電 - 估計糖漿下週才會出手- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2REZHTGxvS1M0U1B6VkxhTnlsQUVhZ1g3aTdIZGhYSVQwZkFDWWdQcTNVY3JPdHpsMTZFWDBjQW9EVEM0T3BzTmw4cTViVmdwczB2aEVjaFg?oc=5",
+          "date": "2026-11-19T11:10:59+08:00"
+        },
+        {
+          "title": "【即時新聞】安謀(ARM)獲台積電(TSM)產能支援迎業績大爆發，最新 5 檔潛力股評等出爐！ - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUkVxd0x6aGEwcjNwWElrOU85bjAtOThLNk9raTl2aW9ZUEJHLV83OEl4NXplRFI3QjI2U1ctVjRKUmFzclp0c3kyek56eDk2V3pDRkIwMThxTVoxal9uOFVhV3Y3LTUtQ3VnTEJJa1NxS0dmUTdOd0dKeFBjTm1yTEt0dU90eTREVC05ZXlsN18?oc=5",
+          "date": "2026-11-19T10:53:27+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:40:27.595441+08:00"
+      "updatedAt": "2026-11-19T11:43:04.248045+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -4839,7 +4839,7 @@
           "date": "2026-11-16T20:30:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:40:28.114516+08:00"
+      "updatedAt": "2026-11-19T11:43:04.942414+08:00"
     },
     {
       "symbol": "3711.TW",
@@ -6049,7 +6049,7 @@
           "date": "2026-11-19T05:30:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:40:28.632581+08:00"
+      "updatedAt": "2026-11-19T11:43:05.484625+08:00"
     },
     {
       "symbol": "NVDA",
@@ -7780,17 +7780,17 @@
           "date": "2026-11-19T10:54:00+08:00"
         },
         {
-          "title": "美國會示警解放軍積極取得NVIDIA先進晶片 加強封堵第三國轉運漏洞 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2xOTl9mME5JM2gwdHJmd3VUdlBCeG9VTmZZWW9sR19sTUdvVXhad0tNaFJpTTZfZWk3eFpjUENSYVZzOXVKcU5hWm5oM0ZyaVZ6anktMnJaVHVKblFyc2tjWlJuWGVod2RxQ0dnbE10aHR6S3BmcFFUS1JoR3cwNlJDbDFrZnBJcEpfN2hiM0czX0VHS1c0?oc=5",
-          "date": "2026-11-19T10:54:00+08:00"
-        },
-        {
           "title": "勒索組織喊已入侵輝達，Nvidia 說自家系統沒事| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWpUSGZNV0tHcVllOXktb3hiVkNXaTM5NHBIaG45X1A4Z1ZObjlqcEdMb0VoSTludjg3ZlpDUVd0TmdiR2s3MFY3bHhLQ3BSdmVld0hHZEMzVmtDZks2dThfUmk4dU5QYU9YYmptREY2U2MzSFlNZVZ4MFZWRVNZbGpjcThTOGNwTmtJSHVLRXlyazRiaVQ1RXdhVGxYcHg2cUN3UzdDdHNuUTR4?oc=5",
           "date": "2026-11-19T10:25:28+08:00"
+        },
+        {
+          "title": "後黃仁勳時代的輝達：標誌性「T5T」電郵文化不滅，續寫極致協作 - TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjZCZmlISUxTZjlheGpXc3Z1aGRrdU0wVElzVXlhblVZeS1TeHBBcGk1UW95M0J1SUZ3bVYtV3p1UzRMYnFveGtmNGNRM284aDdxVEI5S3Zoa2xXLS1XcTN6RHE3X3FTYTh4Z2QwMWR4RC1laTl6YzZQWGNiVHcxMnByb2RDNEJKRXZz?oc=5",
+          "date": "2026-11-19T10:00:43+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:40:29.040307+08:00"
+      "updatedAt": "2026-11-19T11:43:05.883108+08:00"
     },
     {
       "symbol": "TSLA",
@@ -9535,7 +9535,7 @@
           "date": "2026-11-19T07:30:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-19T11:40:32.577009+08:00"
+      "updatedAt": "2026-11-19T11:43:07.996267+08:00"
     }
   ]
 }

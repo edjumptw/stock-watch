@@ -36,10 +36,20 @@ def news(query):
     rows = []
     for item in root.findall('./channel/item'):
         date = parsedate_to_datetime(item.findtext('pubDate')).astimezone(TZ)
-        link = item.findtext('link')
-        if not link.startswith('https://'): continue
-        rows.append({'title':item.findtext('title'), 'url':link, 'date':date.isoformat()})
-    return sorted(rows, key=lambda x:x['date'], reverse=True)[:5]
+        link = item.findtext('link') or ''
+        title = ' '.join((item.findtext('title') or '').split())
+        if not title or not link.startswith('https://'): continue
+        rows.append({'title':title, 'url':link, 'date':date.isoformat()})
+    unique, titles, urls = [], set(), set()
+    for row in sorted(rows, key=lambda x:x['date'], reverse=True):
+        if row['title'] in titles or row['url'] in urls:
+            continue
+        unique.append(row)
+        titles.add(row['title'])
+        urls.add(row['url'])
+        if len(unique) == 5:
+            break
+    return unique
 
 def fetch_text(url):
     headers = {'User-Agent': 'Mozilla/5.0', 'Accept': 'application/json,text/csv,*/*',
