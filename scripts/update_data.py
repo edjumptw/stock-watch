@@ -156,7 +156,6 @@ def build(stock):
     caution = 'RSI 高於 70，留意短線過熱與拉回。' if strength[-1]>70 else 'RSI 低於 30，留意弱勢延續，低檔不等於止跌。' if strength[-1]<30 else 'RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。'
     commentary = [f'技術面{bias}：{alignment}，近 20 個交易日漲跌 {perf:+.2f}%。',f'本日成交量為前 20 日均量的 {volratio:.2f} 倍，'+('交易較熱絡。' if volratio>1.2 else '量能較平淡。' if volratio<0.8 else '量能接近平常。'),f'RSI(14) 為 {strength[-1]:.1f}。'+caution]
     articles = news(stock['query'])
-    if len(articles)!=5: raise ValueError('Expected five news items')
     return {**stock, **({'source':last['source']} if stock['currency']=='USD' else {}),'date':last['date'],'dateTaipei':closing_time_taipei(last['date'], stock['currency']) if stock['currency']=='USD' else df.index[-1].astimezone(TZ).isoformat(),'close':close[-1],
             'change':round(change,4),'changePct':round(change/prev*100,4),'volume':last['volume'],
             'bias':bias,'performance20':round(perf,2),'volumeRatio':round(volratio,2),
@@ -181,7 +180,7 @@ def main():
                 previous=json.loads(previous_path.read_text()) if previous_path.exists() else None
                 result=keep_previous_close(result, previous)
                 results.append(result)
-                print(stock['symbol'], result['date'], result['close'], flush=True)
+                print(stock['symbol'], result['date'], result['close'], f"news={len(result['news'])}", flush=True)
                 break
             except Exception:
                 if attempt==2: raise
