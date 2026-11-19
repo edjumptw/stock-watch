@@ -3,17 +3,17 @@
   "name": "光寶科",
   "query": "光寶科",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 207.0,
-  "change": -6.0,
-  "changePct": -2.8169,
-  "volume": 16649609,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 208.0,
+  "change": 1.0,
+  "changePct": 0.4831,
+  "volume": 15719366,
   "bias": "偏弱",
-  "performance20": -21.59,
-  "volumeRatio": 1.13,
+  "performance20": -20.61,
+  "volumeRatio": 1.06,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,7 +28,7 @@
     ],
     "resistance": [
       {
-        "price": 235.975,
+        "price": 233.275,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.1251
+    "volumeRatio": 1.0562
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -21.59%。",
-    "本日成交量為前 20 日均量的 1.13 倍，量能接近平常。",
-    "RSI(14) 為 35.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -20.61%。",
+    "本日成交量為前 20 日均量的 1.06 倍，量能接近平常。",
+    "RSI(14) 為 35.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,13 +1168,27 @@
       "ma5": 223.7,
       "ma20": 235.975,
       "ma60": 270.5083
+    },
+    {
+      "date": "2026-11-18",
+      "close": 208.0,
+      "volume": 15719366,
+      "rsi": 35.54,
+      "ma5": 217.5,
+      "ma20": 233.275,
+      "ma60": 269.525
     }
   ],
   "news": [
     {
+      "title": "外資撤出狂倒貨 電源神山台達電千元保衛戰開打 光寶科又失守200元大關 - 鏡報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Qmo2UTh1QUIya0dxYVFPY0VfQ0xscGg2WFJlUVAyZGhvME9fMDV5bzU2ZWRpMGppWFJhb0ZJckdWWnlrTFlhem1RdXNSbEl1VWc?oc=5",
+      "date": "2026-11-19T11:01:00+08:00"
+    },
+    {
       "title": "《投信賣超7-3》科技創(1350)、光寶科(1233)、華邦電(1160) - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEM3eHNoaFVRSU5TQ281NWxZMl9sWjZSMU4yUjBIMnZubDdqLW1FazNGNnpHajVqNWRENFlFVGdnMVRKa0w2QmJJUE5RNlVBUlJia3E4MTRzY2ZoMVNVWFdLcVFoRzRFV1pCM3JIcjZBelpVOGc5Y0JnZ3h0RnZVTUg0V1M4S1pR?oc=5",
-      "date": "2026-11-18T16:06:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEp3d3R3QzQxVnE3RkxZVnBKNEc4YmEzVlotWWJscl9HV25EOUl5Q1JyR2FZWWZSOFI1bmhadW40WkRhTFl2cTRhMEpRLUY2Uk5hUUNvTFdrOGx1M0drU0d0elBqdWlRbU1veXdGdGNmc1owVXAwY1lkYWRsTV8xSF82STV0V1da?oc=5",
+      "date": "2026-11-19T07:35:00+08:00"
     },
     {
       "title": "《電週邊》光寶科搶進歐洲AI儲能商機 2027年起開花結果 - 富聯網",
@@ -1190,12 +1204,7 @@
       "title": "光寶科秀AI電力技術 布局800VDC與Edge AI - 工商時報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmRWZkZVhENDNoLWRYeXdqLUZHWVloVDhnMmVSNmV6WGtNbjNaUm44MTVPeWFHYi1jYjZ4Nk81c2dwZ2hOdXNvR2tFUkI4cXI3Tld3d3NySnZJWlh2WHBr?oc=5",
       "date": "2026-11-16T20:30:00+08:00"
-    },
-    {
-      "title": "2301 光寶科- 【00403A】11/16 操作日報｜淨值重挫，經理人急轉金融防禦- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lNWtRZlZZdnU0bHFuZElHR2VhTGJRZXQ2QVZzUVQ1bjkyZDVFbG1wckZhd2NzVG13NVlEQkdiQnFOYUI1X3RZMlp0cmVKS2pOZUdJVXJfX0c?oc=5",
-      "date": "2026-11-16T19:01:38+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T04:39:58.760670+08:00"
+  "updatedAt": "2026-11-19T11:17:33.176340+08:00"
 }

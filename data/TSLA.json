@@ -4,17 +4,17 @@
   "query": "Tesla",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-18T05:00:00+08:00",
-  "close": 380.1099853515625,
-  "change": 0.37,
-  "changePct": 0.0974,
-  "volume": 22286700,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-19T05:00:00+08:00",
+  "close": 383.7200012207031,
+  "change": 3.61,
+  "changePct": 0.9497,
+  "volume": 26741000,
   "bias": "中性",
-  "performance20": 1.71,
-  "volumeRatio": 0.57,
+  "performance20": -0.71,
+  "volumeRatio": 0.69,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -23,7 +23,7 @@
     ],
     "support": [
       {
-        "price": 372.5655,
+        "price": 373.1233,
         "source": "MA60（近 60 日收盤均價）"
       },
       {
@@ -33,7 +33,7 @@
     ],
     "resistance": [
       {
-        "price": 386.2645,
+        "price": 386.127,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -41,12 +41,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.5714
+    "volumeRatio": 0.6944
   },
   "commentary": [
-    "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 +1.71%。",
-    "本日成交量為前 20 日均量的 0.57 倍，量能較平淡。",
-    "RSI(14) 為 49.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 -0.71%。",
+    "本日成交量為前 20 日均量的 0.69 倍，量能較平淡。",
+    "RSI(14) 為 51.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1699,34 +1699,47 @@
       "ma5": 387.672,
       "ma20": 386.2645,
       "ma60": 372.5655
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 385.24,
+      "high": 389.27,
+      "low": 378.36,
+      "date": "2026-11-18",
+      "close": 383.72,
+      "volume": 26741000,
+      "rsi": 51.09,
+      "ma5": 386.248,
+      "ma20": 386.127,
+      "ma60": 373.1233
     }
   ],
   "news": [
     {
-      "title": "賓士率眾圍剿Tesla訂閱戰場 同捲NVIDIA國安疑雲 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jWm51N3ExV0tkdmdvZVgzTUwyaTJ1bmdJYXlBNGdxclBISHF2LWhaUmNpUXNaYTloazRlWEt6UF9EOVVQX0RJY3VSUW4?oc=5",
-      "date": "2026-11-19T04:16:00+08:00"
+      "title": "三星美國雙廠分工 奧斯汀特殊製程搶攻SpaceX、泰勒先進製程鎖定Tesla - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3VBUlUzY1RtX2NQRmJUelB0RURveUYtd3duSkVBM191X09iWlZfTWxhd21YczVRUjFfbWxiU0J3RnFLVnZIUmpzTGpwalBXcnczRWVYOWdRa1g0UU04OGp2VVNrcWROdFhUSkFzUU9NSWNpV0NRbUVNXzdDWHFsTEdOSFJqMF9iWks1SnBFS2JqQmtZcFBB?oc=5",
+      "date": "2026-11-19T10:59:00+08:00"
     },
     {
-      "title": "特斯拉從儲能跨向供電Powercore瞄準AI資料中心 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MkV2aEowMmJXSnVTM0dSZE1rR3RDWHRWSjFPY2RDV2xiemdEakZ4SUczTUczY1pJcWJMT1RkUmt2aDlYVVp2MGxuOTdwbmM?oc=5",
-      "date": "2026-11-19T01:01:30+08:00"
+      "title": "Elon Musk：特斯拉計畫製造沒有方向盤的自動駕駛 Model Y - Business Insider Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ySHFSQXpVUVJSbmtPZF9pX0kyaml2dHh1RUlRMldVSXBXdGJibU1WejFsQkRSZl9EaWdDcEw4X3dweUwxT21jNlZld1Jka0dpVXhINWJ3?oc=5",
+      "date": "2026-11-19T10:29:00+08:00"
     },
     {
-      "title": "$特斯拉 (TSLA.US)$ - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41OU1ESDVXN0FLTGdKSm5KNnF4OGotRlp0TWVVcjNZYWlVT1ZCMERXdGh4Vmo5VHJnSkNyTGJVZlRmemt5dVdFRGMxT1FFVjNURTdhWktPM1QtWTBNb2UyMEdFeEN0U2ptaFFtT19SaWQ4UW5lRXlueXJwQVQ?oc=5",
-      "date": "2026-11-18T20:56:26+08:00"
+      "title": "Tesla Cybertruck明年夏季末停產？Unplugged Performance求收編！並將擴增其車型範圍 - CARLINK鏈車網",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xb2J3NzB1TzlYNWdaZHNuaVFFZndwdnZpSC1lMVRwSHZvRUZ0SUJIS2hYZ3NqUUJfbnpTWFd0c3pETjI2V0VDWE5GRGt6SG5Wc0pBbzY4ck1SQ183cVE?oc=5",
+      "date": "2026-11-19T09:37:07+08:00"
     },
     {
-      "title": "特斯拉（TSLA）週三盤前機構資金流向：盤前股價上漲1.0% - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDlzbERtWG0wellCcmkzVDNpQVFQeTJNQlFvcTMzRnVmdWNKaGtIdk82RUl5Q2M4VXE2MUJKMTYzUWRudzVPOWNNME9jeFFYMXJOUjRESjBTOEVCbXpFNGVfNkZ1aDk5dHNQNUZ4a2poZXJuc203VW9TRjZxOFFhSkNYNE1wM0Q0RVB5MzFJNXFZbC1CMVdLN3dYV1liZFJJSXVKN0tsZC1OSGxxVFY3Y2tja25ZWnA4X1ZGV01ycEpMUQ?oc=5",
-      "date": "2026-11-18T20:14:44+08:00"
+      "title": "特斯拉CEO埃隆·馬斯克：特斯拉(TSLA.O)將生產無方向盤的自動駕駛款Model Y。 - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUc1ZmlRdUw3LVF6b2RZZVdnVVZjeWtURjU0eHJyVUdkWmp3VS1wZEJaT2t0R2NQaUVLSzdUYTJ1RTBkY1dEMXJ0NmpOMm9zVzQ4eUZHMVJsUHpJY3VuRWhCcm1LTjB1YkVuNmZFT0FrNFIza21NYjN1Q0NrQUNUcUVZSFVVTEZlbnJmcDRZYXdMNUtud1FtSUFnQ2d3MXBX?oc=5",
+      "date": "2026-11-19T07:44:57+08:00"
     },
     {
-      "title": "特斯拉（TSLA）技術面：支撐位375美元，阻力位386美元 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVpISEZiUlM5bExsWWhlZGlCZjdVQ1Y2REFlZjFJUTVVZXlnZ3FtakhPby1vOVpBQU9KMm5nQmpsdEtOeWFESld0OXk2RkRxcWN3Z0NXWWdRUUliUF9neVFsaDB3ZE9fYk1PWlBicy03V2RfYkU1cG12QXBjMG9iQTVMejlvVUJCNEp4VFd1d25vM0FoYnBDb1puQjQ3ejVZTlpQLXJOdjFadUFadEFTd3RiYw?oc=5",
-      "date": "2026-11-18T17:13:48+08:00"
+      "title": "2026 電動車續航、能耗排行榜出爐！賓士CLA、Tesla Model 3 誰跑得遠又省電？｜電動車大洗牌：下一台怎麼選？ - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOUTltZld2UEFmdWtzYWk2WFZQZjJfVXcxeWs5ZDRNYnNweGo4UVozVjhWeWFpV0xuVW5rdGtTUzVWc3l1RVBoZXBuNXZfQVVhZnozdGhPeWE4empxdUU4Y3I0V000amJUNzBrUU8yYjJwVnRMSS14MXBuZ1VwR3N4N0xvNlVrazltNWdOZExMVjhobDZfdmlhM29aNTA0YzZUel9uLVZrMXRWT3N1a2hlZW9kUnRIYVBmMnlrWF8zMU9RLS01dEFRc0VGS1BtR0piMXpiQzROT2hCeFVJUDBxOExGTmFsNmRXWnFIanE1VmkyNVA5My1UMXdUQmxwWC01QUE4a3A4c0pfN0p0Z0FUVzNzRC1jeGhTVmxUOXdmWjZBdkJTTmoyMlZpYXJHQUpkZkUtQUpGRVp6TlVMbkFtcTZKZmFJR0ZYdmktMExFYktfVDh2NWY3RVN1MklOVko1c3NYbVF6SjhiMlhzNUlQOENzQWN4RHlNcV9oZXFCMmw4VWluSU9JemVIVkhIRzJ2bUEtU1RkcC1GT2QwLTh0M21iZ2tPYmROUFR6WTJ2N1U3c3hrdkp2R1F3ZktRVVhsbENjX044dnRLVmVON2ZUVDZxcFd1SlpXVUhaWGYzWnhPTi1yUVJNdkluX2pWVk5SUVJlZ3dMYUc0NnlVb1hjUjZlTFZCeTJsMmNoRF9Tbl9keFkxdXR4SWFmUUVHbnhKaGNRVDgxQlFFUTBmTmduTG5EaWZxU2JpcWNxdUlOVXFyOVRsbVpRUExZbXp5TEtfMWM4?oc=5",
+      "date": "2026-11-19T07:30:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T04:40:04.180110+08:00"
+  "updatedAt": "2026-11-19T11:17:36.864783+08:00"
 }

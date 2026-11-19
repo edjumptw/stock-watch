@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 361.0,
-  "change": -13.0,
-  "changePct": -3.4759,
-  "volume": 56205998,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 352.0,
+  "change": -9.0,
+  "changePct": -2.4931,
+  "volume": 55766251,
   "bias": "偏弱",
-  "performance20": -32.4,
-  "volumeRatio": 1.49,
+  "performance20": -32.7,
+  "volumeRatio": 1.46,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 361.0,
+        "price": 352.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 361.0,
+        "price": 352.0,
         "source": "近 20 日最低收盤價"
       },
       {
-        "price": 458.8,
+        "price": 450.25,
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.4922
+    "volumeRatio": 1.4582
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.40%。",
-    "本日成交量為前 20 日均量的 1.49 倍，交易較熱絡。",
-    "RSI(14) 為 29.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -32.70%。",
+    "本日成交量為前 20 日均量的 1.46 倍，交易較熱絡。",
+    "RSI(14) 為 28.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -174,7 +174,7 @@
       "date": "2026-06-08",
       "close": 751.0,
       "volume": 23963998,
-      "rsi": 68.36,
+      "rsi": 68.37,
       "ma5": 785.8,
       "ma20": 636.4,
       "ma60": 409.4833
@@ -1168,34 +1168,43 @@
       "ma5": 395.5,
       "ma20": 458.8,
       "ma60": 533.5
+    },
+    {
+      "date": "2026-11-18",
+      "close": 352.0,
+      "volume": 55766251,
+      "rsi": 28.14,
+      "ma5": 381.0,
+      "ma20": 450.25,
+      "ma60": 530.0
     }
   ],
   "news": [
     {
-      "title": "「被動元件兩強」、聯發科及宇瞻被放生！00982T成分股28檔大風吹 瑞昱+電子五哥「這檔」入陣 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOUVJyVXUxMklIenJaSjl3Z2M4VHVmbXR1cHdheDZ5U21sQU1BUHlGQy1uUmJObkxUazN6cDFaTmlQZldwU2hyTktXckhrX3J6UkdMREVBSDV0TFZKTG5hVTVfOENqMEwxZFZVSnhwdWprSVE2Rkdlc0dkbXhPbFpyZ05iTld1b3FKbzhsM3VFdHZaYVF2LTdHdGowbFJneVM3OGJwMVdMYmh2OWVLb2RFZVQwYnMzRGZyWEN4OU5ERjBkV2p3cGIzV2pzYlJHNlJBbHgtS29zZGl0WlFGd3VvcTJWUkVkZ1VxQlZnLVZRc05oYnItc3ZKandRZ3pQOGJhaTR3UE1PLXFXaTk2NUt2WjFnZnBib0R6S0MwTDNuMDJzT2dRMGJHWmFPcl85eGlkSXNnTXZmNGtlS2F0UHJpQTN6UGdTYnM2WmVySjRuZXI4WmpSdjRTWjkzTlpyVmJuN1EwVkR0SlRhamRoTl9fS0syYU5vMnNKcEY0YTF3UnVnTGRVa3ZuZ3k0RmVsRF9tOVFSelA3LUVTQXNmMzBpV3dRcGVCQkIxb1Q1U0ZicS0wa3daZkw1Z1lEOA?oc=5",
-      "date": "2026-11-18T19:15:00+08:00"
+      "title": "才爆9453萬違約交割！創意摜跌停「高掛近千張賣單逃不出」 千金股19檔亮綠燈、3檔慘摔出排行 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPYWVvclFQcVluWDdpZm91UkYyVkdaV3NLcFlNSFg0b0RtcmRUb1BuOUs3VExkeEJxcUhLb0NBa2ltNmQ3MW4yOGVxSFpxZ3dWdHZnaXVwaG5ZTXp6ZTYydi13WXRiUEVOZzNiYloyRHlhQzhocnhmbGtFc0I3Z0xHaGRDV0c1SXFtN3pFUG1ibzZPd2piR01uaVMzMU9QTFliRDUxblVHZ2xvQVFWZXA3UGpIandWaW9yaXctMlJEc3RUQzQzN3dRd2VkMUFoN092cUd6QXp3b3Y1SDNyd0tQeGhnbU42R2p4U0lKYjlSdVhvOVMzQnpjOEFaN0d4cndQVG1OWktIeHVmeTJBSHRrQkRCTnpoX3JMTmlMcTdic0NVQTNCYXhxYU91VnJjamZneU10dV9HZDJlQ0ExRlFlbWp0eVp3d3N1U1l3MmpkV3c2ZlVQdlRTRGVYWW9kaTZ1RlQ5YWszbTUyU0JuUEZUZmVPVFFGOXhrR1Uxa1A1VGVBc3hQZE9vYmFxb0dzRHBjdXRLalEtUXJEYzY5QjBNdVE2UEpJMl9BU01XaGc5N1FFQm9YdzF5TDVndE43cHdVOGw1UHpDVTVVSjdiN1NhZlBCRU0zanNZVjlFUlJIOG1NUjUxUHNNTjNiNkRMc21pQkQ0NzBNNEVCZWt0SXJxOXZUbnBRdWRsN3VOajRn?oc=5",
+      "date": "2026-11-19T11:11:15+08:00"
     },
     {
-      "title": "11/18 強棒旺旺來交易回顧｜國巨(2327)表現弱勢 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Jc01mbXVWcE1ZYlg5QkE4dExyb1huQ0NMclQ3VkVyaWdWaS13bWxTQXp0cEE2Q0ZlNDJkVTBTMnhxZzlXaFctVDdnM3FySTRxTDdfRWk5UVI0cy1GdC01UUtXbU80cEk?oc=5",
-      "date": "2026-11-18T18:46:02+08:00"
+      "title": "【熊市衝擊新股抽籤3】第三季上市新股6成都破發 漢測最慘一張賠37萬元 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQX0ZHdEpaQjgzcFk5ZlRseXE4YUExclRUZEdBME0zcE1pdm82bU1FMXpqQzVPOWJtNy1HSFRRVVc0clpoS3lsTUpJMnpyMjVwZ2JLNG9nRmNBdzJTTnVCQnUxOUJNWGk0LXVvam1PNlZBZ3Vud3NUcjNObHhUOFpjV08wbUxVQ2pXa3Y4VEFvU1ZWV1ZXZU00LXB1dWJvd095TFdQbHYyLVZjTHY4eVEzSUhrUkhzTVdVNWJ6Zzg3MVpKT1g1ZUdvMUk0dTk1VHp4RGNqenJKQU9TMy1sTmRwaE01MlJqNHFqY2NLa1N2SXFha0RJYlQyLXJvcUgxck4tUERONWNpVGE0SzlpNEdiMFd3WkJOam5TUWdjVEF0MFZpZkxSd0haM2IwY2gxXzMwR1V3aEdxUjZBYjlYWEtmOVllekpuY1VhNnc2LUlzU3I2cU9KWVpJb210TFR1OTdyUW9kTUxBNTdWaEZobnZ4a2Fqc05EcF9HWVRTNmJMOHRMWWRUWVhfYmsxWUVfTHdIUXF6djNoZ2ZGNjFjdkFYb2ppSmptMjZ4am96bS1xRDRrcm5uc1lBeV8za0JWbXZoUDVMdmYtLTdpQQ?oc=5",
+      "date": "2026-11-19T11:03:30+08:00"
     },
     {
-      "title": "11/18 強棒旺旺來交易回顧｜國巨(2327)表現弱勢-林恩如 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UmxTYVRRUkd6eUh3Q0RhS1o3MzlkSmkxSXBnTkg2WmRrR1U5aHMzaGZiN0NLSGVadjVjUm5ZWERlWFBrV0ZLOWk4aE1qVEloMmhGc1RkbjhKZnItZC1FUE1SWGs1M0F5akE4VXZmb0dfQjM4SmlObXBsMWNWN0U?oc=5",
-      "date": "2026-11-18T18:46:01+08:00"
+      "title": "台股震盪別急著抄底！過來人揭2000年股災慘況：反彈4、5次全是假象 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQeVZEa3BmSXI1cVRpX3UxZ3VPZm5EV0ZRb25rd1g3LUM2RVE3bm1NUWVPSnYyVUoxTWx0VVRhekdOMTFrdFRrdDRURUpvc2RoVV90QXNPNGl5Z05yUTlpbW9yaTh3VzhJeHV0UjhxSWNrY3ZfemNJekgzQ2o3NUt3Vm9TdEdiRTNBcE0yVzc0WlB5dnZsM1dsc2FESHhkUHJjbkVlSlJHRGM2UXE5SFZJRUMwTm51ZFk2YmdRWHdfcUlpWWhlNnpiZUwzbXl2TldJcmNkdHJBRXp4OGg1NkpuWEFRaWEtaW9QejBEV2VXenJIS3lkbjRRcTZ4QmQ4ZnJoMXFTM1lLaVZtMkxFWFZ2VDV0aE5XX0Jwd3otSEZqN0U5dElQSkIzeWpIV01adGMzUUtOWjFBVXFHUlFOQnNHeXJkWnN4akgwblprUUtMRnJJSDRpdkJ5Qy1VUGpMUERfeWtGV3ZDa2lCbTA1a1dLVmNwSEkxM3RQdGt4T25sTjN1NDRaUzRYYXBKYjVfQi1zSlBZ?oc=5",
+      "date": "2026-11-19T10:48:28+08:00"
     },
     {
-      "title": "【最新消息】台股回到4萬點，國巨仍較高點低7成！超跌績優成長股觀察名單-起漲K線 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXhfSk5fNE9YNER3QTRnOXdfUzBWLTFvaGZwWHZISmpwWllhRmpvMDJUd1pyTHpLODl1RzN1bnlKVHpaME5Nd2pOQnV1RXd3N0pjb25nYjRKWm5sMGdzTFZqTmFrVk84dkxsSXRUY2N6ZE5FNGlfdUhEZzA2eWY5b3JKa04?oc=5",
-      "date": "2026-11-18T18:09:02+08:00"
+      "title": "國巨*（2327）破底陳嘉偉被罵！郭哲榮、環球晶被點名：是要打電話給他 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hNWx4bjM4dlBUcHJJN3ZwYWgzSWd0M2sxaHN3VnI4ZWRtYU90QjVlb0FLSF9keW5YSEpoOUdEcmR1RnZDRlNNcktWdGtiQ2JIZ2hWLVZSdlo4OFF2SlhRejBLWG5nekRLbF8yLVlWeVl2U1nSAVdBVV95cUxOUUdfcFZQWUZNSHBuTTJuZnVXdWJjVW9HY0pPdllvYmkwbDM0OTBRQWU2ZklsRUNsTk5CRHliemFxVUlTZ0c3NlJtRHNfNzZzYzh5aFJzQWM?oc=5",
+      "date": "2026-11-19T10:46:44+08:00"
     },
     {
-      "title": "【00400A】11/18 操作日報｜大舉加碼台積電，清倉國巨與台燿 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RMndkNklSQktjeEFJaEx4MHlHZWo4eWd6dFgxc2lkWE5fOFE5UzNKamdQTEc1VDFJQ3R4ckI1ZHlLY2RLLTJYMzlqd2cwYWNIYVVzcDlHQ3NJR3VFT2xaZ0ZFUzlHdkJuV3FnRkkwVjFfUFpCNlBySE1SNnA4QQ?oc=5",
-      "date": "2026-11-18T17:53:37+08:00"
+      "title": "記憶體遭利空圍剿！南亞科驚見3字頭、華邦電連5黑 專家示警明年報價「漲不動」：短線先別碰 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOMGhnQjVOeFMyQTY1N3FET3ZpaWotUnIxSDIxUU1EdFVWeUxtaHBfZE5vdDE1UDdpSDE2YURhMGFQdHpUakcxMVhzWUpQajFqc2h3Z2YtaXpMZmJvVE1JOWZnamUwS1dTMVJuZjItMjBjMVZRd09IVWxKQXJ4LW94UFZ6M3FEUHV4ZGVtbVJRR0JNZ1hNcHoyR2dxQ29wb21vUGFaMEJlT0N2R2paOWlPMXJodWc4T1hIcFU5UnR0UXZiS2d6RkFZWnlaY251alpLQWFjQXBBMkpTeUdNWVY0T1FjWmhqSEo1cEZfMDdDN2hvWHl1QmhhczdUc3MteXlTYjVxYjZDS2liN0hTeTQ3OHdfY1RrMC00VkVQOVdoaHhQX1JoR3FVZExWZVB2R3l2dE44LWlFd0prY09UcXpZQ0xYYmRXS2JiLTczbktuWXl5Q0hDVDZKRERncm5GbmpBbTY0SGVlR01tQWlVUWZZTEpvbkJMSy1LUS1KSzlPelJsTUVRUUtHN1BMcG83Q21BYldBODlQLVhFajAtR2tteFZYQzRacU1qTDQwcmdRdlhoUl90RUF3dUdTczN3b3h2cWtPSERCUVNoNDhUVU9JSlVxVTVNREE?oc=5",
+      "date": "2026-11-19T10:28:28+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T04:39:56.349477+08:00"
+  "updatedAt": "2026-11-19T11:17:31.279599+08:00"
 }

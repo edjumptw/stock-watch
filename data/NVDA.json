@@ -4,17 +4,17 @@
   "query": "NVIDIA",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-18T05:00:00+08:00",
-  "close": 155.4600067138672,
-  "change": -0.68,
-  "changePct": -0.4355,
-  "volume": 406985100,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-19T05:00:00+08:00",
+  "close": 150.9600067138672,
+  "change": -4.5,
+  "changePct": -2.8946,
+  "volume": 345169600,
   "bias": "偏弱",
-  "performance20": -28.18,
-  "volumeRatio": 1.84,
+  "performance20": -31.99,
+  "volumeRatio": 1.46,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -23,26 +23,26 @@
     ],
     "support": [
       {
-        "price": 155.46,
+        "price": 150.96,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 155.46,
+        "price": 150.96,
         "source": "近 20 日最低收盤價"
       },
       {
-        "price": 192.5905,
+        "price": 189.04,
         "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.8449
+    "volumeRatio": 1.4566
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -28.18%。",
-    "本日成交量為前 20 日均量的 1.84 倍，交易較熱絡。",
-    "RSI(14) 為 22.5。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.99%。",
+    "本日成交量為前 20 日均量的 1.46 倍，交易較熱絡。",
+    "RSI(14) 為 21.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -66,7 +66,7 @@
       "date": "2026-05-20",
       "close": 223.47,
       "volume": 184201600,
-      "rsi": 61.86,
+      "rsi": 61.85,
       "ma5": 225.492,
       "ma20": 213.399,
       "ma60": 193.4418
@@ -131,7 +131,7 @@
       "date": "2026-05-28",
       "close": 214.25,
       "volume": 143996000,
-      "rsi": 52.6,
+      "rsi": 52.59,
       "ma5": 215.31,
       "ma20": 214.8795,
       "ma60": 196.0482
@@ -1695,34 +1695,47 @@
       "ma5": 162.874,
       "ma20": 192.5905,
       "ma60": 213.388
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 159.19,
+      "high": 159.7,
+      "low": 150.4,
+      "date": "2026-11-18",
+      "close": 150.96,
+      "volume": 345169600,
+      "rsi": 21.1,
+      "ma5": 158.32,
+      "ma20": 189.04,
+      "ma60": 212.3532
     }
   ],
   "news": [
     {
-      "title": "Nvidia停向中國售Hopper晶片 無意讓黃仁勳復職 支援伙伴融資轉審慎 - 20261119 - 經濟 - 明報新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPZFZRcmpOZVh0V1VSOXJGZWRqN25temFYb3JoYk1pT2RHYno4eXhNR21XbU1KOFI5cm1wdGxlSE5lSDRtOVNvVVRaZjFaa1R4ejBZc0M1NV9Ib1NBTnotVDJtZ1ZwcDB6a3FUZEt4WEM0czZvT1ZuZWE4S3ZIeFM0UWdxaWNJNURGVG5fOUc0RU90SXhCQ1EzVmRVNjJNSzFMeWtISWpRcHJSc2h6dXRacFd6V3MtMUllM1gwZjVmc3R2aGROMU9GaV9RWHBXeUZMV0ZnZ0RBTU9GcDMxT0pvZDVsZzFISzRSQVNRUS16QnZ4NW9ZNnpWbzJRZjN3V3JKMklWODJrSXcyRGs3a0VBSld1TGUtNExuQkIweHdSZkFvUDNHU0RhQ3J6Y1UwM1dsQWpHN05sM3Z4SXRwLXVuOHlBWndTUGctMzJUMVRUTERmaTRDLXkzamplREZqOUlYbGlVZDJmbWFIdl95NC1CRnMwakhTOUMyS1ZTVzJlMEUxUENUSlpBYlJCOWtXaW5TMXhjQUVwUGtfZTRWTjdxM3ZDVk81OC0wc0UzOEt0dkFTdlZ3XzVkS0dFNUNrQkg0clE?oc=5",
-      "date": "2026-11-19T04:30:00+08:00"
+      "title": "美國會示警解放軍積極取得NVIDIA先進晶片 加強封堵第三國轉運漏洞 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFE5NU4tdEVEN1VjaHp4NVlyQnQtU2JCWlRtWC1xWFh6eGtPMl81NmJpT2dnYUVQLTNyczdmNkdWZmJYTmg2VWVSSS0xa0VYRy1obmxEOUtaQXo5OUYzc2dwWlJ2c1Z3ZUdOWWMxaENzNGthM3R3d1JhaUFFMDhpQ1F6U1Vlb1JvSWc2WHFwMlQwUkh6czRmMQ?oc=5",
+      "date": "2026-11-19T10:54:00+08:00"
     },
     {
-      "title": "NVIDIA管理層無論誰掌舵 AI晶片散熱需求估只增不減 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LUkFyR196R1VVY3JpQUgwdktCOVdEelZMNkRCcTV4Z212cGdEMlhROGg5cFJfRHlnc1FiazdzT1JFcGR2aW9BRVVBaUY?oc=5",
-      "date": "2026-11-19T04:15:58+08:00"
+      "title": "美國會示警解放軍積極取得NVIDIA先進晶片 加強封堵第三國轉運漏洞 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2xOTl9mME5JM2gwdHJmd3VUdlBCeG9VTmZZWW9sR19sTUdvVXhad0tNaFJpTTZfZWk3eFpjUENSYVZzOXVKcU5hWm5oM0ZyaVZ6anktMnJaVHVKblFyc2tjWlJuWGVod2RxQ0dnbE10aHR6S3BmcFFUS1JoR3cwNlJDbDFrZnBJcEpfN2hiM0czX0VHS1c0?oc=5",
+      "date": "2026-11-19T10:54:00+08:00"
     },
     {
-      "title": "Freedom Broker維持NVIDIA「買進」評等，目標價從305美元調降至230美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZXpXMEp0UlFqLW5RNHlZMGJpMEJuQU1uOFV2dHA1eHhlVU9Kc2dnX2VXb0ctbnJOZWJOWkRwb2gtMHJVQ1ZlQ0JRcFBtd3NtWGlRTzhyUjVBV3dmR3RvSmUzbzdQNWtSTV9Jag?oc=5",
-      "date": "2026-11-19T03:55:48+08:00"
+      "title": "勒索組織喊已入侵輝達，Nvidia 說自家系統沒事| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWpUSGZNV0tHcVllOXktb3hiVkNXaTM5NHBIaG45X1A4Z1ZObjlqcEdMb0VoSTludjg3ZlpDUVd0TmdiR2s3MFY3bHhLQ3BSdmVld0hHZEMzVmtDZks2dThfUmk4dU5QYU9YYmptREY2U2MzSFlNZVZ4MFZWRVNZbGpjcThTOGNwTmtJSHVLRXlyazRiaVQ1RXdhVGxYcHg2cUN3UzdDdHNuUTR4?oc=5",
+      "date": "2026-11-19T10:25:28+08:00"
     },
     {
-      "title": "美股震盪！NVIDIA業績短暫推升後回吐、美元攀19個月高壓制市場、Anthropic掛牌在即 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3R2NnUtd2N6SmNsN3J5TmI5VmNQRC02emRqRTk2cFBPWkZXWUNOSGkzSkV2MU5yLUhycGhWZkZOWXdkY2NaeU9aMHM2TGZQOEI0bEx4b0ZBd2VWbzZQTm1VMWxfTlpPVVB5YXFZdjVSanRrSENqWE9kemZ5ZmVoTFBQemxtdlZqT29pZEdB?oc=5",
-      "date": "2026-11-19T03:08:10+08:00"
+      "title": "後黃仁勳時代的輝達：標誌性「T5T」電郵文化不滅，續寫極致協作 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjZCZmlISUxTZjlheGpXc3Z1aGRrdU0wVElzVXlhblVZeS1TeHBBcGk1UW95M0J1SUZ3bVYtV3p1UzRMYnFveGtmNGNRM284aDdxVEI5S3Zoa2xXLS1XcTN6RHE3X3FTYTh4Z2QwMWR4RC1laTl6YzZQWGNiVHcxMnByb2RDNEJKRXZz?oc=5",
+      "date": "2026-11-19T10:00:43+08:00"
     },
     {
-      "title": "《TAIPEI TIMES》 Nvidia issue part of a supply chain trend: academic - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OMnhKc0pUQ01DbEYzX3MyTS1MZUh2T3EyZXJOTWhzSWpWRXJMTnFQbzh1eExGbjQ3cm5iMXc2NDRfc25XV2s2ZmZabHVyOGdhejUtWXpNWVVpbGtsenV3RnNHckh2UdIBa0FVX3lxTFBzUjEtSG5CVXBWUHJiUWFxckhHdW5mbU5MVzEtVG1tcnZQN3liR1VnSUJ2REtQeTkwSHJuaFVJYU5vTi02OVljZHZKTFpWNlVsaHZSVDVTVnBEUnJrV2YxSzNFVExNYV9MVVFN?oc=5",
-      "date": "2026-11-19T03:00:00+08:00"
+      "title": "AI 熱潮狂飆卻遇領袖變天：Nvidia被「投票出局」，Intel奪回晶片製造話語權？ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTlvOGs0YndDRU5GUzlCNDZfckMwbDd5c0pKOUhaQ25WcHo0V1NGZFAzS2VKQ1dSakIweDNaX0hCdTZBTXdrU0Z5NUx5NHJza2JlSlN3QWpNMldOaThuVFBtSFQ2eVhrTEk1bndMY2xDX1o1b0xSczRvRFU4QVRFZXdhSXU4UVZ5RjhYanNB?oc=5",
+      "date": "2026-11-19T10:00:26+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T04:39:59.828492+08:00"
+  "updatedAt": "2026-11-19T11:17:34.174835+08:00"
 }

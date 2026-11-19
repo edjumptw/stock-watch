@@ -3,17 +3,17 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-17",
-  "dateTaipei": "2026-11-17T00:00:00+08:00",
-  "close": 1055.0,
-  "change": -65.0,
-  "changePct": -5.8036,
-  "volume": 23241046,
+  "date": "2026-11-18",
+  "dateTaipei": "2026-11-18T00:00:00+08:00",
+  "close": 1060.0,
+  "change": 5.0,
+  "changePct": 0.4739,
+  "volume": 20002510,
   "bias": "偏弱",
-  "performance20": -35.67,
-  "volumeRatio": 1.55,
+  "performance20": -33.96,
+  "volumeRatio": 1.27,
   "recommendation": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 1055.0,
-        "source": "近 20 日最低收盤價"
+        "price": 1304.75,
+        "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1332.0,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 1625.0,
+        "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.5518
+    "volumeRatio": 1.2668
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -35.67%。",
-    "本日成交量為前 20 日均量的 1.55 倍，交易較熱絡。",
-    "RSI(14) 為 29.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -33.96%。",
+    "本日成交量為前 20 日均量的 1.27 倍，交易較熱絡。",
+    "RSI(14) 為 29.4。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1168,34 +1168,43 @@
       "ma5": 1190.0,
       "ma20": 1332.0,
       "ma60": 1643.1667
+    },
+    {
+      "date": "2026-11-18",
+      "close": 1060.0,
+      "volume": 20002510,
+      "rsi": 29.44,
+      "ma5": 1143.0,
+      "ma20": 1304.75,
+      "ma60": 1631.75
     }
   ],
   "news": [
     {
-      "title": "台達電增資馬來西亞子公司馬幣4.9億元｜DEM 增資補充公告 - 索引新聞",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ05mM2RQTDc1cUlzdmJUemc0RmdyUWJJUF9NUGZLVmZkNmd3bUtlSzJwZThIMW5WYlVMdzRvdU82TDBQYXlzNlp1OFRTaUgzU2k0Tl95MEFHd3pDOGt1QmdfVWljMHJjSUNNM1JyeDRYTHFseGZLVmFtdTRZdjFqRmlfX05tTnVrT3R6Y2JfSkY?oc=5",
-      "date": "2026-11-19T02:31:00+08:00"
+      "title": "〈台股開盤〉台股受權值股疲弱賣壓沉重 早盤重挫逾1500點貫破3萬9千點大關 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOMTFVSjczTmJpMW13WVdaWTJ0LXNlX180Ukk0aGxsMmc3WHVZblhUeFBMTTNEelBrS2tNaWJpU3AtSWJZZGpuc3l2TDdjY1J3bnJ2UHhWSG9saUhMVDM2RjlJWjVuQUxVa0QxQl9Ud2hETW5YN0ladmdNajVyZVZaZkhreUVHOU03UFZLWUdvXzZVaF93MVNzSEt6UWNiVWg0eVlDYU1PV1BVREMwLXp4bjRTYjdzVGtnQUZMdmx1SzM1dm5zWHRjTE5IQVNPdzRmLUlJcXNrTk9Hb3JnZkFCMzBwUHJ0RWdCdDUxNEZock9yRnh5ZnUxRGdUckRHcWYyODNKT20zWVJhSGVPcEg2cU50SFBfeUY2TUx4VjhmMW5UMlRkOFZXWngtVm5OUHpzeFhkZUVyb0pOVkUxX2VIQXMyVUNOTjZ3d1ZtQXA2bkM4QkNkMWpzeVpqTDAzYVRCcUZkaWh6LW8zLTRkanBvSi0ydEdjOHEyeXZrZXpMWWxLUUFhZS0weWlGSEtQWmhQc1dTRFQ5OHBDUmJVbUthQ29Gd0xtNmhXdXgxaFVrc0JCMzU4eDZXUko2Vk9uMzlDSWc?oc=5",
+      "date": "2026-11-19T11:11:31+08:00"
     },
     {
-      "title": "【台股盤後】高低震盪逾1600點台股上漲102點收40194點守住4萬關卡| 金融 - 非凡新聞台",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sS0tBS0pjdjYyY2ttUEVTUmpNUDMwVER4dkF6Z2x5VVF4RUhTSVEzQkNDYVBWVlNsTmI5S0ViMWI5VUpFUVRoX3hnM2l3NG9XLXdqUmFxejdwa01DSVVJ?oc=5",
-      "date": "2026-11-19T01:54:27+08:00"
+      "title": "黃仁勳請辭掀輝達震盪｜新聞事件整理與重點摘要 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VX0E2UHkyV1dfczljQ3JGYmRBQ0FlNDlPN0hUTy1hX19Iakh6akE4aXp1eEtweHg4SS14M3VIXzByWHRHMU1wSEhrYnJqek9SRGVYQlVoel80MEFMWFlrd0VmbmxOMTg2YlRBa0VCVEZ2NFAwMHF0ckQ4UWRrZw?oc=5",
+      "date": "2026-11-19T11:02:36+08:00"
     },
     {
-      "title": "台達電突發重訊！代新加坡子公司公告發放現金股利2.5億美元 - 中天新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrUjNKbldZQ0EzaV95bzVNTXEtQ01wQVI3WElMTnpvNlRvRGdtZmpaVG9BY3dMZzQxUjVOaHN1ZmdodXBOdTNwdHBJSHE1eVBqY3lJ?oc=5",
-      "date": "2026-11-18T22:35:34+08:00"
+      "title": "國家隊護盤也擋不住？台股暴殺1400點 林友銘點名「4檔反攻指標」全翻黑 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQb3pvOGtUWHVBaGYyZ1BJb0dRazFrSUxWdkZ1YVNpZGQ4M1FHcFA3TDlSV3BNb3A5bFJITkxORjdjc0dOUkYwaktqSmNVUFVnWDFwM1NBUHdPdFo2N2RpRmRfd2xBQXJiXzZBOHhoQ2t3NFN1WjA5anIzUGU0NjRoMFJXM21qWU9rQjJub1dTbWZmU2s4OThxT0xnX0ZPd3dkM2l5QzByTHVvYU1qUFYxbURGa3VKQkJiclh3Nmt0YWhSWVFScW5qOUhrUFRBYTQ5WXRlWkEwVFVBQXd1Tm54OTFJOEdPSGZCYk84X2c0LVY3RnZ6X0s0Rzl4Vkh6eFhaX0FaOG5NSWdDNG9uNnprY3ZFMmgwblhUZWNYaWdKMDhtd1VyMnFuQVdwSEhabmJZOExwUGxOZDlUZC1GWnl0VUpWNVVRbUZrQ25fYkhYLUFkOTQ2Y2djLWdTTDdNM25SSjBOWWMxOE1EMWRRZlBocHpyUzJNWTZFQl9KWXd2SVVDdUJZSFo4bHFTV0hvTDRLc1lqXzcwckRfbTdDZUNTc19yaVlXR1JwN2Zv?oc=5",
+      "date": "2026-11-19T10:59:40+08:00"
     },
     {
-      "title": "台股守4萬點 台幣創19個月新低 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3dIaHVnUlR4N2lzVXBTTUo0dE90emJKUlVpODV4T3dBX1BrT1RBLVgzY0plOG8xV1I0RGlkNnlWaTJ5YW5JQWFsTXhNbUt1NUQzNXVpQ3hJRmRkSk1ycElqZkcwdU9EQWt4ZmQ4UTEtTzdWeHU2ZEUta3o1dHVtTjVhcjUxdnRLMlFyaUlhbkU3enBqNkhUdWlBS2xRWUJfTVRnU0lTQlVCSG90YjVINmdtVlZvNU4yR2hBSWdVWjA1RmxLYWl6YmV3UGRDR0ZQc0c1cEVIR2MzdklldW83RUVxU2F1Y2hU?oc=5",
-      "date": "2026-11-18T21:06:09+08:00"
+      "title": "台股盤中／血洗逾1400點摜破39K 台積電跌50元、信驊跌停 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOZFpaWmprLXpMUjJiOWkwY3ZqNmtaSlRaRWY5dWZ6YjdYaXRZZXpDMVcwdzB0X0lHdF9tQURzZ1dnSjlEQ0htSlZhV1BPeE0?oc=5",
+      "date": "2026-11-19T10:53:00+08:00"
     },
     {
-      "title": "台股震盪1677點險守4萬 永豐投顧：進入「第二隻腳」測底 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNd2RhV1VaUGRzMmp5M3FaM0ZVZl9YdURZQVhXM1FVTXVMR0w2cFhHM1JuVXY3bFd3c1E1WGdoQ0hpZWI0YjdzaEg0bW9JelMxUzkyQnVlYUtRci1zX2VsdjZhRF9MRDM0cXFka3pxVmlBY2I5bXJnWHVIRjN2akxJZnYySk5seFlWR0xjZUhYRzZteUluTGx3SU5PcTJyMTRXeG1PQjBtQTd3Y2h3b3ctYS12c0drSC1YU0lRVUg3MFFJUTdrME1GUU1XVVNPMFAyY0h0bW1nWkFPT3pfOWtPcjRRY1pEUDk3TU82Y01rZUEzU0FGYkd5ZF90Yk5hT0JINHdHWXZsd2dtOWJ4b05nNTg3eEpIQjU2NDViNkJmQU5Ed0ZCQ0N0aTVRTTRXelFWdUVxblRZM09SNTlyM21MRWJRYWp1ZmFxc3M1RGVBNA?oc=5",
-      "date": "2026-11-18T18:26:32+08:00"
+      "title": "【即時新聞】最新台達電面臨千元保衛戰，外資狂賣2575張要反轉了？ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjFlQ3JMMDl1N1RsN2Uwc0VMMmhLT1Nic0UwV2RMdHRlb0FHSEtaMzUweF9rN00tZGVWQXo2R0N1QllNRnVjVHJBell3VlVjRm8walc3U2F1ZnRqZDFtNjdmanRhQTljaHhFTVdmcHJodG9GSlhLM1ZnSU9GeGo4VGlyZVpsV1owU3AyTzd2YjY?oc=5",
+      "date": "2026-11-19T10:50:31+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T04:39:57.276752+08:00"
+  "updatedAt": "2026-11-19T11:17:32.027506+08:00"
 }
