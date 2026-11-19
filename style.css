@@ -104,3 +104,6 @@ footer{padding-inline:0;line-height:1.9}
 /* Fieldsets remain semantic groups; a divider avoids a panel inside a panel. */
 .tools-grid fieldset{border:0;border-top:1px solid var(--line);border-radius:0;padding:16px 0 0;margin:24px 0}
 .tools-grid legend{padding:0 12px 0 0;font-weight:600}
+/* Keep the two volume values and cross-market close date readable on phones. */
+.card-bottom{flex-wrap:wrap}.card-bottom>span:last-child{flex-basis:100%;overflow-wrap:anywhere}
+.trade-edit{margin-top:12px}.trade-entry button{max-width:100%;white-space:normal;margin-block:6px}

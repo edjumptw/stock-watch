@@ -50,7 +50,7 @@ class MarketTests(unittest.TestCase):
         with patch('update_data.urlopen', return_value=response):
             rows=news('test')
         self.assertEqual([r['title'] for r in rows],
-                         ['Same - Media', 'Same - Other', 'Extra 0', 'Extra 1', 'Extra 2'])
+                         ['Same - Media', 'Different', 'Extra 0', 'Extra 1', 'Extra 2'])
         self.assertEqual(rows[0]['url'], 'https://example.com/new')
 
     def test_published_data(self):
@@ -72,4 +72,26 @@ class MarketTests(unittest.TestCase):
                     self.assertTrue(0<=row['rsi']<=100)
                     self.assertTrue(all(math.isfinite(row[k]) for k in ('close','ma5','ma20','ma60','volume')))
                 self.assertEqual(json.loads((ROOT/'data'/f"{stock['symbol']}.json").read_text()),stock)
+
+class PublishTests(unittest.TestCase):
+    def test_timestamp_only_refresh_has_no_file_changes(self):
+        import tempfile
+        from update_data import main
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder)
+            (root/'data').mkdir()
+            (root/'stocks.json').write_text(json.dumps([{'symbol':'TEST'}]))
+            stock={'symbol':'TEST','date':'2026-11-18','close':100,'history':[], 'updatedAt':'old'}
+            old=json.dumps(stock,ensure_ascii=False,indent=2)+'\n'
+            index=json.dumps({'updatedAt':'old-index','stocks':[stock]},ensure_ascii=False,indent=2)+'\n'
+            (root/'data/TEST.json').write_text(old)
+            (root/'data/index.json').write_text(index)
+            with patch('update_data.ROOT',root),patch('update_data.build',return_value={**stock,'updatedAt':'new','news':[]}),patch('update_data.keep_previous_close',side_effect=lambda result,previous:result):
+                # News is substantive: first publish it, then repeat with only a new timestamp.
+                main()
+                first={p.name:p.read_bytes() for p in (root/'data').glob('*.json')}
+                main()
+                self.assertEqual(first,{p.name:p.read_bytes() for p in (root/'data').glob('*.json')})
+                self.assertNotEqual(json.loads(first['index.json'])['updatedAt'],'old-index')
+
 if __name__=='__main__': unittest.main()

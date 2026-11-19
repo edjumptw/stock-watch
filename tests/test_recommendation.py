@@ -17,11 +17,19 @@ class RecommendationTests(unittest.TestCase):
             r=s['recommendation'];self.assertEqual(r,recommend(s['history']))
             self.assertEqual(r['date'],s['date']);self.assertEqual(len(r['reasons']),2)
             for key in ('support','resistance'):
-                self.assertTrue(1<=len(r[key])<=2)
+                self.assertTrue(0<=len(r[key])<=2)
                 self.assertEqual(len({p['price'] for p in r[key]}),len(r[key]))
                 for p in r[key]:self.assertTrue(p['price']<=s['history'][-1]['close'] if key=='support' else p['price']>=s['history'][-1]['close'])
     def test_zero_volume_and_flat_prices(self):
         rows=self.sample(volume=0)
         for row in rows:row.update(volume=0,ma20=100,ma60=100)
         r=recommend(rows);self.assertEqual(r['volumeRatio'],0)
-        self.assertEqual(len(r['support']),1);self.assertEqual(len(r['resistance']),1)
+        self.assertEqual(len(r['support']),1);self.assertEqual(len(r['resistance']),0)
+
+    def test_equal_extremes_only_one_side(self):
+        for close,side,other in [(90,'support','resistance'),(110,'resistance','support')]:
+            r=recommend(self.sample(close=close))
+            self.assertIn(close,[p['price'] for p in r[side]])
+            self.assertNotIn(close,[p['price'] for p in r[other]])
+            self.assertTrue(r[other])
+            self.assertFalse({p['price'] for p in r['support']} & {p['price'] for p in r['resistance']})

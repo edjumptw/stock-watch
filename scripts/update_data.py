@@ -42,10 +42,11 @@ def news(query):
         rows.append({'title':title, 'url':link, 'date':date.isoformat()})
     unique, titles, urls = [], set(), set()
     for row in sorted(rows, key=lambda x:x['date'], reverse=True):
-        if row['title'] in titles or row['url'] in urls:
+        key = ' '.join(row['title'].rsplit(' - ', 1)[0].split())
+        if key in titles or row['url'] in urls:
             continue
         unique.append(row)
-        titles.add(row['title'])
+        titles.add(key)
         urls.add(row['url'])
         if len(unique) == 5:
             break
@@ -189,6 +190,8 @@ def main():
                 previous_path=ROOT/'data'/(stock['symbol']+'.json')
                 previous=json.loads(previous_path.read_text()) if previous_path.exists() else None
                 result=keep_previous_close(result, previous)
+                if previous and {k:v for k,v in result.items() if k != 'updatedAt'} == {k:v for k,v in previous.items() if k != 'updatedAt'}:
+                    result['updatedAt'] = previous['updatedAt']
                 results.append(result)
                 print(stock['symbol'], result['date'], result['close'], f"news={len(result['news'])}", flush=True)
                 break
@@ -199,6 +202,8 @@ def main():
     target=ROOT/'data'; target.mkdir(exist_ok=True)
     for result in results:
         (target/(result['symbol']+'.json')).write_text(json.dumps(result,ensure_ascii=False,allow_nan=False,indent=2)+'\n')
-    (target/'index.json').write_text(json.dumps({'updatedAt':datetime.now(TZ).isoformat(),'stocks':results},ensure_ascii=False,allow_nan=False,indent=2)+'\n')
+    old_index = json.loads((target/'index.json').read_text()) if (target/'index.json').exists() else {}
+    stamp = old_index.get('updatedAt') if old_index.get('stocks') == results else datetime.now(TZ).isoformat()
+    (target/'index.json').write_text(json.dumps({'updatedAt':stamp,'stocks':results},ensure_ascii=False,allow_nan=False,indent=2)+'\n')
 
 if __name__=='__main__': main()

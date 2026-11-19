@@ -56,6 +56,7 @@ with sync_playwright() as p:
         fill({'set-ratio': ''}); submit('trade-settings'); message('trade-settings', '請填寫：單檔投入警戒比例')
         fill({'set-ratio': 101}); submit('trade-settings'); message('trade-settings', '不可超過 100%')
         fill({'set-ratio': 20}); submit('trade-settings'); message('trade-settings', '設定已儲存')
+        page.locator('#buy-stock-select').select_option('__other__')
         for key, label, value in [('buy-date', '買進日期', '2026-11-18'), ('buy-stock', '股票', '驗收測試'), ('buy-price', '買進價格', 100), ('buy-shares', '買進股數', 1000), ('buy-stop', '停損價', 90), ('buy-reason', '買進理由', '依計畫買進')]:
             fill({key: ''}); submit('trade-buy'); message('trade-buy', '請填寫：' + label)
             fill({key: value})
@@ -63,7 +64,7 @@ with sync_playwright() as p:
             submit('trade-buy'); message('trade-buy', '請勾選：')
             page.locator('#check-' + str(i)).check()
         submit('trade-buy'); message('trade-buy', '買進紀錄已儲存')
-        page.locator('.trade-entry summary').click()
+        page.locator('#sell-0').locator('..').locator('summary').click()
         for key, label, value in [('sell-date-0', '賣出日期', '2026-11-18'), ('sell-price-0', '賣出價格', 90), ('sell-shares-0', '賣出股數', 100), ('sell-review-0', '檢討', '依計畫停損')]:
             fill({key: ''}); submit('sell-0'); message('sell-0', '請填寫：' + label)
             fill({key: value})

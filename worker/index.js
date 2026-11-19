@@ -54,6 +54,7 @@ export function parseTaiwan(row, now = Date.now()) {
   const previousClose = positive(row.y), timestamp = positive(row.tlong);
   if (!previousClose || !timestamp || timestamp > now + 60000 || now - timestamp > 7 * 86400000) throw new Error('Invalid Taiwan quote');
   const local = new Date(timestamp + 8 * 3600000);
+  if (local.getUTCHours() * 60 + local.getUTCMinutes() < 540) throw new Error('Pre-open Taiwan quote');
   const closed = local.getUTCHours() * 60 + local.getUTCMinutes() >= 810;
   const bid = positive(row.b?.split('_')[0]), ask = positive(row.a?.split('_')[0]);
   // Midpoints are indicative prices, never closing trades.
@@ -62,7 +63,7 @@ export function parseTaiwan(row, now = Date.now()) {
   if (!price && !closed && bid && ask && bid <= ask) { price = (bid + ask) / 2; priceType = 'midpoint'; }
   if (!price) price = positive(row.trade?.z);
   const volume = typeof row.v === 'string' && /^\d+$/.test(row.v) ? Number(row.v) * 1000 : NaN;
-  if (!price || !Number.isSafeInteger(volume)) throw new Error('Invalid Taiwan price or volume');
+  if (!price || (!Number.isSafeInteger(volume) || volume <= 0)) throw new Error('Invalid Taiwan price or volume');
   return {symbol, source: 'TWSE', priceType, price, previousClose, change: price - previousClose,
     changePct: (price / previousClose - 1) * 100, volume, currency: 'TWD', quoteTime: new Date(timestamp).toISOString()};
 }

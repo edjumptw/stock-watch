@@ -33,9 +33,11 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
           cache: pip
@@ -43,7 +45,7 @@ jobs:
       - name: Refresh closing data (scheduled or manual)
         if: github.event_name != 'push'
         run: python scripts/update_data.py
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: '22'
       - run: node tests/test_worker.mjs
@@ -51,6 +53,7 @@ jobs:
       - run: node tests/test_ui.mjs
       - run: python -m unittest discover -s tests -v
       - name: Commit fresh data
+        id: commit
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -59,8 +62,12 @@ jobs:
             git commit -m 'chore: update closing prices and news'
             git pull --rebase -X theirs origin main
             git push origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
       - name: Prepare public site
+        if: github.event_name != 'schedule' || steps.commit.outputs.changed == 'true'
         run: |
           mkdir -p public
           cp index.html style.css app.js trading-core.js trading.js public/
@@ -74,12 +81,15 @@ jobs:
               name = stock['symbol'] + '.json'
               shutil.copy(Path('data') / name, Path('public/data') / name)
           PYDATA
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v6
+        if: github.event_name != 'schedule' || steps.commit.outputs.changed == 'true'
+      - uses: actions/upload-pages-artifact@v5
+        if: github.event_name != 'schedule' || steps.commit.outputs.changed == 'true'
         with:
           path: public
   deploy:
     needs: update
+    if: github.event_name != 'schedule' || needs.update.outputs.changed == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -87,4 +97,4 @@ jobs:
     steps:
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

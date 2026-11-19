@@ -31,12 +31,12 @@
         ],
         "resistance": [
           {
-            "price": 352.0,
-            "source": "近 20 日最低收盤價"
-          },
-          {
             "price": 450.25,
             "source": "MA20（近 20 日收盤均價）"
+          },
+          {
+            "price": 530.0,
+            "source": "MA60（近 60 日收盤均價）"
           }
         ],
         "volumeRatio": 1.4582
@@ -6082,12 +6082,12 @@
         ],
         "resistance": [
           {
-            "price": 150.96,
-            "source": "近 20 日最低收盤價"
-          },
-          {
             "price": 189.04,
             "source": "MA20（近 20 日收盤均價）"
+          },
+          {
+            "price": 212.3532,
+            "source": "MA60（近 60 日收盤均價）"
           }
         ],
         "volumeRatio": 1.4566

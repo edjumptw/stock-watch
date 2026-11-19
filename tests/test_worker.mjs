@@ -1,6 +1,8 @@
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 const {default: worker, parseTaiwan}=await import('data:text/javascript;base64,'+Buffer.from(await readFile('worker/index.js','utf8')).toString('base64'));
+// Freeze the session so fixtures never depend on wall-clock pre-open time.
+Date.now=()=>Date.parse('2026-11-19T02:00:00Z');
 let cache, calls=0;
 globalThis.caches={default:{match:async()=>cache?.clone(),put:async(k,v)=>{cache=v.clone();}}};
 globalThis.fetch=async url=>{calls++;const symbol=decodeURIComponent(new URL(url).pathname.split('/').at(-1));return Response.json({chart:{result:[{meta:{regularMarketPrice:100,chartPreviousClose:80,regularMarketTime:Date.now()/1000,currency:symbol.endsWith('.TW')?'TWD':'USD',regularMarketVolume:1234}}]}});};
@@ -88,3 +90,9 @@ assert.equal(cache.headers.get('Cache-Control'),'public, max-age=5');
 assert.equal(fallback.diagnostics.twse.attempts.length,2);
 assert.match(fallback.quotes.find(q=>q.symbol==='2330.TW').fallbackReason,/429/);
 console.log('PASS: healthy cache 20s, fallback cache 5s and per-symbol diagnostic reason');
+
+const preopen=Date.parse('2026-11-17T00:45:00Z');
+assert.throws(()=>parseTaiwan({...row,tlong:String(preopen),z:'-',v:'0'},preopen));
+assert.throws(()=>parseTaiwan({...row,v:'0'},now));
+const open=Date.parse('2026-11-17T01:30:00Z');
+assert.equal(parseTaiwan({...row,tlong:String(open)},open).price,100);

@@ -28,8 +28,10 @@ def recommend(history):
         {'price': ma20, 'source': 'MA20（近 20 日收盤均價）'},
         {'price': ma60, 'source': 'MA60（近 60 日收盤均價）'},
     ]
+    # Equality belongs to the low first, otherwise the high; MAs alone use support.
+    equality_support = candidates[0]['price'] == close or candidates[1]['price'] != close
     def levels(support):
-        eligible = [p for p in candidates if (p['price'] <= close if support else p['price'] >= close)]
+        eligible = [p for p in candidates if ((p['price'] < close if support else p['price'] > close) or (p['price'] == close and support == equality_support))]
         eligible.sort(key=lambda p: abs(p['price'] - close))
         result = []
         for p in eligible:
