@@ -9,10 +9,10 @@
   "close": 383.7200012207031,
   "change": 3.61,
   "changePct": 0.9497,
-  "volume": 26741000,
+  "volume": 26892900,
   "bias": "中性",
   "performance20": -0.71,
-  "volumeRatio": 0.69,
+  "volumeRatio": 0.7,
   "recommendation": {
     "date": "2026-11-18",
     "action": "觀望",
@@ -41,11 +41,11 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.6944
+    "volumeRatio": 0.6983
   },
   "commentary": [
     "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 -0.71%。",
-    "本日成交量為前 20 日均量的 0.69 倍，量能較平淡。",
+    "本日成交量為前 20 日均量的 0.70 倍，量能較平淡。",
     "RSI(14) 為 51.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1694,7 +1694,7 @@
       "low": 378.36,
       "date": "2026-11-18",
       "close": 383.72,
-      "volume": 26741000,
+      "volume": 26892900,
       "rsi": 51.09,
       "ma5": 386.248,
       "ma20": 386.127,
@@ -1702,6 +1702,11 @@
     }
   ],
   "news": [
+    {
+      "title": "Tesla推出Powercore 固態變壓器直攻AI資料中心 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjkyaGE3YXczVy16bFM0aHJDRngtYTcwZHFoZ0dpeFJURVE4Y1Zkd0JGeU5YUnUyc2JuQUxVR2ZZcnZUbnp5azc5QkM5UkJhSjVDYmEwbDJxdDVYT3NyVlE0ZzBGUkFKN1VGUl9DZVNYcVN4SS1rQjlfdHo0aWx3ZFlmU3ItY0szTlZPbGFmSDI5RVpjcmRXbQ?oc=5",
+      "date": "2026-11-20T02:20:00+08:00"
+    },
     {
       "title": "馬斯克自稱「中國超級粉絲」 撑合作晤貿促會會長承諾Tesla續在華增產 - 香港經濟日報HKET",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWGJLcGVPWnBkbk11RmZ5N0ZWNzl0T1IwZkJHQkpIZUhDT1VxQWJfSWdaOUJpWU5paEJiRmlrM1lHRk0wY2U4RlNCX1lOYjBRX3ZRd1Y3REpDNXNnUXlWY2lrb2x5OTdmVXhINzhFbWlDZWx3VHZyZW1zaWcwaGNTS1puYVFzNjh0blRKM2NTNzdMSVZCTlVIaTlDWWRhRVZYQlFUWXpCTjUtUXFNODF3SzNtaENNTnhMNGp4NFRFb29sVkVwZ3ZpSnZsazNGVWc3UEZ2VkF6bGgyZk1TUGdrM21jbklveDBkOExSVUxzalN5bWNHZUNDQWFMQnQ0WGRfOUZZUm1JcWFUTnNoekZaX1MxVWVsQ2oweldWaEM1bHZzdw?oc=5",
@@ -1718,15 +1723,10 @@
       "date": "2026-11-19T19:25:32+08:00"
     },
     {
-      "title": "Tesla股東周年大會將就3項主要議案進行投票 包括重選馬斯克等3名董事 - am730",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxONzJFd3h2YUgtV0dFWjByZ2duSFlZSFUyVHN1TVhLdUtBaTZyNF9VLUJUcG5hcUQ1dTZJejJIZGMyVGdFcjlwX09wRjRyNXFDMHBydUVYNmQwUUtPblVfaHV1ZzBZbXM4Mi1fUzB5UUh0Qk1JT3FCMnR3QldVdlZjMm1BZjZOaHNEV0M3MjMxaEFKX2FHazk0eTByV3ZUMHJyTWRFVXlQT2RCLUNLZWpBQmxxQnBQNHpUQmxiSmhwUV9POVJZN2JERVBkRk8wRjZ0U2xSNGFocTY3eTkxQ05jSGJ6UnBsZnc3djBncmxCazVqZ2VUSl81UzJKTkRQb0k1cGFkdThWQUttMHZxemNfUlFRb3ctMzRnVTN3QzE2bGJFcjBta0NfMTlxZGlSem40ZEM5ZDRtc280WEFSOUtuYmpwaXJ6MC1kcnN2bzBfNlcxNWdMaUtUcXpLRF9QQW56VU4wSi1VMEFWZGF4by1NTjV6dVZMSmpxSzBfVVRCNmJldFY0bHBoS2J3cmZTREZmdl9BbFM0aktZSGJrZmU1R0ZjemE2Y2xrXzlqWFRpdU5fekNRdEg1SkpOU1M?oc=5",
-      "date": "2026-11-19T17:50:00+08:00"
-    },
-    {
-      "title": "美股｜Tesla下月股東會重選馬斯克等三人 發五頁聲明反駁兩大顧問反對登霍爾姆連任 - Fortune Insight",
-      "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOTkR5RzFzN3JqenpPclllcmZfNVNsSXR4SHczd3NMaUNXOVpvaG5ocU1hRXpLNGhyZ0F0bms2dHRjbG1OdDUxUzBJQndlUnpuWHREdmpWelJ1UWo3VjJTY0JWMFE4TWVBRU5aLWdIV004NmdrcjVFcUR3Sm1HemhWR0xZMXZVZlJhcmdFT0xXeDg5ZHdTZWt3OWFXU2RKZ0pNaEFhdzlST2dHOGdlNkhHV0U0cHdPT0JXUkZPU2Zlek9hVkg5Vy02YkFiWURhVEVlMWV4ZVBqVHJoMUF6Z1paVW9GcDd3WW9Fb3dONmQ5V2tkSjdqZEZlRFVFdUM4dTZEbGxSVUptRVUzUmFPeklacERwU2R6TmZWY1NhU0p0amlOOWF6ZHR5S1libEVXTUw0blVTZzUyZ2NXY25YMnYxM3ZBVWhwOXo0eW8yX1BwUDZCWm5zeWpNdmZTY1VIdmJYd2dOc0I2bDlDYW02X2lRdDY2TXk0RVUzLUs5bVhuYUJPaXZiVzc1cHRBZXcyUDN3aXRVZXNqUlA5bV8wanJGYVloOHhfMUdiZS1nMnFVQll2MTFqME5rZFlZYnl0NHJQbVdIT0EwdXAtbEo5dlNwRHBsLXlCaEpwdlFXbHRwMU1FWHIzbUpmVU4wR2U4YUZrTmdibUtINDg2cFBwcWppakdrYXhSQXN4QXNjTWtBYw?oc=5",
-      "date": "2026-11-19T17:01:06+08:00"
+      "title": "特斯拉 Cybercab 僅行駛 4 年後價格就比 Model 3 更昂貴 - Business Insider Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yTXUtTmpsVXIwcXc5S0w0dTd2WUFjVjhnSXo1SnZSVWlpSVZPTDV1NHQxR1RiOC1RaFNDT1VJb2lZaWxad2pZMEFxbV9mZTRMQmMwTXBn?oc=5",
+      "date": "2026-11-19T18:47:01+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T01:27:34.588119+08:00"
+  "updatedAt": "2026-11-20T03:28:29.689844+08:00"
 }
