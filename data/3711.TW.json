@@ -3,17 +3,17 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 504.0,
-  "change": -44.0,
-  "changePct": -8.0292,
-  "volume": 29273471,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-20T00:00:00+08:00",
+  "close": 457.0,
+  "change": -47.0,
+  "changePct": -9.3254,
+  "volume": 35713839,
   "bias": "偏弱",
-  "performance20": -26.32,
-  "volumeRatio": 1.25,
+  "performance20": -30.12,
+  "volumeRatio": 1.46,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 504.0,
+        "price": 457.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 605.5,
+        "price": 595.65,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 640.15,
+        "price": 637.9,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.2468
+    "volumeRatio": 1.4624
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -26.32%。",
-    "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
-    "RSI(14) 為 35.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -30.12%。",
+    "本日成交量為前 20 日均量的 1.46 倍，交易較熱絡。",
+    "RSI(14) 為 31.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1177,12 +1177,31 @@
       "ma5": 544.0,
       "ma20": 605.5,
       "ma60": 640.15
+    },
+    {
+      "date": "2026-11-20",
+      "close": 457.0,
+      "volume": 35713839,
+      "rsi": 31.13,
+      "ma5": 515.8,
+      "ma20": 595.65,
+      "ma60": 637.9
     }
   ],
   "news": [
     {
+      "title": "日月光投控：矽品精密工業11/11~20取得廠務工程，計約7.62億元 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGU2RmloSG84NUYxYWNMMDZXQ3h4OENkblpuelZvS1gxSllfUVV1dlhSX0ZleENPNzhZN1Y0X3dyUkEyNEVXWTFCaVpOYm1iY05fZjNxZTRYekJ5dThtWC1WcExRVnhhTmY5QUp4bVZXaWstMU84U2xaX3NNZktwYmViRmFUaVRUNzFGb3pFanpWUQ?oc=5",
+      "date": "2026-11-20T18:31:26+08:00"
+    },
+    {
+      "title": "日月光以專業日照支持員工家庭陪伴長輩延續自主生活 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZdEtfYWtTRXFaOU1EcmJ3TEZRYmlValNrbU4zbkVTb1ZkckRaV3NpQnVNa2pRZElaem9CWFJjREVibUY0Vlp4VFZfYzlzRm50?oc=5",
+      "date": "2026-11-20T12:21:00+08:00"
+    },
+    {
       "title": "日月光投控：矽品精密工業10/27~11/19取得廠務工程，計約7.4億元 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2x5eFpGeHpxMGIxSENUT0poSjVmTTJuWlhMWmhZOGdiaWNMbUZFSkRwclpvYkljeUxRTmdlVHhQYm13UWdmTGdlTXJ6eG5VRnN4ajdVRWxUelZIckR1WTI1bWVVdjhyNmo0LW5hTHFzdW9oZzhVVHQ2dFlXVlAzeWRCMHY4VGlYaW9MLWNYdF9lSzYxamZhalRiZlVSY2VYbEVlc0RWTXU3MFU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2J4TWp5aHRHQ09COTd0SFRnZjdsV3J5NG4zUVNMUGtYa2FwVE4waFJMZVB1el9peUVQS2pvdHIwbGdxSVlZOTR2R0cwdWt2S05fLU02UUE2REFSYmd2SEhobnFfcUFxYnVsU3BpQnRfNm42ZFBGdTd1d1phY2VFWEp1SThMNGItZjZHX2RBMW4zZw?oc=5",
       "date": "2026-11-20T11:35:24+08:00"
     },
     {
@@ -1194,17 +1213,7 @@
       "title": "日月光投控ADR週四收30.49美元，大跌2.03美元或6.24%，折合台幣每股約502.2元 - 富聯網",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3BNc0RoU1B2RFJnV0UtbXFWRnNUa0pCeFpwaHliQVhvMkNKY3pmbWl2N1JTVkc1b2FodDAxQXdfNGJ4T1Nqd0E1bXRnU2t4RXhQbGtFSkRLdjFzZUNMT2t5MGtfTHNvQ2FXdWs2Z0Nkck1XMG1LUmZwV080SXVLcHAxdE9sR0Mw?oc=5",
       "date": "2026-11-20T08:15:00+08:00"
-    },
-    {
-      "title": "日月光擴產先進封測 萬潤、鈦昇迎設備訂單 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PYzMwMUU5UjI2SzVqOHBLb3oxbmNrMkgyWHJ1QVNuQ1UtYXhwV3lzOTRTRFRjM0ZyTVpMRnRNUV9SdXlBNXBVLXJsM3prSnk50gFWQVVfeXFMUElDalhXOGM5eE9qQkNSVlZnMUlZUDgwOEUzSnhHTkRnYm52ek0xemlIOUZrN3BleHVYaEJ6ZWdhY1BFTlYzR2xOVmpTcGExeWVhRDlqMXc?oc=5",
-      "date": "2026-11-20T02:41:06+08:00"
-    },
-    {
-      "title": "日月光加速擴充先進封測產能 砸2,489億興建高雄新廠 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZ24wUmQ5dXdKdXNha2kzVi1YTllXbVpDNVdtTVc3MVVhaHNNTkQxX0tER1Q2NDlfd1RGSmtMYVV5cUhkS3RmSHBicHBlU1dqeExqMGJYZ1ZyUdIBX0FVX3lxTE15NE5OcFk4MHRWNFB3dWhTczA1c2c0M3FEckp2SHRqdVRMRUJ1eXpiSm16Y2VaYmxpMm5TazRzUDEtUlZTdVM5QlE1QkVMRGJlWkRsNXdGbERvS1MwWUZz?oc=5",
-      "date": "2026-11-20T01:40:48+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T12:04:42.736458+08:00"
+  "updatedAt": "2026-11-20T23:21:03.012661+08:00"
 }

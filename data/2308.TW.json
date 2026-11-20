@@ -3,32 +3,32 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 1000.0,
-  "change": -60.0,
-  "changePct": -5.6604,
-  "volume": 27946413,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-20T00:00:00+08:00",
+  "close": 900.0,
+  "change": -100.0,
+  "changePct": -10.0,
+  "volume": 20324207,
   "bias": "偏弱",
-  "performance20": -38.46,
-  "volumeRatio": 1.7,
+  "performance20": -42.31,
+  "volumeRatio": 1.18,
   "recommendation": {
-    "date": "2026-11-19",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-20",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
-        "price": 1000.0,
+        "price": 900.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 1273.5,
+        "price": 1240.5,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.705
+    "volumeRatio": 1.1774
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -38.46%。",
-    "本日成交量為前 20 日均量的 1.70 倍，交易較熱絡。",
-    "RSI(14) 為 27.3。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -42.31%。",
+    "本日成交量為前 20 日均量的 1.18 倍，量能接近平常。",
+    "RSI(14) 為 24.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 1095.0,
       "ma20": 1273.5,
       "ma60": 1619.25
+    },
+    {
+      "date": "2026-11-20",
+      "close": 900.0,
+      "volume": 20324207,
+      "rsi": 24.05,
+      "ma5": 1027.0,
+      "ma20": 1240.5,
+      "ma60": 1605.3333
     }
   ],
   "news": [
     {
+      "title": "【9月不小心入手台達電！兒童台姐姐一早看股市：到底什麼時候該下車】 誰還住在套房～～～ （#豬頭皮） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNRHRfanRUWGJvbDhHLVZXWjFuZUw4UFR6TFNkZTdmNEdSNklvOHFJM08tV3pPdlVFc2JKR01nTzZKWFNJczR0R1hSamlRaldlbk5hN1VhblZ4Nm5IY2FZNnltWlhPRkdQTXJadm5FeWdoRDBycmJWXzg4NmJoeXdkR3RObFpHaTNhQUM0M3AtRkJ5aVgtaGI3UUtpLWd6MlU1elpvVGFOUmtqOEtyT1laM0E0bzRTbHJyWkliU013YkJTc1RJN1BDMUZTVkNaTWkwZ3BsY01XOWVnQkh2ZTdOaW5QVkRyWUtWYWxlcW5MRDlja2ZJLWRUcjZacTFhb1FtYmFtWllXeXpab09zcTZpUjltaW1mQlFtRmV2aEtkWk1QbkNKUEoxRm1qekFRdHVlVXBpamVtSUZVYU1hVnl1VENyWUZ3bjc2MmtwUzlqZXBNWGt6S0FaZjhDWGJDUnYya0tUVDJOQndqVU9JZEVrQmZaWGhLeVBGWUp0MXRIR0g2cVA1OUZQZ2RxWlJ4ZG1rRWlQTjBlNHprRTJFWW91ZXpaS3lXSzhrOWkxb3RfLWJLaFNDa0d5X2MySG84aVFHVk1NT3U4S0M0OEpIejVKakh4eFhHd3lmZTh0bkpqTy0xLXFqcXd1RVRoYVA4RDBWb2xwLVBRWHNjLVg0SXZKREEzV3g5dzZhY0FnNnpONnItaFpFSTg2S01zcmQzQ18wWVVXV1N2bw?oc=5",
+      "date": "2026-11-20T22:48:58+08:00"
+    },
+    {
       "title": "台股摜破年線進入空頭？杜金龍示警「最後防線」！鴻海台積電台達電...1指標判斷弱勢股「切勿摸底」 - 今周刊",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGdyU2lxSDdsaUh4eDh4MUJoRmV3anpWa2RmdU94M3B3NFBUd1NqS1c5WW9CT3VHYjhtZTRXZV9LSXdJNURacklfLWd5c2VCWk5JUGhIYTVQbzBfeFpBVWdSU0ZGR3VLZXRvS0d2QjFQbEtncWlTTmlKYVJVTGU4Uw?oc=5",
-      "date": "2026-11-20T11:56:56+08:00"
+      "date": "2026-11-20T21:11:28+08:00"
     },
     {
-      "title": "台股持續遭血洗「一度失守3萬6大關」 台積電跌100元、台達電跌停 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQMk4tT04wTWJ6S3o5WWdabWVab0JIVUpxRTNUWThDUGpWSDl5ODFuZXVTSGJuOG9kTHNpSG5BRWkxZzZXSHB6VHZVbUZKTFBuRFFEek1USmZYRW54N3VBWFhrMWtveVJzZHBtajk1YXNyQWZsVE5YdXBHcl9mWHMwRlhhMHJxb0p6QXl2ckZibDFlbG5hSmNoLU5pQ1BXMDZRSlp1Q2hqTTRka3pVejk3eVI1Wkl6RFVRYko2XzJhWHpqY1J3MWRfaDQwYzlid3V1TVJRTzJuYk42OE5XYUl3dU1zbVpnVWkzQ2NYdGdqc3Q3OTI0VnNFdFNmSFY4UWNqTWpNc2NsbEhuY2dSaEJKaXoyY3dOd191Y1daalRxWlpzVmJkR2UwMTdtQjZBQkIxVlhYSzc4YjF1MnhtcWJiWHNhSEl2V1g2Vl9rQk1McU9oaFJfUUVvbGdxbjFkMkJQc1Z5NU51WWFxMlZyX2ZEVnhB?oc=5",
-      "date": "2026-11-20T11:56:15+08:00"
+      "title": "台股單日崩跌2393點寫史上第三大 台達電吞跌停、新手投資人套牢成話題 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU2cyZ0xRTjhBaUVkTl9meU14aFJ5ckZxc3dqWWlFek92SzVIMTdVWlFBdjliYWVobWJaZ2hKSTVkNlAyQy1mcDRnWHloR1BTcnE0dWZQT3NJWlZ0bVhHWm9wbWl1SjVXdXZOT0NmUmtCVkhPMGVNS3p3?oc=5",
+      "date": "2026-11-20T19:56:00+08:00"
     },
     {
-      "title": "台達電跌停失守千元關卡！股價崩跌逾65%、外資卻喊2300元，為何72 萬股東越跌越買 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42LTVMMVFTaWI2N21zdzhBeU9OaWlYWVhVdFl0elRlcGFvSzQxdmZXbTJQSjFXX0lEdU5qYm82U05STndWcWdLTjBIVm9TUQ?oc=5",
-      "date": "2026-11-20T11:48:00+08:00"
+      "title": "台達電深化AI電源布局 攜手戴爾、安川拓展商機 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92cmdsRmVKZmVjZVZ3RTlJNWtBOE1kZkN0STdhdnZsX2d0dzRlSERpem03TVVjeWlRcTF3QUhReVlVMFZhMEVFcUk1NEo4bmpDaXB5ak5aYmlkWnFIZlBN0gFkQVVfeXFMT2JjY0JDY1c5aV9ybnFlZExsdG1FaGFUak91MlNHYUJfVmNseFZTanRiR29wcDhCOEQteVpENHZoSDJfTWZTcnRydFpkWFN6SGJhLW5qYlk2Y3ZVTUxzbkcyTHl1OQ?oc=5",
+      "date": "2026-11-20T19:25:40+08:00"
     },
     {
-      "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
-      "date": "2026-11-20T11:45:47+08:00"
-    },
-    {
-      "title": "限空令2.0也擋不住！台股狂瀉2400點陷3萬6保衛戰 千金股掀跌停潮 - 民報",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1acE9uV3Nqdk1XbWpHZHJpb2U1WktDamtzVEZoT0psUldZWngtZXUxenVSNTJjTEdQTHZOLW5nY1NpNFhBaEJZelNVcTNxTG1tcFdDS1FFY1d2RGlscTIxMl85MmFwR2F4cDMyRTZvLVNhT2s?oc=5",
-      "date": "2026-11-20T11:18:20+08:00"
+      "title": "72萬股民欲哭無淚！「這檔」跌停失守千元 一張帳面現蒸發10萬 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JdlpQYVVIVHFsNUQyMmV3dTQ3NEdncG9DT0NCNjhfTHdCa2dMOFQxZldFdmx2Skp2b2JPZHlQRjY5VkxUeDlhMTRqdw?oc=5",
+      "date": "2026-11-20T19:15:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T12:04:40.935232+08:00"
+  "updatedAt": "2026-11-20T23:21:00.514585+08:00"
 }

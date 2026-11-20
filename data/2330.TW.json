@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 2100.0,
-  "change": -75.0,
-  "changePct": -3.4483,
-  "volume": 48513997,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-20T00:00:00+08:00",
+  "close": 2000.0,
+  "change": -100.0,
+  "changePct": -4.7619,
+  "volume": 87213933,
   "bias": "偏弱",
-  "performance20": -13.22,
-  "volumeRatio": 1.38,
+  "performance20": -16.14,
+  "volumeRatio": 2.39,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 2100.0,
+        "price": 2000.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 2295.25,
+        "price": 2276.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2400.6667,
+        "price": 2394.4167,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.3814
+    "volumeRatio": 2.394
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -13.22%。",
-    "本日成交量為前 20 日均量的 1.38 倍，交易較熱絡。",
-    "RSI(14) 為 32.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -16.14%。",
+    "本日成交量為前 20 日均量的 2.39 倍，交易較熱絡。",
+    "RSI(14) 為 27.8。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 2202.0,
       "ma20": 2295.25,
       "ma60": 2400.6667
+    },
+    {
+      "date": "2026-11-20",
+      "close": 2000.0,
+      "volume": 87213933,
+      "rsi": 27.77,
+      "ma5": 2132.0,
+      "ma20": 2276.0,
+      "ma60": 2394.4167
     }
   ],
   "news": [
     {
-      "title": "台股摜破年線進入空頭？杜金龍示警「最後防線」！鴻海台積電台達電...1指標判斷弱勢股「切勿摸底」 - 今周刊",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGdyU2lxSDdsaUh4eDh4MUJoRmV3anpWa2RmdU94M3B3NFBUd1NqS1c5WW9CT3VHYjhtZTRXZV9LSXdJNURacklfLWd5c2VCWk5JUGhIYTVQbzBfeFpBVWdSU0ZGR3VLZXRvS0d2QjFQbEtncWlTTmlKYVJVTGU4Uw?oc=5",
-      "date": "2026-11-20T11:56:56+08:00"
+      "title": "財經趨勢4.0｜台積電這招徹底卡死中國AI晶片研發？傳16奈米以下全喊停！ - 新唐人亞太電視台",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOR2lNdWZ3NksyRVc2OVh3UlZaNUxNc3I1YTZNbFFzZzF4VlhHSVg5NFhkLVlKQ1djbUVQd3k2OGxJUU0xazRtSFU4VnE1UlVOOGtTOEg5MFQ3andsTmMtcFpSbGhyYzY3N0tWSExrcnFrRnFhMWpxcGVFVTRJRzlYSEJFcWIxeGt0RElxc1hwcjU3WXFySmo5Y3FwS3I0TVhYOXpXdk1wcUNiYng1U1NpTUFHWTI3TlFVY2tCZjJZWmpJU1RhME53UGE1MmxYUzBvMVFsRF9wRm5XRkNlTFA2ZDNxVUl6cXhkSWpndzFKYzIwS1BoTi1GdXk0SWMzSjVZUVJWdGdNUkNDYW5XZnBsclp3eXFxanRPNTRDTW1tdXJHWDV4dHhaTmxKdHdPbjFEVTNDcDd2QW1wTlMxeDBrRXVQajM5MWh4ZHVXU3pEb091T0duamZDVU9ObmJlT00xc215X09rQ2xyT1N3RHlDLXctRU4tU1JtQzkwaDg0MG9SalNWY0ZacmRWd19HV1JHaW5fMm5sajdZeWJPNE5KaEZ1UjVZWk52YkM0ckItazVTZ0NrZUJNZGZsX3MtNk9tb0hPTllmaHFmUXdsRERPME1ldm1lMms?oc=5",
+      "date": "2026-11-20T23:05:12+08:00"
     },
     {
-      "title": "台股失守36K！盤中狂瀉2400點 台積電重見1字頭 - 財訊",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90ZS05QlRrZVB5WHJIdzQ5V1VJa0RtMlpEekhpaHJiZC16TFU4Z0RPb3VhT1Z1WVlnYnIwbEFXZzRxUVp4cjFiRmFkT05tZnFwdTFkOFhLTDdxbmV1LU5UdHF5SjVZU19sX2dlUUwxanJTc1ZsT0xxdk1UOA?oc=5",
-      "date": "2026-11-20T11:56:02+08:00"
+      "title": "科技股無盡黑夜！美股費半9000點瀕臨失守、台積電ADR重摔4％ Anthropic一度狂挫9％ - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOandsX1RweTJ4R2xEcU4zMWpOTjJwY3F5bDlKMGlmeWhKX1hUNG1RUGV4cXZDVURIMUVKaU56ekl5VDlzcEk1bjBPckJqX2U5N3hubmRmaTVPdGY1NkJUNVZJS2V6M0FIaU9YS3UwUVZzUHRhb2dKMlBCbWpNc3NGYVloek15MzNVX2p6VVQ0eXA3eTdjaU1RT1FpRWRlbkpJaTJSUmtRbjEyNkphLXZlbTg1Z2plNFVzbkoyMGhxaHpacW9TUFY4enpyb0FjMXdNMjRlS2tUSjJ6c254dmJGQjkwX3pVSlc2OXV5WHpFakRLYnMxd1dHSFpITlM4cFFYMG1kR1cxdHlVdDQtWElXODhvYlZrdHpCMkp5ZHhVRVpfRlFud1BFd2tRTE9JUHpQcVJLT29vY3lGSEE4ZlZpMXpmZ3g2R2I0SmgwNlJMOS1iWS10dU1sZklZRnZNbzJJWERfUXktbnphemkyVXJVckRUTlhsMUFMM2NiRUJoSkE2TERJaDdHWGRGNDRnYXozeVM0Wnk4ZHg?oc=5",
+      "date": "2026-11-20T22:52:00+08:00"
     },
     {
-      "title": "外媒爆台積電收緊對中國晶片出口公司回應：已知悉新規並遵循| 財經焦點 - 太報 TaiSounds",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oRWJzWU9iNUg1aWo2QlhDLTQ3OXlFczB1djBIeEFsa2VWUHJ5TlhpcHJMb3RGUXlMU1hjLXhJRjdQczM5cm5tUFFSTk16NXJMVm1LYmxKWWkzcTF2?oc=5",
-      "date": "2026-11-20T11:52:34+08:00"
+      "title": "台股重挫散戶進場抄台積電、0050！曬超甜成交價嗨喊：遲來雙11折扣優惠 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQUTY2NnZfbGpDS3JobXZqcm41LTF5TUhXMTl3RFh2ZVlVOHFqR0Voekd6dDZoNUFKQlo0dmVCcGNjdkc1RGlxUmdmMTBFQVAzeE1ZWEdPVkNqcmNCX0dtbHFFVllRV3ZSaHVSVTJhZl9QV2lYbWt4VWVMcnVQZG1xLURoLTM5clpaUFgzQnFxRGh5U084REVoS01UdTRkTFR3SFJuUTZ0V3o0aWNES3hhdzdMU0I2UzZ5ZHpjZTFHdlNCbXVaR3JQUkNMSGhVS0QxY3NXd0NnYW1ndTVKWUE1UjBaTEZLQlR6Yk1paU1WczBpbnl4TFdMWE5tTXFoM0JfakI1LU1EbF80UFE5TWltVkVnbTRPVGZuNDlteGJORDNEMlJ4VnNkZ0ZFVEVrWHNmY0ZzeW5aUEZtczJDd2kwWXBBWUVqNjFUMmJXemk5bkl1M1VOSmRwSVZMWlpnVlhRLVJ6WkVXamlMMUIzb2E3UUhSa2t4aGdJSTVNVXZOOUtMVTkza3RXX3Qxak94SkhTV3AzYmZjOE1iQ1JCOHA3Z1hkUQ?oc=5",
+      "date": "2026-11-20T22:52:00+08:00"
     },
     {
-      "title": "2330 台積電 - 買的好，就等於成功賣出一半，大家買嗎? - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdTBNVHpFamF6VWlKMGRDN21XWGhLUDZULWF0eU5HWnpleW8zYjIyQld6WkpEektvOFlEMkdFUHdoalNBX1JPenNiVUM0WkN6MXNCbWIxeGY?oc=5",
-      "date": "2026-11-20T11:51:05+08:00"
+      "title": "美股開盤繼續殺！台積電ADR重挫4.65% 台指期夜盤卡35K - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZEptUG1rQV9tS2VtdDUxNlE0SlFIZ1JNNDAzcEZyUU5sYVpBaGtSUkZfOW5rcl9GbE9IRU9tT1h2UUxqUEdfU3hhbmVpSURMcE5jUTYyUlZXX25jbFl6SUlBaGdMcEVTZ3VyVlJEOFB3SnI4Ni01eHkyOUJJUEw1X3FGTk5IZXVlbGd4YXQ3WEl5WkhKd1VwMTlwQXNFQXFsS3JDemQ3OGJTdVdsd0JSS3FpeWMwcU5CYXNzbzFFZ1Z2OXhoRHVVcTdISlRCZzBKcG1yLWhkVnM4SkZ1em1IVGJDSUcySHVCLW9kQTA1SkEyYzgyU05MX0ZoYnlMSHJJbHRmb0t2MWs2RWxiR0dyME92SHNTNm9KOEptWXk2dUg3SEZBSDNQQzlndV9yTGhBNXptbEVaN2hZS2c?oc=5",
+      "date": "2026-11-20T22:47:00+08:00"
     },
     {
-      "title": "台股慘崩「台積電跌破2000元」！分析師：老天爺又開始發禮物 - ETtoday新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqOEpZXy1BNkYzLTFZUHJ5TExpdWpDVm1RczFoR29nd293aWVnVDBWWV9QcXZfUzBSNkRMejYwTzZlVTZid1RNQUdPMVVyX3RjajYtNHNFdkRDdkRqU1HSAUtBVV95cUxQNF9oOHBteThrRDI4cm5jbVVrVG0zLWZpOG14UlhsSUZnQ0RDMl8yd3I2c3Nvc1hPaW5McHY5bWhDV09RM1hVaVpuUFk?oc=5",
-      "date": "2026-11-20T11:44:00+08:00"
+      "title": "美股開盤「AI股續跌」！台積電ADR慘崩4.50％ - ETtoday財經雲",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmQklGV2FyUEF2M2Y5NlIxMURrNDFVQVJwejF1aHA5Y0JPYXJCRlZvM0t2Q1dRb05CalJsSkNKa01wazQ4MGsyVERjN3JpTnNXblHSAVBBVV95cUxNMENfYlAyNG1BMUEzLXZBWHlsYVZjSkQ0Wlo5bUFUVDdPamJtbm1neDFKMnR0UmlwQlpvZVI4bFVseWN4aUo5S0hvaWRCUTdtUQ?oc=5",
+      "date": "2026-11-20T22:38:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T12:04:41.559928+08:00"
+  "updatedAt": "2026-11-20T23:21:01.213789+08:00"
 }

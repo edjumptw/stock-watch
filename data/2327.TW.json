@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 322.5,
-  "change": -29.5,
-  "changePct": -8.3807,
-  "volume": 60110111,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-20T00:00:00+08:00",
+  "close": 296.0,
+  "change": -26.5,
+  "changePct": -8.2171,
+  "volume": 69629929,
   "bias": "偏弱",
-  "performance20": -40.5,
-  "volumeRatio": 1.54,
+  "performance20": -41.62,
+  "volumeRatio": 1.73,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 322.5,
+        "price": 296.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 439.275,
+        "price": 428.725,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 526.1417,
+        "price": 521.8917,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.5424
+    "volumeRatio": 1.7269
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
-    "本日成交量為前 20 日均量的 1.54 倍，交易較熱絡。",
-    "RSI(14) 為 25.2。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -41.62%。",
+    "本日成交量為前 20 日均量的 1.73 倍，交易較熱絡。",
+    "RSI(14) 為 22.9。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 364.1,
       "ma20": 439.275,
       "ma60": 526.1417
+    },
+    {
+      "date": "2026-11-20",
+      "close": 296.0,
+      "volume": 69629929,
+      "rsi": 22.86,
+      "ma5": 341.1,
+      "ma20": 428.725,
+      "ma60": 521.8917
     }
   ],
   "news": [
     {
-      "title": "國巨67萬股東心痛...股價「腰斬再腰斬」跌破300元 分析師看法曝 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMlF1QWJxSW95d1NWZjNGUWtseHlHTC0tNE9aaVYwTVZWS0ZsdVplbFhRSEVNVEtDRGV3YzFTRTNqZThQLUZudTNGMkFVWGY1Q2t1RTlmQVlVRUJUZC1SX0pLRDVhUm9WQTMxaHluaU9QZVIxQ3J0RGNmajJQVkRJX2JQRGhJNGNTSDR2S1NiWTA1aGYzTXJCcEoyY2Z2YVRwSFZTY0kyemFjaS1MNHp4NUprSUozTGUyUHR4YjQzZHhsTVpIUW9JenVTS3FFaEtVSk1iV0t6cWxFT1NGczUwdnNJX1loa0ktUFplczZ2TW9vZVdmRW5fRktUNVNiR0tXTDhpQlViWEFidmNhUG1lTktBVW9qZ2NMUGYxTVJQeFR4RmR1RldrM1d4WDZnVEdWWWthWnpOQUdnRGpmSjhWVVk1SVAyYVhzcFlxU1VXUnRlZ3NmN1ZPZzBBNl9pOE1lV1hrcGFqZ1VYVVlTYU5GeVUxazQxemsxMWpGLXdrY1ZWckxaNUdxMTMwUmhheFU?oc=5",
-      "date": "2026-11-20T11:22:35+08:00"
+      "title": "國巨高點1220狂瀉75%！郭彥均早停損逃過大屠殺 「超慘虧損數字」曝光 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPZjhCanZ3MHl5b2trd1lfM3VSVkZnb2Q2TXI3NHREWmJsb0FaMU1sUURiRnJMOHJwVFZsNjZROWxmdWctcVJvYkdHbVZMVWEzT25CVUFWREdyTnlPTXZDTlYwZk54OEdHaTV1b0d2VmRZMDljY1BjcEF5YXRsVE5ZUXRYQko4Sk40Z2JtcFM4RHA3YXRQOXBHQ09IWDItaFZQYVlJUW12UmdwYy1CbHBYd2l1TUV4cEFTTVZOek0yMFBPcUhnSUdhWWluVi0yYUExTjdzVFNyM2h2LUN2bEdOU0t3eS05UzhzRlhFYUNvczZieE5Yc25LRm92aWkxNHl2eEdBLURudkhGMkNObXNmalBLeUhWbXJyMmxmVXV2M3dCcmV0YnR4Q3VZMWlkU2dWSHFtajJvUXBhUFBKdmVJalkxYzdxclpNVVV1TnZhX0VOaUFRQ1VpZ21NcHlYdk8za1JRTUN4R1ZMbFJSYTRPU3QzVkNoRGtHcjlySkFZUDhHcF9aamJNNElWdw?oc=5",
+      "date": "2026-11-20T21:18:00+08:00"
     },
     {
-      "title": "陳泰銘66件頂級收藏首度同台曝光 國巨典藏展「蠍子與青蛙」叩問人性 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NT1ZHMWRCcFZiTTlvQjhXcGlGdk83b19UVzg2S0ZLOGNVMjZpUjVpWWQ5ZTlKME9NTUVEVHcyVFM4SVk5LVhvTm1vNnJTdFF50gFWQVVfeXFMTWtPUTNpeGZaa3VaWmJyLVc5Y2xaYjZZSHNPNFQzTDhGYjlMQzFkbE95V3o0ZHB2NW11SGpYVDBrcVJ3bkkxY1A2cHpQUTVfMWV0Zk1IT3c?oc=5",
-      "date": "2026-11-20T03:18:07+08:00"
+      "title": "蠍子與青蛙 國巨基金會秀典藏 - 中華新聞雲／中華日報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CbTduU2E5a2VOQXUxSjVXMC1fRG00LUNfYWtacVByWG9vRC1TRTBXQ0RTOXVsdlg5Zm90RTYxc2J4aVdRNTZNczJzWHZ5VDhBR3c?oc=5",
+      "date": "2026-11-20T20:38:37+08:00"
     },
     {
-      "title": "跨越五百年的身心辯證：「蠍子與青蛙：國巨基金會典藏展」中美館登場，20組跨時空對話重塑觀看體驗 - 典藏ARTouch.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRVpKTmFWQ3U4cTRzQ2hqWTlET0JlcmlJR1prTHVFb1ppMmlYS0JDVDBpZi1IS0FnQXlCbXFXV25EbGdWX2F4TVpNUzYtTDRfRXllSk54RnZSMEVmcEE?oc=5",
-      "date": "2026-11-19T21:11:00+08:00"
+      "title": "被動元件殺不停！「這檔」連7跌41%帶華新科、禾伸堂、信昌電、蜜望實跌停 國巨跌8.22% - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQV2E5YTFrWlJqMFJ0QUVGZ0EtWjRwbmo2WmhiRGJNb19GeWVHdjFqc25NUnNWQktYc1Bvak80MUxRdE5vN3FDNWpJUEhGaUdxSnJubE5NRlZLbnMwMHUwWWl3RWdNTkhBakxfbTZGaVhUZGpxYVlaOGtpX3p1VTMtc2ZBTUVEclY4ZzBfU1ItVkZTZXc2LVpUODFfNjJkR2N3OG5iMkk4SWZHdmhkcEM3OW9UMEprbDNpUGstRGhtYXpvNXZsVkJmTlRlejFrRkpnUTRHY2IzbXlRcEw3RFdEbXBBQ2hRY00tcGlybHpkbGJ6S1Itd1hTTHhad2JxUElSX3JKSFhIQnh4YUVydEE2YXlDN3VzelZhc0RIc1hDY1RjMlZsQlkxczJFTkttTVpsZ1RlZkRkd2ROeC16?oc=5",
+      "date": "2026-11-20T20:15:00+08:00"
     },
     {
-      "title": "【00991A】11/19 操作日報｜經理人大砍半數國巨與南亞科持股 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TVkFFQnEya3RHbHRDX2ozbEpjODVsZ29nMUJmSnRLaFZQTEkza2p4ODVSUE5HZFl0dW9sajYtZFNVSV9JdlhsYlZrOGFqQkZobk1RVnBPT2swYm10RlNQTC1UNVB0SlYyUnl1TUtIeFFiUUdSemJndURibXoyUQ?oc=5",
-      "date": "2026-11-19T20:18:41+08:00"
+      "title": "台中綠美圖周年大展！國巨基金會66件世界級典藏亮相 展期至明年4月 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4UTJxUl9Vdm9EdXRXZ1RTck5qbjZKTG1iaVlVUkVzSjRjRHduQjRKaWFXZks5VENvOWlKUGNERy12NjczeXZOeEZnNk9xMVdtMHc?oc=5",
+      "date": "2026-11-20T19:50:22+08:00"
     },
     {
-      "title": "昔持有80張台積電！胡瓜長抱2檔股獲利 加碼國巨嘆「住在套房」 - 東森電視",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RUTFaOW1yYmZzb2IwejFVUDBvcF8zbkZtVmQ0OHYzTlBVajR0S0tHR3ZtZVlPVFZCdnBSaTd5bGlSUXVrUkNzQmNhV3h6WFlXSlNoWg?oc=5",
-      "date": "2026-11-19T19:52:00+08:00"
+      "title": "2327 國巨* - 【金包銀之國巨*：跳空長黑破三百，帶量探底測二九五！】 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HaTZtZjlvdXM0LWtyN3RaX09CTXpicm4zSlQ3dGIzdTRaekM0VUJkMlZoZHVwbmtzaVVQVU02RWFhaXBUYlBJY1E1YUVaTjlRVGNLZ0NRTEM?oc=5",
+      "date": "2026-11-20T19:15:55+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T12:04:40.112652+08:00"
+  "updatedAt": "2026-11-20T23:20:59.151767+08:00"
 }
