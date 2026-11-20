@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-20",
-  "dateTaipei": "2026-11-20T00:00:00+08:00",
-  "close": 296.0,
-  "change": -26.5,
-  "changePct": -8.2171,
-  "volume": 69629929,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-19T00:00:00+08:00",
+  "close": 322.5,
+  "change": -29.5,
+  "changePct": -8.3807,
+  "volume": 60110111,
   "bias": "偏弱",
-  "performance20": -41.62,
-  "volumeRatio": 1.73,
+  "performance20": -40.5,
+  "volumeRatio": 1.54,
   "recommendation": {
-    "date": "2026-11-20",
+    "date": "2026-11-19",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,37 +22,28 @@
     ],
     "support": [
       {
-        "price": 296.0,
+        "price": 322.5,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 428.725,
+        "price": 439.275,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 521.8917,
+        "price": 526.1417,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.7269
+    "volumeRatio": 1.5424
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -41.62%。",
-    "本日成交量為前 20 日均量的 1.73 倍，交易較熱絡。",
-    "RSI(14) 為 22.9。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
+    "本日成交量為前 20 日均量的 1.54 倍，交易較熱絡。",
+    "RSI(14) 為 25.2。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
-    {
-      "date": "2026-05-20",
-      "close": 520.0,
-      "volume": 83354990,
-      "rsi": 84.65,
-      "ma5": 487.1,
-      "ma20": 381.7,
-      "ma60": 311.4667
-    },
     {
       "date": "2026-05-21",
       "close": 572.0,
@@ -1177,18 +1168,14 @@
       "ma5": 364.1,
       "ma20": 439.275,
       "ma60": 526.1417
-    },
-    {
-      "date": "2026-11-20",
-      "close": 296.0,
-      "volume": 69629929,
-      "rsi": 22.86,
-      "ma5": 341.1,
-      "ma20": 428.725,
-      "ma60": 521.8917
     }
   ],
   "news": [
+    {
+      "title": "國巨（2327）中長線深度研究：股價跌掉七成，獲利卻還在加速！ - 台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOblNFMWp5Z3ZpbEUyZFo3TmtMamE5YVd5VDhXTmtxVXVFME5FaGloVThrSHlCcUNCM0hHMXQzOVh5ODZjWVdnYS1HQlB6RlMxekZoaEVLWi1ESjc0dnRZT0dVZHRJYVdoT2tZNGxuR2p2Ym85S0loTmsyMUdxZlBXcTZWb2FISkk4YnhpT0hJVXFxX3g1WUhzejQzZDA5UnJLUGdGN2F0ZHg4dTlUaGJXc1ZudHNEUFNHVkd2Wnk3RVNnSmhiZkhxM1VLRzRtUDIwYzBVY0Q5N2VScmxaUEUwaW5MVVhyOVNBUnpWUmpyMGNjOFhiTktkalgzUTlMaXFJT2R5ZnNJeFdfYi01NGhEaGpXMGR3VnBSRWFnOU9GcURHdDhGbXJHaW8zWUprMWNaWldxNmp6S3Y2d1NjczBSWm1Wenc4eUFTbko0LV95cUhMcXlKWERFZWVORkdvQXRabHpVM0VPRDZrWUdUYmFZVkVJelo4aW82d1I5UXZhMnhid1cyWms0Y3g2cGU2VEo4SXNFbTdFMUEtdw?oc=5",
+      "date": "2026-11-21T00:06:13+08:00"
+    },
     {
       "title": "國巨高點1220狂瀉75%！郭彥均早停損逃過大屠殺 「超慘虧損數字」曝光 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPZjhCanZ3MHl5b2trd1lfM3VSVkZnb2Q2TXI3NHREWmJsb0FaMU1sUURiRnJMOHJwVFZsNjZROWxmdWctcVJvYkdHbVZMVWEzT25CVUFWREdyTnlPTXZDTlYwZk54OEdHaTV1b0d2VmRZMDljY1BjcEF5YXRsVE5ZUXRYQko4Sk40Z2JtcFM4RHA3YXRQOXBHQ09IWDItaFZQYVlJUW12UmdwYy1CbHBYd2l1TUV4cEFTTVZOek0yMFBPcUhnSUdhWWluVi0yYUExTjdzVFNyM2h2LUN2bEdOU0t3eS05UzhzRlhFYUNvczZieE5Yc25LRm92aWkxNHl2eEdBLURudkhGMkNObXNmalBLeUhWbXJyMmxmVXV2M3dCcmV0YnR4Q3VZMWlkU2dWSHFtajJvUXBhUFBKdmVJalkxYzdxclpNVVV1TnZhX0VOaUFRQ1VpZ21NcHlYdk8za1JRTUN4R1ZMbFJSYTRPU3QzVkNoRGtHcjlySkFZUDhHcF9aamJNNElWdw?oc=5",
@@ -1208,12 +1195,7 @@
       "title": "台中綠美圖周年大展！國巨基金會66件世界級典藏亮相 展期至明年4月 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4UTJxUl9Vdm9EdXRXZ1RTck5qbjZKTG1iaVlVUkVzSjRjRHduQjRKaWFXZks5VENvOWlKUGNERy12NjczeXZOeEZnNk9xMVdtMHc?oc=5",
       "date": "2026-11-20T19:50:22+08:00"
-    },
-    {
-      "title": "2327 國巨* - 【金包銀之國巨*：跳空長黑破三百，帶量探底測二九五！】 - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HaTZtZjlvdXM0LWtyN3RaX09CTXpicm4zSlQ3dGIzdTRaekM0VUJkMlZoZHVwbmtzaVVQVU02RWFhaXBUYlBJY1E1YUVaTjlRVGNLZ0NRTEM?oc=5",
-      "date": "2026-11-20T19:15:55+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T23:20:59.151767+08:00"
+  "updatedAt": "2026-11-21T00:10:38.090579+08:00"
 }

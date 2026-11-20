@@ -47,19 +47,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 223.18,
-      "high": 226.13,
-      "low": 220.5,
-      "date": "2026-05-20",
-      "close": 223.47,
-      "volume": 184201600,
-      "rsi": 61.86,
-      "ma5": 225.492,
-      "ma20": 213.399,
-      "ma60": 193.4418
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 222.29,
       "high": 227.4,
       "low": 217.93,
@@ -1712,6 +1699,11 @@
   ],
   "news": [
     {
+      "title": "【23:45 即時新聞】Arm(ARM) 重挫逾10%／市場消化 CEO 可能轉戰 Nvidia 傳聞壓力 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkt1bG5ZVWwxSVI0cjNsQVp4VFVkYU9yY3VfaUcwRDRCTUE4SG9KNm5qZ3F4NzQxNU90cTV0OEFFYldGcWE2SVB0cGd3X1FKY0tRRVpDRG9oVEV1T1NHeHVkbk5zY0FhSjY3UTJCZ0MtVmhIeDIxRHZMaGN2aTZseXF3SVllZFhKWHNxeXdB?oc=5",
+      "date": "2026-11-20T23:46:07+08:00"
+    },
+    {
       "title": "桌面上的超級電腦實驗室NVIDIA推出DGX Spark HPC開發者套件 - Zeek玩家誌",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92WWJqUXFNZk1YY3JzQlBickFMeWgxbUluODgydEkyam9vT29LZGp3VC1Lbm9faDA1NVhNbHpXaWJwNDg2RmptZ2JSYXd1V3NZb2c?oc=5",
       "date": "2026-11-20T23:26:45+08:00"
@@ -1730,12 +1722,7 @@
       "title": "NVIDIA RTX Spark小型桌上型電腦正式推出 集成大容量統一記憶體與在地AI加速 - Zeek玩家誌",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OdU1mNV9pbVhJX04ydzAwbk1mNnlPR0ZFRVdoR3VpeFVkMnFzYnZQdFpzR2lFSTlUNGduM0NTYmc2VW9jLVc2RWVjaERySi1BQ1E?oc=5",
       "date": "2026-11-20T22:53:49+08:00"
-    },
-    {
-      "title": "【22:31 即時新聞】Arm(ARM)勁跌5%／CEO被點名接任Nvidia掀人事不確定 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlEyNWFHYWhhS2h0MlBPY2tkZlhjODJNMzd1YkMyckZxMW5hM1pCMUxkTU8yazd6V1ZnMVNBZWFDT0JBNkZBNWZLMld2VHNPbkxxMm5RcGhkQ2xnRlJpcURwTVVobzhkMGYySHI5dFJ0UkI0VWMwNVlIdENRMFN3UUxkT1FaUGRld21PRmxR?oc=5",
-      "date": "2026-11-20T22:33:51+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T23:43:29.126370+08:00"
+  "updatedAt": "2026-11-21T00:10:41.571039+08:00"
 }
