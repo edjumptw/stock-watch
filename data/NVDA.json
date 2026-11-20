@@ -9,10 +9,10 @@
   "close": 145.97999572753906,
   "change": -4.98,
   "changePct": -3.2989,
-  "volume": 320588100,
+  "volume": 322940100,
   "bias": "偏弱",
   "performance20": -31.21,
-  "volumeRatio": 1.28,
+  "volumeRatio": 1.29,
   "recommendation": {
     "date": "2026-11-19",
     "action": "減碼",
@@ -37,11 +37,11 @@
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.2818
+    "volumeRatio": 1.2912
   },
   "commentary": [
     "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.21%。",
-    "本日成交量為前 20 日均量的 1.28 倍，交易較熱絡。",
+    "本日成交量為前 20 日均量的 1.29 倍，交易較熱絡。",
     "RSI(14) 為 19.6。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
@@ -1690,7 +1690,7 @@
       "low": 145.71,
       "date": "2026-11-19",
       "close": 145.98,
-      "volume": 320588100,
+      "volume": 322940100,
       "rsi": 19.64,
       "ma5": 154.278,
       "ma20": 185.7285,
@@ -1698,6 +1698,21 @@
     }
   ],
   "news": [
+    {
+      "title": "震撼崩盤：NVIDIA暴跌引爆SEC會計疑雲，短短45天蒸發逾2.5兆市值 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmVQRTN4X2xOcEw5WWF3a0J6NGNuQ0lMZl9XQ2w3Zm0zM0tIc053ZXhpZXZVcEZWZ2R2ZnhsUFhva3FwcmdFUDk3SVBTOUFkNXBPa2xHTmFJWUxZNlM4NW4tdFVvNzRWU3pJRXc4UG1lbFNoZXk4ZnhHdG03a3RIcE5Uc0c1Z2ZfMWZydTFn?oc=5",
+      "date": "2026-11-21T04:08:18+08:00"
+    },
+    {
+      "title": "AI晶片帝國崩震：Nvidia暴跌、Anthropic掛牌難救局，美股從「AI狂飆」走向殘酷換檔 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0xaR0FERFlhVzcweVRWRE41X3BQRHlHZ05faVVfRmFPZUN3QWcwV2RLY2VQbTVnU25UMkVTa1RXOHc0aEIzaTB4eFlobFdBQVlDZDVoc2hWUGVUWjNyMmRzWXUwV0pjb1dPV0N5X0Vsd2xJMGEyOVJMVGRqNUZoM1hnZDZqcHM1WUxVT1NR?oc=5",
+      "date": "2026-11-21T04:00:32+08:00"
+    },
+    {
+      "title": "【03:23 即時新聞】NVIDIA(NVDA) 重挫逾10%／連續七日下跌 主因前執行長醜聞與監管風險、AI 資金轉向 Anthropic IPO - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHo0SW4ya2h3ajl6U3BtSzVRVFdENXpxektCV3RUWjhaSU5VX2NkVjZiMjZ4OWoyajg5QkRxdElCV3ZFVmtibjM2aWttQWJRekpoc1JjWHZNXzlSRUZ1ZkhEX1pWQTRwMFp5aWFJOW0yejlHbi1RX0pFZU1jcnBLOWY4Rk9aMjFJQmlQUkZn?oc=5",
+      "date": "2026-11-21T03:23:13+08:00"
+    },
     {
       "title": "Anthropic、PayPal、Nvidia - TradingView",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY1lkVnJnVkNWV2djN1RPcURrZ05LY1Z1NmYySTZzQlJOQzE2UkszTHVGUi0zUVR0MURJZkdJczgyRmZ1T3Itako1Y1R3SnVKdFRhSUVXdXJGMlNKRHRqYmk5X2VyQ0VtUGRsd3JpV0lBS3pWVkR3?oc=5",
@@ -1707,22 +1722,7 @@
       "title": "美股開市｜納指蒸發今年升幅 Anthropic翌日急插水 Nvidia變「梗頸四」 - 星島頭條",
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ3p1V0x6aWU2UjlOZUo3TkR0b19yUm5NODliTGdMY2QwZVRzYlZHX190MV81R1ZKaFdnNlB5MDBuX2htRDAtMnNrdzhJMkNHRHNLSXdnLV9iYU1DeDlJMXVyT1laQmVhclBSdzBYX3FFZ0NUUE9LTzRXRTFFaDBmTTA0R3JlSWtlLTFwQ1NSTGVHZ1pXbjM0akpxWW9xVUxSa1lBMnNnOU5XV2U0TklBYVY3QnJqcXR5M1hYMHVaT0hjVmtxTDk2NlRoSXYxNHl6dGluRV8yTURnOVhHY1JHNFltcjl2YU5JcG01SlVBRXNHb3ZYeGphZEg5bFFlWjRiS1lkSHQ0RG92TkhIOFFwX2VBd2hyYVJnckNUVHRVZlVHWmh5aHowX3JxU2luQmdwWmdDeUtLVjlWOW14MUwtUlYwaGJiQy0wNkZ0YkxxNzFkdkNBWDJrcVB5QlRwUzI4eE9YNVFRSzEtMEt1aklv?oc=5",
       "date": "2026-11-20T23:56:48+08:00"
-    },
-    {
-      "title": "【23:45 即時新聞】Arm(ARM) 重挫逾10%／市場消化 CEO 可能轉戰 Nvidia 傳聞壓力 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkt1bG5ZVWwxSVI0cjNsQVp4VFVkYU9yY3VfaUcwRDRCTUE4SG9KNm5qZ3F4NzQxNU90cTV0OEFFYldGcWE2SVB0cGd3X1FKY0tRRVpDRG9oVEV1T1NHeHVkbk5zY0FhSjY3UTJCZ0MtVmhIeDIxRHZMaGN2aTZseXF3SVllZFhKWHNxeXdB?oc=5",
-      "date": "2026-11-20T23:46:07+08:00"
-    },
-    {
-      "title": "桌面上的超級電腦實驗室NVIDIA推出DGX Spark HPC開發者套件 - Zeek玩家誌",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92WWJqUXFNZk1YY3JzQlBickFMeWgxbUluODgydEkyam9vT29LZGp3VC1Lbm9faDA1NVhNbHpXaWJwNDg2RmptZ2JSYXd1V3NZb2c?oc=5",
-      "date": "2026-11-20T23:26:45+08:00"
-    },
-    {
-      "title": "【23:24 即時新聞】NVIDIA(NVDA) 重挫5%／延續黃仁勳醜聞與監管壓力，強勁財報難挽投資信心 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0ZNVnM1ZFJ5ZGw3RE5ma2NoUHNXdHllbXFBOHkwcmZWMGR0NUM2Y0I5NDdzZ1V1WmRNaWpQOUdYbmhSaXFBRy1fazFMZFNIUVF5bVVVT2M0cmliRkhEbXVTQWpuTnprczNPdVdrQ2REVVNDXzRtQWpfQ1J3RzdSTGdXYVV4bW12anJtRDVB?oc=5",
-      "date": "2026-11-20T23:24:21+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T01:00:29.053988+08:00"
+  "updatedAt": "2026-11-21T04:30:09.378860+08:00"
 }
