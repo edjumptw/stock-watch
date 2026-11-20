@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:21:11.215351+08:00",
+  "updatedAt": "2026-11-20T23:43:37.953260+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -3631,9 +3631,19 @@
       ],
       "news": [
         {
-          "title": "財經趨勢4.0｜台積電這招徹底卡死中國AI晶片研發？傳16奈米以下全喊停！ - 新唐人亞太電視台",
-          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOR2lNdWZ3NksyRVc2OVh3UlZaNUxNc3I1YTZNbFFzZzF4VlhHSVg5NFhkLVlKQ1djbUVQd3k2OGxJUU0xazRtSFU4VnE1UlVOOGtTOEg5MFQ3andsTmMtcFpSbGhyYzY3N0tWSExrcnFrRnFhMWpxcGVFVTRJRzlYSEJFcWIxeGt0RElxc1hwcjU3WXFySmo5Y3FwS3I0TVhYOXpXdk1wcUNiYng1U1NpTUFHWTI3TlFVY2tCZjJZWmpJU1RhME53UGE1MmxYUzBvMVFsRF9wRm5XRkNlTFA2ZDNxVUl6cXhkSWpndzFKYzIwS1BoTi1GdXk0SWMzSjVZUVJWdGdNUkNDYW5XZnBsclp3eXFxanRPNTRDTW1tdXJHWDV4dHhaTmxKdHdPbjFEVTNDcDd2QW1wTlMxeDBrRXVQajM5MWh4ZHVXU3pEb091T0duamZDVU9ObmJlT00xc215X09rQ2xyT1N3RHlDLXctRU4tU1JtQzkwaDg0MG9SalNWY0ZacmRWd19HV1JHaW5fMm5sajdZeWJPNE5KaEZ1UjVZWk52YkM0ckItazVTZ0NrZUJNZGZsX3MtNk9tb0hPTllmaHFmUXdsRERPME1ldm1lMms?oc=5",
-          "date": "2026-11-20T23:05:12+08:00"
+          "title": "AI拋售未止血！費半、台積電ADR跌逾4％ 那斯達克今年漲幅縮至1％ - 自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGVjBkVTlOTVJTd0RQc2lQRVZPa2tEZVZUVUJVZFhuNG16WU1MMVhBVzhrU3pLZWZ1bkdBR0V0bTYyRFA0YllfYXF6TEJzeGs4QWMwM0Q5dFA0TS1CS0hR0gFkQVVfeXFMTkpTaHB0T1pFdG9qLVJzRnpkRzdZTjFHcHpNY2FfdEVMSU5KTUhMUFJsQjBmNjI3OFFtYm9faWhRUHRvSE8tOURlNUxuRDBHNlZfRk4xSUFiX1Y4RjRLbFVLZUNZUg?oc=5",
+          "date": "2026-11-20T23:26:28+08:00"
+        },
+        {
+          "title": "2330 台積電 - 費半那指續跌，融資大減491億，真正的大場面在下星期- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iWHZ1enBwOExXVWxoY1lnOWlxVl8yS1d2UVVKVUs1SzdBX0pzM0w2VzRFV1pPVEpHMkVEZ2k4UHhrUHIxYmw2SDJuSE9wYjB6QkQzcnhaWXc?oc=5",
+          "date": "2026-11-20T23:20:56+08:00"
+        },
+        {
+          "title": "2330 台積電 - 輝達本益比15倍 - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqZk0yR0tPcFNWT1N2ODJxYlk3aTZOOFZjektXbV9PRFVtWHFXM1BBQzY0dl8xNmVxa3VucGp4MlI5LXc1Tk5PUjBGNHNwSlp1cHhjR2NEbW4?oc=5",
+          "date": "2026-11-20T23:12:23+08:00"
         },
         {
           "title": "科技股無盡黑夜！美股費半9000點瀕臨失守、台積電ADR重摔4％ Anthropic一度狂挫9％ - Yahoo股市",
@@ -3644,19 +3654,9 @@
           "title": "台股重挫散戶進場抄台積電、0050！曬超甜成交價嗨喊：遲來雙11折扣優惠 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQUTY2NnZfbGpDS3JobXZqcm41LTF5TUhXMTl3RFh2ZVlVOHFqR0Voekd6dDZoNUFKQlo0dmVCcGNjdkc1RGlxUmdmMTBFQVAzeE1ZWEdPVkNqcmNCX0dtbHFFVllRV3ZSaHVSVTJhZl9QV2lYbWt4VWVMcnVQZG1xLURoLTM5clpaUFgzQnFxRGh5U084REVoS01UdTRkTFR3SFJuUTZ0V3o0aWNES3hhdzdMU0I2UzZ5ZHpjZTFHdlNCbXVaR3JQUkNMSGhVS0QxY3NXd0NnYW1ndTVKWUE1UjBaTEZLQlR6Yk1paU1WczBpbnl4TFdMWE5tTXFoM0JfakI1LU1EbF80UFE5TWltVkVnbTRPVGZuNDlteGJORDNEMlJ4VnNkZ0ZFVEVrWHNmY0ZzeW5aUEZtczJDd2kwWXBBWUVqNjFUMmJXemk5bkl1M1VOSmRwSVZMWlpnVlhRLVJ6WkVXamlMMUIzb2E3UUhSa2t4aGdJSTVNVXZOOUtMVTkza3RXX3Qxak94SkhTV3AzYmZjOE1iQ1JCOHA3Z1hkUQ?oc=5",
           "date": "2026-11-20T22:52:00+08:00"
-        },
-        {
-          "title": "美股開盤繼續殺！台積電ADR重挫4.65% 台指期夜盤卡35K - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZEptUG1rQV9tS2VtdDUxNlE0SlFIZ1JNNDAzcEZyUU5sYVpBaGtSUkZfOW5rcl9GbE9IRU9tT1h2UUxqUEdfU3hhbmVpSURMcE5jUTYyUlZXX25jbFl6SUlBaGdMcEVTZ3VyVlJEOFB3SnI4Ni01eHkyOUJJUEw1X3FGTk5IZXVlbGd4YXQ3WEl5WkhKd1VwMTlwQXNFQXFsS3JDemQ3OGJTdVdsd0JSS3FpeWMwcU5CYXNzbzFFZ1Z2OXhoRHVVcTdISlRCZzBKcG1yLWhkVnM4SkZ1em1IVGJDSUcySHVCLW9kQTA1SkEyYzgyU05MX0ZoYnlMSHJJbHRmb0t2MWs2RWxiR0dyME92SHNTNm9KOEptWXk2dUg3SEZBSDNQQzlndV9yTGhBNXptbEVaN2hZS2c?oc=5",
-          "date": "2026-11-20T22:47:00+08:00"
-        },
-        {
-          "title": "美股開盤「AI股續跌」！台積電ADR慘崩4.50％ - ETtoday財經雲",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmQklGV2FyUEF2M2Y5NlIxMURrNDFVQVJwejF1aHA5Y0JPYXJCRlZvM0t2Q1dRb05CalJsSkNKa01wazQ4MGsyVERjN3JpTnNXblHSAVBBVV95cUxNMENfYlAyNG1BMUEzLXZBWHlsYVZjSkQ0Wlo5bUFUVDdPamJtbm1neDFKMnR0UmlwQlpvZVI4bFVseWN4aUo5S0hvaWRCUTdtUQ?oc=5",
-          "date": "2026-11-20T22:38:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T23:21:01.213789+08:00"
+      "updatedAt": "2026-11-20T23:43:26.992276+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -4860,22 +4860,22 @@
           "date": "2026-11-20T15:18:00+08:00"
         },
         {
-          "title": "光寶科「Powers AI」赴德參展，秀跨領域整合實力 - 台視全球資訊網",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEtvMEk1SkJuTnI4M2xqUG80d3VSM0xTendUdmktNlR6RXFDMFhXU3IzWVB5WndCcW5kXzlOUW5TUFBsVGp5dzVVYXRmY3ZMM0s1UTBQTW9VV2d1Z1V6TjlsWDZiVmhYWk1pcUwwZW1oNl9ONkJqYzlybmN6c2lEUm5fbmtWeWVLWml5ZUY4NUpnUQ?oc=5",
-          "date": "2026-11-16T12:35:55+08:00"
+          "title": "希達數位COP31發表碳資料平台攜光寶科、羅技推供應鏈減碳- 產業 - 工商時報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DejI4MTZFSkxJSXVsalVjVFdGNVBhM0VNSlpyc3BxOUdFLVNoeW4wS2Z6Tmt3NUh4S2hTajlXX2JwVTEwTHc0MmlueWc2UEN3ZjFnYmRJWmRMM01NdHQw?oc=5",
+          "date": "2026-11-20T14:04:00+08:00"
         },
         {
-          "title": "光寶科永豐67購03 有戲 - 經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxVUR5OVA5dWtMUm5LdmR5S2FibHNrbS1rbElZSlVwUi1KalpzOXlKVTZyYWRhNXNSdUFyRzR2RVQtMTNyX1BvOG5pSFBwQlhzNFpEcnZ0TXZXZ9IBX0FVX3lxTE1hcVM4NmtCVVVUY0dSRXMydmgxTExIaVZlQk4tN2RvMDhIZE1pLXBHeUxpZzB6RzR6bXpuZkdicVo3azBpRDVMNmk1UVhWc1VPRUNqQjZ6N3BHU2ZINmIw?oc=5",
-          "date": "2026-11-14T23:20:11+08:00"
+          "title": "營收創10年新高！「這光電黑馬」逆勢台股崩跌目標價被喊上285元…EPS衝刺22.57元 800VDC電源機櫃挹注 - FTNN 新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yQUV6ajN1akhDcG91b05CUFVzTXVBWjd5TjNhUERwdjhOZ2JmOVpscnVIYWJkM1VyUDlZZ2FWSTAxUDcyeFoySzJaZw?oc=5",
+          "date": "2026-11-20T13:10:00+08:00"
         },
         {
-          "title": "光寶科光互連新品齊發，800VDC電源明年放量 - 台視全球資訊網",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXdDVG10VEZKUEk1T3dyMExtdmpCclVZVHh1ZUdYR3pSTU4wLTEySTJicTV6V3FXb3JRSjZIeXQ3a1MtT29VOVREa0F1Y1hpQnNIQ3dYZ3hsbEt5Q2kyc200djBSclJLR0lBOXFxbk9vOUd0N2tTTllHbjViZlZGdWJiRzFINEw5RnkzMFZKM0JSUQ?oc=5",
-          "date": "2026-11-12T12:05:21+08:00"
+          "title": "缺料、出貨延後疑慮？外資看台達電、光寶科後市 - TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenlkRzdqejhMVkpkMFVZVllFS1BVY04xa0RYRmgwNnhIU1VjOGZVLWpyZTZBWHpGb2hDWk9BY05BMUI1SDVCbnVVcXN4cnpWVEUwWl95Vmd4VUR4SklhWC1VUUUzampRcHlVN3VsQUc3aVRmeHNZckZBSDl6WGFCTDZlaXUyQ2N5dzByS3ZvWGVlSWJkTGN4MlJwei03SDFyaVdiQzRNYndGM0JxNUhrTWVJSEcxV2hZajBmLVBDMFhmb0xjNVpR?oc=5",
+          "date": "2026-11-20T11:10:14+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T23:21:01.984133+08:00"
+      "updatedAt": "2026-11-20T23:43:27.707534+08:00"
     },
     {
       "symbol": "3711.TW",
@@ -7810,32 +7810,32 @@
       ],
       "news": [
         {
+          "title": "桌面上的超級電腦實驗室NVIDIA推出DGX Spark HPC開發者套件 - Zeek玩家誌",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92WWJqUXFNZk1YY3JzQlBickFMeWgxbUluODgydEkyam9vT29LZGp3VC1Lbm9faDA1NVhNbHpXaWJwNDg2RmptZ2JSYXd1V3NZb2c?oc=5",
+          "date": "2026-11-20T23:26:45+08:00"
+        },
+        {
+          "title": "【23:24 即時新聞】NVIDIA(NVDA) 重挫5%／延續黃仁勳醜聞與監管壓力，強勁財報難挽投資信心 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0ZNVnM1ZFJ5ZGw3RE5ma2NoUHNXdHllbXFBOHkwcmZWMGR0NUM2Y0I5NDdzZ1V1WmRNaWpQOUdYbmhSaXFBRy1fazFMZFNIUVF5bVVVT2M0cmliRkhEbXVTQWpuTnprczNPdVdrQ2REVVNDXzRtQWpfQ1J3RzdSTGdXYVV4bW12anJtRDVB?oc=5",
+          "date": "2026-11-20T23:24:21+08:00"
+        },
+        {
           "title": "AI 核心供應商陷入「國安風暴」：Nvidia 前 CEO 緋聞如何撼動全球晶片秩序？ - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjVUWGhLOUtWTUxhYzg0YUp0a2xWdFhMYV9lSVdBVjJ5TTFZa3g1VTlWRWhXYzZCWGs5RGd5Z1E5REM5aDlISHpTWE1sLV9YUHRjbDJGVEFZQ2NqVFlBWGdkZ3gxRURMNF9Sb2J0aF9ZQ2JEenJKWGUyVlhMUzRQaDYtRDRsOHFYYnFCbW13?oc=5",
           "date": "2026-11-20T23:00:25+08:00"
         },
         {
+          "title": "NVIDIA RTX Spark小型桌上型電腦正式推出 集成大容量統一記憶體與在地AI加速 - Zeek玩家誌",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OdU1mNV9pbVhJX04ydzAwbk1mNnlPR0ZFRVdoR3VpeFVkMnFzYnZQdFpzR2lFSTlUNGduM0NTYmc2VW9jLVc2RWVjaERySi1BQ1E?oc=5",
+          "date": "2026-11-20T22:53:49+08:00"
+        },
+        {
           "title": "【22:31 即時新聞】Arm(ARM)勁跌5%／CEO被點名接任Nvidia掀人事不確定 - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlEyNWFHYWhhS2h0MlBPY2tkZlhjODJNMzd1YkMyckZxMW5hM1pCMUxkTU8yazd6V1ZnMVNBZWFDT0JBNkZBNWZLMld2VHNPbkxxMm5RcGhkQ2xnRlJpcURwTVVobzhkMGYySHI5dFJ0UkI0VWMwNVlIdENRMFN3UUxkT1FaUGRld21PRmxR?oc=5",
           "date": "2026-11-20T22:33:51+08:00"
-        },
-        {
-          "title": "Anthropic、Nvidia、PayPal - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxeGlhZ293M0tjT0RIbVMza0FETnFxNVRqbF8tQWdacUdfYzV3R2ctWHI5NFo3QWFLSlhhSFpseVJaWWUta0tpbDB0VHNHUDlna0ZkMDl2djA4M1BEY1VNQWFzUlJSZXFWYzRCcEw4c0xjWC1HR2tR?oc=5",
-          "date": "2026-11-20T22:16:26+08:00"
-        },
-        {
-          "title": "【漫圖秒懂】川普APEC鬆口：NVIDIA Blackwell未來過時 仍有望放行輸中 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VYWdjMjZoQ2FqOGF5N0ZGcHo4SzBCUjhmMi1SVm1aS3p5V3hCYkVGY3h4Wmo3X0I5Nl84bXFBbFBjNG1DMlZhaWo1Um5jaXhXYklTaV9TT1k2MDhONnpOa3ItTHpiUml5SXA0?oc=5",
-          "date": "2026-11-20T22:00:00+08:00"
-        },
-        {
-          "title": "標題 : GF證券：伺服器CPU「砍單」傳聞被誇大 Meta轉單NVIDIA、AMD迎來份額機會 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXRDazdNeHJLMlgxTDdYY2gyNi1zWUttaEYzWmxBbEpTWUh2NW1BbUt5MGpjckRtUzR0bUZEMmxjTklCbjdRSGhkWWF4aHFlemtNQ2tYY21nZXAtZjBORVhXcG04TFFONDk2RmprRUp5amJkYjNxb05MTEpmQkxkZGlhQWMtX3A1MEVCRl9B?oc=5",
-          "date": "2026-11-20T21:02:20+08:00"
         }
       ],
-      "updatedAt": "2026-11-20T23:21:03.796921+08:00"
+      "updatedAt": "2026-11-20T23:43:29.126370+08:00"
     },
     {
       "symbol": "TSLA",
