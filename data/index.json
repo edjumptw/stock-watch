@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T00:10:47.809964+08:00",
+  "updatedAt": "2026-11-21T01:00:35.549687+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -2376,9 +2376,19 @@
       ],
       "news": [
         {
+          "title": "焦點股／大摩重申目標價3088元！台積電仍跳空挫逾5% 陷2000元保衛戰| 產經 - 非凡新聞台",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51ODAzMU1wdkp3MldKeFJERUN3QXNLNnJvOG92WmtPV0lpZmdBY2VZMlR3ZXh2WWt4NEp3UloxS1AxUXhjTHQwd3FTLXo2SndXUktVcTFHaDd1UmVxbDd5b0kyanMxbGRLQnlicFJ3?oc=5",
+          "date": "2026-11-20T23:59:44+08:00"
+        },
+        {
           "title": "【9月不小心入手台達電！兒童台姐姐一早看股市：到底什麼時候該下車】 誰還住在套房～～～ （#豬頭皮） - Facebook",
           "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNRHRfanRUWGJvbDhHLVZXWjFuZUw4UFR6TFNkZTdmNEdSNklvOHFJM08tV3pPdlVFc2JKR01nTzZKWFNJczR0R1hSamlRaldlbk5hN1VhblZ4Nm5IY2FZNnltWlhPRkdQTXJadm5FeWdoRDBycmJWXzg4NmJoeXdkR3RObFpHaTNhQUM0M3AtRkJ5aVgtaGI3UUtpLWd6MlU1elpvVGFOUmtqOEtyT1laM0E0bzRTbHJyWkliU013YkJTc1RJN1BDMUZTVkNaTWkwZ3BsY01XOWVnQkh2ZTdOaW5QVkRyWUtWYWxlcW5MRDlja2ZJLWRUcjZacTFhb1FtYmFtWllXeXpab09zcTZpUjltaW1mQlFtRmV2aEtkWk1QbkNKUEoxRm1qekFRdHVlVXBpamVtSUZVYU1hVnl1VENyWUZ3bjc2MmtwUzlqZXBNWGt6S0FaZjhDWGJDUnYya0tUVDJOQndqVU9JZEVrQmZaWGhLeVBGWUp0MXRIR0g2cVA1OUZQZ2RxWlJ4ZG1rRWlQTjBlNHprRTJFWW91ZXpaS3lXSzhrOWkxb3RfLWJLaFNDa0d5X2MySG84aVFHVk1NT3U4S0M0OEpIejVKakh4eFhHd3lmZTh0bkpqTy0xLXFqcXd1RVRoYVA4RDBWb2xwLVBRWHNjLVg0SXZKREEzV3g5dzZhY0FnNnpONnItaFpFSTg2S01zcmQzQ18wWVVXV1N2bw?oc=5",
           "date": "2026-11-20T22:48:58+08:00"
+        },
+        {
+          "title": "焦點股／台達電跌停摔破千元 較高點跌65%！外資目標價仍喊2300元 - 非凡新聞台",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HQk9BekV2Q2s1QWtCZDVLaFBuVnFaakJmdjlsaTNNYWQ1cFgwU2NUNDFyVllDRFZMNUdwQnBNdzAxV2UwN1FKN1BQQ3pfa1M2X0JYelZEb3JxM3F2MkZFOA?oc=5",
+          "date": "2026-11-20T21:24:27+08:00"
         },
         {
           "title": "台股摜破年線進入空頭？杜金龍示警「最後防線」！鴻海台積電台達電...1指標判斷弱勢股「切勿摸底」 - 今周刊",
@@ -2389,19 +2399,9 @@
           "title": "台股單日崩跌2393點寫史上第三大 台達電吞跌停、新手投資人套牢成話題 - BigGo 財經",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU2cyZ0xRTjhBaUVkTl9meU14aFJ5ckZxc3dqWWlFek92SzVIMTdVWlFBdjliYWVobWJaZ2hKSTVkNlAyQy1mcDRnWHloR1BTcnE0dWZQT3NJWlZ0bVhHWm9wbWl1SjVXdXZOT0NmUmtCVkhPMGVNS3p3?oc=5",
           "date": "2026-11-20T19:56:00+08:00"
-        },
-        {
-          "title": "台達電深化AI電源布局 攜手戴爾、安川拓展商機 - 自由財經",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92cmdsRmVKZmVjZVZ3RTlJNWtBOE1kZkN0STdhdnZsX2d0dzRlSERpem03TVVjeWlRcTF3QUhReVlVMFZhMEVFcUk1NEo4bmpDaXB5ak5aYmlkWnFIZlBN0gFkQVVfeXFMT2JjY0JDY1c5aV9ybnFlZExsdG1FaGFUak91MlNHYUJfVmNseFZTanRiR29wcDhCOEQteVpENHZoSDJfTWZTcnRydFpkWFN6SGJhLW5qYlk2Y3ZVTUxzbkcyTHl1OQ?oc=5",
-          "date": "2026-11-20T19:25:40+08:00"
-        },
-        {
-          "title": "72萬股民欲哭無淚！「這檔」跌停失守千元 一張帳面現蒸發10萬 - 三立新聞網SETN.com",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JdlpQYVVIVHFsNUQyMmV3dTQ3NEdncG9DT0NCNjhfTHdCa2dMOFQxZldFdmx2Skp2b2JPZHlQRjY5VkxUeDlhMTRqdw?oc=5",
-          "date": "2026-11-20T19:15:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-21T00:10:39.040137+08:00"
+      "updatedAt": "2026-11-21T01:00:26.384237+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -3577,32 +3577,32 @@
       ],
       "news": [
         {
-          "title": "AI拋售未止血！費半、台積電ADR跌逾4％ 那斯達克今年漲幅縮至1％ - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPSEFwOVAxYTFjYVlOZXVmZklGRWhhcERwakdEcElYNUwzUmVTWDBza3dXN2F4NlV0OG1DSy1RemoxMnpYaGhCenVBd3paSFdsWnBka0xOU20?oc=5",
+          "title": "快訊／費半、台積電ADR皆挫逾6%！台指期跌642點暫守35K大關 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYldCX2x2ekp4V2lqT3hfZzg3Ny02VW5VbUpzWF9ZaEdKZVBabHgySDhCMU9ZbDFic25XaV9jRk8wLTh0S3hVV0Y2bWI1R0dnOEJoTFVVc2hYUHZNVUtaRFlNVC1yS28zTkdrOHJlVzE0WF9CTXJSOW9xajFHVHU2S1c5WFhtMVpLek5fUUNqeTJEa2dlX3QxYzRjN3AtS1lrM3B0YmhOQWhZY0dDeWhGS2swTGgyangtOGZFb093elZFcV9Cd19CYy1TRWpnWjVzVm5vV0huSTBRaERmVHFWVndjWWZOMDNIblFVRGo2Z0x0STRabDNUSF9ONWgyS1NYbTFoSkZsMHMzY0gzTDV1YVJKaXZTVlFzTmQtbUlzRHUxcmNwTTZKTzBhVHctSkx0dmFzWm5EY0czMU9RaHdiWDhLZldJUFVK?oc=5",
+          "date": "2026-11-21T00:31:00+08:00"
+        },
+        {
+          "title": "2330 台積電 - 今天台灣降下初雪....冬天真的來囉^^ - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvc0J0NUFEazBKanY2YmFyQVF3S1haZV9oalNwYngwZ0VWdXJUNU5XRGNISTM0WVRpdl8tSDhyQmpOcVZCRS0yN0pvOUNjWDQ5Q1dGbXZxZkw?oc=5",
+          "date": "2026-11-21T00:14:25+08:00"
+        },
+        {
+          "title": "焦點股／大摩重申目標價3088元！台積電仍跳空挫逾5% 陷2000元保衛戰| 產經 - 非凡新聞台",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51ODAzMU1wdkp3MldKeFJERUN3QXNLNnJvOG92WmtPV0lpZmdBY2VZMlR3ZXh2WWt4NEp3UloxS1AxUXhjTHQwd3FTLXo2SndXUktVcTFHaDd1UmVxbDd5b0kyanMxbGRLQnlicFJ3?oc=5",
+          "date": "2026-11-20T23:59:44+08:00"
+        },
+        {
+          "title": "盤中速報 - 台積電ADR(TSM-US)大跌5.04%，報334.33美元 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zcGpNcW5fTXJ1ancyTWRpWTV3WUtSVnYtbnl5T1pJSkJPeXNGSEtOOWd0NWRucjBOclV3LWtCWWpsMW9PNVQzdE9VWXh2cEhuRUdlOHJCYnNGalRoWWo0YzFKMW8?oc=5",
+          "date": "2026-11-20T23:34:51+08:00"
+        },
+        {
+          "title": "AI拋售未止血！費半、台積電ADR跌逾4％ 那斯達克今年漲幅縮至1％ - 自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGVjBkVTlOTVJTd0RQc2lQRVZPa2tEZVZUVUJVZFhuNG16WU1MMVhBVzhrU3pLZWZ1bkdBR0V0bTYyRFA0YllfYXF6TEJzeGs4QWMwM0Q5dFA0TS1CS0hR0gFkQVVfeXFMTkpTaHB0T1pFdG9qLVJzRnpkRzdZTjFHcHpNY2FfdEVMSU5KTUhMUFJsQjBmNjI3OFFtYm9faWhRUHRvSE8tOURlNUxuRDBHNlZfRk4xSUFiX1Y4RjRLbFVLZUNZUg?oc=5",
           "date": "2026-11-20T23:26:28+08:00"
-        },
-        {
-          "title": "2330 台積電 - 輝達本益比15倍 - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqZk0yR0tPcFNWT1N2ODJxYlk3aTZOOFZjektXbV9PRFVtWHFXM1BBQzY0dl8xNmVxa3VucGp4MlI5LXc1Tk5PUjBGNHNwSlp1cHhjR2NEbW4?oc=5",
-          "date": "2026-11-20T23:12:23+08:00"
-        },
-        {
-          "title": "台積電差點失守！賣壓衝擊台股 陸行之：老天爺發2000元以下「神山牌週年慶禮物」 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNTm9tSGFzbTZFc01ic1pUVy1ObjFNZlA3bEg0VDFwdDlaRjFxdjNXcWdTS2ZrU2d0eTlzMEp6eFFzZmhlUTZfRXhLVnBGcC1zR3pPWF9GeHQxSWd3eTZ3TGtacUkzcm01dC1RTU5HLUFlVFBGUWZHMDlvcUxiYUhScTV1MzRUOU1YNUE3SlN2RW9Bb29FdDNlaHBHQ1dmendnSy1jYXQzVXNNUHVWcWo3UTlwR3Y4Qm8xV29QLVh5SlhYR1VhTVpHNU8zVUNNQTl2RkVOYzNEamdsYnhSeEgtdGM3OC1TVTdncmdDSDBPYVZxMHF6WWExZ01qQnl4QU1yd2c3WmVBUXlpRGpPS1lfY3NpNTFEa1F2X2x4d2dsNG52VXljV1NFSkMwcm5zd04tUVlKUXNNRkU1c1lLazFUT3pBZEltUTU0U1F4cWZEaEFIQWtCWWdreFFJNDJEUUhFb1lUbW02TTFwVmRURVZ3WEtXMnA5cjJLN2lMSlVvR1hLYVpPNFhrZFN1SWpadnNUbVhIS01YQ19zUHVCazY5OEw4UW1ZYmpuWWZlMTl6aGl0YmQzWDZfTHNQSUdkYmZsakFBTG54SFZrMzhHUGlJTG13?oc=5",
-          "date": "2026-11-20T23:09:40+08:00"
-        },
-        {
-          "title": "財經趨勢4.0｜台積電這招徹底卡死中國AI晶片研發？傳16奈米以下全喊停！ - 新唐人亞太電視台",
-          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOR2lNdWZ3NksyRVc2OVh3UlZaNUxNc3I1YTZNbFFzZzF4VlhHSVg5NFhkLVlKQ1djbUVQd3k2OGxJUU0xazRtSFU4VnE1UlVOOGtTOEg5MFQ3andsTmMtcFpSbGhyYzY3N0tWSExrcnFrRnFhMWpxcGVFVTRJRzlYSEJFcWIxeGt0RElxc1hwcjU3WXFySmo5Y3FwS3I0TVhYOXpXdk1wcUNiYng1U1NpTUFHWTI3TlFVY2tCZjJZWmpJU1RhME53UGE1MmxYUzBvMVFsRF9wRm5XRkNlTFA2ZDNxVUl6cXhkSWpndzFKYzIwS1BoTi1GdXk0SWMzSjVZUVJWdGdNUkNDYW5XZnBsclp3eXFxanRPNTRDTW1tdXJHWDV4dHhaTmxKdHdPbjFEVTNDcDd2QW1wTlMxeDBrRXVQajM5MWh4ZHVXU3pEb091T0duamZDVU9ObmJlT00xc215X09rQ2xyT1N3RHlDLXctRU4tU1JtQzkwaDg0MG9SalNWY0ZacmRWd19HV1JHaW5fMm5sajdZeWJPNE5KaEZ1UjVZWk52YkM0ckItazVTZ0NrZUJNZGZsX3MtNk9tb0hPTllmaHFmUXdsRERPME1ldm1lMms?oc=5",
-          "date": "2026-11-20T23:05:12+08:00"
-        },
-        {
-          "title": "科技股無盡黑夜！美股費半9000點瀕臨失守、台積電ADR重摔4％ Anthropic一度狂挫9％ - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOandsX1RweTJ4R2xEcU4zMWpOTjJwY3F5bDlKMGlmeWhKX1hUNG1RUGV4cXZDVURIMUVKaU56ekl5VDlzcEk1bjBPckJqX2U5N3hubmRmaTVPdGY1NkJUNVZJS2V6M0FIaU9YS3UwUVZzUHRhb2dKMlBCbWpNc3NGYVloek15MzNVX2p6VVQ0eXA3eTdjaU1RT1FpRWRlbkpJaTJSUmtRbjEyNkphLXZlbTg1Z2plNFVzbkoyMGhxaHpacW9TUFY4enpyb0FjMXdNMjRlS2tUSjJ6c254dmJGQjkwX3pVSlc2OXV5WHpFakRLYnMxd1dHSFpITlM4cFFYMG1kR1cxdHlVdDQtWElXODhvYlZrdHpCMkp5ZHhVRVpfRlFud1BFd2tRTE9JUHpQcVJLT29vY3lGSEE4ZlZpMXpmZ3g2R2I0SmgwNlJMOS1iWS10dU1sZklZRnZNbzJJWERfUXktbnphemkyVXJVckRUTlhsMUFMM2NiRUJoSkE2TERJaDdHWGRGNDRnYXozeVM0Wnk4ZHg?oc=5",
-          "date": "2026-11-20T22:52:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-21T00:10:39.707222+08:00"
+      "updatedAt": "2026-11-21T01:00:27.090178+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -7707,6 +7707,16 @@
       ],
       "news": [
         {
+          "title": "Anthropic、PayPal、Nvidia - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY1lkVnJnVkNWV2djN1RPcURrZ05LY1Z1NmYySTZzQlJOQzE2UkszTHVGUi0zUVR0MURJZkdJczgyRmZ1T3Itako1Y1R3SnVKdFRhSUVXdXJGMlNKRHRqYmk5X2VyQ0VtUGRsd3JpV0lBS3pWVkR3?oc=5",
+          "date": "2026-11-21T00:11:26+08:00"
+        },
+        {
+          "title": "美股開市｜納指蒸發今年升幅 Anthropic翌日急插水 Nvidia變「梗頸四」 - 星島頭條",
+          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ3p1V0x6aWU2UjlOZUo3TkR0b19yUm5NODliTGdMY2QwZVRzYlZHX190MV81R1ZKaFdnNlB5MDBuX2htRDAtMnNrdzhJMkNHRHNLSXdnLV9iYU1DeDlJMXVyT1laQmVhclBSdzBYX3FFZ0NUUE9LTzRXRTFFaDBmTTA0R3JlSWtlLTFwQ1NSTGVHZ1pXbjM0akpxWW9xVUxSa1lBMnNnOU5XV2U0TklBYVY3QnJqcXR5M1hYMHVaT0hjVmtxTDk2NlRoSXYxNHl6dGluRV8yTURnOVhHY1JHNFltcjl2YU5JcG01SlVBRXNHb3ZYeGphZEg5bFFlWjRiS1lkSHQ0RG92TkhIOFFwX2VBd2hyYVJnckNUVHRVZlVHWmh5aHowX3JxU2luQmdwWmdDeUtLVjlWOW14MUwtUlYwaGJiQy0wNkZ0YkxxNzFkdkNBWDJrcVB5QlRwUzI4eE9YNVFRSzEtMEt1aklv?oc=5",
+          "date": "2026-11-20T23:56:48+08:00"
+        },
+        {
           "title": "【23:45 即時新聞】Arm(ARM) 重挫逾10%／市場消化 CEO 可能轉戰 Nvidia 傳聞壓力 - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkt1bG5ZVWwxSVI0cjNsQVp4VFVkYU9yY3VfaUcwRDRCTUE4SG9KNm5qZ3F4NzQxNU90cTV0OEFFYldGcWE2SVB0cGd3X1FKY0tRRVpDRG9oVEV1T1NHeHVkbk5zY0FhSjY3UTJCZ0MtVmhIeDIxRHZMaGN2aTZseXF3SVllZFhKWHNxeXdB?oc=5",
           "date": "2026-11-20T23:46:07+08:00"
@@ -7720,19 +7730,9 @@
           "title": "【23:24 即時新聞】NVIDIA(NVDA) 重挫5%／延續黃仁勳醜聞與監管壓力，強勁財報難挽投資信心 - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0ZNVnM1ZFJ5ZGw3RE5ma2NoUHNXdHllbXFBOHkwcmZWMGR0NUM2Y0I5NDdzZ1V1WmRNaWpQOUdYbmhSaXFBRy1fazFMZFNIUVF5bVVVT2M0cmliRkhEbXVTQWpuTnprczNPdVdrQ2REVVNDXzRtQWpfQ1J3RzdSTGdXYVV4bW12anJtRDVB?oc=5",
           "date": "2026-11-20T23:24:21+08:00"
-        },
-        {
-          "title": "AI 核心供應商陷入「國安風暴」：Nvidia 前 CEO 緋聞如何撼動全球晶片秩序？ - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjVUWGhLOUtWTUxhYzg0YUp0a2xWdFhMYV9lSVdBVjJ5TTFZa3g1VTlWRWhXYzZCWGs5RGd5Z1E5REM5aDlISHpTWE1sLV9YUHRjbDJGVEFZQ2NqVFlBWGdkZ3gxRURMNF9Sb2J0aF9ZQ2JEenJKWGUyVlhMUzRQaDYtRDRsOHFYYnFCbW13?oc=5",
-          "date": "2026-11-20T23:00:25+08:00"
-        },
-        {
-          "title": "NVIDIA RTX Spark小型桌上型電腦正式推出 集成大容量統一記憶體與在地AI加速 - Zeek玩家誌",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OdU1mNV9pbVhJX04ydzAwbk1mNnlPR0ZFRVdoR3VpeFVkMnFzYnZQdFpzR2lFSTlUNGduM0NTYmc2VW9jLVc2RWVjaERySi1BQ1E?oc=5",
-          "date": "2026-11-20T22:53:49+08:00"
         }
       ],
-      "updatedAt": "2026-11-21T00:10:41.571039+08:00"
+      "updatedAt": "2026-11-21T01:00:29.053988+08:00"
     },
     {
       "symbol": "TSLA",
@@ -9439,6 +9439,21 @@
       ],
       "news": [
         {
+          "title": "意大利搶先歐盟 Tesla輔助駕駛獲臨時批准 - 大紀元",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5YzBQMWw1UTBPdGk3NmdZZDNlVl9Rem8zTVFwQ0VtOXc1R0M1d1N3RDFvY2lSWm9BbmxpT3czdGl4MUJJRktUMUpWb09VblNkR0JFU0xZWHQtQ0loYVpGQ3lR0gFnQVVfeXFMUHcwdnhyZC10UTQxZ0pyVE9NTjBLMk0tend6MnJNRGZMdFhDREpSRHhUWnVrbXhDZU1zMDZPazN4anQ3bEhlTVd3a0JGdUFyaUtOZzJweVBYV2EycWVOTktUYjBGWXFJcw?oc=5",
+          "date": "2026-11-21T00:51:00+08:00"
+        },
+        {
+          "title": "【00:42 即時新聞】Tesla(TSLA) 跌5%：AI 信用風險升溫、AI 股重挫拖累馬斯克版圖 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVNtN3dnZ0JsbjZJRjNNZ0hoS0RJeDU4MjlhWlFGZEQtemlMYkNZUmdWU2phT3lSS2FyZVdYUXJQRkt6Rk5ocFJBZ3JXdG5kTnNCS1RTLXM3ekVTV2RaTlk5MTlNR3FjS1ZxSXRmWG1CQVZhSnZqLTNJQWJkQlpWeGpFS004WGtWR2hmazl3?oc=5",
+          "date": "2026-11-21T00:42:15+08:00"
+        },
+        {
+          "title": "Tesla Inc(TSLA)股票11月20日盤中下跌3.11%：真相來了 - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRmxwa3d5aTNUeWFYS1JmeVdhdnFaX3RuaGNpT1lBNS1peFVBN1d2REp0WThKTlZNOHpqNmNFdzJVazRJNW9TVENmLTRoT3FfNk1DRUZrUW85TzlOcnJrNGphRURyUHdFZXVRWGM0cUV0bTJ0dm1OcTRFbm91TzFVU19XSjNlcDJOdFFBSGxvSnlMQ2RZc0E?oc=5",
+          "date": "2026-11-21T00:17:02+08:00"
+        },
+        {
           "title": "馬斯克24小時中國行赴Tesla 上海廠房探班盛讚中國團隊執行力 - 巴士的報",
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNaU9DMjZUUzY0Vmtpb2RLUWMwNEtvNlJGejQ0TU1nc245djZCODhQSjh4bmVuY0VQUGluUzkzeEtYSk10M19FQTVlLUZVWUVwUDdoNlQ4YXpielFMSGIwVXFoNHhGWFh0aEh2YW5leWxDNkVUOU91MnA1ak91ZXNqdUJScU1kVXY3UnhseUtycE0xNkhoVXZ3TVB4UGFNN3FfUDgzb3RkekIwSkJMbjFjYmRpWjVjMmVTek12TlNSWmVabGlOUHVtTGNjMjBjbjZSa2J0aFlMUmU2Rm1jbEN3Rl9pM1VWeFlaVk9pUE1RQVZlVU42djVDTEZ1eUE5dDRUSzc3bXZXM25rX25HajJuSXJBVkc0RWF1UUpDblNhVmtLS3NlZ2pJcHpBQVNrYnVBb3phOENNSnNBeDZOX3I5ZHlic3lscWVPWDUxREEtYXh3eEVnaE5sa0MzMV95Y080aU1DWWhwQ2RXS0g2?oc=5",
           "date": "2026-11-20T20:42:39+08:00"
@@ -9447,24 +9462,9 @@
           "title": "HSBC將Tesla評等從「減持」調升至「持有」，目標價從157美元調升至359美元 - TradingView",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01dW1ZNVRJc21MS2V3bldfOERid05pa29EYzNBblBwOTFJOWhTRWVLTmUyODY2Y3kwTWxaV2d6WkpWLW1kS2trVzRLdldpOW5qQjdsNWhleEVQcVJuNlcxcWljR1BmNmZXY2tubw?oc=5",
           "date": "2026-11-20T20:38:51+08:00"
-        },
-        {
-          "title": "義大利暫准特斯拉輔助駕駛 歐盟全面放行仍待表決 - 優分析 UAnalyze",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXMjBtd0lhZWZrTFRTVEFuSEFhZFc1cHl2U0kzaDhpcnF1cmdHSXd5VG1BRUJZRDlGTnRNYTFNU2xFdVltbDJINTJRUWRwbndKT3NjZHhn?oc=5",
-          "date": "2026-11-20T20:27:00+08:00"
-        },
-        {
-          "title": "德國TÜV可靠度報告出爐Mazda CX-60奪冠，Tesla Model Y連兩年墊底 - 地球黃金線",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vaVNmU2tHVjRBZHdKWXNKeDJ2TFVZenlIRnl2WmluWi1EUzVJRl82a0h3YUVtYmNfUEszV3ZnSVR5cHMxVXYwa3UyV0VlekpHeHc?oc=5",
-          "date": "2026-11-20T19:39:00+08:00"
-        },
-        {
-          "title": "為了資料中心工作搬家後住在特斯拉車內一個月 我比想像中快樂得多 - Business Insider Taiwan",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1md3lZNXotRUE3QnRqazJjRERPSnRhVjFlNXdqal8tbGJxdWJTdFU2R2FFQmRWWWZmekpHbjhBOW1aUEZUaHYwTlpMak04YkJnOWlpdUlkcw?oc=5",
-          "date": "2026-11-20T18:18:01+08:00"
         }
       ],
-      "updatedAt": "2026-11-21T00:10:45.787591+08:00"
+      "updatedAt": "2026-11-21T01:00:33.403203+08:00"
     }
   ]
 }
