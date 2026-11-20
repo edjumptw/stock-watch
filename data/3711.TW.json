@@ -3,17 +3,17 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-18T00:00:00+08:00",
-  "close": 548.0,
-  "change": 28.0,
-  "changePct": 5.3846,
-  "volume": 29583241,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-19T00:00:00+08:00",
+  "close": 504.0,
+  "change": -44.0,
+  "changePct": -8.0292,
+  "volume": 29273471,
   "bias": "偏弱",
-  "performance20": -16.97,
-  "volumeRatio": 1.31,
+  "performance20": -26.32,
+  "volumeRatio": 1.25,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,33 +22,33 @@
     ],
     "support": [
       {
-        "price": 520.0,
+        "price": 504.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 614.5,
+        "price": 605.5,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 641.5333,
+        "price": 640.15,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.3095
+    "volumeRatio": 1.2468
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -16.97%。",
-    "本日成交量為前 20 日均量的 1.31 倍，交易較熱絡。",
-    "RSI(14) 為 39.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -26.32%。",
+    "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
+    "RSI(14) 為 35.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
       "date": "2026-05-20",
       "close": 476.0,
       "volume": 25163348,
-      "rsi": 47.42,
+      "rsi": 47.41,
       "ma5": 510.6,
       "ma20": 510.05,
       "ma60": 416.425
@@ -84,7 +84,7 @@
       "date": "2026-05-26",
       "close": 611.0,
       "volume": 37776122,
-      "rsi": 69.55,
+      "rsi": 69.54,
       "ma5": 555.0,
       "ma20": 528.95,
       "ma60": 430.175
@@ -219,7 +219,7 @@
       "date": "2026-06-16",
       "close": 592.0,
       "volume": 15031670,
-      "rsi": 56.51,
+      "rsi": 56.5,
       "ma5": 571.0,
       "ma20": 579.9,
       "ma60": 490.525
@@ -291,7 +291,7 @@
       "date": "2026-06-29",
       "close": 627.0,
       "volume": 17306319,
-      "rsi": 57.16,
+      "rsi": 57.15,
       "ma5": 643.0,
       "ma20": 602.0,
       "ma60": 529.6
@@ -1168,13 +1168,27 @@
       "ma5": 560.4,
       "ma20": 614.5,
       "ma60": 641.5333
+    },
+    {
+      "date": "2026-11-19",
+      "close": 504.0,
+      "volume": 29273471,
+      "rsi": 35.28,
+      "ma5": 544.0,
+      "ma20": 605.5,
+      "ma60": 640.15
     }
   ],
   "news": [
     {
-      "title": "日月光加速擴充先進封測產能 砸2,489億興建高雄新廠 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jdW5SQjZjNXItNGNyOGRiTEp1YUJuTF9ocjdIVFdNOEdCWVdzZFdXTzVJU2V3TWhYQXFlRWZiNFIwVnRoa2lJWGw5a1BMLTNtbmxFNEdUajVoVjVKTUJUWThNTHpzUUlnbldlNmh4bzZ3ekhsMks5dE5wb9IBVkFVX3lxTE9ERFVjX2hyZk1uWV8wYl9UWkZvMExndzk4dXZmUFdCWlhZVXNOWHRadDhVZnNiTVQ5d09KclY3SlY4VnZNYmlmN1AwZFR0bjY4VmU3VnN3?oc=5",
-      "date": "2026-11-20T04:24:05+08:00"
+      "title": "《個股重大訊息》個股動態：日月光投控、玉晶光、鑽全 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM25PZGFmeGJfRmxIOHljR0l6ekF4eTU4S25MVTBkSDJSWF9nQi1jeV9qclFsVUNiNVZIdDE3ZmR4WVlTUVlkS0JxTi1SY3hrNUFaRXhrSkJoRnNlTjF2UTBqbXhBSGp1cHp0Szdsek56bUphZVhXamdtNExwRVJzaDdkN1R0UjBJ?oc=5",
+      "date": "2026-11-20T08:51:00+08:00"
+    },
+    {
+      "title": "日月光投控ADR週四收30.49美元，大跌2.03美元或6.24%，折合台幣每股約502.2元 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3BNc0RoU1B2RFJnV0UtbXFWRnNUa0pCeFpwaHliQVhvMkNKY3pmbWl2N1JTVkc1b2FodDAxQXdfNGJ4T1Nqd0E1bXRnU2t4RXhQbGtFSkRLdjFzZUNMT2t5MGtfTHNvQ2FXdWs2Z0Nkck1XMG1LUmZwV080SXVLcHAxdE9sR0Mw?oc=5",
+      "date": "2026-11-20T08:15:00+08:00"
     },
     {
       "title": "日月光擴產先進封測 萬潤、鈦昇迎設備訂單 - UDN",
@@ -1182,20 +1196,15 @@
       "date": "2026-11-20T02:41:06+08:00"
     },
     {
+      "title": "日月光加速擴充先進封測產能 砸2,489億興建高雄新廠 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZ24wUmQ5dXdKdXNha2kzVi1YTllXbVpDNVdtTVc3MVVhaHNNTkQxX0tER1Q2NDlfd1RGSmtMYVV5cUhkS3RmSHBicHBlU1dqeExqMGJYZ1ZyUdIBX0FVX3lxTE15NE5OcFk4MHRWNFB3dWhTczA1c2c0M3FEckp2SHRqdVRMRUJ1eXpiSm16Y2VaYmxpMm5TazRzUDEtUlZTdVM5QlE1QkVMRGJlWkRsNXdGbERvS1MwWUZz?oc=5",
+      "date": "2026-11-20T01:40:48+08:00"
+    },
+    {
       "title": "日月光福雷電子加碼2489億元布局仁武園區 | NOWNEWS今日新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MYjRzZzBueEI2TC12bzlCM1RhU0ZNMTZMV2NXV005eUlMeS13QjM2V0JNeDJqc1BUWG42Zmx2WlRmVkp0YUlRc3VOT0JHd2ZWNFp2UXNn?oc=5",
       "date": "2026-11-19T22:21:38+08:00"
-    },
-    {
-      "title": "光通訊綠光狂閃！盤面超過20檔跌停「這指標股跌破千金」 日月光投控挫8%、「智邦僅跌近5%」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQa0otNEp2U2VWajVzNElPRGV5XzE4YThmREluMVdIdlJIZUc3bGJ2UGFWQ19uZThsTXAzWHI2MkZSTVpjblRrNWpKSHZzQ0RMVFlhSzRycjVEWWVpSEhiSzEyVXIwMms3ajV5Zi1LX0NyZ3l0aUhpN1Z1V3NrcGU0ZU5sVTJ3WExkdTVhdFEtSXpPb04tZGpFZ1ZzUDQ1WEZ2dUlmbGFEdlQxbnFMNlduUndYTXNIcWY3cHZ4SnFvVmZXanRlbVlwakNjalFxa2RhNTVWb0ZIYnQwZml3SkVrbElSU2hGWlc3eW52ZXMwUWstaXlOMmRlVzgxa2t3ZHhfQ3JVNWtrQ1NxMy1CeG9lRDRuZDZHR21LU0xuaE1fRTMtd3Zjd3JuaTlva05nVzNaZ0lIMkdQWmR4ekZqamY1dk84am05V0ZwMTlJQkh2a1ZTN0FSckRSTVk2TUIxbnF0d3pZTzV3R1BLU3NWQVFqNEE3NHF6aThOdE9ETHJmMUR1d2tidjZ1Nm1tYjFXd1pzc3Z6S0FmaUZESHhOVmtrNGR0SmdxY0VRakdadzdmd2h2V2NUWXJZVW9MU3FMaUMxOVNfcXIzZndLUzcwaThfRnI0UUV2STRqblZlSnVTektVcXJXLVF2VV9ka2hyTlJVbGc?oc=5",
-      "date": "2026-11-19T17:20:00+08:00"
-    },
-    {
-      "title": "日月光投控 2,489 億元投資高雄仁武 J 坵塊，擴大高階半導體測試聚落 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90YnlhcVJsaFZvM3pKLUdweFZKcHN6RGdTWFBDcV9ESUVEOWtyaGlKR3RoaFpkUWlpY095UnZiSmVoaGR5enFPMGk1RUM?oc=5",
-      "date": "2026-11-19T13:34:57+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T04:45:50.749958+08:00"
+  "updatedAt": "2026-11-20T10:38:08.105757+08:00"
 }

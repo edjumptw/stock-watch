@@ -3,17 +3,17 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-18T00:00:00+08:00",
-  "close": 1060.0,
-  "change": 5.0,
-  "changePct": 0.4739,
-  "volume": 20002510,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-19T00:00:00+08:00",
+  "close": 1000.0,
+  "change": -60.0,
+  "changePct": -5.6604,
+  "volume": 27946413,
   "bias": "偏弱",
-  "performance20": -33.96,
-  "volumeRatio": 1.27,
+  "performance20": -38.46,
+  "volumeRatio": 1.7,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 1055.0,
+        "price": 1000.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 1304.75,
+        "price": 1273.5,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1625.0,
+        "price": 1560.0,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.2668
+    "volumeRatio": 1.705
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -33.96%。",
-    "本日成交量為前 20 日均量的 1.27 倍，交易較熱絡。",
-    "RSI(14) 為 29.4。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -38.46%。",
+    "本日成交量為前 20 日均量的 1.70 倍，交易較熱絡。",
+    "RSI(14) 為 27.3。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -102,7 +102,7 @@
       "date": "2026-05-28",
       "close": 2390.0,
       "volume": 10222545,
-      "rsi": 64.3,
+      "rsi": 64.29,
       "ma5": 2329.0,
       "ma20": 2180.0,
       "ma60": 1794.9167
@@ -291,7 +291,7 @@
       "date": "2026-06-29",
       "close": 1905.0,
       "volume": 15526992,
-      "rsi": 38.08,
+      "rsi": 38.07,
       "ma5": 1955.0,
       "ma20": 2193.75,
       "ma60": 2077.3333
@@ -1168,34 +1168,43 @@
       "ma5": 1143.0,
       "ma20": 1304.75,
       "ma60": 1631.75
+    },
+    {
+      "date": "2026-11-19",
+      "close": 1000.0,
+      "volume": 27946413,
+      "rsi": 27.25,
+      "ma5": 1095.0,
+      "ma20": 1273.5,
+      "ma60": 1619.25
     }
   ],
   "news": [
     {
       "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
-      "date": "2026-11-20T02:20:04+08:00"
+      "date": "2026-11-20T10:25:44+08:00"
     },
     {
-      "title": "AI吃電引爆碳排爭議牽動台股 科技與金融巨頭下週齊聚找解方 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XNzg3R0c3cFVsNnljc01lUkd3dHRrd1RlamNvYk82dDYyakk3RGlCV3Q4SExhODd6bWRPc0xySzU4TnBndWZEUW02Sl94aGVGM3Z3dXNsN2FEVFcyTUUyNVBreTFKQdIBa0FVX3lxTE1iaU1JVFFxU2FUNjg3aWZ1UGNzWk1BX0x2aFZtTmNfWWZqeUs3clNuYm82TU4tNW9yMGt0QkdSV25ibl8xVkZlTnhRMjZpWkxTVkptYlF0VkVaeHUyYzVzcV9RbXhTdHpZR3RJ?oc=5",
-      "date": "2026-11-20T01:17:00+08:00"
+      "title": "台股盤中／跌勢擴大至2200點陷36K保衛戰！300家個股跌停 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11bTUwVXV6R18xaEhDZ0stVmdPRjBsOUhNdHpQRVQ5WXZvZnZLNVhlYllQVVBzb2JoSEdydURWRjVPalg5d1lwWWl3Y1ZmaFE?oc=5",
+      "date": "2026-11-20T10:10:00+08:00"
     },
     {
-      "title": "美國資料中心建置卡關，台灣AI供應鏈會受影響嗎？廣達、台達電等訂單與獲利關鍵一次看｜股市話題 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQSUlSMGJNM1h4eG5pdFUwR1hhaXdnUU1OMHFmX01fVHd2ME51c1B2TXdUVC1WS1RnOVFkRmdjaDlENnduNzhJei1kTXVvQ2dPcEdsUUdvR3RvTlRfZXVyMDFCSHFXclMwOVZFWWRTNzZheVVvUkdyaE1lNmVHX21OLU9EaV9PNlo0ZmVuYUlhTUItOXlLb1R4Z0I5aEVWOEtEWHFpeDN4SjE3bnNvUmJxSDhjMGdGdThJUXROajFFeDdWOUhWOHU0M0tlQ2tkTEhXXzVTdHBwLXFNck02V2VFSGNPMFBGenhCWjQ4OEJPYVFnNGdXSXVrYUUwTUlQbHRxTHM2TkM2R1V0LXNabUZYSHBDY0s1YnRTeGdKajlOWW1NemRKXzJPaXFqcmpGYk5ZMm9sTUItcmxvc0ZNS3BxcGszTFVLR0FDR1hQSVdITXVyM3ZiX0RvRXNKdEMzV1J6Z2RoNTBiQUdzTHFOY0Z3OVNpNXctbVBadFBRQUlqTEpYUENiNTFiVXlpLXpRQUd6V2pDRFVvZE9YdVloYzNkNGVScXJSN3RrRTZ0RkRsdnZDYjNMX19xYTVaSThkdGZEeU0xa1ViUFBPSl9lYlIyVlZyazlsVm41ekhLdzFtZml0S0VBVlkxeGFlRHFaaUdlTzg1RDkwRTRiNjNGUkprUGRkTVRTaTQ0YlhZNHRRSjhtRnc5b01BNllYM0k5T2ZyYndENlFqczM5Y1B0NlRSRDIxSUpLME5PS3dZMGdwWkVfMnpCWGhSbFFUVDk0VjgteDBQZkZmc1dwT0FTZTlYT0t4OUg?oc=5",
-      "date": "2026-11-20T00:34:29+08:00"
+      "title": "它跌破千元 但外資送暖翻倍目標價 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BNHI2NlQ2cVBKLXdUa0FJQjV5b3VxSS1leVFWLW4yT1kxcGZVTzhoTVNlNWM3SmljYmRSNWl2UGpuTnpaY1BsX1Y0Zw?oc=5",
+      "date": "2026-11-20T10:08:14+08:00"
     },
     {
-      "title": "台達電鎖定日本高壓直流市場 攜手羅姆半導體簽署協議 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iUlJkSW1TRUZ1bUFYWG1xVms4Sk5CVnFaTFhXR2VQVnhQMHpBb2lCMER1dmdncmlHU3NiLTBMTW5PN1R3eTA5U2d2bVRUSWFib2FxM3k1VkQ?oc=5",
-      "date": "2026-11-19T21:35:35+08:00"
+      "title": "AI股全面血洗！台達電開盤失守千元關卡「亮燈跌停」 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOTJZeUNFcEtLYWFzVlpyS0Rrc3AxSno3WTRRLVoyRjlwMmhoTHFTMzBJVzVoaFI4aERjeHNoOWxxbUJON3FXR2tFMGx0THM?oc=5",
+      "date": "2026-11-20T10:05:00+08:00"
     },
     {
-      "title": "台達電增資馬來西亞子公司約1.2億美元，擴展生產據點 - 報新聞 Mega News",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOYndPbUZiQUVBZTFsb25GRGl5RVllbmhROWxUZk1QeWVPM1loTlBXWlZzNmtTRVpPS2VBV0g5UzdYLXRSdlRSbzhNUDY3M0YyVEJLLXlhdmZCRUJuUTlBRExqX0FaU2tFQjJKOXUtLW9LVE5tNjlYcmljcEQ4QkhoUjJ1OG1yNEtyRjJPaHoyQlpIWFlSVEpTYUdJUnFYZU92T3pYWkNfc2FtTy1FVW9rVTFKTW4wTjVuQjFyNXNacHJ4WGo1SzBSVEFjVkhsekY1ekR2Y0VxdkFLWURxbEVIV2JMWTJpellWYzhXTkR1b2w1VHl6NFhKaDM5OWt6NG11SGVPREltbzRGQ0xLT09vcTZuWFRBeFk5Um1YWTBpUDBYQTd0UXZZSGVTRFNsTGVRMFV6UHdyVWNkOHJFSjlKa3VFeEpOZ2hBUGJ5RkU4clZ0RW1mOW9PdXNZelhjbGs?oc=5",
-      "date": "2026-11-19T21:00:50+08:00"
+      "title": "台股開盤》融資斷頭潮！台積重挫、台達電跌停、大盤失守年線 | 財經 - Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTU5OYloyT0NiNXpUTGpNV0NYa0liQmcwMlh2LUg0OUFFbTBCcldzOFd2WlVmMlN1V0JqS19SNk5tZ2hNRVRodm15NGRPLXJwTTV6bExGYkhfTUk?oc=5",
+      "date": "2026-11-20T10:00:31+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T03:28:22.418680+08:00"
+  "updatedAt": "2026-11-20T10:38:06.009147+08:00"
 }

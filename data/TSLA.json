@@ -4,17 +4,17 @@
   "query": "Tesla",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-19T05:00:00+08:00",
-  "close": 383.7200012207031,
-  "change": 3.61,
-  "changePct": 0.9497,
-  "volume": 26892900,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-20T05:00:00+08:00",
+  "close": 374.4100036621094,
+  "change": -9.31,
+  "changePct": -2.4262,
+  "volume": 26375800,
   "bias": "中性",
-  "performance20": -0.71,
-  "volumeRatio": 0.7,
+  "performance20": -0.05,
+  "volumeRatio": 0.71,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -23,7 +23,7 @@
     ],
     "support": [
       {
-        "price": 373.1233,
+        "price": 373.5998,
         "source": "MA60（近 60 日收盤均價）"
       },
       {
@@ -33,7 +33,7 @@
     ],
     "resistance": [
       {
-        "price": 386.127,
+        "price": 386.1185,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -41,12 +41,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.6983
+    "volumeRatio": 0.705
   },
   "commentary": [
-    "技術面中性：短中長均線由上而下排列，近 20 個交易日漲跌 -0.71%。",
-    "本日成交量為前 20 日均量的 0.70 倍，量能較平淡。",
-    "RSI(14) 為 51.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -0.05%。",
+    "本日成交量為前 20 日均量的 0.71 倍，量能較平淡。",
+    "RSI(14) 為 47.2。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -122,7 +122,7 @@
       "date": "2026-05-28",
       "close": 442.1,
       "volume": 32435000,
-      "rsi": 63.61,
+      "rsi": 63.62,
       "ma5": 431.982,
       "ma20": 418.6865,
       "ma60": 392.3623
@@ -135,7 +135,7 @@
       "date": "2026-05-29",
       "close": 435.79,
       "volume": 45176800,
-      "rsi": 60.04,
+      "rsi": 60.05,
       "ma5": 435.57,
       "ma20": 421.3945,
       "ma60": 392.8598
@@ -226,7 +226,7 @@
       "date": "2026-06-09",
       "close": 396.68,
       "volume": 59940200,
-      "rsi": 43.87,
+      "rsi": 43.88,
       "ma5": 407.756,
       "ma20": 422.486,
       "ma60": 394.2627
@@ -1699,34 +1699,47 @@
       "ma5": 386.248,
       "ma20": 386.127,
       "ma60": 373.1233
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 389.91,
+      "high": 393.6,
+      "low": 370.81,
+      "date": "2026-11-19",
+      "close": 374.41,
+      "volume": 26375800,
+      "rsi": 47.23,
+      "ma5": 381.64,
+      "ma20": 386.1185,
+      "ma60": 373.5998
     }
   ],
   "news": [
+    {
+      "title": "特斯拉董事改選掀爭議兩家顧問建議反對董事長連任 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KQVd3QkQ3TVR1WGhJalBobG1NSjdibHBlT0FrOWZlYmJqeDJSekZvdEtfdVdRMkNHVFh0YVFlTlZDVWl0ZDk0OXZJOWc5aHM?oc=5",
+      "date": "2026-11-20T08:01:20+08:00"
+    },
     {
       "title": "Tesla推出Powercore 固態變壓器直攻AI資料中心 - DIGITIMES",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjkyaGE3YXczVy16bFM0aHJDRngtYTcwZHFoZ0dpeFJURVE4Y1Zkd0JGeU5YUnUyc2JuQUxVR2ZZcnZUbnp5azc5QkM5UkJhSjVDYmEwbDJxdDVYT3NyVlE0ZzBGUkFKN1VGUl9DZVNYcVN4SS1rQjlfdHo0aWx3ZFlmU3ItY0szTlZPbGFmSDI5RVpjcmRXbQ?oc=5",
       "date": "2026-11-20T02:20:00+08:00"
     },
     {
-      "title": "馬斯克自稱「中國超級粉絲」 撑合作晤貿促會會長承諾Tesla續在華增產 - 香港經濟日報HKET",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWGJLcGVPWnBkbk11RmZ5N0ZWNzl0T1IwZkJHQkpIZUhDT1VxQWJfSWdaOUJpWU5paEJiRmlrM1lHRk0wY2U4RlNCX1lOYjBRX3ZRd1Y3REpDNXNnUXlWY2lrb2x5OTdmVXhINzhFbWlDZWx3VHZyZW1zaWcwaGNTS1puYVFzNjh0blRKM2NTNzdMSVZCTlVIaTlDWWRhRVZYQlFUWXpCTjUtUXFNODF3SzNtaENNTnhMNGp4NFRFb29sVkVwZ3ZpSnZsazNGVWc3UEZ2VkF6bGgyZk1TUGdrM21jbklveDBkOExSVUxzalN5bWNHZUNDQWFMQnQ0WGRfOUZZUm1JcWFUTnNoekZaX1MxVWVsQ2oweldWaEM1bHZzdw?oc=5",
-      "date": "2026-11-20T00:30:00+08:00"
+      "title": "Tesla 在達拉斯推出無方向盤及踏板的 Cybercab 自動駕駛計程車服務 - Techritual",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4Y0l6UzhfMVYya3k5TnItYW9SblpiZFotT1JSRjdfV0hIbmxiVHVIZ3A3RTEwWGpDWlI2akJPQkkwVFB0SzEwbVFONkljdF9obm5QdzQ4bmM?oc=5",
+      "date": "2026-11-19T22:25:47+08:00"
     },
     {
-      "title": "馬斯克再對央視大讚中國：我是大fan士 問兒子是否愛中國 上海廠房擬增產電動車 - 棱角媒體",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNWTE4OGo2enZEY2RVcXFqeUREYks3TXc2U3FSbXc5bFlUSGlGWExpbk9XenVOdXU1d2t5X2RlZGVua2NvTi1vRWtoT0F2U2lWQ2Fnc2N1Q19YdlBvbGVFdGlGWHd4Sjl1Q2YtbGNsa09TOUFrcmVIbVJNMl9JWVZXOUhNXzhUNWtad0FGQ3kzcW9icW9iMkJSdHZxaTZObU1vNkR3Y0h6VWZqTFRxMGE3Ulp4RDZuRUZFRmZBT3FubENJNktUS0F6Y3pOVnRocjdSVVNCbWpGd01sU1JZYzZ4WU0yXzZZU3NZbEdBeHo3UzZCWU1zTWs0NkFrXzZBZ2Z2TG9YUXlQQlQ4eXBtdGxISnhsSTlZal9KaC0yS0lfZ29tY21uX0Ffd1haUEg2bGtjZ2tmY2djcmZqQWdFd2pmcUYySUZKYmw2bEZ2bkRpLUpkdlhHRzRkWGNBSQ?oc=5",
-      "date": "2026-11-19T20:22:31+08:00"
+      "title": "馬斯克訪中24小時：重申擴大特斯拉中國產能、釋出新業務發展 - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQNHNkVmZzVndFd1luSkRNTmo1VVBhZnBFeWdBZ0tPRVY1dzVGal9neGswYjQ2enVUTzh4VVdlQl9LbkJGdzlNYktDbnd3T1FqSGdvLWNieG9NM0xPX3pzMU0zTm5qVmZXWlFMNm5rMzBSRUd1V1QzSjZzY3VuamV6Vmdhc0k1RnAtOTBPSkxxRml5Sm1nOHdHczFrNHo5RHpnaUVoMy16emdEYVJTeVczWHRwLTdsb01wRWc0U29uX3R5cjdGWllCbllmZ2NYZ2p3bXV1enE3UERKRUhSdWhBMFFMN0QtaUxYZG9CWWYyZXRiRTlxaGFPaGNETjhPLUF0a1pWQ3VyWS11a0s5SWFGTFlJVXF4VkJ6RVpYaHZlOXI1eGNBT3NQSVNiNWoxUDVmb3o4VTdlbnNzYVFhQ1hyQW9NTW9FVWNMRmdwQ2hrUTVzUzdEWE5ZMzZhcTBHdkFBNVNoUzNubGhpQTRqcXFnT1l6XzhwQzZpbHlGYmg4OUI1RUo2cjRfcTE1V0VmbHM?oc=5",
+      "date": "2026-11-19T21:20:04+08:00"
     },
     {
-      "title": "馬斯克自稱是中國「超級粉絲」 表明Tesla繼續中國增產 - Now 新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Id29jd05DNEI0VV9iVWtfekl1cDBvUzluUWFTRDk1MFVtRmtqNG5HYW02NDM5eHI4RG9vVzRTa0VGcVRpd2dMSDQ4U1gwclZxeldQRzhuc1NWajJXSkhPMlhtVUhpOThFaVo1RA?oc=5",
+      "title": "馬斯克表明是中國「超級粉絲」 表明Tesla繼續中國增產(莊國禮報道) - Now 新聞",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yaU5pRkxBZktnVkRYQWI5NDZSdkNfRVR5RHNSQXNGdmh0VjZZNVRjOXNTNDZ4QjVOcG90LUVPYTJvOUMtaklWVVlnbmtyX0VtZTRUN2xZX2JkVWNOU2xpN1NTUWMyY0xCTG9WUXM1dHlxTERFeFE?oc=5",
       "date": "2026-11-19T19:25:32+08:00"
-    },
-    {
-      "title": "Elon Musk 驚喜造訪上海超級工廠 感謝 Tesla 中國團隊努力 - Techritual",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNZ2NoZjgxTFg4dWxzcjJ3bjNLeDV4bEE2R25MSml2dGFkUUVibXJWZmQteDRvU05adFlfTE5ITkU5Y0NYSWxLeTUyRTBYTmc2M29wb2d5VFg?oc=5",
-      "date": "2026-11-19T19:25:30+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T04:45:54.795179+08:00"
+  "updatedAt": "2026-11-20T10:38:13.166084+08:00"
 }

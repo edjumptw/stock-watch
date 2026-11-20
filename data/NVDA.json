@@ -4,17 +4,17 @@
   "query": "NVIDIA",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-19T05:00:00+08:00",
-  "close": 150.9600067138672,
-  "change": -4.5,
-  "changePct": -2.8946,
-  "volume": 349791400,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-20T05:00:00+08:00",
+  "close": 145.97999572753906,
+  "change": -4.98,
+  "changePct": -3.2989,
+  "volume": 320588100,
   "bias": "偏弱",
-  "performance20": -31.99,
-  "volumeRatio": 1.48,
+  "performance20": -31.21,
+  "volumeRatio": 1.28,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -23,26 +23,26 @@
     ],
     "support": [
       {
-        "price": 150.96,
+        "price": 145.98,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 189.04,
+        "price": 185.7285,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 212.3532,
+        "price": 211.2918,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.4761
+    "volumeRatio": 1.2818
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.99%。",
-    "本日成交量為前 20 日均量的 1.48 倍，交易較熱絡。",
-    "RSI(14) 為 21.1。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.21%。",
+    "本日成交量為前 20 日均量的 1.28 倍，交易較熱絡。",
+    "RSI(14) 為 19.6。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -53,7 +53,7 @@
       "date": "2026-05-20",
       "close": 223.47,
       "volume": 184201600,
-      "rsi": 61.85,
+      "rsi": 61.86,
       "ma5": 225.492,
       "ma20": 213.399,
       "ma60": 193.4418
@@ -118,7 +118,7 @@
       "date": "2026-05-28",
       "close": 214.25,
       "volume": 143996000,
-      "rsi": 52.59,
+      "rsi": 52.6,
       "ma5": 215.31,
       "ma20": 214.8795,
       "ma60": 196.0482
@@ -1695,34 +1695,47 @@
       "ma5": 158.32,
       "ma20": 189.04,
       "ma60": 212.3532
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 152.92,
+      "high": 158.13,
+      "low": 145.71,
+      "date": "2026-11-19",
+      "close": 145.98,
+      "volume": 320588100,
+      "rsi": 19.64,
+      "ma5": 154.278,
+      "ma20": 185.7285,
+      "ma60": 211.2918
     }
   ],
   "news": [
     {
-      "title": "Nvidia表明黃仁勳不回歸 提前加薪穩士氣 - 20261120 - 國際 - 明報新聞網",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQajdZWUprMXlNaXhieF9KLU1lWE5fTHdhNkxPeGtCQkZsTDZTa0hnTHg4T0tFRmxrbzhGY1lSTGtpaE9PMHAwQlQwa1JMTG84clI4Q0E4WG9ESVZOMFJDaEFwS1pISW5SR1FfWUxOeUtobnkxOHUzUTBIWlhTTTVmQ1NCQTF3NWNXVDhzU2JmRElXTFdIdWR4LUFoRFowWGNFcUFOTGJQRDJZUnN4ZTdrNnNSRHozN1dYQXlNRHJIcW1WS2Vibm1ic3FONHlEMVJpMXN2Z25yenV5TWVTX25BUzdRbVNNcy1PM3RMZDVBdGQwTDRvaWF2blFSZ0xndXluNzBrY1J3ZTBiNDU4Y2hFQ0owdkhPZjFMS2J3Ulo4ajRBbVdmLVh6VTV4V3ZTVE82dFJmMDl5UFpWc3VTb2JoMEYtSFV1YU9hcVhNMQ?oc=5",
-      "date": "2026-11-20T04:30:00+08:00"
+      "title": "《熱點解析》黃仁勳、Nvidia及其董事會是否會因婚外情醜聞擔責？ - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WY3d4VllBZFZnTnpmZ1RyUHNQdEY4ZmhhaG1weHZjbFpXOE1LOEl3b203azduLUpsSzhCV01LRmFsZmZLcmRxWGhwQkh6OV9UTVVSQ2h2clBhM3JiajIyVDVLd0V1WWpWN1VRdWxZaWJPcHdqZGhJ?oc=5",
+      "date": "2026-11-20T10:37:21+08:00"
     },
     {
-      "title": "爆：川普9月大買Nvidia高達26.5萬美元 執行長涉疑慮前的敏感交易引關切 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGkyNFhrR25OdTZ5OVZqQV9zY21WT3VFTGpxblNPOXo0Mi03VlR5MkxtYWJmWlJTYTNCVW5VWXN3SGtua2JfNXc4M0FmWmVueGk0VG5jaDFaMFR4TnF4Q0k5WkVlUVJ3NEZZc0dFQ2VCZ0RvcDEwRnhlN3NWdDZkVFZ6cVd0UFlVei1GdTVR?oc=5",
-      "date": "2026-11-20T01:38:12+08:00"
+      "title": "最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVS1EbUM4Y0F4X1V6MVhCY29OamtvMnJzYkRYSk9Lc2dvWl9WQmVNT0t0dkFaRWIzVlZ4MDlPMUMxU2tORjhnaXBoNEtYa19qLWVLUXlyd2o0Y0I2aVczR0hRcjVGZlRMamNUMWV5b0ZTczJBLU1SS1lCVUVlX29YSnNFb0dPM09veDF0R3Z2NlVkZHcwUk5iclZua1Fnc0JmV0VNV1k1Znpldw?oc=5",
+      "date": "2026-11-20T10:25:15+08:00"
     },
     {
-      "title": "NVIDIA重申支持開源AI 黃仁勳留下的布局能否延續？ - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MMUltX2lYdlpmVWJXeDljbzhLR2ZWREZSSGtpM21iR1hsdFFieWZCbWNycUJvVGk0dE12b01USUhHUU1WTmdMQ2FRZ2JnbDFpQzlmYjFDNzhnSThtc25BakhTbFJtYVhQNS1J?oc=5",
-      "date": "2026-11-20T01:06:03+08:00"
+      "title": "輝達人事震撼彈重擊費半！三大法人狂砍 461 億，4 萬關卡保衛戰聚焦散熱與 ASIC - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWZqSVRfZEFoOVp6NXdZUDFWZEtCVTN1VDczblNydG4wVG9mdEZEMHR2aWM2dWY5WGpFSm9uOUQtV0RjdHROZEtrZmlFSVZPenRLelZKNXEyVVhJcUFmWTZqQ1ZVTV9pRmFnMUU5Zmx5TC1mb3B1bzhRc2NteXZOQjJ1ZUpiLU44NlEyT0VRMjRtZF9JVEtmNXkyaVp1WlJKOTJlUnlNQnkzaWNJQ2ZseWtjbGJhcDUybm1wYWdTc3VDQXVwdFU0ZUdtaWxkVjJyQ09OZG1R?oc=5",
+      "date": "2026-11-20T10:08:07+08:00"
     },
     {
-      "title": "After Laptops, NVIDIA Partners with Acer, ASUS, and Others to Launch RTX Spark Compact Desktops as Home AI Agent Hubs - Mashdigi",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzU0I5UGRiMC1TN0VoYjhTVmw0bThpVTEwMDBZb19OV1A1dGZfNndaMlMxRWF6c1hTdEVkX2ctVXkwR3lCT3Y4UEZLS1JHLWprY2J3V3B2TkVQTkhlczRucXVmVERWOE12dlVlSzBBZUNqaFZYc0NGR3d3?oc=5",
-      "date": "2026-11-20T01:05:11+08:00"
+      "title": "AI 金礦瞬間變雷區？從 Nvidia暴跌到SoftBank重挫 全球「類AI概念股」信心風暴全面引爆 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnJmNkRwLXI0RUxNamsta1k0ZGJvRThZV2ZJWVZkazRfMkw3aDNWTmlrWmx1RUp2NG1McWRlR0tfRUFGUmUxek82cFVKeFM5ZkVnUXRVdkhqYUdOUGNObWZ4ZWVxdlU5RW56Z3NCSTI2bk1iUm1idkRoenBYZk5QNTJZMFZaZlU5TUdCM3F3?oc=5",
+      "date": "2026-11-20T10:00:27+08:00"
     },
     {
-      "title": "NVIDIA換帥牽動AI機櫃節奏 台廠看好GPU、ASIC雙線商機 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54bjJaMkQxTlE1X0ZkaGhYaWU3VDZFdW9ZWFk2RE02ZlZnNU12SzBjeFNNb2M4VFlIb1JHRnV6eFZXYThIYVhPVzFwNE4tZjQ1WGtVa0VqQ3g4TG50QUM4RE4tbmY2RDBxMlBR?oc=5",
-      "date": "2026-11-20T00:39:27+08:00"
+      "title": "如果AI晶片股只能選一檔？分析師不推Nvidia 只看好它 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1SW0ydW1aaWNoVTNhZDFyV0xDalhYanI1LS1hd3J2bmd3c2xzM3c0UF9aRHBIc096NXA3WGlMR3hWWXNqS0NHU2F6M2lBTjJQMS1uWGdodnd6SkNjTkItRDlR0gFnQVVfeXFMTkE3azdWdmVwSzQ5WklmOV9lWFVyOWRTcno2VmZrN1ZaTXRVNnkzdkFxVHBEU1RBeHZ0MUZRREg0ZTFINWx0SmE5ekNJQXBLX05Eanc4ZDhXVFl4VU94QmlVQk15Nng0RQ?oc=5",
+      "date": "2026-11-20T09:47:18+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T04:45:51.140591+08:00"
+  "updatedAt": "2026-11-20T10:38:08.636712+08:00"
 }

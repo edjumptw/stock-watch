@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-18",
-  "dateTaipei": "2026-11-18T00:00:00+08:00",
-  "close": 2175.0,
-  "change": 5.0,
-  "changePct": 0.2304,
-  "volume": 42413873,
+  "date": "2026-11-19",
+  "dateTaipei": "2026-11-19T00:00:00+08:00",
+  "close": 2100.0,
+  "change": -75.0,
+  "changePct": -3.4483,
+  "volume": 48513997,
   "bias": "偏弱",
-  "performance20": -9.56,
-  "volumeRatio": 1.25,
+  "performance20": -13.22,
+  "volumeRatio": 1.38,
   "recommendation": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 2135.0,
+        "price": 2100.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 2311.25,
+        "price": 2295.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2405.8333,
+        "price": 2400.6667,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.2528
+    "volumeRatio": 1.3814
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -9.56%。",
-    "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
-    "RSI(14) 為 36.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -13.22%。",
+    "本日成交量為前 20 日均量的 1.38 倍，交易較熱絡。",
+    "RSI(14) 為 32.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -102,7 +102,7 @@
       "date": "2026-05-28",
       "close": 2295.0,
       "volume": 36889432,
-      "rsi": 60.06,
+      "rsi": 60.05,
       "ma5": 2286.0,
       "ma20": 2252.25,
       "ma60": 2044.6667
@@ -111,7 +111,7 @@
       "date": "2026-05-29",
       "close": 2355.0,
       "volume": 86132863,
-      "rsi": 64.73,
+      "rsi": 64.72,
       "ma5": 2306.0,
       "ma20": 2263.25,
       "ma60": 2051.6667
@@ -120,7 +120,7 @@
       "date": "2026-06-01",
       "close": 2355.0,
       "volume": 35023445,
-      "rsi": 64.73,
+      "rsi": 64.72,
       "ma5": 2315.0,
       "ma20": 2267.25,
       "ma60": 2059.8333
@@ -291,7 +291,7 @@
       "date": "2026-06-29",
       "close": 2370.0,
       "volume": 33267315,
-      "rsi": 52.9,
+      "rsi": 52.89,
       "ma5": 2396.0,
       "ma20": 2369.25,
       "ma60": 2225.0833
@@ -408,7 +408,7 @@
       "date": "2026-07-17",
       "close": 2290.0,
       "volume": 75253147,
-      "rsi": 40.98,
+      "rsi": 40.97,
       "ma5": 2412.0,
       "ma20": 2428.25,
       "ma60": 2323.75
@@ -1168,34 +1168,43 @@
       "ma5": 2250.0,
       "ma20": 2311.25,
       "ma60": 2405.8333
+    },
+    {
+      "date": "2026-11-19",
+      "close": 2100.0,
+      "volume": 48513997,
+      "rsi": 32.4,
+      "ma5": 2202.0,
+      "ma20": 2295.25,
+      "ma60": 2400.6667
     }
   ],
   "news": [
     {
-      "title": "【即時新聞】台積電產能支持發威，帶動客戶營收翻倍成長，今日最新動向揭曉 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaWZUS0FtS201azNJTGc3M2EtZHBaVmJ0ckRxSUhIUWlxWFQ0UFhEc2xhNERvZlJWdnZuLW5CbE9yODBycFoxb0kwY1czV0tDQ0c0c1NqSl9lVl9pVUc2S1ExTV9lUEJBaEtMVjNjZHc2cEtNQlgzZ2lQdkl0RkRRVlFLTjRtRTZlZHFsM3ppM0k?oc=5",
-      "date": "2026-11-20T04:34:42+08:00"
+      "title": "台積電，迎來新機會 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfdTMycDEwX1FFSHpSWTZ5QkhuWW1OYzdLdWkzMjItdUJLMEttMXpzMGprel9tVzVDQV9WZVdOVy0wbTBZdUxrWg?oc=5",
+      "date": "2026-11-20T10:27:25+08:00"
     },
     {
-      "title": "大摩看權王 擁三利多| 全球財經| 全球 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2T191c2pIMkJEcW5oVWxNeXBvSUM0SXFWbXhrVk5GMzNlRklxN3N3N3dfWnZkZ1BwZzIyQ01aOHkyZ3BkM25tT0RQVjFPcmFm?oc=5",
-      "date": "2026-11-20T03:22:25+08:00"
+      "title": "台積電陷2,000元關卡保衛戰 台股血崩盤中重挫逾2,000點 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hU2l6blNFU1dzMkRCaERfbFZHcW03UnUzWGg1Zi1mYjRMUDI3T2UzazVVczlxYXRRUEVnRi1ER3BBTFNfMldUa3pveWlTc0RV0gFWQVVfeXFMT1NxQVlVbWpJR2x4NnpnUmUxbHJVdEtyUEczaWVaSFBhRnlfci1GbmM3SXF6d1N2ZnphbG5MdURrdk8zNGl1R3FrSkh6QUk2VURIelJZQ2c?oc=5",
+      "date": "2026-11-20T10:25:24+08:00"
     },
     {
-      "title": "法人：台積電年線台股多空關鍵- 日報 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UdlNFXzV4RFhDUGRrU3k0eWROcTBPSVpTa3ROQnRoNVpYLXpfaHZjUzBMOUNPZkNlRmdIaDRacHRlRVlaYnNYWFphNlhMSGFCUnFka3lMVGZmZ0lOczhJ?oc=5",
-      "date": "2026-11-20T03:00:00+08:00"
+      "title": "【台股盤中】台積電拚守2000元！台股崩逾2000點回測36K大關| 金融 - 非凡新聞台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZ0RFZGI5M1FYZmRzOGxrV1JGaGVfSHNKdHU5VXFsa3Q1QU54X0NMRlVrX1F6VG52N0lxY1liSFViR2pIWXUtcVNSX3hKelRHSWpQZjNzWUVUSzB1a1hkTw?oc=5",
+      "date": "2026-11-20T10:23:24+08:00"
     },
     {
-      "title": "50歲提早退休！台積電、台達電...蔡明翰抱緊「3檔AI股賺逾400％」：4指標挑出「真AI股」 - 今周刊",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVTOWVzTmYyVXByQmd6TVRVRUpZTkNvSGxSMDBTNHJ3Ym40V3dBOWc2dXdncV9XaWJKaDJ0RjFXUkNrNm5Ra004Q0dkaDR2TV85R2JuZlZlRkltR1NnSXM4UTktWDVXYmhrVFpxaTRwamhhMFNTR2dvNFlGY1BZbw?oc=5",
-      "date": "2026-11-20T02:20:04+08:00"
+      "title": "【即時新聞】台積電最新遭美禁令下殺，官股狂掃6088張護盤要反轉了？ - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kUHZ5VDNfTzFCcEllbmdtNzdiMkxWY0hxc1pMYzA4RWF5TWN2ejFVWHFZbXNhSHR0N3ZjcTRCYkZHbFdNb0UtdDdaRF84dnUzakF5NFk1aF9SQ3RRMER3MU9MR093QUE?oc=5",
+      "date": "2026-11-20T10:22:48+08:00"
     },
     {
-      "title": "Anthropic啟動IPO 台積電砸5億美元認股 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Vd2gxcWJQM0lhbFRvU3k4NTQ3QzRJNUdCYXdFYmdWUGhBUS1pYXBsbUhQWXdnWVBsLXBPVktqdDFpX1lXZXE5OElvM05xam1SS21vb0MtZTlyaUxKMUU2R0dB0gFnQVVfeXFMUEJDdE5MdDB1clFkcDllRkJlSHRuLXlPMTNiNDlqRnBuSXJwSUZjd1lnazJlM29EdTlDcThXREFoeVlJYW93aVRDWmd1ZXpHaXlEaE1ZVlU1R3RaNFhFV1d0U01sXzVnQQ?oc=5",
-      "date": "2026-11-20T01:45:00+08:00"
+      "title": "突發，傳台積電限制16nm - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sbWFXSE40ZHM2RElRRnhDQnMwa2lJaXNlWUNjNVBFSEd0SEdTVG0tQ1ZEOUltWlBqTlgxZTh1Q0N4ZjNKNDlyTA?oc=5",
+      "date": "2026-11-20T10:06:48+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T04:45:49.659286+08:00"
+  "updatedAt": "2026-11-20T10:38:06.651043+08:00"
 }
