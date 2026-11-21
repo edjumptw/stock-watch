@@ -4,17 +4,17 @@
   "query": "NVIDIA",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-20T05:00:00+08:00",
-  "close": 145.97999572753906,
-  "change": -4.98,
-  "changePct": -3.2989,
-  "volume": 322940100,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-21T05:00:00+08:00",
+  "close": 125.52999877929688,
+  "change": -20.45,
+  "changePct": -14.0088,
+  "volume": 626373200,
   "bias": "偏弱",
-  "performance20": -31.21,
-  "volumeRatio": 1.29,
+  "performance20": -40.5,
+  "volumeRatio": 2.41,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -23,26 +23,26 @@
     ],
     "support": [
       {
-        "price": 145.98,
+        "price": 125.53,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 185.7285,
+        "price": 181.457,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 211.2918,
+        "price": 209.5843,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.2912
+    "volumeRatio": 2.4093
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.21%。",
-    "本日成交量為前 20 日均量的 1.29 倍，交易較熱絡。",
-    "RSI(14) 為 19.6。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
+    "本日成交量為前 20 日均量的 2.41 倍，交易較熱絡。",
+    "RSI(14) 為 15.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -66,7 +66,7 @@
       "date": "2026-05-22",
       "close": 215.33,
       "volume": 169275700,
-      "rsi": 53.71,
+      "rsi": 53.72,
       "ma5": 220.248,
       "ma20": 214.7455,
       "ma60": 194.3483
@@ -300,7 +300,7 @@
       "date": "2026-06-18",
       "close": 210.69,
       "volume": 241272000,
-      "rsi": 50.37,
+      "rsi": 50.38,
       "ma5": 208.078,
       "ma20": 211.7945,
       "ma60": 203.559
@@ -1695,34 +1695,47 @@
       "ma5": 154.278,
       "ma20": 185.7285,
       "ma60": 211.2918
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 143.52,
+      "high": 143.73,
+      "low": 124.5,
+      "date": "2026-11-20",
+      "close": 125.53,
+      "volume": 626373200,
+      "rsi": 15.05,
+      "ma5": 146.814,
+      "ma20": 181.457,
+      "ma60": 209.5843
     }
   ],
   "news": [
     {
-      "title": "震撼崩盤：NVIDIA暴跌引爆SEC會計疑雲，短短45天蒸發逾2.5兆市值 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmVQRTN4X2xOcEw5WWF3a0J6NGNuQ0lMZl9XQ2w3Zm0zM0tIc053ZXhpZXZVcEZWZ2R2ZnhsUFhva3FwcmdFUDk3SVBTOUFkNXBPa2xHTmFJWUxZNlM4NW4tdFVvNzRWU3pJRXc4UG1lbFNoZXk4ZnhHdG03a3RIcE5Uc0c1Z2ZfMWZydTFn?oc=5",
-      "date": "2026-11-21T04:08:18+08:00"
+      "title": "輝達再遭政府盯上！路透：美 SEC 正調查輝達會計處理方式 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50XzRWeUNoZTZ6UGQ4V3dmaS00TWJPcTNreFA4UDROaDVwVy14NEFDbG14dHAxQ1RsREZQUDlFcU5IVFBFNHk3Q0hlanIwODhwM0l1Z2NYZjZLbk9yYXJxUmtWUXFLRV9PNmk0?oc=5",
+      "date": "2026-11-21T10:13:57+08:00"
     },
     {
-      "title": "AI晶片帝國崩震：Nvidia暴跌、Anthropic掛牌難救局，美股從「AI狂飆」走向殘酷換檔 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0xaR0FERFlhVzcweVRWRE41X3BQRHlHZ05faVVfRmFPZUN3QWcwV2RLY2VQbTVnU25UMkVTa1RXOHc0aEIzaTB4eFlobFdBQVlDZDVoc2hWUGVUWjNyMmRzWXUwV0pjb1dPV0N5X0Vsd2xJMGEyOVJMVGRqNUZoM1hnZDZqcHM1WUxVT1NR?oc=5",
-      "date": "2026-11-21T04:00:32+08:00"
+      "title": "Nvidia股價暴跌，韓國散戶持股市值蒸發約6兆韓元；川普公開支持前執行長黃仁勳回鍋 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ZlBzNlh6TlQ5V0pfSGxmNDdqUTB5X3RzNFEybmdHT1hHT19EWVNxRDRxU0dCSUtJZWxrMWlIZUxSVkJRZFhJQ0dFMTBjazRLLWJRYVF5ZkI4aHVoX3c5V2pIMGlWbW1aZlhuNjdfZWRzaWoxTzhLWWdR?oc=5",
+      "date": "2026-11-21T10:05:00+08:00"
     },
     {
-      "title": "【03:23 即時新聞】NVIDIA(NVDA) 重挫逾10%／連續七日下跌 主因前執行長醜聞與監管風險、AI 資金轉向 Anthropic IPO - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHo0SW4ya2h3ajl6U3BtSzVRVFdENXpxektCV3RUWjhaSU5VX2NkVjZiMjZ4OWoyajg5QkRxdElCV3ZFVmtibjM2aWttQWJRekpoc1JjWHZNXzlSRUZ1ZkhEX1pWQTRwMFp5aWFJOW0yejlHbi1RX0pFZU1jcnBLOWY4Rk9aMjFJQmlQUkZn?oc=5",
-      "date": "2026-11-21T03:23:13+08:00"
+      "title": "紐時追打黃仁勳：曝他羞辱Nvidia員工 威脅挖心臟、腦子撒尿 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJTnNRNExzMUYxR3ZkVmtOS1dqZG1WQndrVFhwZWVhMmljN1ZDTEw0cXExd2FqSUM3Nzd4bTJpUE5BOHBNT0tROTVDd2JOU1VpLUJWeURQSzJQSXhyQjFRUk930gFnQVVfeXFMTUprMGdVekVjUzNxSzZGWWlXYkJ1VExMa21uNlBmU21pdFVnbld5QjZINmdFNkV6VGFaZkdYYTFMdzNQUFV0Ym9ZaVYxMklNNWVOb3FIYnhPempfVTZPQWlLMDZRMXZrcw?oc=5",
+      "date": "2026-11-21T10:01:47+08:00"
     },
     {
-      "title": "Anthropic、PayPal、Nvidia - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY1lkVnJnVkNWV2djN1RPcURrZ05LY1Z1NmYySTZzQlJOQzE2UkszTHVGUi0zUVR0MURJZkdJczgyRmZ1T3Itako1Y1R3SnVKdFRhSUVXdXJGMlNKRHRqYmk5X2VyQ0VtUGRsd3JpV0lBS3pWVkR3?oc=5",
-      "date": "2026-11-21T00:11:26+08:00"
+      "title": "路透：SEC 正查輝達潛在會計問題，NVIDIA 週五收跌 14% - 動區動趨",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVM0eXFZMVA3dlZJVmI2NWFPWDUwQW9TdXZ5ZmZ3UDB0TjBPTU10bFNIbURPcVU5LThjYko4bUhCWXdaZ3IyVV9nRGFyYTh2SGZmUnZWVXV2Nm9JQ0JSZmRIQVFCd3hxeGRVcDVUTjFwV1U2MWthWllGQ1hvcFlONU9R?oc=5",
+      "date": "2026-11-21T09:51:12+08:00"
     },
     {
-      "title": "美股開市｜納指蒸發今年升幅 Anthropic翌日急插水 Nvidia變「梗頸四」 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ3p1V0x6aWU2UjlOZUo3TkR0b19yUm5NODliTGdMY2QwZVRzYlZHX190MV81R1ZKaFdnNlB5MDBuX2htRDAtMnNrdzhJMkNHRHNLSXdnLV9iYU1DeDlJMXVyT1laQmVhclBSdzBYX3FFZ0NUUE9LTzRXRTFFaDBmTTA0R3JlSWtlLTFwQ1NSTGVHZ1pXbjM0akpxWW9xVUxSa1lBMnNnOU5XV2U0TklBYVY3QnJqcXR5M1hYMHVaT0hjVmtxTDk2NlRoSXYxNHl6dGluRV8yTURnOVhHY1JHNFltcjl2YU5JcG01SlVBRXNHb3ZYeGphZEg5bFFlWjRiS1lkSHQ0RG92TkhIOFFwX2VBd2hyYVJnckNUVHRVZlVHWmh5aHowX3JxU2luQmdwWmdDeUtLVjlWOW14MUwtUlYwaGJiQy0wNkZ0YkxxNzFkdkNBWDJrcVB5QlRwUzI4eE9YNVFRSzEtMEt1aklv?oc=5",
-      "date": "2026-11-20T23:56:48+08:00"
+      "title": "美股急瀉｜納指挫逾5% Nvidia股價瀉一成四 跌穿52周低位 - 加拿大星島日報",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNRW1Ia051amc4bEh6cmpCMUpqZE5MdXhLTUhfS2FFdHBtR3lEbjIwUHptZVVKV1d5MUYzbzFuTFl0T2tucGQxaW9LN01VaVhfeVpLLXNWYWpBQk9YekVKa0pIMFNWQzJkcEJHeGJXekVKTVNVVm9taGZsYnJncEY5NzY0UUxZX2NfazZfWkNaQjZNaTJQUmkzd2hIMW5SdVhHSEhJUGllWnpnX3h6QmdKeTlISnltOEdoUFNuclJMUGpqUkZaaW9MbXhHVkhQS2Z0akNOcXhsQkFKVWxETkJWTklGOGNYN25JS2Z2b3JtUG1uLUxrdnV4ZDJ1aVduVmlVU2RBT3U1cGhGdXk1b0hFZ1Q1d2tzcnFBQmZTUDlWeDAwR0FUMzcwalNhYkwwVjgyZktCS1RaWFJxTXJpQkVKX2p5TXNhQlQxazFVNkFZR2txT25BV3QycVBleXJoZzQ?oc=5",
+      "date": "2026-11-21T09:30:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T04:30:09.378860+08:00"
+  "updatedAt": "2026-11-21T10:51:13.134106+08:00"
 }

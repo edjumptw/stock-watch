@@ -3,17 +3,17 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 504.0,
-  "change": -44.0,
-  "changePct": -8.0292,
-  "volume": 29273471,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-20T00:00:00+08:00",
+  "close": 457.0,
+  "change": -47.0,
+  "changePct": -9.3254,
+  "volume": 34730592,
   "bias": "偏弱",
-  "performance20": -26.32,
-  "volumeRatio": 1.25,
+  "performance20": -30.12,
+  "volumeRatio": 1.42,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 504.0,
+        "price": 457.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 605.5,
+        "price": 595.65,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 640.15,
+        "price": 637.9,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.2468
+    "volumeRatio": 1.4221
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -26.32%。",
-    "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
-    "RSI(14) 為 35.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -30.12%。",
+    "本日成交量為前 20 日均量的 1.42 倍，交易較熱絡。",
+    "RSI(14) 為 31.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,6 +1168,15 @@
       "ma5": 544.0,
       "ma20": 605.5,
       "ma60": 640.15
+    },
+    {
+      "date": "2026-11-20",
+      "close": 457.0,
+      "volume": 34730592,
+      "rsi": 31.13,
+      "ma5": 515.8,
+      "ma20": 595.65,
+      "ma60": 637.9
     }
   ],
   "news": [
@@ -1175,6 +1184,11 @@
       "title": "日月光投控：矽品精密工業11/11~20取得廠務工程，計約7.62億元 - 台視全球資訊網",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGU2RmloSG84NUYxYWNMMDZXQ3h4OENkblpuelZvS1gxSllfUVV1dlhSX0ZleENPNzhZN1Y0X3dyUkEyNEVXWTFCaVpOYm1iY05fZjNxZTRYekJ5dThtWC1WcExRVnhhTmY5QUp4bVZXaWstMU84U2xaX3NNZktwYmViRmFUaVRUNzFGb3pFanpWUQ?oc=5",
       "date": "2026-11-20T18:31:26+08:00"
+    },
+    {
+      "title": "《證交所》今日單一證券鉅額成交股票：台積電、聯發科、日月光投控 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFByZkpHNkNWd2FEVnRVdWtGTklqNGlxQ0dUaV9QZUdYeGxUajhxQU9Sd2hVOWR2LVJiV0ROa0VBSnBTcXFfYlpZekhreEt1c2YtSFZJc2h1blpodEtpeUFNVHJISXpWdEpkUnBHNUhkS2h1bkY5Y3dPX2VWbnJYRFNhZnJIZm8z?oc=5",
+      "date": "2026-11-20T17:15:00+08:00"
     },
     {
       "title": "一顆晶片運送托盤，揭開日月光的減碳神話！當AI算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？ - 財訊",
@@ -1190,12 +1204,7 @@
       "title": "日月光投控：矽品精密工業10/27~11/19取得廠務工程，計約7.4億元 - 台視全球資訊網",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2J4TWp5aHRHQ09COTd0SFRnZjdsV3J5NG4zUVNMUGtYa2FwVE4waFJMZVB1el9peUVQS2pvdHIwbGdxSVlZOTR2R0cwdWt2S05fLU02UUE2REFSYmd2SEhobnFfcUFxYnVsU3BpQnRfNm42ZFBGdTd1d1phY2VFWEp1SThMNGItZjZHX2RBMW4zZw?oc=5",
       "date": "2026-11-20T11:35:24+08:00"
-    },
-    {
-      "title": "《個股重大訊息》個股動態：日月光投控、玉晶光、鑽全 - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM25PZGFmeGJfRmxIOHljR0l6ekF4eTU4S25MVTBkSDJSWF9nQi1jeV9qclFsVUNiNVZIdDE3ZmR4WVlTUVlkS0JxTi1SY3hrNUFaRXhrSkJoRnNlTjF2UTBqbXhBSGp1cHp0Szdsek56bUphZVhXamdtNExwRVJzaDdkN1R0UjBJ?oc=5",
-      "date": "2026-11-20T08:51:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T04:30:08.962473+08:00"
+  "updatedAt": "2026-11-21T10:51:12.595993+08:00"
 }

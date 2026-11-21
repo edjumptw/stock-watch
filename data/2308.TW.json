@@ -3,32 +3,32 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 1000.0,
-  "change": -60.0,
-  "changePct": -5.6604,
-  "volume": 27946413,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-20T00:00:00+08:00",
+  "close": 900.0,
+  "change": -100.0,
+  "changePct": -10.0,
+  "volume": 18218425,
   "bias": "偏弱",
-  "performance20": -38.46,
-  "volumeRatio": 1.7,
+  "performance20": -42.31,
+  "volumeRatio": 1.06,
   "recommendation": {
-    "date": "2026-11-19",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-20",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
-        "price": 1000.0,
+        "price": 900.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 1273.5,
+        "price": 1240.5,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.705
+    "volumeRatio": 1.0554
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -38.46%。",
-    "本日成交量為前 20 日均量的 1.70 倍，交易較熱絡。",
-    "RSI(14) 為 27.3。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -42.31%。",
+    "本日成交量為前 20 日均量的 1.06 倍，量能接近平常。",
+    "RSI(14) 為 24.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1168,18 +1168,27 @@
       "ma5": 1095.0,
       "ma20": 1273.5,
       "ma60": 1619.25
+    },
+    {
+      "date": "2026-11-20",
+      "close": 900.0,
+      "volume": 18218425,
+      "rsi": 24.05,
+      "ma5": 1027.0,
+      "ma20": 1240.5,
+      "ma60": 1605.3333
     }
   ],
   "news": [
     {
       "title": "台股摜破年線進入空頭？杜金龍示警「最後防線」！鴻海台積電台達電...1指標判斷弱勢股「切勿摸底」 - 今周刊",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGdyU2lxSDdsaUh4eDh4MUJoRmV3anpWa2RmdU94M3B3NFBUd1NqS1c5WW9CT3VHYjhtZTRXZV9LSXdJNURacklfLWd5c2VCWk5JUGhIYTVQbzBfeFpBVWdSU0ZGR3VLZXRvS0d2QjFQbEtncWlTTmlKYVJVTGU4Uw?oc=5",
-      "date": "2026-11-21T03:25:26+08:00"
+      "date": "2026-11-21T09:11:28+08:00"
     },
     {
-      "title": "【9月不小心入手台達電！兒童台姐姐一早看股市：到底什麼時候該下車】 誰還住在套房～～～ （#豬頭皮） - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNRHRfanRUWGJvbDhHLVZXWjFuZUw4UFR6TFNkZTdmNEdSNklvOHFJM08tV3pPdlVFc2JKR01nTzZKWFNJczR0R1hSamlRaldlbk5hN1VhblZ4Nm5IY2FZNnltWlhPRkdQTXJadm5FeWdoRDBycmJWXzg4NmJoeXdkR3RObFpHaTNhQUM0M3AtRkJ5aVgtaGI3UUtpLWd6MlU1elpvVGFOUmtqOEtyT1laM0E0bzRTbHJyWkliU013YkJTc1RJN1BDMUZTVkNaTWkwZ3BsY01XOWVnQkh2ZTdOaW5QVkRyWUtWYWxlcW5MRDlja2ZJLWRUcjZacTFhb1FtYmFtWllXeXpab09zcTZpUjltaW1mQlFtRmV2aEtkWk1QbkNKUEoxRm1qekFRdHVlVXBpamVtSUZVYU1hVnl1VENyWUZ3bjc2MmtwUzlqZXBNWGt6S0FaZjhDWGJDUnYya0tUVDJOQndqVU9JZEVrQmZaWGhLeVBGWUp0MXRIR0g2cVA1OUZQZ2RxWlJ4ZG1rRWlQTjBlNHprRTJFWW91ZXpaS3lXSzhrOWkxb3RfLWJLaFNDa0d5X2MySG84aVFHVk1NT3U4S0M0OEpIejVKakh4eFhHd3lmZTh0bkpqTy0xLXFqcXd1RVRoYVA4RDBWb2xwLVBRWHNjLVg0SXZKREEzV3g5dzZhY0FnNnpONnItaFpFSTg2S01zcmQzQ18wWVVXV1N2bw?oc=5",
-      "date": "2026-11-20T22:48:58+08:00"
+      "title": "同學會熱門 NO.17《台達電》11/20 怎麼走？盤後一次看懂 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81ODNJRGo0T2NkbW04TVJqRVVMdDVZSVZLMGN6RlRIYnRES0VEZk1ZdGljYjZOVWRLME9fMDB5cXA2aVcwX0VkVFJiTVU2S3NXbVNacTNrY04?oc=5",
+      "date": "2026-11-21T05:29:44+08:00"
     },
     {
       "title": "焦點股／台達電跌停摔破千元 較高點跌65%！外資目標價仍喊2300元 - 非凡新聞台",
@@ -1197,5 +1206,5 @@
       "date": "2026-11-20T19:25:40+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T04:30:07.326214+08:00"
+  "updatedAt": "2026-11-21T10:51:11.059820+08:00"
 }

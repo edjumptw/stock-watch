@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-19T00:00:00+08:00",
-  "close": 322.5,
-  "change": -29.5,
-  "changePct": -8.3807,
-  "volume": 60110111,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-20T00:00:00+08:00",
+  "close": 296.0,
+  "change": -26.5,
+  "changePct": -8.2171,
+  "volume": 68094149,
   "bias": "偏弱",
-  "performance20": -40.5,
-  "volumeRatio": 1.54,
+  "performance20": -41.62,
+  "volumeRatio": 1.69,
   "recommendation": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -22,26 +22,26 @@
     ],
     "support": [
       {
-        "price": 322.5,
+        "price": 296.0,
         "source": "近 20 日最低收盤價"
       }
     ],
     "resistance": [
       {
-        "price": 439.275,
+        "price": 428.725,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 526.1417,
+        "price": 521.8917,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.5424
+    "volumeRatio": 1.6889
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
-    "本日成交量為前 20 日均量的 1.54 倍，交易較熱絡。",
-    "RSI(14) 為 25.2。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -41.62%。",
+    "本日成交量為前 20 日均量的 1.69 倍，交易較熱絡。",
+    "RSI(14) 為 22.9。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
   ],
   "history": [
     {
@@ -1168,16 +1168,30 @@
       "ma5": 364.1,
       "ma20": 439.275,
       "ma60": 526.1417
+    },
+    {
+      "date": "2026-11-20",
+      "close": 296.0,
+      "volume": 68094149,
+      "rsi": 22.86,
+      "ma5": 341.1,
+      "ma20": 428.725,
+      "ma60": 521.8917
     }
   ],
   "news": [
     {
-      "title": "國巨（2327）中長線深度研究：股價跌掉七成，獲利卻還在加速！ - 台灣好新聞",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOblNFMWp5Z3ZpbEUyZFo3TmtMamE5YVd5VDhXTmtxVXVFME5FaGloVThrSHlCcUNCM0hHMXQzOVh5ODZjWVdnYS1HQlB6RlMxekZoaEVLWi1ESjc0dnRZT0dVZHRJYVdoT2tZNGxuR2p2Ym85S0loTmsyMUdxZlBXcTZWb2FISkk4YnhpT0hJVXFxX3g1WUhzejQzZDA5UnJLUGdGN2F0ZHg4dTlUaGJXc1ZudHNEUFNHVkd2Wnk3RVNnSmhiZkhxM1VLRzRtUDIwYzBVY0Q5N2VScmxaUEUwaW5MVVhyOVNBUnpWUmpyMGNjOFhiTktkalgzUTlMaXFJT2R5ZnNJeFdfYi01NGhEaGpXMGR3VnBSRWFnOU9GcURHdDhGbXJHaW8zWUprMWNaWldxNmp6S3Y2d1NjczBSWm1Wenc4eUFTbko0LV95cUhMcXlKWERFZWVORkdvQXRabHpVM0VPRDZrWUdUYmFZVkVJelo4aW82d1I5UXZhMnhid1cyWms0Y3g2cGU2VEo4SXNFbTdFMUEtdw?oc=5",
-      "date": "2026-11-21T00:06:13+08:00"
+      "title": "國巨（2327）中長線深度研究：股價跌掉七成，獲利卻還在加速！ - 旺得富理財網",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhQkloUG53aWxsQ1B4LUFUdXJ2QVdIV3hWQ0FCUThKLS1wMDVreERFT2dMWlpuVTVsQWRCZXVqbnNCclpDSlFzcVBXZnJpc2VaWU9mS2hKQ0FBQVdqb1RMRjlQWm1VbFZ2Tmc?oc=5",
+      "date": "2026-11-21T10:04:15+08:00"
     },
     {
-      "title": "國巨高點1220狂瀉75%！郭彥均早停損逃過大屠殺 「超慘虧損數字」曝光 - 三立新聞網SETN.com",
+      "title": "國巨*(2327) 個股概覽 | 個股 - 股市 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vbkdzUVVEdWo4TnF1MVNsSlZYYzFLZThmU0FWUENxSjdfM0lxNHVUcjdEVXZMV25pQ2N6OU1leVllYzg1Nm5GTUpITWJfZjZmUEdr?oc=5",
+      "date": "2026-11-21T00:07:25+08:00"
+    },
+    {
+      "title": "國巨高點1220狂瀉75%！郭彥均早停損逃過大屠殺 「超慘虧損數字」曝光 - 三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iMlROS3hKbFAxcE9QdDFKbUNGeW0zNkpyNW9CN2dGQms5Z2lDRmlXTFF0REo0amI4d2dZT20xMHlYYWlWZWdGeHpCSQ?oc=5",
       "date": "2026-11-20T21:14:40+08:00"
     },
@@ -1190,12 +1204,7 @@
       "title": "被動元件殺不停！「這檔」連7跌41%帶華新科、禾伸堂、信昌電、蜜望實跌停 國巨跌8.22% - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQV2E5YTFrWlJqMFJ0QUVGZ0EtWjRwbmo2WmhiRGJNb19GeWVHdjFqc25NUnNWQktYc1Bvak80MUxRdE5vN3FDNWpJUEhGaUdxSnJubE5NRlZLbnMwMHUwWWl3RWdNTkhBakxfbTZGaVhUZGpxYVlaOGtpX3p1VTMtc2ZBTUVEclY4ZzBfU1ItVkZTZXc2LVpUODFfNjJkR2N3OG5iMkk4SWZHdmhkcEM3OW9UMEprbDNpUGstRGhtYXpvNXZsVkJmTlRlejFrRkpnUTRHY2IzbXlRcEw3RFdEbXBBQ2hRY00tcGlybHpkbGJ6S1Itd1hTTHhad2JxUElSX3JKSFhIQnh4YUVydEE2YXlDN3VzelZhc0RIc1hDY1RjMlZsQlkxczJFTkttTVpsZ1RlZkRkd2ROeC16?oc=5",
       "date": "2026-11-20T20:15:00+08:00"
-    },
-    {
-      "title": "台中綠美圖周年大展！國巨基金會66件世界級典藏亮相 展期至明年4月 - 17news民生好報",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HS2pHNXlXRW1xM0VFUVdOdU8zYW1hXzJoN2ZaZ2kyUlotX2FzZHBsRlpkN0M3WXRkR2FkaW9tU0pab0xDZVRxc2hR?oc=5",
-      "date": "2026-11-20T19:47:40+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T04:30:06.456169+08:00"
+  "updatedAt": "2026-11-21T10:51:10.340492+08:00"
 }

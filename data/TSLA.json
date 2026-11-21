@@ -4,28 +4,24 @@
   "query": "Tesla",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-19",
-  "dateTaipei": "2026-11-20T05:00:00+08:00",
-  "close": 374.4100036621094,
-  "change": -9.31,
-  "changePct": -2.4262,
-  "volume": 26532900,
+  "date": "2026-11-20",
+  "dateTaipei": "2026-11-21T05:00:00+08:00",
+  "close": 345.82000732421875,
+  "change": -28.59,
+  "changePct": -7.636,
+  "volume": 45990400,
   "bias": "中性",
-  "performance20": -0.05,
-  "volumeRatio": 0.71,
+  "performance20": -7.09,
+  "volumeRatio": 1.27,
   "recommendation": {
-    "date": "2026-11-19",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-20",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
-      {
-        "price": 373.5998,
-        "source": "MA60（近 60 日收盤均價）"
-      },
       {
         "price": 343.69,
         "source": "近 20 日最低收盤價"
@@ -33,20 +29,20 @@
     ],
     "resistance": [
       {
-        "price": 386.1185,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 373.45,
+        "source": "MA60（近 60 日收盤均價）"
       },
       {
-        "price": 407.46,
-        "source": "近 20 日最高收盤價"
+        "price": 384.7985,
+        "source": "MA20（近 20 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.7092
+    "volumeRatio": 1.272
   },
   "commentary": [
-    "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -0.05%。",
-    "本日成交量為前 20 日均量的 0.71 倍，量能較平淡。",
-    "RSI(14) 為 47.2。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -7.09%。",
+    "本日成交量為前 20 日均量的 1.27 倍，交易較熱絡。",
+    "RSI(14) 為 37.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1699,9 +1695,37 @@
       "ma5": 381.64,
       "ma20": 386.1185,
       "ma60": 373.5998
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 370.43,
+      "high": 373.88,
+      "low": 344.33,
+      "date": "2026-11-20",
+      "close": 345.82,
+      "volume": 45990400,
+      "rsi": 37.78,
+      "ma5": 372.76,
+      "ma20": 384.7985,
+      "ma60": 373.45
     }
   ],
   "news": [
+    {
+      "title": "訪華24句鐘期間飛上海 馬斯克訪Tesla超級工廠 - 東方日報",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPaW5nbC05RUEyVGd3Tl9lazBHQUlZSnpTMU93S1U2Q0VGZndTc0hVQTZJd3AwMVdXVDBvT0gzYllFVy1udWstT0JTdVg2ZXZBSmF2ek8zbW9GVHhBNFhLOWRRdzd4b296MUNleGpaWl9ocVFmYS1Qd0I5Rzh3cmF0bGk3UnFSdURIZDZMbF9RLWY4V210MFQyQW96SFpCZUxReEJfS3R0OUZQNFBiUGg4X3ZFZW1fZ2YtN1FLTm1YdFRfUllkZkdXSWFQRzBPRmlwOG5iZDh1bnZmR0QtMnNjbVpnWThObFB4aUx1UE9MODRpSFFmV1ZKMnM2eVpQdGdJeFh2YWxDN0JNcEEtTXlOUUJWaFd5MjNQdko4dDVCZ2UwNzhBTjFkMDJ4dEN6QzgtSmVjVDBSc05hWUdWV2FjdG4wQmZ1anl4OWJ2ejZQUzA4YzVzLUtUYnU1VFJLOE43LVYwRW1jWXI1Q1BKOGc4TXVTcVA3QjlLLWtj?oc=5",
+      "date": "2026-11-21T07:57:43+08:00"
+    },
+    {
+      "title": "義大利核准特斯拉輔助駕駛系統 媒體戲稱最嚴苛試煉場 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZ0VBanpvcEZwMWN4QjJHSVAwVnNYbFZlSlhXZERpT3RUUXJubVVvVFIwNm11Q0VsenhDV2doUWxrNW1UNTREaEFFZnRvRHYwdDlzNVVTMTkzZGVfaER5VVBsZEQ5Z29yRUxqQXJYN1BwRGs4cnJGS0Z1Y9IBX0FVX3lxTE45Qm1KRnJaTkp3T1Q0WW1raDZDSExkSzlFYm9hWXQ5N1dweUFneGI1Z1Z2NzJnWG4yY1dZN1BLNl9kNkNFZjl3Z1VvMGhWbjhlVTdDZTdTdmdXSGtkeTRZ?oc=5",
+      "date": "2026-11-21T07:21:22+08:00"
+    },
+    {
+      "title": "馬斯克快閃上海Tesla超級工廠 - 20261121 - 中國 - 明報新聞網",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWGh2Mmc5TEdyLTV3aThPb3U3QlEteVkwRWEtdE1xQkcxQ0pRQlpNR3RmWi1LSmdYcFZKVER3MGthdnFHN3REUGE1RVYtaTVPd0Z1aW5obXAxVjJiNWs0UlNQaXhvQWkwa0c0VUNQZjhvdndxV3VqOTRGejFub0lIeVVLWHR2d0VvMXdCR29ndWw0VEItVGlkMFZoWHRFZGZaTUVFUHJsc1NpZkVQeTBFZTQ3YTAzV1NZMXNyUEpNbUpXdjNyN3RjZFBZZ2lMZHBQRXctenhMcGZTN3Ita1d2bmJUdGtiNVM4V3VMNFFYa3NhVDc5cXZ6MnBkaUk1OGt5T3BIZ2paT2xBRjIxaFk1eVVQdnIzTWVZR3c?oc=5",
+      "date": "2026-11-21T04:30:00+08:00"
+    },
     {
       "title": "意大利搶先歐盟 Tesla輔助駕駛獲臨時批准 - 大紀元",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5YzBQMWw1UTBPdGk3NmdZZDNlVl9Rem8zTVFwQ0VtOXc1R0M1d1N3RDFvY2lSWm9BbmxpT3czdGl4MUJJRktUMUpWb09VblNkR0JFU0xZWHQtQ0loYVpGQ3lR0gFnQVVfeXFMUHcwdnhyZC10UTQxZ0pyVE9NTjBLMk0tend6MnJNRGZMdFhDREpSRHhUWnVrbXhDZU1zMDZPazN4anQ3bEhlTVd3a0JGdUFyaUtOZzJweVBYV2EycWVOTktUYjBGWXFJcw?oc=5",
@@ -1711,22 +1735,7 @@
       "title": "【00:42 即時新聞】Tesla(TSLA) 跌5%：AI 信用風險升溫、AI 股重挫拖累馬斯克版圖 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVNtN3dnZ0JsbjZJRjNNZ0hoS0RJeDU4MjlhWlFGZEQtemlMYkNZUmdWU2phT3lSS2FyZVdYUXJQRkt6Rk5ocFJBZ3JXdG5kTnNCS1RTLXM3ekVTV2RaTlk5MTlNR3FjS1ZxSXRmWG1CQVZhSnZqLTNJQWJkQlpWeGpFS004WGtWR2hmazl3?oc=5",
       "date": "2026-11-21T00:42:15+08:00"
-    },
-    {
-      "title": "Tesla Inc(TSLA)股票11月20日盤中下跌3.11%：真相來了 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRmxwa3d5aTNUeWFYS1JmeVdhdnFaX3RuaGNpT1lBNS1peFVBN1d2REp0WThKTlZNOHpqNmNFdzJVazRJNW9TVENmLTRoT3FfNk1DRUZrUW85TzlOcnJrNGphRURyUHdFZXVRWGM0cUV0bTJ0dm1OcTRFbm91TzFVU19XSjNlcDJOdFFBSGxvSnlMQ2RZc0E?oc=5",
-      "date": "2026-11-21T00:17:02+08:00"
-    },
-    {
-      "title": "馬斯克24小時中國行赴Tesla 上海廠房探班盛讚中國團隊執行力 - 巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNaU9DMjZUUzY0Vmtpb2RLUWMwNEtvNlJGejQ0TU1nc245djZCODhQSjh4bmVuY0VQUGluUzkzeEtYSk10M19FQTVlLUZVWUVwUDdoNlQ4YXpielFMSGIwVXFoNHhGWFh0aEh2YW5leWxDNkVUOU91MnA1ak91ZXNqdUJScU1kVXY3UnhseUtycE0xNkhoVXZ3TVB4UGFNN3FfUDgzb3RkekIwSkJMbjFjYmRpWjVjMmVTek12TlNSWmVabGlOUHVtTGNjMjBjbjZSa2J0aFlMUmU2Rm1jbEN3Rl9pM1VWeFlaVk9pUE1RQVZlVU42djVDTEZ1eUE5dDRUSzc3bXZXM25rX25HajJuSXJBVkc0RWF1UUpDblNhVmtLS3NlZ2pJcHpBQVNrYnVBb3phOENNSnNBeDZOX3I5ZHlic3lscWVPWDUxREEtYXh3eEVnaE5sa0MzMV95Y080aU1DWWhwQ2RXS0g2?oc=5",
-      "date": "2026-11-20T20:42:39+08:00"
-    },
-    {
-      "title": "HSBC將Tesla評等從「減持」調升至「持有」，目標價從157美元調升至359美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01dW1ZNVRJc21MS2V3bldfOERid05pa29EYzNBblBwOTFJOWhTRWVLTmUyODY2Y3kwTWxaV2d6WkpWLW1kS2trVzRLdldpOW5qQjdsNWhleEVQcVJuNlcxcWljR1BmNmZXY2tubw?oc=5",
-      "date": "2026-11-20T20:38:51+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T04:30:13.867106+08:00"
+  "updatedAt": "2026-11-21T10:51:17.980819+08:00"
 }
