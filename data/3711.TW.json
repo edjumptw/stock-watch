@@ -45,15 +45,6 @@
   ],
   "history": [
     {
-      "date": "2026-05-21",
-      "close": 510.0,
-      "volume": 17919143,
-      "rsi": 55.46,
-      "ma5": 503.0,
-      "ma20": 512.3,
-      "ma60": 419.0167
-    },
-    {
       "date": "2026-05-22",
       "close": 561.0,
       "volume": 29731074,
@@ -1181,9 +1172,19 @@
   ],
   "news": [
     {
-      "title": "日月光投控 補充說明子公司環旭電子(股)公司115年10月28日公告 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DTDZNNHVlRlpLNEszNGFqWUkzTEN1WWcxTWVyY05ZUXpKbjIxRGNORW9YNnpETVN4MHk5aktNTURMVThKaVEyQVRTc3IxY3RJU1F2Zm9aYlM?oc=5",
-      "date": "2026-11-21T06:06:40+08:00"
+      "title": "環旭電子移轉美國虧損組裝業務，日月光集團內部接手 - 優分析 UAnalyze",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORVM2R3BBUmdCaWVXNkgxeUdHVkhrWFNvT1o4RmpEekt0Ymhyb19fNHhScHFUd0VIR2RIR0FjYURaRnNPaWZtMUhpRmozYmtFLXdPQktR?oc=5",
+      "date": "2026-11-21T18:16:00+08:00"
+    },
+    {
+      "title": "36萬股民注意！日月光發布重訊 重大交易案曝光 - 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbF9MMnFmU3NpUndTSV85SkRCbTMxSVJaNndzZERzU1MyU3lpSndpVGljZ0FrSXNJbE9rOXVCSmJCN252aldBRVhVMm9oNmZQR3lwemsxVQ?oc=5",
+      "date": "2026-11-21T16:29:00+08:00"
+    },
+    {
+      "title": "日月光的減碳神話！當AI算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？ - 遠見雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GMnhzeGhyT0VxQS10dHJZTS1XODFqeGpfcnBIM19ILWIwUzZwdE5MTDRwM0NLaUQ1Y3N2bjY4SlZaaTJvRG5kYS0tbTYwdw?oc=5",
+      "date": "2026-11-21T16:00:00+08:00"
     },
     {
       "title": "日月光投控：矽品精密工業11/11~20取得廠務工程，計約7.62億元 - 台視全球資訊網",
@@ -1194,17 +1195,7 @@
       "title": "《證交所》今日單一證券鉅額成交股票：台積電、聯發科、日月光投控 - 富聯網",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFByZkpHNkNWd2FEVnRVdWtGTklqNGlxQ0dUaV9QZUdYeGxUajhxQU9Sd2hVOWR2LVJiV0ROa0VBSnBTcXFfYlpZekhreEt1c2YtSFZJc2h1blpodEtpeUFNVHJISXpWdEpkUnBHNUhkS2h1bkY5Y3dPX2VWbnJYRFNhZnJIZm8z?oc=5",
       "date": "2026-11-20T17:15:00+08:00"
-    },
-    {
-      "title": "一顆晶片運送托盤，揭開日月光的減碳神話！當AI算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？ - 財訊",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oSkhPaVhxT3ZYX2UzY19UakZMWGd3aGZkOUFmQzU2UllQRDhCZ0ZMbm5JSERiUkFFbXNJd1RGZ0FSaW1SOXkzODdTYUJSMDdvcWRGXzFoNnJOQk9LUTNxNTZNS1JsV3BjQWo0YVlFMXU2UE4tbnV0OFRZTQ?oc=5",
-      "date": "2026-11-20T15:15:28+08:00"
-    },
-    {
-      "title": "日月光以專業日照支持員工家庭陪伴長輩延續自主生活 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZdEtfYWtTRXFaOU1EcmJ3TEZRYmlValNrbU4zbkVTb1ZkckRaV3NpQnVNa2pRZElaem9CWFJjREVibUY0Vlp4VFZfYzlzRm50?oc=5",
-      "date": "2026-11-20T12:21:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T11:17:41.037705+08:00"
+  "updatedAt": "2026-11-22T03:25:46.207548+08:00"
 }

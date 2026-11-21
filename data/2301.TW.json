@@ -45,15 +45,6 @@
   ],
   "history": [
     {
-      "date": "2026-05-21",
-      "close": 204.5,
-      "volume": 25908542,
-      "rsi": 59.4,
-      "ma5": 205.4,
-      "ma20": 192.775,
-      "ma60": 171.5833
-    },
-    {
       "date": "2026-05-22",
       "close": 207.0,
       "volume": 19436659,
@@ -1181,19 +1172,19 @@
   ],
   "news": [
     {
+      "title": "2301 光寶科- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NGhINkIzb1czRm1Zd2xsZjhHWXhEX3dOSDk2eTJNQzRNczlYMEU5RVdVR3kxNXcxNDRYY01iSjZHTmtFemp5VjhSb29NTy1NVDlIcWZ2Y1I?oc=5",
+      "date": "2026-11-21T19:35:44+08:00"
+    },
+    {
+      "title": "光寶科技越南廣寧廠一期落成，登記總投資6.9億美元 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jRFROYW5La1ZDWHUtWHpQZndLZW5HMGdOZWVUQnJfaDg3eGR2aGpsYlplRjh5QU1wd2ZabVZmY3NJMUFoQm5ucl9aX2ViVGlVZ2c?oc=5",
+      "date": "2026-11-20T21:00:47+08:00"
+    },
+    {
       "title": "【00403A】11/20 操作日報｜績效重挫，經理人急砍光寶科 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44eEhBSURyb3R1ejl1WC1XNXkzaUdFRDNfYmIybWxEYURDTU1Md3pLVTNNTFoxdkQxYzRIcl9mZWhsdmVIR1VWckp0YVdfalZ2c29aZW03WUswMzAwUnJTYVdGdVFQNDJJanByZlV5eGpJRVdwWFNaYXFEQnhmQQ?oc=5",
       "date": "2026-11-20T18:10:46+08:00"
-    },
-    {
-      "title": "光寶科技越南廣寧廠一期落成，登記總投資6.9億美元 - 索引新聞",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZDZHQXRkallLcnZWUTRuRGJoUTFSQnY5akl5YUthczdLaHE1NkRpS3k0ZV9UZ093Y1BOa0JjbDBYTGliUDVZSWNlelp4Mzl5WkktQWJ2eHJRSmItUzJ3eUhMMW03MDJGY1VoTVhtME0xekQ3M0hxb0o3a09RMkNMM1BB?oc=5",
-      "date": "2026-11-20T15:18:00+08:00"
-    },
-    {
-      "title": "希達數位COP31發表碳資料平台攜光寶科、羅技推供應鏈減碳- 產業 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DejI4MTZFSkxJSXVsalVjVFdGNVBhM0VNSlpyc3BxOUdFLVNoeW4wS2Z6Tmt3NUh4S2hTajlXX2JwVTEwTHc0MmlueWc2UEN3ZjFnYmRJWmRMM01NdHQw?oc=5",
-      "date": "2026-11-20T14:04:00+08:00"
     },
     {
       "title": "營收創10年新高！「這光電黑馬」逆勢台股崩跌目標價被喊上285元…EPS衝刺22.57元 800VDC電源機櫃挹注 - FTNN 新聞網",
@@ -1206,5 +1197,5 @@
       "date": "2026-11-20T11:10:14+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T10:51:12.139740+08:00"
+  "updatedAt": "2026-11-22T03:25:45.637838+08:00"
 }

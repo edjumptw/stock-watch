@@ -47,19 +47,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 422.18,
-      "high": 426.95,
-      "low": 412.9,
-      "date": "2026-05-21",
-      "close": 417.85,
-      "volume": 42636900,
-      "rsi": 55.38,
-      "ma5": 414.29,
-      "ma20": 406.773,
-      "ma60": 390.1087
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 422.67,
       "high": 431.51,
       "low": 420.51,
@@ -1712,30 +1699,30 @@
   ],
   "news": [
     {
-      "title": "特斯拉自動駕駛南韓卡關！申請內容太草率被駁回，中製車款不准用、美規卻不受限制？ | 李靖棠 | 新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81X09BMnByU1FVUzZGdkpWRWJMVFFEQllBX2o2cTBDRUE3ZURJRy1RQkVYbDJNUVV0eDRMWndtN2RLa2pJR3RXVEw3eEctZw?oc=5",
-      "date": "2026-11-21T14:00:00+08:00"
+      "title": "2026電動車能耗排行！屋企無叉電位點揀好？平治、Tesla各有千秋 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOaC1KVFVVa3BPMFBIVjZIVndxVmZCR2ZKQm0zdk1fNzJ4cVB1ZTRYUDhhb3ZweVBiZ0JwcjZGMzFHZEtpTXdKbnczQXktVVliSlZ0UFZoWlgzOFhQWWRvaDdfOFY5cTIybW40LVpWemhYWUZuS1hvM1BzdFlCTm9DenQ4Zldjd0hOMWJ6RWp3TWIwTHNLaWFOaEtNbGR2eUEwLTJpV0lyVEdvQUt3c2lha2xKbGpXeUs3dVVySThYUXBKT1ZWZGdEV0E3VlhPeHVvQ2tneWM3NkpFT09Pci1lV0VUbU51UGpFbHRIbjlVNWQ2dS05UGh4UW1UQnlKaEJmc3V6NWV4ZWdFXzBpYndaMzB2T3RJT1JfRUk3bmxfX0c4NjBCd1NHaFdvOVNiNHNaWE1sOEhqYVRwYWthamxjZ2pnTWVSNmZXYndod29ZMGdoMm9yYVZZYjRGaHREVXJsMEV1a2NMZmw0SUxzZ2xfRnhBcE5iNjljaEwyRDNscGJTUlNZUzVIeDUyb2ptQQ?oc=5",
+      "date": "2026-11-22T00:05:14+08:00"
     },
     {
-      "title": "特斯拉可靠度再墊底！Model Y連2年吊車尾 Mazda CX-60奪冠 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FN081aVQwMEhlQ1Zuc0hWMllpQ0JKQ3ROQmh2WmRydUFDNHZfeUtQY1lXLW50Y3o4NVJtMVFyVFR5ZURzYXlIYkxScTRkdTA?oc=5",
-      "date": "2026-11-21T11:40:00+08:00"
+      "title": "意大利成歐盟第 12 國放行 Tesla 輔助駕駛 德法西仍未批 - unwire",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzRKUXg3QXUzMEdPaDNITWktTkdocVpxV0o4djFuRXVwSTNyaXkzS0hWOGlJUjhiN0JHb19weHlaNFRFSVVOU0ZuVlhKTGpPUEV1aUhqV0R4Yk1leVNBcy1JOXBDZ3JKY3RNU21aX2FDbHQ5VkFDNVhiRHJsS1Z3c3hZdEVTZzFjMFJnM093?oc=5",
+      "date": "2026-11-21T20:20:00+08:00"
     },
     {
-      "title": "訪華24句鐘期間飛上海 馬斯克訪Tesla超級工廠 - 東方日報",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPaW5nbC05RUEyVGd3Tl9lazBHQUlZSnpTMU93S1U2Q0VGZndTc0hVQTZJd3AwMVdXVDBvT0gzYllFVy1udWstT0JTdVg2ZXZBSmF2ek8zbW9GVHhBNFhLOWRRdzd4b296MUNleGpaWl9ocVFmYS1Qd0I5Rzh3cmF0bGk3UnFSdURIZDZMbF9RLWY4V210MFQyQW96SFpCZUxReEJfS3R0OUZQNFBiUGg4X3ZFZW1fZ2YtN1FLTm1YdFRfUllkZkdXSWFQRzBPRmlwOG5iZDh1bnZmR0QtMnNjbVpnWThObFB4aUx1UE9MODRpSFFmV1ZKMnM2eVpQdGdJeFh2YWxDN0JNcEEtTXlOUUJWaFd5MjNQdko4dDVCZ2UwNzhBTjFkMDJ4dEN6QzgtSmVjVDBSc05hWUdWV2FjdG4wQmZ1anl4OWJ2ejZQUzA4YzVzLUtUYnU1VFJLOE43LVYwRW1jWXI1Q1BKOGc4TXVTcVA3QjlLLWtj?oc=5",
-      "date": "2026-11-21T07:57:43+08:00"
+      "title": "這家電動車改裝店正把 Model 3 改造成特斯拉從未生產的廂型車 - Business Insider Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaGFPbGNfZ0NoS2ZqTF83WXR3OVZLX3VtVFRaM0lyVDJHb0lUWmI1R19tLWxDVDVuT2hKZEhMODMydzZHU25QVFlLOHpJNWNjbDVDR1lVUQ?oc=5",
+      "date": "2026-11-21T18:13:01+08:00"
     },
     {
-      "title": "義大利核准特斯拉輔助駕駛系統 媒體戲稱最嚴苛試煉場 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uWkY0dkVvZkxMUEhZUl9UdGdJWTd0NDRrbGc0QVo4ZTllS3RiOVJ6VVNOdVB5Mm5od0xCZ3l5LU1nbFBRdko2Tk5qN28?oc=5",
-      "date": "2026-11-21T07:25:04+08:00"
+      "title": "馬斯克預告特斯拉 FSD V15 將於下月廣泛推出！稱特斯拉 AI 已把訓練做進主模型 - 動區動趨",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXd2azVYaDZKM0U3dHBGcDZoT2dUQ2E5NHFxYS1YMjY4ZXJaNGRrRXdUSlRzdVJ0a0JJYVNmOEhwQTdzTFlmSWVQZE1xWFkzRGJUaE1MMkdlTDZ1bXRWZTN2RktBX0dxR084OTNMSjZ5TnREZGZ2TkNSaWNVeEVNYjdTUTFoQQ?oc=5",
+      "date": "2026-11-21T16:42:05+08:00"
     },
     {
-      "title": "馬斯克快閃上海Tesla超級工廠 - 20261121 - 中國 - 明報新聞網",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWGh2Mmc5TEdyLTV3aThPb3U3QlEteVkwRWEtdE1xQkcxQ0pRQlpNR3RmWi1LSmdYcFZKVER3MGthdnFHN3REUGE1RVYtaTVPd0Z1aW5obXAxVjJiNWs0UlNQaXhvQWkwa0c0VUNQZjhvdndxV3VqOTRGejFub0lIeVVLWHR2d0VvMXdCR29ndWw0VEItVGlkMFZoWHRFZGZaTUVFUHJsc1NpZkVQeTBFZTQ3YTAzV1NZMXNyUEpNbUpXdjNyN3RjZFBZZ2lMZHBQRXctenhMcGZTN3Ita1d2bmJUdGtiNVM4V3VMNFFYa3NhVDc5cXZ6MnBkaUk1OGt5T3BIZ2paT2xBRjIxaFk1eVVQdnIzTWVZR3c?oc=5",
-      "date": "2026-11-21T04:30:00+08:00"
+      "title": "Tesla Full Self-Driving v15 將於 2026 年假日更新中正式發佈 - Techritual",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCVDVFLUhmcUJaV1RrWEFGbEJ6azRhdURZcHJBbjlZYkNoS1NHTURmdUpNdGtoM2NzdHdZYmQtcW1SSDIxQTVuS1pBeW9KMHBFSmJyWjU5NDk?oc=5",
+      "date": "2026-11-21T16:25:36+08:00"
     }
   ],
-  "updatedAt": "2026-11-21T15:39:53.664565+08:00"
+  "updatedAt": "2026-11-22T03:25:50.361002+08:00"
 }
