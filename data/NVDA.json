@@ -47,19 +47,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 220.9,
-      "high": 221.01,
-      "low": 214.8,
-      "date": "2026-05-22",
-      "close": 215.33,
-      "volume": 169275700,
-      "rsi": 53.72,
-      "ma5": 220.248,
-      "ma20": 214.7455,
-      "ma60": 194.3483
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 216.54,
       "high": 218.18,
       "low": 212.0,
@@ -1699,30 +1686,30 @@
   ],
   "news": [
     {
-      "title": "美封殺中國「遠端摸晶片」後急轉彎：Nvidia老晶片鬆綁聲起、AI軍事風險成焦點 - 美股放大鏡",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXNJR1VTTGhGcWhPcnBYcUhPLVJTRjctbjFqXzNXVWFRcTktamhFMzRBWS0wamNwQVNkZnI3WlBXSk1wRHR4eXlCVngyZUk1MHdQbjRhR0lJQWJUVkdCYmlLNldFS08xSktxU3h2ejhmZUVqaU9iNDNsZWRPSk5UZEZ6NC1Pa1JUdkpydW53Tkw2dndx?oc=5",
-      "date": "2026-11-22T02:00:25+08:00"
+      "title": "DIGITIMES Today：中國AI算力競賽「燒錢」加速 | NVIDIA中國團隊「仁勳惶惶」？| 超微資料中心2027佔比衝8成 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkb0ZyZE9KY2FwUVoyN0xsSXBsbDJrTEZYclhQaWZKQ1c2S1hRNm9yNWVQeU01X0xyUGt0V09WWTNXZWtWbEJ4aVU0ZlBaVzFlV1VpTGszSjhVSEo5VGR2eFVZb2k4Ti1RTmE0?oc=5",
+      "date": "2026-11-23T03:07:30+08:00"
     },
     {
-      "title": "美財長稱已遏止「遠端存取」 無需再禁Nvidia對華舊款AI晶片 879,868顆授權曝光引爭議 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVlKNkd3THJoZV85YlJuckJxRzFXTjNFaXZPUUlGZkd0VkpBU0ZfNkFQLUJNVEtqWmZxZnh0SEpKaVNuemlMalAyRVJVTzZ0amg1eGxnQzNZMk1EU1N3NGZ0cEVCeUxRcUR0M05TS181R29PNWxVVllnODBQV1Jpek5INmJYTTFxTE91Uy1B?oc=5",
-      "date": "2026-11-22T01:17:29+08:00"
+      "title": "黃仁勳離任NVIDIA中國團隊「仁勳惶惶」？ 定位與市場戰略恐遭削弱 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCQmdPUnYxbFM0VXBkX1BRVkdPZmV4anRrcjdvSU9MMk53NzhFdVF1WF9zUHhWVFJUc0Fud2xWMWtSN2FnSWl1Q2VWMjNHZm43eWZZd3dTaEtYNHVidEpMVk9jTWFYbG5UTDFF?oc=5",
+      "date": "2026-11-23T02:29:00+08:00"
     },
     {
-      "title": "AI 瘋潮瞬變寒潮？Nvidia 暴跌、Anthropic 熱賣 華爾街上演「AI 兩樣情」 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDVTUEY4a01RVHc2bFN3ZDNEZnJnTjVWMXBfNGtSSk9oM3ZkWUFxMnF2b1JuM09QV1IxeDByMDlvdlRESkFadmthcWQyRFlIMG4tZVFzRk9jT2tkMDB4clJWNDJxMldoNktWbEtFNFNEUXdxVzZSSzRPcnhDUVNWbVlMWnotVVI1SUZRTE9n?oc=5",
-      "date": "2026-11-22T01:00:23+08:00"
+      "title": "貝森特談黃仁勳能否重返Nvidia…再點名台灣 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16amwzRm9fc2FCZVFQZldjQ01FWnk2Q0tOa2Z5RVhXNHhNTlh2b0pyb29iMm5oQXB1RUhJZE0yVGNJYUJyVGhBODFFQ2kwMGNrcEdYMDRaUEIzRzJHM08zR3Bn0gFnQVVfeXFMTlBzMURDZG1LTHRGQ0NPeFdDYk4tUmNXZE1Sbm5QY2d3Vk13aHB3VnRmS1RGMHctdkVyazFSWExYWEhreE1DWDdwa0pYalJISVFGcXV2VDVUdG5HcEFrd3JJUWFlanozdw?oc=5",
+      "date": "2026-11-23T00:50:30+08:00"
     },
     {
-      "title": "AI 雲端股慘遭「去泡沫」？從 Nebius 暴跌到 Nvidia 震盪 華爾街啟動AI資本支出大體檢 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQldzb0RRZ0ZmaHRZOWVCd1ljOS1ZTjMtQTQwNnZPWW11STNlcXVqZ19vNXZmR19aUnB1Mk9fbmlMbGxVODFuQzlnUTNIWHhhTnBPaTU1TlBVY3lmUTVTVC1CQVFiRFVyQWp5ZWpYdzRFRC02a0FCcmZYdE1uMGtkOEdBdWRfM1IwUll1ZDN3?oc=5",
-      "date": "2026-11-21T23:00:30+08:00"
+      "title": "NVIDIA代理CEO走鋼索 能保住AI引擎、放下融資循環包袱？ - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XYXNsZ2htRWJtaWdYUWo4c09lOEU4VEVWV1paNC04eXF6RFNOQUpVeTFhM1dlYXA1UnVQc0ZWV1RVejZhWDVGYkVIcGdsUVR1elVYRU41bkZZeExRY0JqVEtxblVleGpkSVVJ?oc=5",
+      "date": "2026-11-23T00:49:20+08:00"
     },
     {
-      "title": "Nvidia股價暴跌逾8.5% 傳美國SEC展開會計調查、伺服器夥伴暫停東南亞出貨 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR05DUUlUbV91MVBmS2dnb1FYQmthdEw5TU54WkJ6V3hnSGlNQ1lDb3JOR0V4YjBRSGwwcVM1ZVFfTUp0enBzMjlFS0JWUXRRSElVTTJ3cElLZFM5TDduMWd3WElsWlJwWGV2c1hzUUdMYkU3Q2JMR3RyR1JmUkRVcWhRU25uZlBGazFxb3B3?oc=5",
-      "date": "2026-11-21T22:32:39+08:00"
+      "title": "黃樂只是門面？Nvidia晶片走私案幕後操盤手曝光 住中國使館旁豪宅 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Q0tZeVhPTmJKeTFqXzAxc25YNDZILWY5cUVUbmRsb2hIcDVYWHdMeUpwcGd2ZWIybFltdEFqblMybDV6VmQ3di1yNzNEcV9ybnJ2RzNDNVY2TFdKeWlDQm9n?oc=5",
+      "date": "2026-11-23T00:37:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-22T03:25:46.658842+08:00"
+  "updatedAt": "2026-11-23T03:49:20.197960+08:00"
 }

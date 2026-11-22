@@ -47,19 +47,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 422.67,
-      "high": 431.51,
-      "low": 420.51,
-      "date": "2026-05-22",
-      "close": 426.01,
-      "volume": 46104700,
-      "rsi": 58.3,
-      "ma5": 415.044,
-      "ma20": 409.2585,
-      "ma60": 390.3992
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 430.26,
       "high": 435.2,
       "low": 426.12,
@@ -1699,30 +1686,30 @@
   ],
   "news": [
     {
-      "title": "2026電動車能耗排行！屋企無叉電位點揀好？平治、Tesla各有千秋 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOaC1KVFVVa3BPMFBIVjZIVndxVmZCR2ZKQm0zdk1fNzJ4cVB1ZTRYUDhhb3ZweVBiZ0JwcjZGMzFHZEtpTXdKbnczQXktVVliSlZ0UFZoWlgzOFhQWWRvaDdfOFY5cTIybW40LVpWemhYWUZuS1hvM1BzdFlCTm9DenQ4Zldjd0hOMWJ6RWp3TWIwTHNLaWFOaEtNbGR2eUEwLTJpV0lyVEdvQUt3c2lha2xKbGpXeUs3dVVySThYUXBKT1ZWZGdEV0E3VlhPeHVvQ2tneWM3NkpFT09Pci1lV0VUbU51UGpFbHRIbjlVNWQ2dS05UGh4UW1UQnlKaEJmc3V6NWV4ZWdFXzBpYndaMzB2T3RJT1JfRUk3bmxfX0c4NjBCd1NHaFdvOVNiNHNaWE1sOEhqYVRwYWthamxjZ2pnTWVSNmZXYndod29ZMGdoMm9yYVZZYjRGaHREVXJsMEV1a2NMZmw0SUxzZ2xfRnhBcE5iNjljaEwyRDNscGJTUlNZUzVIeDUyb2ptQQ?oc=5",
-      "date": "2026-11-22T00:05:14+08:00"
+      "title": "美國LFP自製戰不只福特 Tesla與韓系廠各擁底牌 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iMnduemh4M0Y2TVI3UU5nZWxaT1pwQ0FZdG9YWElVMnNHZVBEZ252YzR0Z0RvNWhReWlwWVRhaGFLVUdtbG0zSjd0M19BcU5fZHlIMVJRTWV3bW1Gb0s1V2JHYXZDUmlSY3A4?oc=5",
+      "date": "2026-11-23T02:26:00+08:00"
     },
     {
-      "title": "意大利成歐盟第 12 國放行 Tesla 輔助駕駛 德法西仍未批 - unwire",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzRKUXg3QXUzMEdPaDNITWktTkdocVpxV0o4djFuRXVwSTNyaXkzS0hWOGlJUjhiN0JHb19weHlaNFRFSVVOU0ZuVlhKTGpPUEV1aUhqV0R4Yk1leVNBcy1JOXBDZ3JKY3RNU21aX2FDbHQ5VkFDNVhiRHJsS1Z3c3hZdEVTZzFjMFJnM093?oc=5",
-      "date": "2026-11-21T20:20:00+08:00"
+      "title": "無人車大戰拉斯維加斯：Tesla「Cybercab」硬剛 Uber 機器車隊，勞工與監管風暴一觸即發 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXFmLXV1Ym1rUWpmN2lOVHJPSGFCUEpNa1BPNEhmaHVwVEFfOThJZy1fNndqbkdTWk1BNExsTFFacEJ4NkZ3Wk45N195aE9qZG9jaUFLQjQ0SlV5VkdWdHpETzZaSmNkU2VpTnEzMEsyX2M5WmtzeEFPWmxQTVQ1aTdPVkFqb1NGYlg1WHln?oc=5",
+      "date": "2026-11-23T02:00:24+08:00"
     },
     {
-      "title": "這家電動車改裝店正把 Model 3 改造成特斯拉從未生產的廂型車 - Business Insider Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaGFPbGNfZ0NoS2ZqTF83WXR3OVZLX3VtVFRaM0lyVDJHb0lUWmI1R19tLWxDVDVuT2hKZEhMODMydzZHU25QVFlLOHpJNWNjbDVDR1lVUQ?oc=5",
-      "date": "2026-11-21T18:13:01+08:00"
+      "title": "影音／特斯拉自駕神進化！「閃坑洞、躲積水」樣樣行 台灣開放時間曝 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43d1c0WFc3cElqTHZSdmQ4MGd5WFNPbWx2bHFqeEJGOXBjWXhXajhMS1V5a3ZCZW91dkRyXzZDQXZSTDZ4YjMzT0dybUtpQQ?oc=5",
+      "date": "2026-11-22T23:49:00+08:00"
     },
     {
-      "title": "馬斯克預告特斯拉 FSD V15 將於下月廣泛推出！稱特斯拉 AI 已把訓練做進主模型 - 動區動趨",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXd2azVYaDZKM0U3dHBGcDZoT2dUQ2E5NHFxYS1YMjY4ZXJaNGRrRXdUSlRzdVJ0a0JJYVNmOEhwQTdzTFlmSWVQZE1xWFkzRGJUaE1MMkdlTDZ1bXRWZTN2RktBX0dxR084OTNMSjZ5TnREZGZ2TkNSaWNVeEVNYjdTUTFoQQ?oc=5",
-      "date": "2026-11-21T16:42:05+08:00"
+      "title": "上海產特斯拉熱銷 韓自中國進口汽車逆差創新高 - Rti 中央廣播電臺",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1TTNaLWwzVG92TWVqOExIcS1ZeE0tTXJNb3hnWDdDNlRJbEZaLXlCTC1wbGs0N1FjejhEVHNBTFFmREpJUWNoU0RnbFBULWZGUFMxX0FSOTE?oc=5",
+      "date": "2026-11-22T21:38:42+08:00"
     },
     {
-      "title": "Tesla Full Self-Driving v15 將於 2026 年假日更新中正式發佈 - Techritual",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCVDVFLUhmcUJaV1RrWEFGbEJ6azRhdURZcHJBbjlZYkNoS1NHTURmdUpNdGtoM2NzdHdZYmQtcW1SSDIxQTVuS1pBeW9KMHBFSmJyWjU5NDk?oc=5",
-      "date": "2026-11-21T16:25:36+08:00"
+      "title": "特斯拉無方向盤 Model Y 計畫曝光！6到7人座自駕計程車鎖定家庭客，價格未定！ - JUKSY 街星",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWRFo1QVVWbHdRRWNsbUR5VmdELWtaYnBPRlF2MmxFVmRrUmtJbkxLNzYxckd3R1RBbm9IQ3pVb1dtVnh6YTUwS2ZoYmQ?oc=5",
+      "date": "2026-11-22T20:46:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-22T03:25:50.361002+08:00"
+  "updatedAt": "2026-11-23T03:49:23.642628+08:00"
 }
