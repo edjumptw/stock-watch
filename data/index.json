@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T04:19:23.662655+08:00",
+  "updatedAt": "2026-11-24T05:41:20.734986+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -1166,9 +1166,9 @@
       ],
       "news": [
         {
-          "title": "00406A大換股一次出清6檔 國巨強茂遭砍逾4800張 - 三立新聞",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0TnZvSFNOSGY5RFlTdURKYmpmZzBlc1JVbFBELTZWZHRQRTFWZTRZYTNoYkdtQXNZVl9QWk8xNWRhQnoxXzFQTmZMWQ?oc=5",
-          "date": "2026-11-24T04:13:39+08:00"
+          "title": "00406A大換股一次出清6檔 國巨強茂遭砍逾4800張 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxON2RYWGN6Qm1lOUI5bmIwZFBUWjlSbE03dkp2U2xoYmVRMUl6ajROaFczVjJvOHU4UGZnSUFxVmMyYnZBMllGelVQWWlLelZqRlJmbzFNUWZUVFBPNDE0YjJCWXlVVGhhUjFwTmtBSkJydXFNYmdQTXRvUTRqNFZBUVlKUDRKT2dTbFV6a0dzMjl6TkNrTzM0RnFEMDh1MnQ2RUtUbC16Z1RnOWVDU0tNSTl5YlNGcVBkUFVzSjNsR1JuazFKV3NLUlM2S2V3NDZEOHdVZXlFdWFtNWdCbmZrLXM2Xzdza2NoeGthS2lZd0R5cFNsUk1vZGVKenZYSzhicGUzNDVINEdfNjY2TFo4dG1uMXdYdzRt?oc=5",
+          "date": "2026-11-24T04:13:00+08:00"
         },
         {
           "title": "2327 國巨* - 早上開盤沒意外會直接鎖漲停- 股市爆料同學會 - CMoney",
@@ -1191,7 +1191,7 @@
           "date": "2026-11-23T18:33:40+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T04:19:11.493633+08:00"
+      "updatedAt": "2026-11-24T05:41:07.671974+08:00"
     },
     {
       "symbol": "2308.TW",
@@ -2358,9 +2358,19 @@
       ],
       "news": [
         {
-          "title": "台達電開低走高攻漲停- 日報 - 工商時報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16SS1FX3FkT0xpSlRMVkYta3pORTFmeTgzeVRVV013b2x4YzZXMXJBb0RXWEJiTWFyaEJDQkVaRDE0aGNKazlFRjBncV9XZHc3V0NlLTB0Wk91SVdJUEZF?oc=5",
-          "date": "2026-11-24T03:00:00+08:00"
+          "title": "AI股反攻 台達電、台積添柴火 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sRU9XVlJ3UGtGUTctQmphRE1Pbm1DampKNnhTNXF3Mi00TkNFNllwbk9zVnFXUXNHTDVyQ0RVRVFvX2hEQjJHWG9PelBvYjQ4VUNxOUpZT0puMzA0OGUtZDdOTkhnd3cyV3JF?oc=5",
+          "date": "2026-11-24T04:10:00+08:00"
+        },
+        {
+          "title": "熱門股－台達電 開低走高攻漲停 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vMExNbFZHSEw5bi1VVGJLNi05Q1lnWHcxa2M2S3RHUExnT0p3c3NfUzREdlF1cjZidFExOWtwS01WcTVKOE9vUG9FZ0NZQWZQM0djRXpXRG4xdlYwSjVqYTZsaklxcGV6bFh3?oc=5",
+          "date": "2026-11-24T04:10:00+08:00"
+        },
+        {
+          "title": "台中精機攜手台達電打造新世代全電射出機- 產業特刊- 工商時報 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94V1hSZTN6RXU0ajJweUExOEpiWGV0RU55Zmh3MVpIVUFOYm0xckgtbVBUQ29BcGxSbXdVd3lCUFZ2M0wzbnNBTTlaeU5lQU9UNlFRMV9POHBiOTNrb1pOUUtxcVp0YVF2NEMw?oc=5",
+          "date": "2026-11-24T04:10:00+08:00"
         },
         {
           "title": "AI股反攻台達電、台積添柴火- 日報 - 工商時報",
@@ -2371,19 +2381,9 @@
           "title": "台中精機攜手台達電打造新世代全電射出機- 日報 - 工商時報",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RNWpKT25PQzZwWGtuU0FIZjZZV0VXa2JCYi1RTmU4aHdLa2dfNU4tc1dhTFpONnNBRXVrcWRoeUtlcU0yTjQtenpMbERZQUtNNU9OdXpJU3pKTURfT2xV?oc=5",
           "date": "2026-11-24T03:00:00+08:00"
-        },
-        {
-          "title": "台達董座申讓近半數持股 要轉到新籌備公司廣曜 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ENmhVaWRfdV90bkFPSDBoWWFfMk91MjJrYVRwMDZNNEJEcWR3UWk1Y2kyMjlOS2w2THdBekhZVkU0Q1oxUmV6LWlnWDVGaXlmalJhdkRBcU5oaTVZYkRGVzdiMFRPVkpwb2FnRlVKcUlRZ9IBVkFVX3lxTE5MZ21VNXU3Q3ktSTdEWENLODJjQ3FoSWp3SkM4b19mQm9CVnJTaUtvREs4WmFsTDhaZkxGeFdiMFdvTWl3VTlGXzVVZE5RXzMxWnpoWGFB?oc=5",
-          "date": "2026-11-24T02:57:40+08:00"
-        },
-        {
-          "title": "【台股盤後】聯發科、台達電飆漲停 台股反彈778點 收36811點 - 非凡新聞台",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OWkpsWjF4OFZxcVpUSll0U0dibkFTN3AyVGN2V19xZzljaVFaMzZVV0pXWWpWSG1CVGZtdUdDRnk5MnFGS1RCTXZaM0FVdW5abU96Y0tlcUdLZnp1bU9Jbg?oc=5",
-          "date": "2026-11-24T00:28:44+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T04:19:12.423443+08:00"
+      "updatedAt": "2026-11-24T05:41:08.982114+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -3550,32 +3550,32 @@
       ],
       "news": [
         {
+          "title": "2330 台積電 - 〈台股盤前要聞〉黃仁勳復職、擔保維持率將至120%、永豐金法說- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lZXBjbHhISnhwV2hzSEFZNFNwc2F1LV9SQmpPZmdNUjA4dFdzR0NFcDNSTmpaaFFsd0MzbzZpTWxudkpicTAwdlc5LUozR0dKZGRjYlNxNVU?oc=5",
+          "date": "2026-11-24T05:12:23+08:00"
+        },
+        {
+          "title": "2330 台積電 - 2027民主黨出手1/3上任暫當逃生門（一個月多頭時間） - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ndXpiWlhwdV9vbEtBNGJwVW96MGRkR284ekxMbnkyLUd1U3JBd2lnTXQ5NHJrcl9YSjRFYUtaaUx5TmRJSzJLWFpOSXlnb0JwWWJreUxnd00?oc=5",
+          "date": "2026-11-24T04:58:14+08:00"
+        },
+        {
           "title": "2330 台積電 - 漲停鎖死- 股市爆料同學會 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80QWppQzhYMHBURWRfZFY3RmYzTHAtTVFrX21FSXVObDAxNVBhOGVOYU9nRThEY2F6Q0JzclNNUjZscm1GVWNlTUFhZnpwaU9mRzdfZHFLOEU?oc=5",
           "date": "2026-11-24T03:53:56+08:00"
         },
         {
+          "title": "2330 台積電 - OpenAI 提 AI 規範助益產業鏈有利台積、緯創等做大市場規模- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KQngxRjctN2RGWGpPNk5ZSkFuNTlkdDE3Y2NXVnBVcUxrSzN0Q1NpWlFIcnZ0a19TSnlrVVRQVEJaVEowZlBONk9HMjNDTWhwSWpaV2JRRzA?oc=5",
+          "date": "2026-11-24T03:30:23+08:00"
+        },
+        {
           "title": "2330 台積電 - OpenAI提AI規範助益產業鏈有利台積、緯創等做大市場規模- 股市爆料同學會 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50ckdVd19oUEFjaVhjMlRFVDU5TVhFQ2VEOG9LcFMteXhETWNzQzhPTFZ4OXZwNThHaUw0d1JFQWxTS1pjR21ZRW1WWGZVMWRIOWZwS2Z3MzA?oc=5",
           "date": "2026-11-24T03:19:04+08:00"
-        },
-        {
-          "title": "輝達跌不停好怕？外媒力薦：改買台積電 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNW1ucldpQ2tRa1pJTW1XUGx3ZlFHY21XS0lKU3lXbHRTZnJub1VQTGVmQUx6MnVLMEd5WWI5cWR2N2Zia08tQnFOSmtuOC1nRTI1T1JtMFk3ckdCSDZMc2llVkVwV1ZXMnRLNEFjcGFLR0VhV0l2WjdmNnNLR2tka2xQQ3VtSUtQcG1XTmdSSzFDWE56U2ZRS0xsU0V6c1kwM3d5eVE2UE1tV0VDT0lGQ1VuUUtkWmFTNm43dlFyeVpWQlpsdks4X2RtbFRha0VreG9SOW4tVWZxaWp0Mmw2dEw1WFdTTmMtWHB3MkVSRV9lSzhaQmpweXg1NzRqV2FCa0N6STR4TGlDZXhMLVp2X053ZXBJQQ?oc=5",
-          "date": "2026-11-24T03:15:00+08:00"
-        },
-        {
-          "title": "外資狂賣台積電內資搶接盤- 日報 - 工商時報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14UzFmc1I5TXNZZlR0NW52cWV3NG54WFowQW1VRG5mQUtlS19Rek9fd0JJVFhVMkhPSnY0SVp2NnRiaHR6a05RZmIyQzFMdThuc2RIWU1WR0R5U3VIZjVR?oc=5",
-          "date": "2026-11-24T03:00:00+08:00"
-        },
-        {
-          "title": "2330 台積電 - 黃仁勳回來拆Ai泡沫 - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2dFdlTXc5NGZTMEVzSmNXSElZS3gzWUVTRTNucUpYOXZORFl0aFJvRGZUWjVnNklxT3UzQmVZUTN6dEVUd0pBSElmUnZ6R0d2X0Jla2UwN0I?oc=5",
-          "date": "2026-11-24T02:51:25+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T04:19:13.169180+08:00"
+      "updatedAt": "2026-11-24T05:41:09.807757+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -4747,11 +4747,6 @@
           "date": "2026-11-23T16:31:00+08:00"
         },
         {
-          "title": "《投信買超7-2》裕民(2388)、台灣大(2379)、光寶科(2048) - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMF9OYTBfWDEwb1BtbzhTeFZEenpaeDJ0enBvZVpWNU16R0R2QWhZZUduN3g1M19tbmpMSnQzaVV2REFxYk9hQUFlU21kbHByLVY4WDFFVzB0LVZoX3JZTVNwN3FuS09YVWZiblh5NjRhelE3RGxpMmx2ZDk5MDR0cmhPeTB2U1Bn?oc=5",
-          "date": "2026-11-23T15:52:00+08:00"
-        },
-        {
           "title": "【即時新聞】光寶科名列遊戲主機供應鏈，受惠GTA6首日狂銷37.9億美元！ - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFlIbXE5X3Zrd3FFMm5BZFJxT0k1bmhUU1VuRV9sMjRzZFNNeGo4SEZReTFicE9nSGY1b1puQ0k1QmVYTjJvTHdaVVdRVkdETjktbUpybnRuSUxVcEVvYU5Fck5BTFU1U1NSSWJMSkYyU1RuY3RGTXRoQU00OHlKZGxhd241d2tESGxlV0NkMXY?oc=5",
           "date": "2026-11-23T07:34:26+08:00"
@@ -4765,9 +4760,14 @@
           "title": "缺料、出貨延後疑慮？外資看台達電、光寶科後市 - TechNews 科技新報",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenlkRzdqejhMVkpkMFVZVllFS1BVY04xa0RYRmgwNnhIU1VjOGZVLWpyZTZBWHpGb2hDWk9BY05BMUI1SDVCbnVVcXN4cnpWVEUwWl95Vmd4VUR4SklhWC1VUUUzampRcHlVN3VsQUc3aVRmeHNZckZBSDl6WGFCTDZlaXUyQ2N5dzByS3ZvWGVlSWJkTGN4MlJwei03SDFyaVdiQzRNYndGM0JxNUhrTWVJSEcxV2hZajBmLVBDMFhmb0xjNVpR?oc=5",
           "date": "2026-11-20T11:10:14+08:00"
+        },
+        {
+          "title": "電腦及週邊設備產業鏈／光寶科Q3每股賺3.27元創新高！AI營收占比破3成 - 科技島",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTUUZ2aF9BUmpDZ2RnMS13dTZTVzgxTDh6YzJ3bEF5WGJtMmV2SXNtdVdPLVZRa3NpdXUxUHFNSzRNTl9IeGxTeGNiNjNDMHlfWURMRC1YQ3VYYlBHclJ3N2VIekk1Y0hKZFE?oc=5",
+          "date": "2026-11-05T16:00:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T02:41:52.940039+08:00"
+      "updatedAt": "2026-11-24T05:41:10.687222+08:00"
     },
     {
       "symbol": "3711.TW",
@@ -5967,17 +5967,17 @@
       "query": "NVIDIA",
       "currency": "USD",
       "source": "Yahoo Finance",
-      "date": "2026-11-20",
-      "dateTaipei": "2026-11-21T05:00:00+08:00",
-      "close": 125.52999877929688,
-      "change": -20.45,
-      "changePct": -14.0088,
-      "volume": 626373200,
-      "bias": "偏弱",
-      "performance20": -40.5,
-      "volumeRatio": 2.41,
+      "date": "2026-11-23",
+      "dateTaipei": "2026-11-24T05:00:00+08:00",
+      "close": 165.0500030517578,
+      "change": 39.52,
+      "changePct": 31.4825,
+      "volume": 772485268,
+      "bias": "中性",
+      "performance20": -23.59,
+      "volumeRatio": 2.69,
       "recommendation": {
-        "date": "2026-11-20",
+        "date": "2026-11-23",
         "action": "減碼",
         "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
@@ -5992,20 +5992,20 @@
         ],
         "resistance": [
           {
-            "price": 181.457,
+            "price": 178.9095,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 209.5843,
+            "price": 208.7093,
             "source": "MA60（近 60 日收盤均價）"
           }
         ],
-        "volumeRatio": 2.4093
+        "volumeRatio": 2.6889
       },
       "commentary": [
-        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
-        "本日成交量為前 20 日均量的 2.41 倍，交易較熱絡。",
-        "RSI(14) 為 15.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -23.59%。",
+        "本日成交量為前 20 日均量的 2.69 倍，交易較熱絡。",
+        "RSI(14) 為 42.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -7645,36 +7645,49 @@
           "ma5": 146.814,
           "ma20": 181.457,
           "ma60": 209.5843
+        },
+        {
+          "source": "Yahoo Finance",
+          "open": 167.035,
+          "high": 171.5,
+          "low": 156.93,
+          "date": "2026-11-23",
+          "close": 165.05,
+          "volume": 772485268,
+          "rsi": 42.87,
+          "ma5": 148.596,
+          "ma20": 178.9095,
+          "ma60": 208.7093
         }
       ],
       "news": [
+        {
+          "title": "黃仁勳復職激勵 Nvidia狂飆31% 道瓊大漲1447點 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTVDdXlsd2dIRHZ4QkZhZU1GRTltTmxlRlB3bU5ZcHV5OHpCdGJmNWFsMjl2cHZ6VUpnSDc4Q2FPTFMxUDZxWG9kRjZxUk11ZmF1UVFKQXJTWFBYcWtLQ0Z2VmE3ejd6WGxQQ0RmYjlzRUlmRnZPLUFrWVBUbUNocTBB0gFnQVVfeXFMT0pnUEpyTWVQNUpJLWhId3NldmFraEFoZF90NzF6dWdZMERzZWdZMEpOY01oY21jd25ydG90b2dfei1uVGkwdk1qUFFxdUhnZGJfYmZ1VEhzOHpRSzZqaHBDY21PMG53VQ?oc=5",
+          "date": "2026-11-24T05:25:36+08:00"
+        },
+        {
+          "title": "黃仁勳回歸Nvidia宛如巨星 員工齊聲高喊「我們愛你」 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90amVYNFpkNlQ1T0R0eHBxNlBQdjZycmh0MC1qZmRJWFd5UG9PQUEyUTFPaXlkQWRiSFlZTFI4M3VwZ0hiVWdOZmYxOTg2blJiZEM3R1R6RDVjaFhMYlhzbnZB0gFnQVVfeXFMTnJmTUYyMVM2OUNJd2dwVTBwb3hnTktNck02V2l1WFh3eGxnendvZkdsTWY3YTdkSUZZLWxIQlBYWWRpTTlDM1EtTGlmYjk0Y0ZYVUJiN0NCOXdXMDQyMEcyckxLZlhzbw?oc=5",
+          "date": "2026-11-24T04:42:41+08:00"
+        },
+        {
+          "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ETGhFYlRaQjg5Mmp5ZXJ5Tnpydk1JZmM5emRhQkN1QkU5OVEwWlgtM1haUk53emNCdGk4ei16M0xkbHhxaUFJeXpKZzFITUY0X1pyRm1zLVc?oc=5",
+          "date": "2026-11-24T04:17:46+08:00"
+        },
         {
           "title": "標題 : Nvidia復職黃仁勳引爆兩黨怒火 國會逼近出口管制、傳喚聽證周密追查 - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDZ3WDVET05Tb2xjTmdyclJ4WFlhRVNTakxlajFjVlJpaVBMVUlzSFNVZTZOUjRIMUlsM19oQjJDMTdyVklobUJvNnFPbXBtSW1SWUU3aVI3UEZ3czc1bllnSFc2aWJQMS1JZWR5WHIwUFlZaGZINndKLTljcjlybDI3YWpKeXBpMXl6Y3ZR?oc=5",
           "date": "2026-11-24T04:08:43+08:00"
         },
         {
-          "title": "白宮施壓救火？Nvidia恢復黃仁勳引爆「國安讓步」與市場穩定之爭 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVlORmd3WVVoVkZzeE1rUi0tVUhWR2tKLWp1WTExeWJpZmt1WEs4a3hyT3BSX3dPZGRNOWtlWmpmUTY3R2JHeTE4Y0lJVVUwREhpdkVFck93WWpyVjRwNkVldFNYWEQ1YmsyS1B3bWU2RmdaRzBJVUJkSTE0TmhlYW1zNUNOM3hUVm00Ym1R?oc=5",
-          "date": "2026-11-24T03:32:04+08:00"
-        },
-        {
-          "title": "Nvidia消息帶動金價上漲，美國PCE數據公布前重返3,650美元 - www.tmgm.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW9GN1ZCYU0wYUZ3eTF3RVI4dnItN3oyYUxObFJHVVFfbnQ4OWVwRXNxeW9NLVA3MTVSaVVpVjBQSW56R3h4VExnYjVNWGNad1JDVjNSNWJGQ29nMGdrTV9BaWM1aThMb2FjcDZOeGdBUzNJU0ZaOHMwMWl2OU9PdEswcXpTZG4takZNNHFtNUkxWEtBOU9HRDhiXzNqY2MyQTlZTFVxSUYtZHFabmgtcWxjUHNrbHZZbjZKaGtXNUk0eUYtWElUT1RR?oc=5",
-          "date": "2026-11-24T03:22:40+08:00"
-        },
-        {
-          "title": "黃仁勳喊迫不及待復工 社群帳號改回Nvidia創辦人暨執行長 - 世界新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mT0o2RFVZeHNOdjR5NDl5al8zTGFYVUdmSEdWMjdRQ3I2ZlJJVFlHbUlMc3ZGQVREZjRtUnRvakJ6NnliN19wT1ZNc1NRS2k2LVh1akJ4YjhRV1FuZlRneUJR0gFnQVVfeXFMT1JHaE5nVmg2SGlzQ3ZhRzJ1NTFRaEJWVG9TcjF2WTkyVDJKczlWS0VnNmRnaUdxUDdzaGVxdy1HM0pGX3MwckR5alFwejVYcGZwWDFMWk9iTWg0S3FkQnFPS21jZUJwUQ?oc=5",
-          "date": "2026-11-24T03:21:33+08:00"
-        },
-        {
-          "title": "NVIDIA一時跌倒ASIC吃飽？ ASIC需求穩健靠的是「成本效益」 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHNi1ONWJJY0dYRnZQRUhFV29acTA2cG9qMl9vNWtDcHNVT3FfTzlPTUpFZjhZS0hsSy1mMzFTX3NScktuTm1Jem9Nc1h4bUZyelpibVVwTGVRTWJqbTRIdzJIVE9DVm1VQ3ow?oc=5",
-          "date": "2026-11-24T02:34:00+08:00"
+          "title": "那個男人回來了！NVIDIA 董事會 11 天內大逆轉確認黃仁勳即日起恢復上班 - 壹哥的科技生活",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94T0ctWHNUQkoxNEdEdmRlM1BUQlFoNldNZDRMT09McmVaM1lsZ0h2MWxOM215MkI2dnNFVVhzTDhBd3VHSmRuTEF6WQ?oc=5",
+          "date": "2026-11-24T03:59:16+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T04:19:15.475376+08:00"
+      "updatedAt": "2026-11-24T05:41:12.328281+08:00"
     },
     {
       "symbol": "TSLA",
@@ -7682,45 +7695,45 @@
       "query": "Tesla",
       "currency": "USD",
       "source": "Yahoo Finance",
-      "date": "2026-11-20",
-      "dateTaipei": "2026-11-21T05:00:00+08:00",
-      "close": 345.82000732421875,
-      "change": -28.59,
-      "changePct": -7.636,
-      "volume": 45990400,
+      "date": "2026-11-23",
+      "dateTaipei": "2026-11-24T05:00:00+08:00",
+      "close": 385.4599914550781,
+      "change": 39.64,
+      "changePct": 11.4626,
+      "volume": 45915009,
       "bias": "中性",
-      "performance20": -7.09,
-      "volumeRatio": 1.27,
+      "performance20": -1.57,
+      "volumeRatio": 1.25,
       "recommendation": {
-        "date": "2026-11-20",
-        "action": "減碼",
-        "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+        "date": "2026-11-23",
+        "action": "續抱",
+        "summary": "已有持股可續抱，盯住月線與下方支撐。",
         "reasons": [
-          "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-          "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+          "收盤站在月線之上，月線也未低於季線，趨勢仍有支撐。",
+          "RSI 介於 40 至未滿 75；已有持股可續抱，尚未持股先等更合適的分批買點。"
         ],
         "support": [
           {
-            "price": 343.69,
-            "source": "近 20 日最低收盤價"
+            "price": 384.4905,
+            "source": "MA20（近 20 日收盤均價）"
+          },
+          {
+            "price": 374.0618,
+            "source": "MA60（近 60 日收盤均價）"
           }
         ],
         "resistance": [
           {
-            "price": 373.45,
-            "source": "MA60（近 60 日收盤均價）"
-          },
-          {
-            "price": 384.7985,
-            "source": "MA20（近 20 日收盤均價）"
+            "price": 407.46,
+            "source": "近 20 日最高收盤價"
           }
         ],
-        "volumeRatio": 1.272
+        "volumeRatio": 1.2505
       },
       "commentary": [
-        "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -7.09%。",
-        "本日成交量為前 20 日均量的 1.27 倍，交易較熱絡。",
-        "RSI(14) 為 37.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -1.57%。",
+        "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
+        "RSI(14) 為 52.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -9360,9 +9373,27 @@
           "ma5": 372.76,
           "ma20": 384.7985,
           "ma60": 373.45
+        },
+        {
+          "source": "Yahoo Finance",
+          "open": 374.735,
+          "high": 393.83,
+          "low": 371.99,
+          "date": "2026-11-23",
+          "close": 385.46,
+          "volume": 45915009,
+          "rsi": 52.09,
+          "ma5": 373.904,
+          "ma20": 384.4905,
+          "ma60": 374.0618
         }
       ],
       "news": [
+        {
+          "title": "特斯拉全新 FSD 畫面讓 AI 在行駛時生成道路影片 - Business Insider Taiwan",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uaWRRSnk5Nl9jM0xya1V1elZNdXpKSi1jNmRIZGJ1Q3I0dnQ5MmltenpMQkVTdmN4TmtwYVlOMjMtQ3NFUkJ5YTktdEZWS3lpN0J5Rkp5Zw?oc=5",
+          "date": "2026-11-24T04:51:49+08:00"
+        },
         {
           "title": "特斯拉新車仍以 AI4 為主！馬斯克：舊晶片足以實現超人類駕駛，AI5 要先給機器人 - 蘋果仁",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03eG0yMGxpNmEyNFJaNW1NcVJ4SDAyQkJpSjNDNFhYc3BRX04tYnYyVzAybGpvRWlpQ2Iwdm0taFFJUVliM2RPRUttWWQ?oc=5",
@@ -9379,17 +9410,12 @@
           "date": "2026-11-23T23:59:50+08:00"
         },
         {
-          "title": "【22:32 即時新聞】Tesla(TSLA)勁揚逾10%／FSD v15獲華爾街力挺、科技股反彈點火買盤 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHlxRWYyQkRuNnZUdFotRXlMNTlUaHR5dzRhN050VVVWaXhiM0laUzUtZHpISFhhYlNuWHR3WFhDTXNKWjhINDRPRmp4YU1wc3VDQkNqSUhSeHhZMl9GTHR2SlgxZnp5aWVMNGo0dHZqaWp3Q0pLcTV2WGsyeDhmNnRpVjJ2a01oZHN5UnVtdjBpLWw2ZFo1NTFwSHFpSjl5QkhFTWR1X0JfUWN0X2w4U2FvRWFjOWZyM200dVdDZ1k1bmlXYjU3TV9SU0ctcTA?oc=5",
+          "title": "【22:32 即時新聞】Tesla(TSLA)勁揚逾10％／FSD v15獲華爾街力挺、科技股反彈點火買盤 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZVpyTFVMRFAzdE9Ud1U0YzRPMlNHUmNwcU04NlVERVQ3eFE2MnJiNkJ0OTBJdElYYUp6MTRzVXh0SzR5X3hNQXpkLXIyeFJGdld4cE1HLVJLMEMzNHJPbmN6Tll4UWs?oc=5",
           "date": "2026-11-23T22:55:31+08:00"
-        },
-        {
-          "title": "【22:31 即時新聞】Tesla(TSLA) 飆漲8.36%／FSD v15 推出與自駕題材獲華爾街背書 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHVsdjFHa2p2UzdKZ2dqTlBRVTZwMnJYaW1tazgySUlDdC1ZQzFGdzROWG9nX195cENHb0Z5bVp3MFpiNjNRU1dJV2Vob2tfN0F5QjJfMW5WSDZkRlJ6aGN6Q19xOVhlUFZ3ZC1TWDVBaGxqNFpIWmt6U2w2TEx3SHVaZUFJT29CamZDbXpn?oc=5",
-          "date": "2026-11-23T22:43:53+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T04:19:20.027383+08:00"
+      "updatedAt": "2026-11-24T05:41:15.947150+08:00"
     }
   ]
 }

@@ -4,45 +4,45 @@
   "query": "Tesla",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-20",
-  "dateTaipei": "2026-11-21T05:00:00+08:00",
-  "close": 345.82000732421875,
-  "change": -28.59,
-  "changePct": -7.636,
-  "volume": 45990400,
+  "date": "2026-11-23",
+  "dateTaipei": "2026-11-24T05:00:00+08:00",
+  "close": 385.4599914550781,
+  "change": 39.64,
+  "changePct": 11.4626,
+  "volume": 45915009,
   "bias": "中性",
-  "performance20": -7.09,
-  "volumeRatio": 1.27,
+  "performance20": -1.57,
+  "volumeRatio": 1.25,
   "recommendation": {
-    "date": "2026-11-20",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-23",
+    "action": "續抱",
+    "summary": "已有持股可續抱，盯住月線與下方支撐。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "收盤站在月線之上，月線也未低於季線，趨勢仍有支撐。",
+      "RSI 介於 40 至未滿 75；已有持股可續抱，尚未持股先等更合適的分批買點。"
     ],
     "support": [
       {
-        "price": 343.69,
-        "source": "近 20 日最低收盤價"
+        "price": 384.4905,
+        "source": "MA20（近 20 日收盤均價）"
+      },
+      {
+        "price": 374.0618,
+        "source": "MA60（近 60 日收盤均價）"
       }
     ],
     "resistance": [
       {
-        "price": 373.45,
-        "source": "MA60（近 60 日收盤均價）"
-      },
-      {
-        "price": 384.7985,
-        "source": "MA20（近 20 日收盤均價）"
+        "price": 407.46,
+        "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.272
+    "volumeRatio": 1.2505
   },
   "commentary": [
-    "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -7.09%。",
-    "本日成交量為前 20 日均量的 1.27 倍，交易較熱絡。",
-    "RSI(14) 為 37.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -1.57%。",
+    "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
+    "RSI(14) 為 52.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1682,9 +1682,27 @@
       "ma5": 372.76,
       "ma20": 384.7985,
       "ma60": 373.45
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 374.735,
+      "high": 393.83,
+      "low": 371.99,
+      "date": "2026-11-23",
+      "close": 385.46,
+      "volume": 45915009,
+      "rsi": 52.09,
+      "ma5": 373.904,
+      "ma20": 384.4905,
+      "ma60": 374.0618
     }
   ],
   "news": [
+    {
+      "title": "特斯拉全新 FSD 畫面讓 AI 在行駛時生成道路影片 - Business Insider Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uaWRRSnk5Nl9jM0xya1V1elZNdXpKSi1jNmRIZGJ1Q3I0dnQ5MmltenpMQkVTdmN4TmtwYVlOMjMtQ3NFUkJ5YTktdEZWS3lpN0J5Rkp5Zw?oc=5",
+      "date": "2026-11-24T04:51:49+08:00"
+    },
     {
       "title": "特斯拉新車仍以 AI4 為主！馬斯克：舊晶片足以實現超人類駕駛，AI5 要先給機器人 - 蘋果仁",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03eG0yMGxpNmEyNFJaNW1NcVJ4SDAyQkJpSjNDNFhYc3BRX04tYnYyVzAybGpvRWlpQ2Iwdm0taFFJUVliM2RPRUttWWQ?oc=5",
@@ -1701,15 +1719,10 @@
       "date": "2026-11-23T23:59:50+08:00"
     },
     {
-      "title": "【22:32 即時新聞】Tesla(TSLA)勁揚逾10%／FSD v15獲華爾街力挺、科技股反彈點火買盤 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHlxRWYyQkRuNnZUdFotRXlMNTlUaHR5dzRhN050VVVWaXhiM0laUzUtZHpISFhhYlNuWHR3WFhDTXNKWjhINDRPRmp4YU1wc3VDQkNqSUhSeHhZMl9GTHR2SlgxZnp5aWVMNGo0dHZqaWp3Q0pLcTV2WGsyeDhmNnRpVjJ2a01oZHN5UnVtdjBpLWw2ZFo1NTFwSHFpSjl5QkhFTWR1X0JfUWN0X2w4U2FvRWFjOWZyM200dVdDZ1k1bmlXYjU3TV9SU0ctcTA?oc=5",
+      "title": "【22:32 即時新聞】Tesla(TSLA)勁揚逾10％／FSD v15獲華爾街力挺、科技股反彈點火買盤 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZVpyTFVMRFAzdE9Ud1U0YzRPMlNHUmNwcU04NlVERVQ3eFE2MnJiNkJ0OTBJdElYYUp6MTRzVXh0SzR5X3hNQXpkLXIyeFJGdld4cE1HLVJLMEMzNHJPbmN6Tll4UWs?oc=5",
       "date": "2026-11-23T22:55:31+08:00"
-    },
-    {
-      "title": "【22:31 即時新聞】Tesla(TSLA) 飆漲8.36%／FSD v15 推出與自駕題材獲華爾街背書 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHVsdjFHa2p2UzdKZ2dqTlBRVTZwMnJYaW1tazgySUlDdC1ZQzFGdzROWG9nX195cENHb0Z5bVp3MFpiNjNRU1dJV2Vob2tfN0F5QjJfMW5WSDZkRlJ6aGN6Q19xOVhlUFZ3ZC1TWDVBaGxqNFpIWmt6U2w2TEx3SHVaZUFJT29CamZDbXpn?oc=5",
-      "date": "2026-11-23T22:43:53+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T04:19:20.027383+08:00"
+  "updatedAt": "2026-11-24T05:41:15.947150+08:00"
 }

@@ -4,17 +4,17 @@
   "query": "NVIDIA",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-20",
-  "dateTaipei": "2026-11-21T05:00:00+08:00",
-  "close": 125.52999877929688,
-  "change": -20.45,
-  "changePct": -14.0088,
-  "volume": 626373200,
-  "bias": "偏弱",
-  "performance20": -40.5,
-  "volumeRatio": 2.41,
+  "date": "2026-11-23",
+  "dateTaipei": "2026-11-24T05:00:00+08:00",
+  "close": 165.0500030517578,
+  "change": 39.52,
+  "changePct": 31.4825,
+  "volume": 772485268,
+  "bias": "中性",
+  "performance20": -23.59,
+  "volumeRatio": 2.69,
   "recommendation": {
-    "date": "2026-11-20",
+    "date": "2026-11-23",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -29,20 +29,20 @@
     ],
     "resistance": [
       {
-        "price": 181.457,
+        "price": 178.9095,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 209.5843,
+        "price": 208.7093,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 2.4093
+    "volumeRatio": 2.6889
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -40.50%。",
-    "本日成交量為前 20 日均量的 2.41 倍，交易較熱絡。",
-    "RSI(14) 為 15.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -23.59%。",
+    "本日成交量為前 20 日均量的 2.69 倍，交易較熱絡。",
+    "RSI(14) 為 42.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1682,34 +1682,47 @@
       "ma5": 146.814,
       "ma20": 181.457,
       "ma60": 209.5843
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 167.035,
+      "high": 171.5,
+      "low": 156.93,
+      "date": "2026-11-23",
+      "close": 165.05,
+      "volume": 772485268,
+      "rsi": 42.87,
+      "ma5": 148.596,
+      "ma20": 178.9095,
+      "ma60": 208.7093
     }
   ],
   "news": [
+    {
+      "title": "黃仁勳復職激勵 Nvidia狂飆31% 道瓊大漲1447點 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTVDdXlsd2dIRHZ4QkZhZU1GRTltTmxlRlB3bU5ZcHV5OHpCdGJmNWFsMjl2cHZ6VUpnSDc4Q2FPTFMxUDZxWG9kRjZxUk11ZmF1UVFKQXJTWFBYcWtLQ0Z2VmE3ejd6WGxQQ0RmYjlzRUlmRnZPLUFrWVBUbUNocTBB0gFnQVVfeXFMT0pnUEpyTWVQNUpJLWhId3NldmFraEFoZF90NzF6dWdZMERzZWdZMEpOY01oY21jd25ydG90b2dfei1uVGkwdk1qUFFxdUhnZGJfYmZ1VEhzOHpRSzZqaHBDY21PMG53VQ?oc=5",
+      "date": "2026-11-24T05:25:36+08:00"
+    },
+    {
+      "title": "黃仁勳回歸Nvidia宛如巨星 員工齊聲高喊「我們愛你」 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90amVYNFpkNlQ1T0R0eHBxNlBQdjZycmh0MC1qZmRJWFd5UG9PQUEyUTFPaXlkQWRiSFlZTFI4M3VwZ0hiVWdOZmYxOTg2blJiZEM3R1R6RDVjaFhMYlhzbnZB0gFnQVVfeXFMTnJmTUYyMVM2OUNJd2dwVTBwb3hnTktNck02V2l1WFh3eGxnendvZkdsTWY3YTdkSUZZLWxIQlBYWWRpTTlDM1EtTGlmYjk0Y0ZYVUJiN0NCOXdXMDQyMEcyckxLZlhzbw?oc=5",
+      "date": "2026-11-24T04:42:41+08:00"
+    },
+    {
+      "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ETGhFYlRaQjg5Mmp5ZXJ5Tnpydk1JZmM5emRhQkN1QkU5OVEwWlgtM1haUk53emNCdGk4ei16M0xkbHhxaUFJeXpKZzFITUY0X1pyRm1zLVc?oc=5",
+      "date": "2026-11-24T04:17:46+08:00"
+    },
     {
       "title": "標題 : Nvidia復職黃仁勳引爆兩黨怒火 國會逼近出口管制、傳喚聽證周密追查 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDZ3WDVET05Tb2xjTmdyclJ4WFlhRVNTakxlajFjVlJpaVBMVUlzSFNVZTZOUjRIMUlsM19oQjJDMTdyVklobUJvNnFPbXBtSW1SWUU3aVI3UEZ3czc1bllnSFc2aWJQMS1JZWR5WHIwUFlZaGZINndKLTljcjlybDI3YWpKeXBpMXl6Y3ZR?oc=5",
       "date": "2026-11-24T04:08:43+08:00"
     },
     {
-      "title": "白宮施壓救火？Nvidia恢復黃仁勳引爆「國安讓步」與市場穩定之爭 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVlORmd3WVVoVkZzeE1rUi0tVUhWR2tKLWp1WTExeWJpZmt1WEs4a3hyT3BSX3dPZGRNOWtlWmpmUTY3R2JHeTE4Y0lJVVUwREhpdkVFck93WWpyVjRwNkVldFNYWEQ1YmsyS1B3bWU2RmdaRzBJVUJkSTE0TmhlYW1zNUNOM3hUVm00Ym1R?oc=5",
-      "date": "2026-11-24T03:32:04+08:00"
-    },
-    {
-      "title": "Nvidia消息帶動金價上漲，美國PCE數據公布前重返3,650美元 - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW9GN1ZCYU0wYUZ3eTF3RVI4dnItN3oyYUxObFJHVVFfbnQ4OWVwRXNxeW9NLVA3MTVSaVVpVjBQSW56R3h4VExnYjVNWGNad1JDVjNSNWJGQ29nMGdrTV9BaWM1aThMb2FjcDZOeGdBUzNJU0ZaOHMwMWl2OU9PdEswcXpTZG4takZNNHFtNUkxWEtBOU9HRDhiXzNqY2MyQTlZTFVxSUYtZHFabmgtcWxjUHNrbHZZbjZKaGtXNUk0eUYtWElUT1RR?oc=5",
-      "date": "2026-11-24T03:22:40+08:00"
-    },
-    {
-      "title": "黃仁勳喊迫不及待復工 社群帳號改回Nvidia創辦人暨執行長 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mT0o2RFVZeHNOdjR5NDl5al8zTGFYVUdmSEdWMjdRQ3I2ZlJJVFlHbUlMc3ZGQVREZjRtUnRvakJ6NnliN19wT1ZNc1NRS2k2LVh1akJ4YjhRV1FuZlRneUJR0gFnQVVfeXFMT1JHaE5nVmg2SGlzQ3ZhRzJ1NTFRaEJWVG9TcjF2WTkyVDJKczlWS0VnNmRnaUdxUDdzaGVxdy1HM0pGX3MwckR5alFwejVYcGZwWDFMWk9iTWg0S3FkQnFPS21jZUJwUQ?oc=5",
-      "date": "2026-11-24T03:21:33+08:00"
-    },
-    {
-      "title": "NVIDIA一時跌倒ASIC吃飽？ ASIC需求穩健靠的是「成本效益」 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHNi1ONWJJY0dYRnZQRUhFV29acTA2cG9qMl9vNWtDcHNVT3FfTzlPTUpFZjhZS0hsSy1mMzFTX3NScktuTm1Jem9Nc1h4bUZyelpibVVwTGVRTWJqbTRIdzJIVE9DVm1VQ3ow?oc=5",
-      "date": "2026-11-24T02:34:00+08:00"
+      "title": "那個男人回來了！NVIDIA 董事會 11 天內大逆轉確認黃仁勳即日起恢復上班 - 壹哥的科技生活",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94T0ctWHNUQkoxNEdEdmRlM1BUQlFoNldNZDRMT09McmVaM1lsZ0h2MWxOM215MkI2dnNFVVhzTDhBd3VHSmRuTEF6WQ?oc=5",
+      "date": "2026-11-24T03:59:16+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T04:19:15.475376+08:00"
+  "updatedAt": "2026-11-24T05:41:12.328281+08:00"
 }
