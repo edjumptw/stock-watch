@@ -57,7 +57,7 @@
       "date": "2026-05-26",
       "close": 611.0,
       "volume": 37776122,
-      "rsi": 69.54,
+      "rsi": 69.55,
       "ma5": 555.0,
       "ma20": 528.95,
       "ma60": 430.175
@@ -192,7 +192,7 @@
       "date": "2026-06-16",
       "close": 592.0,
       "volume": 15031670,
-      "rsi": 56.5,
+      "rsi": 56.51,
       "ma5": 571.0,
       "ma20": 579.9,
       "ma60": 490.525
@@ -264,7 +264,7 @@
       "date": "2026-06-29",
       "close": 627.0,
       "volume": 17306319,
-      "rsi": 57.15,
+      "rsi": 57.16,
       "ma5": 643.0,
       "ma20": 602.0,
       "ma60": 529.6
@@ -498,7 +498,7 @@
       "date": "2026-08-05",
       "close": 593.0,
       "volume": 32119332,
-      "rsi": 48.41,
+      "rsi": 48.42,
       "ma5": 569.6,
       "ma20": 612.45,
       "ma60": 604.1
@@ -1163,30 +1163,30 @@
   ],
   "news": [
     {
-      "title": "3711 日月光投控- 融資斷頭炒底- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vSlZrbVZMOTZ2d0JTUjBkVE0yU1ZXbkpIX1pvdjU0VUFfTlR1dndzRkVsUF9sa3RLdDRIYjBOQjFrOUUtcUJsSlg5dTFMZ0tSYkxEVmlHUE4?oc=5",
-      "date": "2026-11-23T03:06:36+08:00"
+      "title": "3711 日月光投控- 兩根漲停板不過分吧？ - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QMDRlUjE5X0RNdVlMUkRJMzQzODk0c3M2dGFhbHlxSG9ScWl4Sk5CTllUWXpHb3FWNndZUzh6azdVNjB5NHdISXROY3FkS3dsY2o3WEpxXzE?oc=5",
+      "date": "2026-11-23T23:54:35+08:00"
     },
     {
-      "title": "36萬股民注意！日月光發布重訊 重大交易案曝光 - 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbF9MMnFmU3NpUndTSV85SkRCbTMxSVJaNndzZERzU1MyU3lpSndpVGljZ0FrSXNJbE9rOXVCSmJCN252aldBRVhVMm9oNmZQR3lwemsxVQ?oc=5",
-      "date": "2026-11-21T16:29:00+08:00"
+      "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnZQQ3hPdWxEVjJSTnh2Vm1rRWM2V1hPcTY1SHNUOHc0SG44b2pCTzhZWlZseGxrcEhhYkl3M3FTdVZzZzE2eWpLZEl5TFpKZHNrakoweXc4QWt3am1yZWVnYm82a1R1M3hmYXk1Ulo4VGRINlNQcWlyV3YyM2hvenNNdlNXTERGU0VNdDNlb3NBUQ?oc=5",
+      "date": "2026-11-23T18:50:50+08:00"
     },
     {
-      "title": "日月光的減碳神話！當AI算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？ - 遠見雜誌",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GMnhzeGhyT0VxQS10dHJZTS1XODFqeGpfcnBIM19ILWIwUzZwdE5MTDRwM0NLaUQ1Y3N2bjY4SlZaaTJvRG5kYS0tbTYwdw?oc=5",
-      "date": "2026-11-21T16:00:00+08:00"
+      "title": "日月光投控：日月光半導體製造9/14~11/23取得供營業用之機器設備一批，計約10.31億元 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVpTREt1ZmI2SWJaMDl5S2F5SjQ2aW00clVJLUlCWEt3ZFdYM3NrMTZhS0NhalRGc3FMYzNUcUtPVE1KS1pHbVV0eHVqN0ktNzBxNXlTYmJSdi1KS281QkJZc19VX2Nrb2U2NUxuaGpiQkliYkQ2UVhhX2oxSS1iY1MtSzM0a2JJcEhxUXI5Yk10Zw?oc=5",
+      "date": "2026-11-23T18:48:08+08:00"
     },
     {
-      "title": "日月光投控：矽品精密工業11/11~20取得廠務工程，計約7.62億元 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGU2RmloSG84NUYxYWNMMDZXQ3h4OENkblpuelZvS1gxSllfUVV1dlhSX0ZleENPNzhZN1Y0X3dyUkEyNEVXWTFCaVpOYm1iY05fZjNxZTRYekJ5dThtWC1WcExRVnhhTmY5QUp4bVZXaWstMU84U2xaX3NNZktwYmViRmFUaVRUNzFGb3pFanpWUQ?oc=5",
-      "date": "2026-11-20T18:31:26+08:00"
+      "title": "日月光投控：矽品精密工業11/21~23取得廠務工程，計約74億元 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJdHdKVDVNUVhEa1RJZkI4dE1sck03cGhfdm9vdFhjY0t3eHFnMHlndmt4dThDbk16YXF5Vnp0VUtQbU9TdDhLNVpxeC1jU3FXbXZIQlNQUDY?oc=5",
+      "date": "2026-11-23T17:09:17+08:00"
     },
     {
-      "title": "日月光投控再生能源占比達23% 穩步邁向2050淨零 - 倡議家",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RV0U4blYwTXhYMEh4WlR2NmdXWnJqSXVxdmU5aURNcWZOWkVYZEZMMkRXM18yZTlRNDZSbzBuOUl4ZUNVUUtfRmx5VDJUNjJneW1jcC12eGFkS3c0S1lB0gFkQVVfeXFMTVVubFVfbWNfb3BXVUZ3OGg1aloyTDFHUWFRb1g4MmNPaHZRZHZmWGdTdy1Wc2Q2OEh4NVQ2cFBvREJ6a3NXTC0zZ3l0d0h4VTJKUzFWbVh5el9vWlZtdWhPdWZ0dQ?oc=5",
-      "date": "2026-11-20T16:57:36+08:00"
+      "title": "唱響20年善的循環！日月光財務長領軍鶴耳矇樂團舉行慈善同樂會 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yV3dTUF92enByVndNT2lTSHdUM1ZRQXdiVnk2bmp5b3BJazBWNkRQVVd6WWtGXzViTDZnRTF5dTFSeUR4a1N5STBDbVUwV2Zn?oc=5",
+      "date": "2026-11-23T15:00:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-23T03:49:19.736352+08:00"
+  "updatedAt": "2026-11-24T01:57:38.579022+08:00"
 }

@@ -75,7 +75,7 @@
       "date": "2026-05-28",
       "close": 2295.0,
       "volume": 36889432,
-      "rsi": 60.05,
+      "rsi": 60.06,
       "ma5": 2286.0,
       "ma20": 2252.25,
       "ma60": 2044.6667
@@ -84,7 +84,7 @@
       "date": "2026-05-29",
       "close": 2355.0,
       "volume": 86132863,
-      "rsi": 64.72,
+      "rsi": 64.73,
       "ma5": 2306.0,
       "ma20": 2263.25,
       "ma60": 2051.6667
@@ -93,7 +93,7 @@
       "date": "2026-06-01",
       "close": 2355.0,
       "volume": 35023445,
-      "rsi": 64.72,
+      "rsi": 64.73,
       "ma5": 2315.0,
       "ma20": 2267.25,
       "ma60": 2059.8333
@@ -120,7 +120,7 @@
       "date": "2026-06-04",
       "close": 2385.0,
       "volume": 25054494,
-      "rsi": 63.99,
+      "rsi": 64.0,
       "ma5": 2380.0,
       "ma20": 2286.25,
       "ma60": 2086.3333
@@ -174,7 +174,7 @@
       "date": "2026-06-12",
       "close": 2310.0,
       "volume": 21560608,
-      "rsi": 54.2,
+      "rsi": 54.21,
       "ma5": 2283.0,
       "ma20": 2298.5,
       "ma60": 2128.4167
@@ -264,7 +264,7 @@
       "date": "2026-06-29",
       "close": 2370.0,
       "volume": 33267315,
-      "rsi": 52.89,
+      "rsi": 52.9,
       "ma5": 2396.0,
       "ma20": 2369.25,
       "ma60": 2225.0833
@@ -381,7 +381,7 @@
       "date": "2026-07-17",
       "close": 2290.0,
       "volume": 75253147,
-      "rsi": 40.97,
+      "rsi": 40.98,
       "ma5": 2412.0,
       "ma20": 2428.25,
       "ma60": 2323.75
@@ -1163,30 +1163,30 @@
   ],
   "news": [
     {
-      "title": "台積電、研華基本面穩健- 日報 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95Q3ZuWVVLWTFSbWVxbjVQSi1NUWFub0o5LTBGSHZVRkt6SFQ2TXFDekZ6b0x2cVBqdlNFcHpSa25LY1lRdEF0XzBLNU5yNjlEN2E5NFB5SjB6Q2k2eTBF?oc=5",
-      "date": "2026-11-23T03:00:00+08:00"
+      "title": "台積電罕見說明：全球AI需求成長 先進製程產能供不應求 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81WkRicmVkY0x1WEpWWi1pX0pKLUVmS19aS2tQN2d5WmdtdGNPSnQ3STZCOG1nUVYwRFg2X2pXQVhoYmxiMmJTbkZvMTBVOGN30gFWQVVfeXFMUHV1UVlhMTc4ai1WRC1UbmF3YmpQbndRVEp5N3owdFQtQS1NTHZIWXBxdURLUFpuU0hIVS1ybHZKbnVLbk9aMk9laEx1b0dha1htREJTSFE?oc=5",
+      "date": "2026-11-24T01:36:32+08:00"
     },
     {
-      "title": "台電將砸千億投資輸變電計畫台積電1奈米用電穩了| 科技產業| 產經 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBScnlabHVxSEtYcGFTRE1IazZWbFNEWHZReUdETmVwY2NpZlpRV1lFWmY3TGNDM2VFYVFkTlVhcUV1YnMtVzQ1XzRySlFmSXFB?oc=5",
-      "date": "2026-11-23T02:55:25+08:00"
+      "title": "千附精密嘉義新廠明年投產 搶攻台積電先進封裝供應鏈商機 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tYm4tVTZmWWhxZ0tGZ3E3M3NwTkZsYWZWcFk5enYzYTlRbUQxQ05yVXpuMnBETGNDRGd6c01vVldzLVpNLW1WRFg3SzIyRUpH0gFWQVVfeXFMUDFtcWctb29DTjA4LXB0OV9wa0F3WFMzYTNtX0xUMmdhSldaZ2t3Rk9fQ3ZRUVBybEQ0SS1RWFJPdElubW5VOEd2RElSVmI3WGtRSDh3ZXc?oc=5",
+      "date": "2026-11-24T01:08:28+08:00"
     },
     {
-      "title": "吃下台積電大單！「這大廠」在手訂單4400億 目標價上看1000元 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOQnFWRWI0cUhtN2JBb2ROandNdlBOTDVjOEd4X1hmQkg3NXoza21nWm15UW83YmttYmhLbXJGUUNKWF9wM0hUZWl4aFV0SndncVNXRDhBRDJfeG1jOF9CZ0dCY1c3ZlUyelZkS0luYnoxT1NrTGw2aDE3c25YS2hUMmdzZGZCZFpfbmlyLVY5Y0dHdzdFSmR0QWI4QXBFMXVEVWlNOFVXMTJ2cW5hOGZ2cEZWRVEzTkEybl9IUFZ3d2N0dTZRWTdoYk85QWRxQ295U0NLMHZtUmcwdGhOWUJ0QlVySXVma3MxVWpGU29nSEYzdUgxYmFpQ05PbFREUUszMFJfamRJQkdoVWxORmxCWk5YMXgxVzFEV0gxT3VJWnRaTl9DRkJaQkU0WnEtMDNJQXRaVGYxZFpiV0xRbkY2a1RpVEtteU1GMTFzb1dEckkwTjhYdTlZN0k3LXVMZw?oc=5",
-      "date": "2026-11-23T02:35:00+08:00"
+      "title": "快訊／黃仁勳回鍋AI反彈！三大指數、台積電ADR狂噴 台指期攻漲停 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOUUpuWkxtd3Jaa0lFbG92MUl1OUlvVEVWbzljNzJXTDQtT1UzMC1xS29VUzExLVgxRkZ1X3FnR3NsNC1LdnZwc1RkZTJ3T0hNOEw5VWRObkxsTVFEWE1ESXJqMkY0ZTVHcnhXYlN1YXZOenNCaU1KcnRKUFRCWUY0eUNRcWVSaUpJdXI4MHhTUkFQOFlJWDJDT2pOdEFuR2lZZVBucDViNXRMZGlDVUhiOTJCS2U1Nm5OSjVPYms1aEY2VkxaV3ZnTHFuMnBsV2J2UHF2OUFSeHNfQVN6amtyY09CZFBGMWJwTkRjYm9oWnR6VkV4VDFsV0FiRlNGa0RZUjVmOS1ZMHlwTGc3YjFfbWxXN0t0eHRQMVBJUFVXRURKZF92ZUJ2RnFqTWY0THBoV2E3V0xfTWFWcnViQmw1ZnhnLUtaaGhETVE5S21DQUdSclh5M1pNOVNPQTJkNEFWZF9HU0ZNTHpQLWdwdnZ3VEtMZlNQVnMxVVg5TFl4NA?oc=5",
+      "date": "2026-11-24T01:05:00+08:00"
     },
     {
-      "title": "2330 台積電 - 台積電、鴻海基本面續旺！Q3 EPS 雙創單季新高法人建議布局認購權證- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzX2FPZlltaUh0Mm1VcnpxUXVlRmZOdFhCcktOZFNUMVRta0pjVDNsbUhTQ3g2NzduekpkaVZPT01JQmFwTUZ3VnJPNFFkYmUydXlJWkhOLXg?oc=5",
-      "date": "2026-11-23T01:13:45+08:00"
+      "title": "2330 台積電 - 馬上彈到季線45000點明日開盤即收盤- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRlpmc0hSNFViZS1ybzZubWhEcnJzLUttd0pTZUVidm9tcGhHQ3VXNk5WblF2NTJ6VTZXM1JPOEJPejdSVU1LdnRvREdXaWlqQUFQRU11N3E?oc=5",
+      "date": "2026-11-24T00:54:31+08:00"
     },
     {
-      "title": "台積電、鴻海基本面續旺！Q3 EPS雙創單季新高 法人建議布局認購權證 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CUThrRVBXZUZGOXpnVkNqS1Z3WERPS2hQclFfdUR3bnlmVVh0Nk5fOVRLalQ2bk9kei15Vnk3MVo5YmxWTGNfVDVwZlN0a0Rk0gFWQVVfeXFMTS12eXVXWVAwVks0M3NHQWVWUVFnNFk3UlM4U1pIUTdsT1dTQ0JDWl83R055NVZmOFBfc2pEOGV0cWRJWEtNcWpWWFhfTng3MHAxRlRJREE?oc=5",
-      "date": "2026-11-23T01:00:35+08:00"
+      "title": "2330 台積電 - 【即時新聞】 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oYU0xeU9va0hJRThqNE5sZmtheFczTjFnenRIcmYzWHBySmZrZFdCZXVQV0o3d2hNR3d2a1h6OTc3UlZqMHF4Zzk5clB4a2pJeWFXWHUtQi0?oc=5",
+      "date": "2026-11-24T00:50:59+08:00"
     }
   ],
-  "updatedAt": "2026-11-23T03:49:18.672290+08:00"
+  "updatedAt": "2026-11-24T01:57:37.355858+08:00"
 }

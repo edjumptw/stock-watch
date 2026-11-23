@@ -274,7 +274,7 @@
       "date": "2026-06-18",
       "close": 210.69,
       "volume": 241272000,
-      "rsi": 50.38,
+      "rsi": 50.37,
       "ma5": 208.078,
       "ma20": 211.7945,
       "ma60": 203.559
@@ -1686,30 +1686,30 @@
   ],
   "news": [
     {
-      "title": "DIGITIMES Today：中國AI算力競賽「燒錢」加速 | NVIDIA中國團隊「仁勳惶惶」？| 超微資料中心2027佔比衝8成 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkb0ZyZE9KY2FwUVoyN0xsSXBsbDJrTEZYclhQaWZKQ1c2S1hRNm9yNWVQeU01X0xyUGt0V09WWTNXZWtWbEJ4aVU0ZlBaVzFlV1VpTGszSjhVSEo5VGR2eFVZb2k4Ti1RTmE0?oc=5",
-      "date": "2026-11-23T03:07:30+08:00"
+      "title": "黃仁勳重新執掌NVIDIA 度過「15天風暴」下一挑戰為何？ - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXB5SUFIbFRPRk9hMW5scmFTRGxsbktCenhCLVZtZEtUR1NKOWkzckhEMGNpN0owZ1hqa3BCdkVfVER2dkNuTjBNdmttMzVBSFZORlh1QXJIbzFOV1prWTQ2aVMxWTFqOEZXZ2R3WkdwdG1jNC1rRW1EbWhhQThhdjFUY2tqRjM5Nk10RGJtVTZUcnRJOUVLOENKc2RvMTZZU3hfYVNSRjFuaWJlSW5kZDJiV01WajByZm93Y3ZMaWM?oc=5",
+      "date": "2026-11-24T01:48:43+08:00"
     },
     {
-      "title": "黃仁勳離任NVIDIA中國團隊「仁勳惶惶」？ 定位與市場戰略恐遭削弱 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCQmdPUnYxbFM0VXBkX1BRVkdPZmV4anRrcjdvSU9MMk53NzhFdVF1WF9zUHhWVFJUc0Fud2xWMWtSN2FnSWl1Q2VWMjNHZm43eWZZd3dTaEtYNHVidEpMVk9jTWFYbG5UTDFF?oc=5",
-      "date": "2026-11-23T02:29:00+08:00"
+      "title": "川普插手NVIDIA董事會促黃仁勳復職！股價暴漲逾32%、國安與監督爭議升溫 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUZmWVB6Zl8xQTZKTXpPdFo5Y3JrTURmWFBYVTVnQ3h2SHc4aUJBSl9OamxnZEVJZzFQcXFvTlRwaU9VU0RmQUttS01ISmVCbnlDbVQ5ZENoanEtUFB6SjNDbTNJRWlfdlhCQm4wRDRTaTZzeFdFU2JmeU15akFCWEhGZ3RIREpYUmNxdXF3?oc=5",
+      "date": "2026-11-24T01:39:52+08:00"
     },
     {
-      "title": "貝森特談黃仁勳能否重返Nvidia…再點名台灣 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16amwzRm9fc2FCZVFQZldjQ01FWnk2Q0tOa2Z5RVhXNHhNTlh2b0pyb29iMm5oQXB1RUhJZE0yVGNJYUJyVGhBODFFQ2kwMGNrcEdYMDRaUEIzRzJHM08zR3Bn0gFnQVVfeXFMTlBzMURDZG1LTHRGQ0NPeFdDYk4tUmNXZE1Sbm5QY2d3Vk13aHB3VnRmS1RGMHctdkVyazFSWExYWEhreE1DWDdwa0pYalJISVFGcXV2VDVUdG5HcEFrd3JJUWFlanozdw?oc=5",
-      "date": "2026-11-23T00:50:30+08:00"
+      "title": "川普出手換回黃仁勳：NVIDIA震撼復職、股價飆33％，治理與國安疑雲未解 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1FabEphd3FZMUUzVnlFZURWSGRpdnRzY3ctMV93OUhLQ3AxY3BvZi1WVzBBa0UycV9TMEhaRm5LZE03S2Nuci1WVVA1cU1QemtaMkJxX1I2Q1Y5bnE0UnFCaVNYZzg3cjhmN21EUTVnQ1JpM2xoMW4xSVN3TFBMcEVBYm5lejd6WDNaMVJB?oc=5",
+      "date": "2026-11-24T01:39:35+08:00"
     },
     {
-      "title": "NVIDIA代理CEO走鋼索 能保住AI引擎、放下融資循環包袱？ - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XYXNsZ2htRWJtaWdYUWo4c09lOEU4VEVWV1paNC04eXF6RFNOQUpVeTFhM1dlYXA1UnVQc0ZWV1RVejZhWDVGYkVIcGdsUVR1elVYRU41bkZZeExRY0JqVEtxblVleGpkSVVJ?oc=5",
-      "date": "2026-11-23T00:49:20+08:00"
+      "title": "加州檢察長宣告：黃仁勳復職不改NVIDIA涉中關係與誤導投資人疑雲 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEtzNzFyX3JMTnRBZG9abnFydHRBS2tYMElBS2NWSTZxZndTM29ib05IQk1xdUVSYTBBaFpOWXRlOHFMTDc4d1VlU3pGUWJva2NGQkVhUm9wSXF1MllkSXB6RUtpWW5tWm9OMmN6N1dwTG9HMjZFMVBiZjBidnB6WVFYTHdESE5HOUdDTVRR?oc=5",
+      "date": "2026-11-24T01:39:28+08:00"
     },
     {
-      "title": "黃樂只是門面？Nvidia晶片走私案幕後操盤手曝光 住中國使館旁豪宅 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Q0tZeVhPTmJKeTFqXzAxc25YNDZILWY5cUVUbmRsb2hIcDVYWHdMeUpwcGd2ZWIybFltdEFqblMybDV6VmQ3di1yNzNEcV9ybnJ2RzNDNVY2TFdKeWlDQm9n?oc=5",
-      "date": "2026-11-23T00:37:00+08:00"
+      "title": "黃仁勳（Jensen Huang）回鍋輝達（NVIDIA）執行長！（天地傳媒，通天透地，貫穿古今） - 天地傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zT3pncHJyNzNtSWZNWVdGUXc3cDROVjJPUTFhSzVOd0RTUkE5VWlyRlVzYWl1Wnd1Y2hFRGdnbktORDFDYXdNMTVqZDBjYjYxS0dXTDVMSnU2Zjg?oc=5",
+      "date": "2026-11-24T01:38:53+08:00"
     }
   ],
-  "updatedAt": "2026-11-23T03:49:20.197960+08:00"
+  "updatedAt": "2026-11-24T01:57:39.094740+08:00"
 }
