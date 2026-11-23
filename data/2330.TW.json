@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-20",
-  "dateTaipei": "2026-11-20T00:00:00+08:00",
-  "close": 2000.0,
-  "change": -100.0,
-  "changePct": -4.7619,
-  "volume": 75539460,
+  "date": "2026-11-23",
+  "dateTaipei": "2026-11-23T00:00:00+08:00",
+  "close": 2030.0,
+  "change": 30.0,
+  "changePct": 1.5,
+  "volume": 65308337,
   "bias": "偏弱",
-  "performance20": -16.14,
-  "volumeRatio": 2.07,
+  "performance20": -14.88,
+  "volumeRatio": 1.67,
   "recommendation": {
-    "date": "2026-11-20",
+    "date": "2026-11-23",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2276.0,
+        "price": 2258.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2394.4167,
+        "price": 2388.25,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 2.0736
+    "volumeRatio": 1.672
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -16.14%。",
-    "本日成交量為前 20 日均量的 2.07 倍，交易較熱絡。",
-    "RSI(14) 為 27.8。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -14.88%。",
+    "本日成交量為前 20 日均量的 1.67 倍，交易較熱絡。",
+    "RSI(14) 為 31.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1159,34 +1159,43 @@
       "ma5": 2132.0,
       "ma20": 2276.0,
       "ma60": 2394.4167
+    },
+    {
+      "date": "2026-11-23",
+      "close": 2030.0,
+      "volume": 65308337,
+      "rsi": 30.96,
+      "ma5": 2095.0,
+      "ma20": 2258.25,
+      "ma60": 2388.25
     }
   ],
   "news": [
     {
-      "title": "2330 台積電 - 〈台股盤前要聞〉黃仁勳復職、擔保維持率將至120%、永豐金法說- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lZXBjbHhISnhwV2hzSEFZNFNwc2F1LV9SQmpPZmdNUjA4dFdzR0NFcDNSTmpaaFFsd0MzbzZpTWxudkpicTAwdlc5LUozR0dKZGRjYlNxNVU?oc=5",
-      "date": "2026-11-24T05:12:23+08:00"
+      "title": "【即時新聞】台積電獲國安基金力挺，昨日股價強勢反彈上漲30元帶動台股 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWJENHRZanhIWVhGc1ZVMTlrU21TMzFGbG8tQmxUcVlwOENZcF93RjRPWmY4UHZjTWJZdUpaZFp4aFRkVDJSbjNIRGV5aDB0eEd2aWtaV1VXV09GRGV1T19zUjZWdHdKd2VvSll0YU9pcFNlVzhkcEJ6TGM0SWl5aFV4bHBLMEZGZm8yRHZMOVE?oc=5",
+      "date": "2026-11-24T06:01:47+08:00"
     },
     {
-      "title": "2330 台積電 - 2027民主黨出手1/3上任暫當逃生門（一個月多頭時間） - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ndXpiWlhwdV9vbEtBNGJwVW96MGRkR284ekxMbnkyLUd1U3JBd2lnTXQ5NHJrcl9YSjRFYUtaaUx5TmRJSzJLWFpOSXlnb0JwWWJreUxnd00?oc=5",
-      "date": "2026-11-24T04:58:14+08:00"
+      "title": "2330 台積電 - 〈美股盤後〉見證歷史！黃仁勳辭職11天閃電回鍋輝達單日狂飆超31% 費半瘋漲超14% - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WdklLMEZWQ2NjLTVhYjl5NFdvc3FHWF9lZFRSel9JcTR0c2owVFdmWG5QLUoxbUNoQzRpS3Fsd1FBSUEwMHFQU0pwTzJ0LUt2OWZxTHBMeWU?oc=5",
+      "date": "2026-11-24T05:54:44+08:00"
     },
     {
-      "title": "2330 台積電 - 漲停鎖死- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80QWppQzhYMHBURWRfZFY3RmYzTHAtTVFrX21FSXVObDAxNVBhOGVOYU9nRThEY2F6Q0JzclNNUjZscm1GVWNlTUFhZnpwaU9mRzdfZHFLOEU?oc=5",
-      "date": "2026-11-24T03:53:56+08:00"
+      "title": "2330 台積電 - 我出軌是家庭破碎- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmRGZVOG02ZE5aQ0h3R0theVZqTm9ER1pZWWFXOThIZnp1dzR6YzN2cllRVWdZeXVhZlZ2QjU2dW1VVnMwbllhM1BQeWRWWmtqRjFBWVNfQmU?oc=5",
+      "date": "2026-11-24T05:43:30+08:00"
     },
     {
-      "title": "2330 台積電 - OpenAI 提 AI 規範助益產業鏈有利台積、緯創等做大市場規模- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KQngxRjctN2RGWGpPNk5ZSkFuNTlkdDE3Y2NXVnBVcUxrSzN0Q1NpWlFIcnZ0a19TSnlrVVRQVEJaVEowZlBONk9HMjNDTWhwSWpaV2JRRzA?oc=5",
-      "date": "2026-11-24T03:30:23+08:00"
+      "title": "台積力挺AI前景 長期展望續看好 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CTnMxcS10MFFOWFRpd0tFekp2RjRNZlUwNkhxZGNSRnI4NkQwd3VEOTBGYUhVenFfSVMwMGotMkk5X2dfakRiTmVIa1VIbTVqMDdUN1VB0gFbQVVfeXFMTVg1OXhuNjNDb3NELVhrSFZEU3NheDZ0aHFERjdwcnVXODVGZjlmUl9BeWlHVXM2RUZiRUphZzUwSW5lYi1xcGduOW5xZl9xT1BJSV8xMDBxLXpHMA?oc=5",
+      "date": "2026-11-24T05:30:00+08:00"
     },
     {
-      "title": "2330 台積電 - OpenAI提AI規範助益產業鏈有利台積、緯創等做大市場規模- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50ckdVd19oUEFjaVhjMlRFVDU5TVhFQ2VEOG9LcFMteXhETWNzQzhPTFZ4OXZwNThHaUw0d1JFQWxTS1pjR21ZRW1WWGZVMWRIOWZwS2Z3MzA?oc=5",
-      "date": "2026-11-24T03:19:04+08:00"
+      "title": "快訊／黃仁勳歸位！台指期夜盤漲3170點 台積電一度漲停 - ETtoday財經雲",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qLVJpR3RxYS1qWWExWTZGWVltU2VBYUlXV1U0LU4yZng1SFJCNEY2VkRjLVBfLU9NTy1Eck9uMWV0dlVVVGxqeXBWV0NpZ0xPcVHSAVBBVV95cUxQZzE5MkoxS2VnVDZKY2gyYVJheXg1QVl5ZGNDZkJyXzVzLVhxQURlM2dXRDBkalV0Mzc4MlpRWGVZeENmbThYRjFyWFlaOXZnaQ?oc=5",
+      "date": "2026-11-24T05:27:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T05:41:09.807757+08:00"
+  "updatedAt": "2026-11-24T06:36:06.445742+08:00"
 }

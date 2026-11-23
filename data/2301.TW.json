@@ -3,17 +3,17 @@
   "name": "光寶科",
   "query": "光寶科",
   "currency": "TWD",
-  "date": "2026-11-20",
-  "dateTaipei": "2026-11-20T00:00:00+08:00",
-  "close": 175.5,
-  "change": -18.0,
-  "changePct": -9.3023,
-  "volume": 17593851,
+  "date": "2026-11-23",
+  "dateTaipei": "2026-11-23T00:00:00+08:00",
+  "close": 185.5,
+  "change": 10.0,
+  "changePct": 5.698,
+  "volume": 19007482,
   "bias": "偏弱",
-  "performance20": -31.31,
-  "volumeRatio": 1.11,
+  "performance20": -27.4,
+  "volumeRatio": 1.16,
   "recommendation": {
-    "date": "2026-11-20",
+    "date": "2026-11-23",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,7 +28,7 @@
     ],
     "resistance": [
       {
-        "price": 225.775,
+        "price": 222.275,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.1125
+    "volumeRatio": 1.163
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -31.31%。",
-    "本日成交量為前 20 日均量的 1.11 倍，量能接近平常。",
-    "RSI(14) 為 27.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -27.40%。",
+    "本日成交量為前 20 日均量的 1.16 倍，量能接近平常。",
+    "RSI(14) 為 32.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1159,9 +1159,28 @@
       "ma5": 199.4,
       "ma20": 225.775,
       "ma60": 266.5417
+    },
+    {
+      "date": "2026-11-23",
+      "close": 185.5,
+      "volume": 19007482,
+      "rsi": 32.55,
+      "ma5": 193.9,
+      "ma20": 222.275,
+      "ma60": 264.7
     }
   ],
   "news": [
+    {
+      "title": "【即時新聞】德州企業搬遷戰DFW穩居龍頭，光寶科、AT&T(T)相繼進駐卡位帶動商辦熱潮 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNzN6NVc3UFhyS3B5dmlxOHhVdlFzUVZYTGlESkRlcTFMV2JxcXc3VVY4c1JVYzVENzN3RmFaOHpUYVZRNVA5UkpsZlpxdjg4RlRFRTdmVnZDb0wyZEZ0eGNfXzBwcTIzdVJrb3FET3otTl9mOUZ0bThEaGJUZXdJd09vSTdTUXZGUUUxRFZSckM?oc=5",
+      "date": "2026-11-24T06:07:46+08:00"
+    },
+    {
+      "title": "光寶科第3季營收574億年增28% 創2021年轉型後新高 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcm9uTW5lWlhoSTNBUlZ6QWR2SEd4a19uakxaY29aNVpqTUwwckp5YW5hV1Jzb3Fmd29rbU5wdHVJYW1ZNzVkbG45bll3WEl3QW84aC1wZGJXRmxrcXpoWXlGUXJvS3FlUENRTDVPSnltYWczNUV2clR0d2ZjbTE3b9IBX0FVX3lxTE04RW5aSFg0RURqYndzZFRTRnR6bnB6Smlrdl9vcXR5NDhTdUlmcG12Zm9GMmJoaWdLekx0V0FLRjlXSjlzOU1MOFhSelBpZDEtNGZPeTZubkFSUml4V2lR?oc=5",
+      "date": "2026-11-24T01:12:47+08:00"
+    },
     {
       "title": "《自營商賣超47-27》光寶科(34)、保瑞(33)、新 保(33) - 富聯網",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0tiYTRTUnpTTWIxVzVtUFhSdmRGc09pcDhQdVpsSXJlQ3RKeWF5YjVWeW1vQVNpcFdfeEdMNkZQbWpGOGtPdEt2azJISFVoY3dBeGlCTzE4Qkh1eF9ERVdtakxBcmIzVWotdTlBS0J6N18tTC05MmlSSWtqZmR0bnpNeTRCeW5t?oc=5",
@@ -1176,17 +1195,7 @@
       "title": "【00403A】11/20 操作日報｜績效重挫，經理人急砍光寶科 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44eEhBSURyb3R1ejl1WC1XNXkzaUdFRDNfYmIybWxEYURDTU1Md3pLVTNNTFoxdkQxYzRIcl9mZWhsdmVIR1VWckp0YVdfalZ2c29aZW03WUswMzAwUnJTYVdGdVFQNDJJanByZlV5eGpJRVdwWFNaYXFEQnhmQQ?oc=5",
       "date": "2026-11-20T18:10:46+08:00"
-    },
-    {
-      "title": "缺料、出貨延後疑慮？外資看台達電、光寶科後市 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenlkRzdqejhMVkpkMFVZVllFS1BVY04xa0RYRmgwNnhIU1VjOGZVLWpyZTZBWHpGb2hDWk9BY05BMUI1SDVCbnVVcXN4cnpWVEUwWl95Vmd4VUR4SklhWC1VUUUzampRcHlVN3VsQUc3aVRmeHNZckZBSDl6WGFCTDZlaXUyQ2N5dzByS3ZvWGVlSWJkTGN4MlJwei03SDFyaVdiQzRNYndGM0JxNUhrTWVJSEcxV2hZajBmLVBDMFhmb0xjNVpR?oc=5",
-      "date": "2026-11-20T11:10:14+08:00"
-    },
-    {
-      "title": "電腦及週邊設備產業鏈／光寶科Q3每股賺3.27元創新高！AI營收占比破3成 - 科技島",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTUUZ2aF9BUmpDZ2RnMS13dTZTVzgxTDh6YzJ3bEF5WGJtMmV2SXNtdVdPLVZRa3NpdXUxUHFNSzRNTl9IeGxTeGNiNjNDMHlfWURMRC1YQ3VYYlBHclJ3N2VIekk1Y0hKZFE?oc=5",
-      "date": "2026-11-05T16:00:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T05:41:10.687222+08:00"
+  "updatedAt": "2026-11-24T06:36:07.321404+08:00"
 }

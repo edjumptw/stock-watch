@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-20",
-  "dateTaipei": "2026-11-20T00:00:00+08:00",
-  "close": 900.0,
-  "change": -100.0,
-  "changePct": -10.0,
-  "volume": 18218425,
+  "date": "2026-11-23",
+  "dateTaipei": "2026-11-23T00:00:00+08:00",
+  "close": 990.0,
+  "change": 90.0,
+  "changePct": 10.0,
+  "volume": 30523261,
   "bias": "偏弱",
-  "performance20": -42.31,
-  "volumeRatio": 1.06,
+  "performance20": -36.54,
+  "volumeRatio": 1.72,
   "recommendation": {
-    "date": "2026-11-20",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-23",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 1240.5,
+        "price": 1212.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1560.0,
+        "price": 1550.0,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.0554
+    "volumeRatio": 1.7187
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -42.31%。",
-    "本日成交量為前 20 日均量的 1.06 倍，量能接近平常。",
-    "RSI(14) 為 24.0。RSI 低於 30，留意弱勢延續，低檔不等於止跌。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -36.54%。",
+    "本日成交量為前 20 日均量的 1.72 倍，交易較熱絡。",
+    "RSI(14) 為 31.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1159,9 +1159,23 @@
       "ma5": 1027.0,
       "ma20": 1240.5,
       "ma60": 1605.3333
+    },
+    {
+      "date": "2026-11-23",
+      "close": 990.0,
+      "volume": 30523261,
+      "rsi": 31.82,
+      "ma5": 1001.0,
+      "ma20": 1212.0,
+      "ma60": 1593.3333
     }
   ],
   "news": [
+    {
+      "title": "【即時新聞】最新！台達電董座宣布轉讓2.78萬張持股，股價強攻990元引關注 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE1ramhQdV9WY190MXhTNUR5cUpHdFFGbjdxRk13cFdnMFhPLXRvbTU2a0tnSklBUUZJTHUzSDcwMmZvdW9RRG9EWi1WQUlLUWZ4dmtrY3NHckJrT2c0a1N2Snk2VndMTDZCTVo2TmpJR3lsblVMSEl3Q3o0a2F1Y3haalRxMWpmb3ZHMERDS3U?oc=5",
+      "date": "2026-11-24T05:59:32+08:00"
+    },
     {
       "title": "AI股反攻 台達電、台積添柴火 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sRU9XVlJ3UGtGUTctQmphRE1Pbm1DampKNnhTNXF3Mi00TkNFNllwbk9zVnFXUXNHTDVyQ0RVRVFvX2hEQjJHWG9PelBvYjQ4VUNxOUpZT0puMzA0OGUtZDdOTkhnd3cyV3JF?oc=5",
@@ -1173,20 +1187,15 @@
       "date": "2026-11-24T04:10:00+08:00"
     },
     {
-      "title": "台中精機攜手台達電打造新世代全電射出機- 產業特刊- 工商時報 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94V1hSZTN6RXU0ajJweUExOEpiWGV0RU55Zmh3MVpIVUFOYm0xckgtbVBUQ29BcGxSbXdVd3lCUFZ2M0wzbnNBTTlaeU5lQU9UNlFRMV9POHBiOTNrb1pOUUtxcVp0YVF2NEMw?oc=5",
-      "date": "2026-11-24T04:10:00+08:00"
+      "title": "台達電開低走高攻漲停- 日報 - 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16SS1FX3FkT0xpSlRMVkYta3pORTFmeTgzeVRVV013b2x4YzZXMXJBb0RXWEJiTWFyaEJDQkVaRDE0aGNKazlFRjBncV9XZHc3V0NlLTB0Wk91SVdJUEZF?oc=5",
+      "date": "2026-11-24T03:00:00+08:00"
     },
     {
       "title": "AI股反攻台達電、台積添柴火- 日報 - 工商時報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sbHJaRFoyUzAyaU0xTmRlYjVSZlZhbXNsQ3kzSkhOSWNWWWxvZ3hkYTA1WGFBT1kxTUo1Y0IwcnBqTmlCVlVIdG1WdWF6b3o5RThGYl9IVXZZU1JaN05z?oc=5",
       "date": "2026-11-24T03:00:00+08:00"
-    },
-    {
-      "title": "台中精機攜手台達電打造新世代全電射出機- 日報 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RNWpKT25PQzZwWGtuU0FIZjZZV0VXa2JCYi1RTmU4aHdLa2dfNU4tc1dhTFpONnNBRXVrcWRoeUtlcU0yTjQtenpMbERZQUtNNU9OdXpJU3pKTURfT2xV?oc=5",
-      "date": "2026-11-24T03:00:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T05:41:08.982114+08:00"
+  "updatedAt": "2026-11-24T06:36:05.720971+08:00"
 }

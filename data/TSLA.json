@@ -9,7 +9,7 @@
   "close": 385.4599914550781,
   "change": 39.64,
   "changePct": 11.4626,
-  "volume": 45915009,
+  "volume": 46030333,
   "bias": "中性",
   "performance20": -1.57,
   "volumeRatio": 1.25,
@@ -37,7 +37,7 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.2505
+    "volumeRatio": 1.2536
   },
   "commentary": [
     "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -1.57%。",
@@ -1685,12 +1685,12 @@
     },
     {
       "source": "Yahoo Finance",
-      "open": 374.735,
+      "open": 374.84,
       "high": 393.83,
       "low": 371.99,
       "date": "2026-11-23",
       "close": 385.46,
-      "volume": 45915009,
+      "volume": 46030333,
       "rsi": 52.09,
       "ma5": 373.904,
       "ma20": 384.4905,
@@ -1698,6 +1698,11 @@
     }
   ],
   "news": [
+    {
+      "title": "Tesla新自駕系統FSD v15 實時生成立體畫面 馬斯克：現實版GTA｜AI學庫 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPcGxxcFRvdnQ4T1NMbEU2Uk9FSUdXUnhDODZBTVV1YjdVNlpsb2RrM0d3MWRfN3BkSkh0dlVZUkNsb0ltM2pHczY0WjI1M19yVDRzVG9QR1c4dEpyTk02SGU0ZjhDSU5rc3lqV3BveTRSM0tFZHlqU2tFVEdMTG5fTzY3QmFkX2NBRXdLVTFieGZadlVOMlN3WGhSdlBMUUtneG9xYkVmeHZSTlhRZDl2WU5EVFJyZmRZTmlkbWdUdkpnNEUzNGNibHZ6TGRNcjdpdWozTnlwUWlmdEFDU1oxN1dTVlI1bkNYQVMzajhRNmtEWkJuTXM4UEQ4N1p1MU05NHg0bFlkeDFXUEhoZ1loLVh5M0IyOHhuMVlUZ2d5dTJYemJhZHhEQkk0VDhRcHpnMTNHYVYyeURkVlY3dVB1ckc5ZEM5eGhMNEZSMVItTjdyMHYtYlYwdVdPUFVUSXZjUEdtU3ZhUWFCN2EwWDB0NHVJWllENjQ?oc=5",
+      "date": "2026-11-24T06:00:28+08:00"
+    },
     {
       "title": "特斯拉全新 FSD 畫面讓 AI 在行駛時生成道路影片 - Business Insider Taiwan",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uaWRRSnk5Nl9jM0xya1V1elZNdXpKSi1jNmRIZGJ1Q3I0dnQ5MmltenpMQkVTdmN4TmtwYVlOMjMtQ3NFUkJ5YTktdEZWS3lpN0J5Rkp5Zw?oc=5",
@@ -1714,15 +1719,10 @@
       "date": "2026-11-24T00:17:40+08:00"
     },
     {
-      "title": "北美現場直擊！Tesla Roadster 首度公開亮相！搭載火箭推進器可飛行，0-96 km/h 加速僅0.81 秒 - kuruma-x",
-      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPdnhhYzFfbG14a3Y4clhNaE1GQVAyR3M5Tk9ORG02ZHhDQ1VrWE1WbHZ5bnFRVG1BeUF0amZIRVFmajdoN2MtX3RHUk1UVW9aNXk2S05QR0JhZWM5NlZaemQ5R3NlNlRVZU1LbTFyRVBiQWRLMTVta1EzbDRMY2JUYkQ1ejR3NkdCTHlnNVpDOEF1OHZ2NVlJcnhXNnBaQXluaXo0VkxUYUtrVjBuY2hpajBxQVJ1S3JjYmpjQjlXVGRaaUk5eWswb1l6Vm1qcWpPWXkzN2lNdV9zbUEyWm9UV2lQS3JoOVhCOGhjSDA2NXRWOXdMLWdySExybEVjRWFsNm91Sk9fUXdjM1lmc05FNzYtYVlBRDU2RjBXRkpoVjNSMGcwc25OcEdHWFFQVkJhTFF4aEJ0SWlKeXhidXd6ckpxbEpsRHJiZUladHRYQjV5NU45SjJEVmpLZ2g1LU93QW1zdlp4UDh6RWEzQWVoeU5EbUpEUkNOR3h0UWlpcThVVGt5VVYxV1lsVzlEbDduTl9VRXNZbV9xY0NCV2l1SXpYbkU2bHNiTFJVX3F0NTVFYU1teU9kclo3TTl5QmRYRXlWR2pxbHRDd1Z2S1E?oc=5",
-      "date": "2026-11-23T23:59:50+08:00"
-    },
-    {
       "title": "【22:32 即時新聞】Tesla(TSLA)勁揚逾10％／FSD v15獲華爾街力挺、科技股反彈點火買盤 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZVpyTFVMRFAzdE9Ud1U0YzRPMlNHUmNwcU04NlVERVQ3eFE2MnJiNkJ0OTBJdElYYUp6MTRzVXh0SzR5X3hNQXpkLXIyeFJGdld4cE1HLVJLMEMzNHJPbmN6Tll4UWs?oc=5",
       "date": "2026-11-23T22:55:31+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T05:41:15.947150+08:00"
+  "updatedAt": "2026-11-24T06:36:11.179635+08:00"
 }
