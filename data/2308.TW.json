@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-23",
-  "dateTaipei": "2026-11-23T00:00:00+08:00",
-  "close": 990.0,
-  "change": 90.0,
-  "changePct": 10.0,
-  "volume": 30523261,
-  "bias": "偏弱",
-  "performance20": -36.54,
-  "volumeRatio": 1.72,
+  "date": "2026-11-24",
+  "dateTaipei": "2026-11-24T00:00:00+08:00",
+  "close": 1085.0,
+  "change": 95.0,
+  "changePct": 9.596,
+  "volume": 1061634,
+  "bias": "中性",
+  "performance20": -28.15,
+  "volumeRatio": 0.06,
   "recommendation": {
-    "date": "2026-11-23",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-24",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -28,7 +28,7 @@
     ],
     "resistance": [
       {
-        "price": 1212.0,
+        "price": 1190.75,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.7187
+    "volumeRatio": 0.055
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -36.54%。",
-    "本日成交量為前 20 日均量的 1.72 倍，交易較熱絡。",
-    "RSI(14) 為 31.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.15%。",
+    "本日成交量為前 20 日均量的 0.06 倍，量能較平淡。",
+    "RSI(14) 為 38.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,18 +1168,27 @@
       "ma5": 1001.0,
       "ma20": 1212.0,
       "ma60": 1593.3333
+    },
+    {
+      "date": "2026-11-24",
+      "close": 1085.0,
+      "volume": 1061634,
+      "rsi": 38.93,
+      "ma5": 1007.0,
+      "ma20": 1190.75,
+      "ma60": 1582.25
     }
   ],
   "news": [
     {
+      "title": "【即時新聞】台達電受惠輝達狂飆帶動大盤，今日強勢亮燈漲停引發市場關注 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmlTTnZZUl9wTUt2MjRLZUFPT1pZbXIzUmZWQ3UtMnM4d2hBWWdnZGlrazVTVmRZS3hFNFNNbFVWOEk1MzFFeVVaV2tQWmhlTFZqTlZ1b3pKT0RmOVFOaG5NZGFrWXgyeFRpN0ZJbFN2T2F0Y0VJX05mY05aRks4b2tMenktaGlxQlFQQ3gxaTc?oc=5",
+      "date": "2026-11-24T13:54:46+08:00"
+    },
+    {
       "title": "台股暴漲還能買嗎？技術達人喊「是空頭反彈」：真正多頭要等這時 - ETtoday財經雲",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6ay1SZ2MwNkU0ckFsNXVibm9XRzZvUE00Q3R0MHZvRjNfRHJNT1UyN2s1cktsN3NNSEwzbDB6ZHE3QjVBZ3lPQVZpT0V1YVVxLVHSAVBBVV95cUxOQ05sNmxkQ1hQWHI2d3JYc1NzaWhjSVpqRzBjbC1QX255SlVhUFFkUlVlV2J1bTZTRnFZVTMzZ1BYSnRZLXp0QWN0elZDMXFPTg?oc=5",
       "date": "2026-11-24T12:09:00+08:00"
-    },
-    {
-      "title": "雙虎出運了！友達、群創齊飆漲停 法人揭2大轉型題材 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTnRPMnRwV1U0MEdhYThRQ0pud1ZtNjE2NTEyenVWQ0hlbjFRZWZYcGxyVVg2Sm91Y3ZEbVF6c1dzWjBkSDZNcXd4aGFSazg?oc=5",
-      "date": "2026-11-24T12:08:00+08:00"
     },
     {
       "title": "台股飆漲！「浪漫台三線」全漲停 台積電、台光電、台達電迎利多 - TVBS新聞網",
@@ -1197,5 +1206,5 @@
       "date": "2026-11-24T11:21:59+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T13:32:55.042774+08:00"
+  "updatedAt": "2026-11-24T14:09:45.386052+08:00"
 }
