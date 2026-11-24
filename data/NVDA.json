@@ -9,10 +9,10 @@
   "close": 165.0500030517578,
   "change": 39.52,
   "changePct": 31.4825,
-  "volume": 779184200,
+  "volume": 782593300,
   "bias": "中性",
   "performance20": -23.59,
-  "volumeRatio": 2.71,
+  "volumeRatio": 2.72,
   "recommendation": {
     "date": "2026-11-23",
     "action": "減碼",
@@ -37,11 +37,11 @@
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 2.7089
+    "volumeRatio": 2.7207
   },
   "commentary": [
     "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -23.59%。",
-    "本日成交量為前 20 日均量的 2.71 倍，交易較熱絡。",
+    "本日成交量為前 20 日均量的 2.72 倍，交易較熱絡。",
     "RSI(14) 為 42.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1690,7 +1690,7 @@
       "low": 156.93,
       "date": "2026-11-23",
       "close": 165.05,
-      "volume": 779184200,
+      "volume": 782593300,
       "rsi": 42.87,
       "ma5": 148.596,
       "ma20": 178.9095,
@@ -1699,9 +1699,19 @@
   ],
   "news": [
     {
+      "title": "國會向Nvidia宣戰 黃仁勳下周連闖2關⋯今日5件事 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtTmpFbGl1X0xfOEFWUkQzSU90VjJ0UDBvTnh0NXRLWFloekN0TTU0RG0zV1ZpNXEtSlcwZ1U3WnVVcFB5b28yZG5ndEJwZUZLQllCbExRNC02ZVdoUVc0?oc=5",
+      "date": "2026-11-25T03:15:54+08:00"
+    },
+    {
       "title": "納指、標普回檔！Nvidia 大漲後潛震盪，投資人擔憂治理與通膨風險撤出AI概念股 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0drS3VwRUp3Y3JSU1c3V1p2TWo3cXNfRnJEOTBCWlBvMlBvSzFQeUlzbzZOV2tlZnhaVTl3YUtSbDZoLWdJSl8wbTBTRmd2eXlwa2hRX25qSU95LXU2SmFmZE1paGlMby13NzhybldnY0xpY0hFX21JbnpfVkRkcE02elpuX2I5M1ZTbGVn?oc=5",
       "date": "2026-11-25T02:38:24+08:00"
+    },
+    {
+      "title": "黃仁勳重返Nvidia台股起死回生…沈春華曝帳面相差8位數 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56bHlvajhuMWl2d2MyMWdMa2xldHUzcDg5eHFZVG5qX3JURXp0NzFNQUhuSUdISXQtUDZuTXZPRUlhcnFpMUxZUHJENmhWbGFzQ1VKRWwwUGhXckkwbUlGZUJ30gFnQVVfeXFMUDhPaXg2VXdpcjUyR0c2SnoydF9ITXpZcG0xRE8tb0R5ZGJvbElfNzlaRXo0dTRHREpoTGdkVnRuWGhJUHp0OWxnNkN0bEMxSlVMR01sRndoVWRSa0o2VzhWYnhVMGwyOA?oc=5",
+      "date": "2026-11-25T02:33:58+08:00"
     },
     {
       "title": "AI狂潮與利率風暴：從Anthropic破發到Nvidia救市，華爾街押注能否撐過一兆美元支出循環 - CMoney投資網誌",
@@ -1709,20 +1719,10 @@
       "date": "2026-11-25T02:00:24+08:00"
     },
     {
-      "title": "國會向Nvidia宣戰 黃仁勳下周連闖2關⋯今日5件事 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1hfS2JBam1aRjdLNFZ4d2l5Y29NYWkzamJabUkwM3FkeHNJM0pNNTNQLUhmbThQa2ttc0g1dUpMSXpzNGdPMW1fMFpsTFFHSjdXaUJNa1ZXQmNDNWFpWXV3RksxcWhVa1B2Ml9IVEp0Qjl2aEQ5Sk5EY0VjSFFIM3hB0gFnQVVfeXFMTTVzWEhXOTVva0JOd2w0Q09XdjFVazdBOTBxWDJKOTh4TWI0UlRidXRyOEd1WUlhMXhfMm1IU1Z3WGZBV1ljeF9Dak0ySnQ2TFVuUFowMWVQbURCQWpael9jWWRwUHhCNA?oc=5",
-      "date": "2026-11-25T01:50:44+08:00"
-    },
-    {
       "title": "AI行情一日翻轉，Nvidia重挫8.6%、Anthropic暴跌12.6%，Nasdaq跌2.5% - BigGo 財經",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yR3ZVYVpWUEM1MzI2WmxwMjVpdzNzTnlMbFl2Vms2TGVRY3VFcHIxOUo3T2pZVFlEVHUwSW9DUGVNMWRidlBkenVFVXdOdG5FZjFkMEJ0Wk5tLUg4Q2JrTFJ3NnhFT29Yai1ZNEdwS3JZbVF0OHFReXp3?oc=5",
       "date": "2026-11-25T01:35:00+08:00"
-    },
-    {
-      "title": "ISSCC 2027台灣10篇論文入選 NVIDIA高速LPU將引領風騷 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDdPSDF2c0NfbVlqLUtQMzk1WnRVdHBmMjE1VWRtRlVZaFJqcHVDaVhTY1pZU0hmdFY0YjhMOUJTR0RSUjFnTkNkcGE1MTJndnZLSktreHFWbm03OGtrN3lBLWY3SVY5TUo2ckV5MXNpekwtVUZ5MGJJSXMyZ2xfanh3ZDBEQzVVT0xWWGZ3?oc=5",
-      "date": "2026-11-25T01:14:11+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T02:54:28.894854+08:00"
+  "updatedAt": "2026-11-25T03:33:29.453029+08:00"
 }
