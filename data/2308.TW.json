@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-23",
-  "dateTaipei": "2026-11-23T00:00:00+08:00",
-  "close": 990.0,
-  "change": 90.0,
-  "changePct": 10.0,
-  "volume": 30523261,
-  "bias": "偏弱",
-  "performance20": -36.54,
-  "volumeRatio": 1.72,
+  "date": "2026-11-24",
+  "dateTaipei": "2026-11-24T00:00:00+08:00",
+  "close": 1085.0,
+  "change": 95.0,
+  "changePct": 9.596,
+  "volume": 969382,
+  "bias": "中性",
+  "performance20": -28.15,
+  "volumeRatio": 0.05,
   "recommendation": {
-    "date": "2026-11-23",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-24",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -28,7 +28,7 @@
     ],
     "resistance": [
       {
-        "price": 1212.0,
+        "price": 1190.75,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.7187
+    "volumeRatio": 0.0503
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -36.54%。",
-    "本日成交量為前 20 日均量的 1.72 倍，交易較熱絡。",
-    "RSI(14) 為 31.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.15%。",
+    "本日成交量為前 20 日均量的 0.05 倍，量能較平淡。",
+    "RSI(14) 為 38.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,9 +1168,23 @@
       "ma5": 1001.0,
       "ma20": 1212.0,
       "ma60": 1593.3333
+    },
+    {
+      "date": "2026-11-24",
+      "close": 1085.0,
+      "volume": 969382,
+      "rsi": 38.93,
+      "ma5": 1007.0,
+      "ma20": 1190.75,
+      "ma60": 1582.25
     }
   ],
   "news": [
+    {
+      "title": "【即時新聞】中鼎聯手台達電搶AI大單，今年高科技工程接單比重暴增至49%！ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNlNmR3RTTjByUEs0ZWxOc0Ixd0FkMkNHM2RrY3hCWVNoMG4wS3hKYVdPbzlDdEtVN1N3SFIxajVIcmRsS0Q2WEFVUldVQ1lJTnBGNzh3UWE2QlAxMVJHWnVZUXRXLVNwUkRrdWZRVVY1aUFuWXhHX3U2Vk1YQ0NQN2F5bjZPcFRwWWRvcTN4VEY?oc=5",
+      "date": "2026-11-25T06:26:20+08:00"
+    },
     {
       "title": "【即時新聞】台達電受輝達消息激勵漲停收1085元，單日貢獻大盤83點漲點！ - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGpkU2lRdVoxa0RhVnNmdElVUXJkWFVtZVBrTWphM1l1dmFxTTRoWXZEbkthNWhSWS1tcnFWNWE4dFVfVmJ5cWd3T0d3WFBycF85VUZCTmtvRGw4NE44REdvOWx6TmV6YUFpZTNKRTdQdndpNjBBSnlKaTV4ZlBOU2hjbXVkak13RHg2YmhxSTg?oc=5",
@@ -1190,12 +1204,7 @@
       "title": "2308 台達電 - 台達電明天又要跌停板了嗎？ - 股市爆料同學會 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ya29IMWtzRFdmdGNUbXNkVFgyUmdKNkFqZW9ZeDlQMmlQYXh6eXZhdzFWdzdkNHV4UzlJNmZreGJvaWJjNHprbVJ1REJfMmxGWmhXQ3hZZTU?oc=5",
       "date": "2026-11-24T19:47:35+08:00"
-    },
-    {
-      "title": "【即時新聞】AI信心回溫，台達電(2308)漲停收1,085元，貢獻大盤83點漲點！ - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PR3B0eUNFQ2Zzb0RxbjRacGdHaDl1T0pIT2dpZ2xMcmlhX2MyaWw2RFgwc2ZOcjFmR2NtSi1IdGNKcU4xRWFnVzk1Ml80bjJIWDhjeC1Hd2o?oc=5",
-      "date": "2026-11-24T17:51:28+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T01:33:52.167126+08:00"
+  "updatedAt": "2026-11-25T06:34:21.745170+08:00"
 }

@@ -4,22 +4,22 @@
   "query": "NVIDIA",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-23",
-  "dateTaipei": "2026-11-24T05:00:00+08:00",
-  "close": 165.0500030517578,
-  "change": 39.52,
-  "changePct": 31.4825,
-  "volume": 782593300,
+  "date": "2026-11-24",
+  "dateTaipei": "2026-11-25T05:00:00+08:00",
+  "close": 155.3800048828125,
+  "change": -9.67,
+  "changePct": -5.8588,
+  "volume": 382058256,
   "bias": "中性",
-  "performance20": -23.59,
-  "volumeRatio": 2.72,
+  "performance20": -28.71,
+  "volumeRatio": 1.19,
   "recommendation": {
-    "date": "2026-11-23",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-24",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -29,20 +29,20 @@
     ],
     "resistance": [
       {
-        "price": 178.9095,
+        "price": 175.7815,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 208.7093,
+        "price": 207.6193,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 2.7207
+    "volumeRatio": 1.1857
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -23.59%。",
-    "本日成交量為前 20 日均量的 2.72 倍，交易較熱絡。",
-    "RSI(14) 為 42.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.71%。",
+    "本日成交量為前 20 日均量的 1.19 倍，量能接近平常。",
+    "RSI(14) 為 39.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1695,9 +1695,37 @@
       "ma5": 148.596,
       "ma20": 178.9095,
       "ma60": 208.7093
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 159.06,
+      "high": 159.92,
+      "low": 150.5,
+      "date": "2026-11-24",
+      "close": 155.38,
+      "volume": 382058256,
+      "rsi": 39.47,
+      "ma5": 148.58,
+      "ma20": 175.7815,
+      "ma60": 207.6193
     }
   ],
   "news": [
+    {
+      "title": "Nvidia回跌6%拖累科技股 道瓊逆勢上漲423點 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdW0tLVVTSmpyRXd1bjk0RUR1eHA1TGdCUGNyOEc2dktCelo2cGIyMDNvY2JrZUkzQnhqcFBGOWhiZG1aZHYwYnRiQVZKZmhQa05rUU50TzBNZDFmdkpZaGtqV0QzZU1EX0p3YXNINU43STRuZUYtLWhNY29TU19LQ19R0gFnQVVfeXFMTV8zWGtPdnh5RGhxUjg2emlqMEZWbWxQN1FpYWZRV3B2ZkZGeFFPa1ZJaC1nbDN5U3NCS2F6VnQ2YjBPWFBnN1RfbmV1Mko2NEdNeVNoMlRmRkZaenV0V0FxX3IydlRjNA?oc=5",
+      "date": "2026-11-25T05:35:49+08:00"
+    },
+    {
+      "title": "《焦點》黃仁勳承認犯下嚴重錯誤，Nvidia股價回吐部分復職升幅 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FZmVobC1qNHFxdHpsZExKYXpuV01ES19uMkNjRUNOMFlMWVBRemZGYUszem9GMkw1cUFRRnhWenAxNlFLLWc4R2VqNmpPbGp4amo3aC1iYllMV0Y4aWYyM0RWeEdxZDNfeTA1OU1sMlhJNDRzTTkw?oc=5",
+      "date": "2026-11-25T05:29:50+08:00"
+    },
+    {
+      "title": "NVDA 輝達- Nvidia shares fall more than 5% as Huang comeback rally cools - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqUUJOTWJ1cDBlcEIyR2RCemhwdUtOR3NmM0VPMHV1d2p4UTFjQW1FQ3EzdGo3cmFjc3hUN0o2bW45cWhfeGhuNE5sN3poMmFCM2duUktmams?oc=5",
+      "date": "2026-11-25T05:22:04+08:00"
+    },
     {
       "title": "標題 : 美元回落！Nvidia 帶動的AI潮退去 美元獲利回吐、匯市震盪加劇 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDlBMWZLdGhaUm1zU1JtMlRmUENGS1VJQUZIc3JCazFFbVV0VkJoMHNnbENrTm9oTmk3LWxzcXBScUNjX1FCdnB6ZVk2R3YweHlialJvbnBxcmpMcXBzV1g0Y0p2ZFpMQ3VVNG1Na2trZTF6alhIUjdYSWtGanlfcXJCLW8yMy1vcTlSWUxB?oc=5",
@@ -1707,22 +1735,7 @@
       "title": "國安疑慮未除 「Nvidia不再一樣」 - 20261125 - 國際 - 明報新聞網",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcVRLLVhLS2dDemNSWGlGeVgtbG5JQ2Qtb1hrODZ6QjhkTWhyUmpZUnNHVmFrTXRjdjBqYmJ3NnNvbDZqdjBvRjNRQ2Rsc3ZrM2hVMzhKVjg3R2RhSnlaQkFGRXpTRldBLXUtbXFxOGpvZjdmX0k0eUVIdWp2SWlSaTFGb3JkbllVdlAxZnQyMDRhZU1xMl92TXhyY2hfUHJlRXlxN2dOaU9TZGVKTWJNdW1wOExnMFBQUjRWTDVsY0J1MldMTnhzNlJTLXBfU01HS1JzS3JiNHNhazUyblNOdWg4TFk0eFk2aDRMY0xzOFRhSTBZTHlzMVlaTWZTVW9uQjFOOXFTRjhaQ0NXdEI5X0VUeUJTdHZkTGZiVVJfSU9RMS1TRVVfNg?oc=5",
       "date": "2026-11-25T04:30:00+08:00"
-    },
-    {
-      "title": "大行紛調高Nvidia投資評級 目標價最高270美元 料有可觀上升空間 - 20261125 - 經濟 - 明報新聞網",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOTDhsZnZNVUpLb0lwNHloRjY1YmlRYmxMWVBvM00tU0xhMTdzX2tvdkFNczBnSFZkYVRqS1pfWkFzVGNQMnMzVzJfUk5xR3J0LTZCeXhqWFF0VW83WGp0QWRuLTlISF9DS0ZBVGFzcklLWEtIM1gwSHloa3JjOU1uVFo5bW5PNzdCZzRWaXYyNGptQm9wUU5Ka3d1TklKR3NYTWFGTTBOczBVbFF2Y0ZldWtwMHpQTzVkbG5nM2V4SFNZTG1TWDN6SXRDUjQ1MVoxc3FFSENRYUstLXhOakstcWVIbFVnb3FaamdsM3RyQ093SGRBQnF4SDJIbkhaSGJMU0piclEwemE0d2pUQ2U4dmE4MTRMVk9yNlczZ1lSQ21DdTVuR0ZldUo4UWhoVHA3d2FWSjlIb290V1R3SERDeEI3UkdsaHdnaFdaMWZHQWNDWFduaTZYUGRVSkk0Y1R6WGxoVUZtZjZNU1l5VkZuN0t2QnVBcGp1OHNzbnAtWndlWjdrRU5oZ3cwWmx2ZXZtX0MyVC1nV3M2RmdxMUh0SHB0UWd0Qmp1UURnNTRrZk1mWjlfRXhxUXBROTNtUQ?oc=5",
-      "date": "2026-11-25T04:30:00+08:00"
-    },
-    {
-      "title": "英偉達股價出現下跌 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmxRWjg4VFlBenZodV9GME14MThwVWlOeGlLdlhfb0ZqTkNoMXUybFlKTmVPaHZValNha21NTW5USDd0cTdUT2s1Sm04ZkFPZ2lKQUEyeEdCRnJtaTA4WEkzZVBmeHhfSkRrRUdoaERMeTRtZ0NQaHlOVnNyQUFNMG5MMDBmYnN0S0hLME9EZmRtRE51ZGNtT09wV0RyUzFGUE9nWE9Obl9VSmRiZVRobE5MS0RWQkFrUDNQeFB3Q3JZTkRpaVpiNDYwUQ?oc=5",
-      "date": "2026-11-25T04:21:42+08:00"
-    },
-    {
-      "title": "美國對中國晶片出口怒火燒向 NVIDIA：華爾街 AI 夢與監管風暴正面交鋒 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkw1cmt5MXAxcDk4TUZaZjQzRDRzNkZFakpTWUdoT3oxUHBpeV9pNk5sbVVEeDFCcVdfS19qZ3N0RUpxSldDRHhPNmNFcHFrcVhvYTkyUjEzSnRNR2c0SV91VnFIV000VUtlWmtJZVVwcVZyV2huZUFGNnQycXh4MHFvUmFrVjJlRS1TY1F3?oc=5",
-      "date": "2026-11-25T04:00:22+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T05:08:31.343852+08:00"
+  "updatedAt": "2026-11-25T06:34:24.124053+08:00"
 }

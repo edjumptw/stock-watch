@@ -3,22 +3,22 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-23",
-  "dateTaipei": "2026-11-23T00:00:00+08:00",
-  "close": 2030.0,
-  "change": 30.0,
-  "changePct": 1.5,
-  "volume": 65308337,
-  "bias": "偏弱",
-  "performance20": -14.88,
-  "volumeRatio": 1.67,
+  "date": "2026-11-24",
+  "dateTaipei": "2026-11-24T00:00:00+08:00",
+  "close": 2230.0,
+  "change": 200.0,
+  "changePct": 9.8522,
+  "volume": 10842942,
+  "bias": "中性",
+  "performance20": -7.08,
+  "volumeRatio": 0.26,
   "recommendation": {
-    "date": "2026-11-23",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-24",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2258.25,
+        "price": 2249.75,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2388.25,
+        "price": 2385.1667,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.672
+    "volumeRatio": 0.2562
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -14.88%。",
-    "本日成交量為前 20 日均量的 1.67 倍，交易較熱絡。",
-    "RSI(14) 為 31.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -7.08%。",
+    "本日成交量為前 20 日均量的 0.26 倍，量能較平淡。",
+    "RSI(14) 為 47.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,34 +1168,43 @@
       "ma5": 2095.0,
       "ma20": 2258.25,
       "ma60": 2388.25
+    },
+    {
+      "date": "2026-11-24",
+      "close": 2230.0,
+      "volume": 10842942,
+      "rsi": 47.57,
+      "ma5": 2107.0,
+      "ma20": 2249.75,
+      "ma60": 2385.1667
     }
   ],
   "news": [
     {
-      "title": "【台積電下游包商韓籍工程師上班未到！同事衝房間驚見他陳屍床上】 （#大表哥） - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPbEdMNkt5VElnbkxYbWtKMVBlNnNuY0ZzNG5DMDI0RjFTMHNDemp0Q2VneXlJNktiN2JMTmtOUWZFWDVDYlVHSXlyb1JXMTRLX0xxUGFKd29oNE5aU3pHUC1yNXBmcDFCQ3lwal94a3dHbmc3TTQxTVIxRzVLSGxrZlFuRXRjdGduUFEzakF3cEZBYXBCZVZoRTVuWDIyam9HZFpoU0ZwWHhzOUc3Y0IyeWtFTVM1RFcwdVVFZno0SGJaR0RZYmZ3Sm9OQW0tbHFUV3J4ZDJlTElzRGs1R1JmZHhVLTRFUHlkRTVyUGd3UW1WZl9QQmdRNGIzNU5OQ1R6dFhQMlQtbVhTdTZ0cWdtQkdGRjVMUHJOTE40TjVqVUwyNGt6MDk0YU5PdEVTNzJYVEpfTk9Kc0FGblZUall6dlZvRVA1R20wa29nRFlTTV9ZeGJLd1pSbnd6N2tsQVI4aExFUGNCMHpxdnNjTFRDZWJZUS0wRUw0cU5TVER6VHdYT3hRNnZBQkkyeXRhZkxZLVNsUzJ0R0VKSTdENWhBZktJVFRRT2F5U0Q5blN5SUhpenJoRmlKdDNSamVWRS0xZkJmR1ZlTEFKVUlSYlpONFpVaXVhNFlUZDR5UkRfSQ?oc=5",
-      "date": "2026-11-25T04:32:14+08:00"
+      "title": "【即時新聞】群聯X2晶片打入台積電伺服器供應鏈，量產出貨累計產值逾600億元 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTkJROVNBYkZ1eFRnLWRHVGRoaWpqbmVaTERIejFCMWFoMnBLa0FvV2dHNDl4Z0dGeUhWUnc2NkpCRUx3R2Rsd2N4YkRGV2ZpV05hb010R0dYaG00ZlFTc3BxQkN5WFpBZ0Z0SnowWUIxT1lmVnhtal90NVA3S2otQ2VlR1dsQ3dvYWRtakhpQkY?oc=5",
+      "date": "2026-11-25T06:22:58+08:00"
     },
     {
-      "title": "2330 台積電 - 台積電美國擴產力挺AI 後市美政治領袖、黃仁勳等大咖可能與會- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TbDlvSkl5QzdBSU92ZmJrUEVod3k0Z2J5bWNNbHhkTnRiSlBGcGNvMnV6SmExT2Nza3JBX1JHdDhnTEFabzJ2RHZ3VjBoOTNBVDdaZXE2d3Y?oc=5",
-      "date": "2026-11-25T03:38:59+08:00"
+      "title": "【砸逾7千億台幣！台積電擬赴德州蓋「2奈米以下」新廠 最新回應曝】 （#大表哥） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNR3l3X0xxU3RhWXMyYWdMSGVqZEZLVlpBTC0xTnNoeWdDTndha1VVUm9tdjhLenZicURKZHNtNFE0d29vczY0NzFCX2lkYVl2TXU3R2o2TFNFTk1xYWRsUjVmQ2xaM0FtZHNGZ0JrSU5mV3E1UTY3UmlSeUVidmh1VXFFbGx3ckQzOEswMzh1YlY2ZTFRd0R1RGp6MTJBNHRuZXdoRGsyUlhrd2pwcTdaVDBuN0NYa2ZCZ09LLVZmZjVRd2dPTTZBNldxSFFGZ0laUlBpUjZyVFd6cVp5b29rVHRlbUFWcVl4eDB5LThuWkRKbkJyLU85RHFlNTBmWjFMQjVpbEtScVRvSU5VUWYydExnUFcwa0drTTB6dlR5RHZuaVRTVkFSMXVoODc4SXp2WmNWWm1ud2ZKQUJpSU1FdVJyblBwb3hTZkl1NFF4WVVURnpJdEk5cjZJODFYTnNqUFlvT0dxOXc1WElmcDI2OVg3LW1zeHdydTh1LTcyczQyWnVDWk5CVTN0TmdSNHdvNFlwS2RwdFRGVU42a3pqVFgxUHVNMEZBMlV5WEY0LWRrZXZrcDZsTWw3dWFBZw?oc=5",
+      "date": "2026-11-25T06:20:11+08:00"
     },
     {
-      "title": "2330 台積電 - 黃仁勳回歸台積電領軍台鏈吞定心丸持續迎來好光景- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44VXJDNTZpY1JHc1NramZmdmlfWXJaOFRuT0dSM2dGTFdVZ0RidnVxVlJsOU5Kc2sxRnBVVk4wVEFQRTNwS0pJcFZoMHJFdEtTRG10eFpnQmk?oc=5",
-      "date": "2026-11-25T03:38:51+08:00"
+      "title": "【即時新聞】台積電受惠輝達高層回歸穩固訂單需求，並投資兩大AI巨頭布局先進封裝 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FR096cWEtcHhZZHVud0gxUWpMWEk2MFJrVEs4Snp6NWEyVXZLMEZ5Rl9SV0NzckdEZ1Q2WXl1VmtLc1NBVGZuRlI2R0FmR1JCa3l5RzlEdmI?oc=5",
+      "date": "2026-11-25T05:53:45+08:00"
     },
     {
-      "title": "台積電擬赴德州設廠- 日報 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPTEhjWV9lb3o0aTlNeUMxcTJwTW43S0ktQ2g4ZEhxVkpWZTVUNURlcnNXVGZxVkVPZ1pwQ2wzZWNmaU16M0Q2RHRaMmEteTlNUDJ3YWQ3UWhRcVRMLUc0?oc=5",
-      "date": "2026-11-25T03:00:00+08:00"
+      "title": "熱門股》暌違4個月 台積電再現漲停 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVkphOHA1NHZSTlVpYUI5bnBuaXFncW5MODQ4V1YtZ1Z2cTJhY1k5bXNmZEVzQTRYVnYxUkJVWFFySnNQRkE1ZkFObW1WVlpKMHk1bWhR0gFbQVVfeXFMT1RWblhTcTZOS3dNWUZRNFhMd2dmc2VzQTN3MGMxLUE5ZTZHR3JXa3JlMGItZDczcjBYMjZlMks4U29sbDg1OERxbm1DV3VndEx6ajBWYVdVQjZXTQ?oc=5",
+      "date": "2026-11-25T05:30:00+08:00"
     },
     {
-      "title": "攻先進製程台積電兩路並進- 日報 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1MmRzbkxjRkpnajV0czFYZ0NDQmxOM0I3YzFGRWhZbHNkWm1xMmZDM3VpMU5sUlNqam9kTDhCNzE1SGdnaE9KNnVzbEdTTVBDcHg1N1hnUml0V2FYaWVN?oc=5",
-      "date": "2026-11-25T03:00:00+08:00"
+      "title": "快訊／台指期夜盤跌近2000點 台積電夜盤跌近4% - ETtoday財經雲",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ydEwtLUNRSF95Q0dXbnFLczFza05ScFdPWG8tLTJIajBqaHB4VWtWdmdXQ0tIYjBMdTdlMnVRVllOZmFWWndPaU45aV9wQTZGVkHSAVBBVV95cUxQaE5ic0Z5RHo5Y3dERUliMjdfVGpZZWtZS1NZM3ZReDB2TGV6ODZZRjJWSWlTMXZXWUc5TVFxc2c5a2U5RFBPZnVQbU1pQm9tUA?oc=5",
+      "date": "2026-11-25T05:26:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T05:08:29.092194+08:00"
+  "updatedAt": "2026-11-25T06:34:22.262142+08:00"
 }
