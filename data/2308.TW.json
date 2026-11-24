@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-24",
-  "dateTaipei": "2026-11-24T00:00:00+08:00",
-  "close": 1085.0,
-  "change": 95.0,
-  "changePct": 9.596,
-  "volume": 1061634,
-  "bias": "中性",
-  "performance20": -28.15,
-  "volumeRatio": 0.06,
+  "date": "2026-11-23",
+  "dateTaipei": "2026-11-23T00:00:00+08:00",
+  "close": 990.0,
+  "change": 90.0,
+  "changePct": 10.0,
+  "volume": 30523261,
+  "bias": "偏弱",
+  "performance20": -36.54,
+  "volumeRatio": 1.72,
   "recommendation": {
-    "date": "2026-11-24",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-23",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,7 +28,7 @@
     ],
     "resistance": [
       {
-        "price": 1190.75,
+        "price": 1212.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.055
+    "volumeRatio": 1.7187
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.15%。",
-    "本日成交量為前 20 日均量的 0.06 倍，量能較平淡。",
-    "RSI(14) 為 38.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -36.54%。",
+    "本日成交量為前 20 日均量的 1.72 倍，交易較熱絡。",
+    "RSI(14) 為 31.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,43 +1168,34 @@
       "ma5": 1001.0,
       "ma20": 1212.0,
       "ma60": 1593.3333
-    },
-    {
-      "date": "2026-11-24",
-      "close": 1085.0,
-      "volume": 1061634,
-      "rsi": 38.93,
-      "ma5": 1007.0,
-      "ma20": 1190.75,
-      "ma60": 1582.25
     }
   ],
   "news": [
     {
+      "title": "【即時新聞】台達電受輝達消息激勵漲停收1085元，單日貢獻大盤83點漲點！ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGpkU2lRdVoxa0RhVnNmdElVUXJkWFVtZVBrTWphM1l1dmFxTTRoWXZEbkthNWhSWS1tcnFWNWE4dFVfVmJ5cWd3T0d3WFBycF85VUZCTmtvRGw4NE44REdvOWx6TmV6YUFpZTNKRTdQdndpNjBBSnlKaTV4ZlBOU2hjbXVkak13RHg2YmhxSTg?oc=5",
+      "date": "2026-11-24T23:52:26+08:00"
+    },
+    {
+      "title": "台達電董座申讓近半數持股、市值逾300億元 公司揭原因 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdTY4OWxsV3ZDd2lxdk9UYXF6dlZrNEdPUTg0Q2ItSXRuWlk0dXVFVHQtSERWVWQwWGhHRE92OU9tblBwYlJlWTdycGNxbGJweGNkZWpvb1otTU5mVXBfR00yc0JQaE92am1GTkRabjhVWHR5TmdJcmxDdkY1bmVCcHVoVmJkdXE3dFRSTS1aLUxxLVZab3JkYmFEbG9VZ0hxamFGdHdPLWxjV1E5WHFBQTNyOUZJRWZZRmVQZDRUVkZKbTZLVXBIbVdySFB2RzNzRG5TZTlTNmJtV1NMWXdPWFFpSXNFSmVoS1RvUmI4TVFvZnM5ZXpadHB2YUZ5S2VwZDJaYWFuRy1pVnlISFlPT0h3MTRqRXpNUm1Fdm9raTM1YjJld1huUVhRbXdDb2plQV9QZGJyaDVxbmRTcXVGYjhlUEtteXRjVmduQmdrRjFYbVdnaWQyZ2NOTHNTemZvUDlhcVVZY0pfZw?oc=5",
+      "date": "2026-11-24T22:18:00+08:00"
+    },
+    {
+      "title": "黃仁勳回任輝達執行長激勵台股大漲3310點，收復4萬點創紀錄-財經焦點情報站 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdF92YllWYnlkTVRMdE9kRTdYeGtjSWlGN2tmeGZpWHBCUUdkVnZYMDNrLVhCM29GU05SbHhFOHVtS1ozTUhUbEZoUGRKV2JLdmRIQVROb0s1ZnVVLXBZa29pNmhvRFpmRkNJT0tkQmxOSzV6ZHdheHNtMHhFQ0wwaktB?oc=5",
+      "date": "2026-11-24T20:31:13+08:00"
+    },
+    {
+      "title": "2308 台達電 - 台達電明天又要跌停板了嗎？ - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ya29IMWtzRFdmdGNUbXNkVFgyUmdKNkFqZW9ZeDlQMmlQYXh6eXZhdzFWdzdkNHV4UzlJNmZreGJvaWJjNHprbVJ1REJfMmxGWmhXQ3hZZTU?oc=5",
+      "date": "2026-11-24T19:47:35+08:00"
+    },
+    {
       "title": "【即時新聞】AI信心回溫，台達電(2308)漲停收1,085元，貢獻大盤83點漲點！ - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PR3B0eUNFQ2Zzb0RxbjRacGdHaDl1T0pIT2dpZ2xMcmlhX2MyaWw2RFgwc2ZOcjFmR2NtSi1IdGNKcU4xRWFnVzk1Ml80bjJIWDhjeC1Hd2o?oc=5",
       "date": "2026-11-24T17:51:28+08:00"
-    },
-    {
-      "title": "明年 EBITDA 上看2,300億元 台達電評等獲調升至 twAA+、展望「穩定」 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZVW96Mkc3bzg1V2ZQNGFBemFMeEtqZGdlRVF6dDk5RWJLeHBTcjRNVVJiT0thUlh6Q1Y3RGVnLUVYUHA5VlZVSi1wSEY?oc=5",
-      "date": "2026-11-24T17:15:08+08:00"
-    },
-    {
-      "title": "明天會震盪!!換股時機?台積電⊕、鴻海⊕、台達電⊕、國巨⊕、金像電⊕ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYzd2S1dmcXByRnlra3VEZ0IxR1Z4VnozOXFJR1hHRDg4azVvbGFPMldGd2pFZWRpeUhYZUl5alZBX0ZHc2JqR24tZEI3TUE?oc=5",
-      "date": "2026-11-24T17:12:57+08:00"
-    },
-    {
-      "title": "11/24(二)明天會震盪!!換股時機?台積電⊕、鴻海⊕、台達電⊕、國巨⊕、金像電⊕ - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lei1qcnM3M2ZVejNjN2dpTi14YXJOVWpCVWNveEMtcnlHNm1OdXptSEhqN29ZdnFfSVRaUVRMblRVLXdRZFpxVg?oc=5",
-      "date": "2026-11-24T17:09:04+08:00"
-    },
-    {
-      "title": "明年EBITDA上看2,300億元 台達電評等獲調升至 twAA+、展望「穩定」 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxNUZvT2NRTVA2WkN0aUJLbGVQNVRUMFFXUU1JRFRuWU5MUXZaWEZ4SkdsZnNlWlU3cjhtVUVwbW1XRGtpRDdyMDBZSks0dFhf0gFWQVVfeXFMT09fSzN4akhtQXA0ZlkzMlpsc3lGNnlrTEpzTHZTN0oyeWpkZ0xGRnI1R3FULVhueWI4RmphbTFzT3h6MkpCT1B0RUFZd1kwcjhCOHJZdkE?oc=5",
-      "date": "2026-11-24T17:04:55+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T18:23:19.049876+08:00"
+  "updatedAt": "2026-11-25T01:33:52.167126+08:00"
 }

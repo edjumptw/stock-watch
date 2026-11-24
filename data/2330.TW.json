@@ -3,22 +3,22 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-24",
-  "dateTaipei": "2026-11-24T00:00:00+08:00",
-  "close": 2230.0,
-  "change": 200.0,
-  "changePct": 9.8522,
-  "volume": 11490402,
-  "bias": "中性",
-  "performance20": -7.08,
-  "volumeRatio": 0.27,
+  "date": "2026-11-23",
+  "dateTaipei": "2026-11-23T00:00:00+08:00",
+  "close": 2030.0,
+  "change": 30.0,
+  "changePct": 1.5,
+  "volume": 65308337,
+  "bias": "偏弱",
+  "performance20": -14.88,
+  "volumeRatio": 1.67,
   "recommendation": {
-    "date": "2026-11-24",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-23",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2249.75,
+        "price": 2258.25,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2385.1667,
+        "price": 2388.25,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.2715
+    "volumeRatio": 1.672
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -7.08%。",
-    "本日成交量為前 20 日均量的 0.27 倍，量能較平淡。",
-    "RSI(14) 為 47.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -14.88%。",
+    "本日成交量為前 20 日均量的 1.67 倍，交易較熱絡。",
+    "RSI(14) 為 31.0。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,43 +1168,34 @@
       "ma5": 2095.0,
       "ma20": 2258.25,
       "ma60": 2388.25
-    },
-    {
-      "date": "2026-11-24",
-      "close": 2230.0,
-      "volume": 11490402,
-      "rsi": 47.57,
-      "ma5": 2107.0,
-      "ma20": 2249.75,
-      "ma60": 2385.1667
     }
   ],
   "news": [
     {
-      "title": "台積電1天市值狂增5.2兆 專家曝「反彈行情有幾天、利多何時消退」 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10V1o1ZzBDeG5vZzZlZmZ6bFNLTXdiZWNXelBfQW1Gb1hKZXhvWnB3N0dOcGk4allEbEFHZEFMVm15QzNmV1BLdC1jSXg1dXNvcUpvRHJRRzk?oc=5",
-      "date": "2026-11-24T18:19:05+08:00"
+      "title": "加碼美國 台積電12月4日慶亞利桑那廠擴建 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wSzV4OFZKRkgzd2NHdkJ0LWxmeG1DTWRCVFMxN2cwbmFMSmVOWmdQZE1UOXczOUZFZkFnYVk3czRxdFVWOW4zZUFyN09oVzg20gFWQVVfeXFMTV9udm41VS1lZUpUQkVjQWs1bUdTRlVzWnRLMHFFTk81YVpYM1FIZnhfM3pXWTl2cjNjSnhMTjhKclNtRlF5Wlc1VmZ1TnFrbnlMT1hTV2c?oc=5",
+      "date": "2026-11-25T01:05:50+08:00"
     },
     {
-      "title": "2330 台積電 - 2026/11/24 00981A今日操作明細- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UMWNYMzFTVVlUMmlPbFhINVBuem1nSnNTeklvVXNiV1liOUoxSEVObmxueDk2S2xDYWpOX2g1SFdseUpVQlJUV0FoelNad0xNcjBZQmNJeU4?oc=5",
-      "date": "2026-11-24T18:09:00+08:00"
+      "title": "減稅成落腳德州關鍵？台積電：提申報資訊為透明良好溝通 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Xb1dYQVpmdXplZEJHNi1uRWZ2M2hxRVFpRlZlRndjTE04TFFsb2ZTTU5YdDlmbGEwMUJ4dVk1ZExqQXRxZWdPSkNXUQ?oc=5",
+      "date": "2026-11-25T01:03:45+08:00"
     },
     {
-      "title": "台積電高雄廠職災後 高科技建廠專案勞檢開罰近800萬元 - Rti 中央廣播電臺",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVLWRKQkZzWGFSQllGWkdsY0QtZjROZG5UdkhLd0dmZ1puSmZDUGFZLXNZUWpTMVZjQ0pMb25xM0JVT2NiSmpNTkgxSXJHeC10VGNFSllnLS0?oc=5",
-      "date": "2026-11-24T17:53:36+08:00"
+      "title": "台積電等供應鏈進駐南科 台電砸逾千億強化輸變電 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzRFSXZSQTMyLWUzTl9yaGFBVGZfbU5HZjlZU252elloa25YbDZlU3huUGwxZmtZLVF5MVl0YzhQbHpZWmRoNkgzT3FLRTEtMXJlZ0kwd3lmZ29WWUNzWm0taXZsQmh0ckNsQVNydkZrTVo3akJWZl84OG9BNGtyUnNxZXYxenBkbFZ1NXpB?oc=5",
+      "date": "2026-11-25T01:03:45+08:00"
     },
     {
-      "title": "台積電擴產幕後功臣 東京威力科創獲護國神山「量產支援」獎 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOOWE2X3dMR2U5TU5uVjZBT1lXSld0MWl2Mkk3cC0ta21ENGFMaUZXRzZwOTFWbGFoV2ZWbUV5Z1hHV1F3WVJMQ2RuelFTbTBZUHgwTk45bzJnWUs1QndEN1JPQThIX2l0QlJCUkVnZG5Pa2lzTTh3NExPUHdYUjYwYVdYb3U1YlZRMVozcGhuZkIxUS1aLW9jRndaNE9nRWYwMXBKYktRdVRMVzlPWmlnYzZPb0J5U3hIcENsamRUOUZOeVEyNDI3Z2lGOG1IVmFoQUhPbHFBS3hiLTZEV29xVm1vekg5ZURZTUlnV1dwZC01YVJVVXdXQi11X1N3NjIxS0NpR3lyVlF1c3ZxSkJ3OTN2OEliNVZhTFdYMV9QUUdhVVp1UHpxdzR0cnYtMjBqWHpLU0xBTDNNOUh0bUNzc1EyVU1mQkx2YnRydVdrMU5Bb0NOMEZJQU9QRlZhM0toNmZFNW1SSWF6VUd1RGd3RDBheW5jU2lqUE5lNDJUV1hpVHM?oc=5",
-      "date": "2026-11-24T17:37:49+08:00"
+      "title": "2330 台積電 - 夜盤又吐了2000多點- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xY0pMZDdVZHZQVmxoTC1EVnFyZEk2ZGNDd0lYcmgwSEFEaHRYNXBXUlR1WURhc2NxUTk1bFNxeXg0U21sN2RiWUdQbEdLMXpueFUyNVVCY2o?oc=5",
+      "date": "2026-11-25T00:44:57+08:00"
     },
     {
-      "title": "台積電包商韓籍工程師陳屍飯店！法醫相驗死因曝 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPMG1VUldOYlFaQi1DY2FYWHBacHZtUkhtUndidjRkaFJQT3VlSlFKUmkyYmg1b2tOU01uRlFBSlVlb0dHSWMyemlzeDBXd2p1SUM1bmNua2tYZWFXT0N6S194MndzZHhLRWYxcWlraHFHSUdCSm1qLXV4SUtiOFpNMTlBa1NCZU1KUXFlcUFWVFF6eUc5OG4yU243NnhCZThUTnB3bF9wdDYxSUh4S1hlU3VScDBkQkFwTjVyRzV4blZGWm1DRnRFQVlnLXhFSGVtdndUejlhUDNMR0twMEZuT05tVDdMS2VKMDMzSDg2WjdRQU93dDhtWV9zS2U5YXpicHpPcWw2TlVGWGw0bEZFSV9FVHdjNmtzbm1naVA3aHlfbjlMRkNDNFc1WGpyT3MtNGhySUFRYVBNY3Utc3dWMDlHTFRDOVpsZEIzQU5VVlA?oc=5",
-      "date": "2026-11-24T17:36:25+08:00"
+      "title": "ETF 也能超越台積電！00981A亮燈成交金額衝逾439億奔第一 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPUWRlWkpBU0pKb2dPSVlSbF82Q1pZbU90RU90RlZnRTQxNzZwWGNqcVZaaDhhUE5ydlY5d0NidjZYeV9YbTRCdG5qcGttakNmVWplZm1fbFhOTlcweVZDQlFQdG5xMUJzMHRuLUd3c1RqdnpWdS1QZ3VPMGJrUU1hU1gxdkpjRENfakVsZEd0bVJyZ3BPdmZQUDNNWW1PeGhhU1UyR3d5MFNwY05xYW56ZTVVTndFX2dRYmdKTW9pRUplWXV5dnoyYzIwQ1VWUkZLQjQ2QmFtc3NXSUNNaV96bG5ncVB5X1loOTB0Ul9OeXFJTTloSVloUTZZVUh4dXlDck54OXJkR0I2UEMzc1oyM0tDYTBkNUlXaE1GT0VuZW4tRjhSSjV4eHhHWjdwWHdmU0o5UjdxRlFlUGxWVHc?oc=5",
+      "date": "2026-11-25T00:30:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T18:23:19.819479+08:00"
+  "updatedAt": "2026-11-25T01:33:52.831664+08:00"
 }
