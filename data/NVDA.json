@@ -9,10 +9,10 @@
   "close": 165.0500030517578,
   "change": 39.52,
   "changePct": 31.4825,
-  "volume": 776225888,
+  "volume": 779184200,
   "bias": "中性",
   "performance20": -23.59,
-  "volumeRatio": 2.7,
+  "volumeRatio": 2.71,
   "recommendation": {
     "date": "2026-11-23",
     "action": "減碼",
@@ -37,11 +37,11 @@
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 2.7019
+    "volumeRatio": 2.7089
   },
   "commentary": [
     "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -23.59%。",
-    "本日成交量為前 20 日均量的 2.70 倍，交易較熱絡。",
+    "本日成交量為前 20 日均量的 2.71 倍，交易較熱絡。",
     "RSI(14) 為 42.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1677,7 +1677,7 @@
       "low": 124.5,
       "date": "2026-11-20",
       "close": 125.53,
-      "volume": 626373200,
+      "volume": 633418400,
       "rsi": 15.05,
       "ma5": 146.814,
       "ma20": 181.457,
@@ -1690,7 +1690,7 @@
       "low": 156.93,
       "date": "2026-11-23",
       "close": 165.05,
-      "volume": 776225888,
+      "volume": 779184200,
       "rsi": 42.87,
       "ma5": 148.596,
       "ma20": 178.9095,
@@ -1699,30 +1699,30 @@
   ],
   "news": [
     {
-      "title": "金融時報：Nvidia股價飆逾30% 川普持股最多增值1500萬美元 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ec3l0YTVwY21FSUJ4MFRpYnNsR3dsX0dnQWMxQkdKcUR4NVBsc0s2Zk82bFZhWUJBVFFWTmF6WWNldENHbFMtOXJUTllSNjJWeDN2WVJkNHNuRHdXSENhNnlB0gFnQVVfeXFMTkFmVXdpWW1aNUNhS0VQTkM4all5RlpHQWRTTF9xRTBmVDRqMlpNRjhoQWFuRk1zdTExdk02anItR3pTWEthcW5FVWcyVTU2eHJ4ZTRvNHlUTS1EdmhyR1FUMnpaNmRIMA?oc=5",
-      "date": "2026-11-24T07:52:23+08:00"
+      "title": "《新興市場》黃仁勳回歸Nvidia帶來定心丸，台灣和韓國股市大漲 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16ZWZCWGI4OUpUeDc0N3Ezbm5WRmZ0LWV3UTNqam9NX01hcXVlNEU0M29kM3NTZUFYbG5SZzhtSURNTS1DMmRNY3B1dXdkUzBVbXJ5eWJBeXRZUUlpaFF1Qk1yQ2M0aUpCYko2a0ktV3VkRTdRZlhV?oc=5",
+      "date": "2026-11-24T13:27:41+08:00"
     },
     {
-      "title": "《匯市簡訊》美元/離岸人民幣或偏下行，Nvidia大戲引發風險情緒回升 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SM25wNk8yczdVMHdleTVpNHdOcm5nYmFVMGo0QlFraldCaDB0RGdVRVJPcjBPSUNpaEduckZkamNtcDNLQVpucklITTRVVEYwRlV3WHlCVy01YmJLMHR2N1dBSTZGajFybmNYLVFHZ2Y0S3hHdDJn?oc=5",
-      "date": "2026-11-24T07:43:24+08:00"
+      "title": "黃仁勳 6 天重返 NVIDIA，只解決由誰當家：調查、出口管制、融資疑慮仍未解 - TechOrange 科技報橘",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DdDRmUFJQLW1uUWRpY2htN3JWWWJOdU5iNjlCNEN6RXhZcmQ3TlgxNVdHRkNfSnFUYS0wbG8tMFBaSU5HcnBKSU54d3NmazVSbHU5ZmdGZGV1MUcwOWtzUFphMkd3akFRbVh5NWJ0NXBjOWxtb1Z0cg?oc=5",
+      "date": "2026-11-24T12:31:14+08:00"
     },
     {
-      "title": "Nvidia執行長回歸，市場下修聯準會升息預期，金價反彈站上3,600美元 - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSS1pR25iWndpenZXc2Nib2IwRXF6T3JfamNTVC1Uc09iR01aOVB2M1lwZHR0WWJZQjhRR1NreTVxQTVuSFlqY2tlTUNVdVcybDI2Q3FJRFd5ZGc2UVNuSk5wamtGNkdwcm5ZNzNZZEdOaHdvYThLV0ZyTDVSbHFocWw2amdJRTRRN19DSEt1Y3EzNXBYMlNZdXN6N2laOHoyZ1N3eVlMQXNUQkxZajVaOGc3bWxRQTI4eHRBRFRVUFVoQmpxVVdFNllRdlV2YnltWVM5Z2dWOA?oc=5",
-      "date": "2026-11-24T07:32:46+08:00"
+      "title": "最新消息 NVIDIA 正式宣佈黃仁勳（Jensen Huang）回任總裁暨 CEO 一職 - https://www.kiks.com.tw/",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQaGRYYUo0dFRSN19ndUw3WjRHZHJDYmFTTXI0ekJ0LWRpM053XzZ0TUJXM0dHNy0yYmd1THZGODIzbFNJTE5fVTJETVVJV1lqSWs4WUN2TTVzcTBEdE1ZQ3pMMExiaFFrTk1Hd3Fwb005UFNnemdvWmU1b0FxcjRLZlhWb09EamdCMVZrTTVZX3laSE5MQkdCZUVjWHoxc2NUV2ExZWxtOUpCTm1pVVJ4dkdqanNuMFNNdjRwWC1uTllEa3A0d0lCa0pkODU1djV2SjhqLXRCeEtrZHFBeVJ0S0tqSnBLMkdwUEFtQlFTMUpOQUFoRU9GQ0loSGtUYWh1dGVneWFUT1RpcWotdy1wQUQ0UVh4dTVya2k4Y05yTXZBbEczUTNMMWZKNlk0cHI1X2VfMEE3WTlCVFlJeWMyakt1bTVrTHlfY2s0QlJ6Y2dnVWhC?oc=5",
+      "date": "2026-11-24T12:15:43+08:00"
     },
     {
-      "title": "黃仁勳即刻重返 NVIDIA 執行長 董事會：復職不構成國安風險 - Business Insider Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJUUhTSnA1ZkNkMEdjR2xJVXEwRUxtQnhXdUl5WnBDQ1JYcFFYaW1lTTFaaVk3a0pvdjFiN0djUjB4Y3V1R0dIREJvZ2tuS2pSSk5ST3o4MA?oc=5",
-      "date": "2026-11-24T07:14:00+08:00"
+      "title": "黃仁勳回鍋Nvidia執行長，日本經產相：「密切關注對日本企業的影響」 半導體供應鏈引發日本政府警戒 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16cFllY29tT19wUFE0OGw4X1NLamhwWkZDdlRrLUZxVFNTbnVoY2ZadnlfZ1BJMk1GT0dSVWtaUUlMTktVbEZuZUl4ZlN0MzV3ZDdUYmlhU29YZkVndzQ4NlpGaXM4b2k5dHdlcVFCbkc1Q2V3ZlIwbFd3?oc=5",
+      "date": "2026-11-24T12:05:00+08:00"
     },
     {
-      "title": "體驗更佳的遊戲視覺效果，《燕雲十六聲》加入 NVIDIA DLSS 5 技術 - BenchLife.info",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Y3U2R0VTbXlwUFFGb3lWekRTN2haSFpCLWpCcFdqU0FrZkstV2lqSW1PUERNZnNveE00MDBENWtYbWZqVmJVVmVuUUhyWGcxSjgzT1FTaWlDdU1weGtXazBPM1psMEhqYlE?oc=5",
-      "date": "2026-11-24T07:02:35+08:00"
+      "title": "輝達（NVIDIA）執行長黃仁勳離職11天後回鍋掌舵，董事會一致通過復職案並認定無國安風險。消息帶動台指期夜盤大漲逾3600點，社群上也出現大量相關迷因討論。 不過風波未歇，由於美國國會正調查黃仁勳與一名遭控為中國間諜女性的關係，並關注AI晶片出口中國 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxNdEFicUJQb2xuS1Vpb0VKeERpSGlXRVg2Q1RQOGZuTHRNem91azN2am5MUDZFTWNKNUc2cTAtYWVoZTZGLTJpdWU5bVJ2RnhoOG9YZFJzbWM2Vk9pYWp5aERGSFZNc2pneUt1cXBhWHdfWFk1X01oLWhTQnhpSkJ0dDNRcUdNdHNnaHZYT1VqWGs1LXhEc3FlT0VxVWMtZk1BWWV6eWFjem9HdURjeWctVjhQX0dkMGZYWTllQ29vdWxkbGhacVVuajNJOWowQlJobWZtU2V0bGlROE1pSTRzZ0hKcmdQOGVic0RpbWJhVTBWQzRqckdpWUg3LWVfWXBEcTZQYXFLZ3lvMEotSjVObHQ0cTJqdnRkNGdSdlIwLS1JV3hRN2pGRzRoMDBtUUV3X0N3R3R4Q2dXaVFfM2ViaDFlTVlKZEdaNlZpbE1hZDFOSHRocVRKbXhHbUplVU5wRHhFMU11Q0RFSG9xc0poc3kxLUxacHVadHJ6aEozYXZBR1J1N2VaRnQ5TFNkMHUxYWhHNENpRGp6X2tyemNKZE5kV1BCMEFZbzFjSjZBSzNnYWZMWm03a3RnWW5qeUdtcnI1MktnXzNuYkRsUDZmR0szQjkwMXA1dzlyVDB6S0RiUllBUnJHUFY0V1ltS1hwNkNlY0dhNy1qZ3V4S045YW5WeFhHM2ZxMGFobzQ1bFRfc2JNd1NWd25WdnZyX25LOTBCemJJdEhNSm1PV3dvN0Nmd3ZrR3hiRThCenV2S1RFNC13SWV4MW9vV3BCbTN3dmZJLXduN01hYlVQMUxkNU5vMXlJVU5xVnQxa21wdnMyYk51RDFSd0V4U3YxeGdZU1k4bUVpbnpjaG5TODBoa1ZHQlhDODF1aExWbW41bmF1VUxSaXFCN0NYeURpQTJhT0hWSkNFb3N6clAtYnE3M1NpVE43UWUteGFuUm4tVnp1ZnRzMDVuYU5fV0Q1WHpmZDdJaW9oZ1dUZ2lWYmdwNnpaMVFRaHVORzZpcHZwdHA5aFVkR3JGUGRhUWNfcnAxM1VYcVl2ZDlxSU1rQ21hUEJJbndWa3BoSGdpUWJuVXNBRXZTMHRaZU84NTJ3MzRqbnpaOEcyRHFYcW1xb1RLa00xQ3ZhUF83STU2eF85OFRINDhaRi1GVDlvbUd0Szl0LVkzSXJjVWdMVnNuc0k1cWk0d201eXJOMDdmQ3QxYnduMklMdXVCRTJRdmNJdFd2MzkzcXJzaw?oc=5",
+      "date": "2026-11-24T12:00:30+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T08:00:34.046085+08:00"
+  "updatedAt": "2026-11-24T13:32:57.998822+08:00"
 }

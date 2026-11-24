@@ -9,10 +9,10 @@
   "close": 385.4599914550781,
   "change": 39.64,
   "changePct": 11.4626,
-  "volume": 46030333,
+  "volume": 46970000,
   "bias": "中性",
   "performance20": -1.57,
-  "volumeRatio": 1.25,
+  "volumeRatio": 1.28,
   "recommendation": {
     "date": "2026-11-23",
     "action": "續抱",
@@ -37,11 +37,11 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.2536
+    "volumeRatio": 1.2788
   },
   "commentary": [
     "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -1.57%。",
-    "本日成交量為前 20 日均量的 1.25 倍，交易較熱絡。",
+    "本日成交量為前 20 日均量的 1.28 倍，交易較熱絡。",
     "RSI(14) 為 52.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1677,7 +1677,7 @@
       "low": 344.33,
       "date": "2026-11-20",
       "close": 345.82,
-      "volume": 45990400,
+      "volume": 46244300,
       "rsi": 37.78,
       "ma5": 372.76,
       "ma20": 384.7985,
@@ -1685,12 +1685,12 @@
     },
     {
       "source": "Yahoo Finance",
-      "open": 374.84,
+      "open": 374.74,
       "high": 393.83,
-      "low": 371.99,
+      "low": 371.95,
       "date": "2026-11-23",
       "close": 385.46,
-      "volume": 46030333,
+      "volume": 46970000,
       "rsi": 52.09,
       "ma5": 373.904,
       "ma20": 384.4905,
@@ -1699,30 +1699,30 @@
   ],
   "news": [
     {
-      "title": "特斯拉擬取消Model Y方向盤 變身7人無人駕駛車 - Singtaousa",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNV9uTXRacjZOTy03N0FVN1RvcnpuSG1CRzZINWF2bG9yaGlkSkFwbW5FeEhzQ1JCMjAzeFVHeE5XZGh5Qi00eFFLMFdfck5zRUJkb1dDdFZidFpoOXZDVXRKejBoVkk2bFVLWklURG5EVDRQelFBdFBWWk5nSUgxQXAtcU4zUktwTEtUMzBKQXdESGJ2QWJzNy1YVlVVel9TYk1JZDN4RFVWQVBMSnlLZnNlcFlwZGZKdzVMUDM0ZExyTkNvamE0Um8yZVNoRzI5aDYyQVNTc2xIUQ?oc=5",
-      "date": "2026-11-24T07:55:37+08:00"
+      "title": "傳特斯拉與SpaceX洽談合併 指派五位董事展開協商 - 民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBWTNlbkZEOVAwQTdZVzZ3dElVNUQ5RjIxbEVRM2tRVjFmQVgzLXI2TWc1dFhWWEJmSnRIRy1EZEJUTXhXXzVjbTFTZF90STB0N1h5dVo3RXp6b0RPa3gxbmlDN2p1UQ?oc=5",
+      "date": "2026-11-24T13:25:44+08:00"
     },
     {
-      "title": "Tesla Model Y連續兩年包尾 德國TÜV驗車報告指近兩成現重大缺陷 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQVnJYdnFmbnc5WlNGT3c5VmRSb2hnMHlFQVRvcm5UR3U2OUM4b2pmbERBaE5yXzZvUHg4OUxyY2xYdlVtcjNTdFdrZjkyckhDSHNDM1kwYjEtMVJRU0RkRy10dGRDN2hueUJTYmlrUXBsZjVhVFNOSldjNjJjTGxwNEZqeEFfTWI3aE5ERzR1TGNuWUs2Z255U1U4blBGc1NPZEk5dmFLYnJQQjRoT093dWpSZ3cxU1d6VkhNQ2k0M1gzOGVtNDRXLVRLYjFyN2RYckRKOXBUdC1sUHg0RXdTT1VpZWFLSnV3YV9DTU5hdWNqcUtqdUhuVDQwVjR3czhlRlJIYTVxYml5YXRHWDI1RzZobHlaOWhweHROcXhNOXA3ekRqZnBQODNIdVZGdHBQTFRSdG1BWUROaG1odTd5MXJBMFJpWXNpN2dyZ3poMGpOMDcwbzRSMm1yeXFTUHdJS1RIOXlCUzBEczh0OExubmx5Y2p6ZGhOV042anVvdHloRWRPcERocGJzMkRTWnc?oc=5",
-      "date": "2026-11-24T07:00:06+08:00"
+      "title": "原本排斥電車卻愛上特斯拉？留英台客老喬Tesla Model Y 祖母綠開箱！金山一日遊重溫與老婆的戀愛之路【Yahoo名人聊愛車】 - Yahoo - 汽機車",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPYTlQXzUyRTE3UDV5WjVGRk9zbkxURWJ4d0pPYV95UzJSYlJHUmRRNDRmanBDZHE5bFRtbndrSnFKRVRBdlNPdWhDVzBXcG4ycmRVMjJ0b1BLZmh4ZThpYWxPMGgzSFFpR21acXNRdGRtLW4xcUFNLXlDejdYbVpWRDl0aE1XQzJYQ0JyWGI2VTFabVJTTUtITmJoV1hkZmxwakRQZEF2cFRZREhMcVk1M19Ja0xzWl8zOTNhT05ldlA3ckZ5MWppMGtlNmcwOHVKTGY1aFZZV3VldTMwU0VtcmZoS09Ba2l4ODY3MjJJa00zcUJmSFFka3dDTy03YWxKal9CQ2JlcHRhcU5HQjZTaHJwMkFBTUVnNTJtSzk4YUR2N3I3aWQ3ZXg2bjU4dTZNc0hYdHotc0VIRFpZRVZzUHoxaUNnSmpV?oc=5",
+      "date": "2026-11-24T13:03:28+08:00"
     },
     {
-      "title": "特斯拉強彈12%收復均線 宣布次月擴大釋出新版FSD - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SMkpuYktpbDJ0aTJDVzlKUERNelRXdnpjMmZfZ01xUnlld1NWczVOel9ld0d5ZDFVMVlRdXN4cU5QbUg5a2lQNDNEQVBTRHNQN3c?oc=5",
-      "date": "2026-11-24T06:56:08+08:00"
+      "title": "瞄準多人乘載需求？Elon Musk 預告推無方向盤、無踏板多座 Tesla Model Y - UDN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaWlJMUlqaWw2MVNvTlBPd0k3VnhabGhwel9Gc0RYTDZnaDk5dENILThpWmVzTWRHc3Nyb1NsTjZ1QkVyRFJGTVpPTlpZNktLbkg3c0l4cFJWUWNQdF9DM2NMYVpFdmJ4UXExQ2dteG95a2JsUWJ6bFQtVkZLWVnSAWJBVV95cUxNejA3VWtVQkc2cFpYRHg4SXNjTGlDaW5VQW1qRUY3bWhsOVgtQXNuYXpMUER3b2Q2aEQwVUN2OUpTTXZzS2cyLVJuOUhVcTVxQ1QtWnVFMUtLdDg3VHVFQmNrdw?oc=5",
+      "date": "2026-11-24T12:39:52+08:00"
     },
     {
-      "title": "Tesla新自駕系統FSD v15 實時生成立體畫面 馬斯克：現實版GTA｜AI學庫 - www.singtao.ca",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0hjczlZZy01RHg2a3FGUmV6ck1CY0JpUldmbVZHWFV6ZFVCWnVLOFZwazVTekM3ckd0TlVZelRtazgtd05JVGFDZWJYVkNid0ZYazUtVGt1M2tuWm5xNjJqZmpfbzNYX1EtVnJ4V0NHRjdTUTk0TmJ5VW9jcVc0d2hPX0FMRG50VUw2dUowTE1qcUpDNjMwYkMyOU9OVWhwRUE?oc=5",
-      "date": "2026-11-24T06:54:14+08:00"
+      "title": "特斯拉驚艷的FSD 即時新畫面怎麼來？馬斯克：車上AI 以擴散模型邊開邊畫| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXVSRG1ZV25Ua0xBVVNLbklnVjJENEFKWHpoSnJJQ2hVcWZfS1Rsd2lOY0lzN0Zqb0hFenJ4cTZXSUZEYlhxSTdWSDlUaHJNRlh0M045NEd6Z2ZyLWxjYTF3VFpxdHRfdnFITk03aXBJRmoxY1lBTXZXSnpaSDMwVjdyUXlISGRJNG5XU3Z4RUwyYWwxbmNz?oc=5",
+      "date": "2026-11-24T11:48:06+08:00"
     },
     {
-      "title": "特斯拉全新 FSD 畫面讓 AI 在行駛時生成道路影片 - Business Insider Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uaWRRSnk5Nl9jM0xya1V1elZNdXpKSi1jNmRIZGJ1Q3I0dnQ5MmltenpMQkVTdmN4TmtwYVlOMjMtQ3NFUkJ5YTktdEZWS3lpN0J5Rkp5Zw?oc=5",
-      "date": "2026-11-24T04:51:49+08:00"
+      "title": "青馬大橋兩Tesla與的士撞 往機場方向交通一度受阻 - on.cc東網",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3V6T1dzdXQ0SHZfclJyc3BEV2oyTUc4a3VxelVZZVVkYXNhOFNPRVhDV09Tc0hobV9JT2VWZUtTVkZGcWdQSHlNVkppNWxCS0h6MlJRcWdWNXdCNGNvZEhMODcxQ1IxcWFvN0VGclVVaWE4enJwMWI2Um94RlFKMFJHeGI3blN4eHM0?oc=5",
+      "date": "2026-11-24T10:08:52+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T08:00:37.095020+08:00"
+  "updatedAt": "2026-11-24T13:33:01.775696+08:00"
 }
