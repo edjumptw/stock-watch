@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:09:56.981629+08:00",
+  "updatedAt": "2026-11-24T14:59:25.260126+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -1189,11 +1189,6 @@
           "date": "2026-11-24T10:29:29+08:00"
         },
         {
-          "title": "1802 台玻- 🥰盤中南亞科台玻富喬南亞國巨華通合晶穩懋臻鼎敬鵬日月光聯茂- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ZVZ1Z01aenFXa2g4Y1VzNktOT1NWRW1KSTdqbFEyS21oUS15Q1FpSXluNG9icFV2QU1QdzdiWE9pRk9zdTVjOWpjUUJTVVJ6Q0daVXpEMVE?oc=5",
-          "date": "2026-11-24T10:05:52+08:00"
-        },
-        {
           "title": "2330 台積電 - 爛死了，全砍了，比國巨還爛，這禮拜大盤漲回4萬8 開盤即收- 股市爆料同學會 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yczF0ejB2dVROX3B1N0dRRm9HY0wwOFFKZ09sTVZEallUYU9wVkRZSFVQSWl1UG1kWHJXZGx1Y0t0M0FDU212UVlrajhMWWlDLUtfbUxBR1g?oc=5",
           "date": "2026-11-24T09:36:34+08:00"
@@ -1207,9 +1202,14 @@
           "title": "當心抄底變抄家！國巨彈上「3字頭」能攤平？老牌法人目標價露餡了：1數據連降2季 - 上市櫃 - 旺得富理財網",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nV21DLUc5WG55Sy1sdDdYcl9xRXktMy1ZQk5HZGs2VzZuT0Jzb3dfMDJmQzBBSmkxdkFBSG84dldhbk1FbUd2QTJnM2wzaWtIYVJtNXl0b3h4NzM5UXVWQVpXRGRQWXZVdkE?oc=5",
           "date": "2026-11-24T07:39:32+08:00"
+        },
+        {
+          "title": "00406A大換股一次出清6檔 國巨強茂遭砍逾4800張 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxON2RYWGN6Qm1lOUI5bmIwZFBUWjlSbE03dkp2U2xoYmVRMUl6ajROaFczVjJvOHU4UGZnSUFxVmMyYnZBMllGelVQWWlLelZqRlJmbzFNUWZUVFBPNDE0YjJCWXlVVGhhUjFwTmtBSkJydXFNYmdQTXRvUTRqNFZBUVlKUDRKT2dTbFV6a0dzMjl6TkNrTzM0RnFEMDh1MnQ2RUtUbC16Z1RnOWVDU0tNSTl5YlNGcVBkUFVzSjNsR1JuazFKV3NLUlM2S2V3NDZEOHdVZXlFdWFtNWdCbmZrLXM2Xzdza2NoeGthS2lZd0R5cFNsUk1vZGVKenZYSzhicGUzNDVINEdfNjY2TFo4dG1uMXdYdzRt?oc=5",
+          "date": "2026-11-24T04:13:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T14:09:44.259581+08:00"
+      "updatedAt": "2026-11-24T14:59:15.499462+08:00"
     },
     {
       "symbol": "2308.TW",
@@ -2394,6 +2394,11 @@
       ],
       "news": [
         {
+          "title": "【即時新聞】台達電受惠科技股強勢反彈亮燈漲停！帶動15檔ETF暫停申贖 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUpyVzVXd0FqbVNDRU9xVnVtTEFzOG9YZlNkS3lBU2x3ek1neVJWX0daUTBqTEpnZGFrSGwzX1M3MlZiNW1RUkNqNUFweDV6RkxBX183MlBWQVQwQ3lCQVh6bGszUFhEeFVDenZmZWxxRUJEaWtsNENIVzRycDJ2dHpOVXl1dVVMUzZsMjBXTVo?oc=5",
+          "date": "2026-11-24T14:52:51+08:00"
+        },
+        {
           "title": "【即時新聞】台達電受惠輝達狂飆帶動大盤，今日強勢亮燈漲停引發市場關注 - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmlTTnZZUl9wTUt2MjRLZUFPT1pZbXIzUmZWQ3UtMnM4d2hBWWdnZGlrazVTVmRZS3hFNFNNbFVWOEk1MzFFeVVaV2tQWmhlTFZqTlZ1b3pKT0RmOVFOaG5NZGFrWXgyeFRpN0ZJbFN2T2F0Y0VJX05mY05aRks4b2tMenktaGlxQlFQQ3gxaTc?oc=5",
           "date": "2026-11-24T13:54:46+08:00"
@@ -2412,14 +2417,9 @@
           "title": "黃仁勳回歸引爆台股漲停潮！35檔千金股狂亮30顆紅燈，台達電連2日漲停、每張帳面賺18.5萬 - 風傳媒",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5cDRnVjJyNjNFV1pDUUxnQXo4b01NQ2ZIa0dLdGpFeUg0X2swNGxLQ0ZCdkhrRnBwOEg0V3UyVGVIU1MzUS1iQXRGUnQ2Zw?oc=5",
           "date": "2026-11-24T11:25:00+08:00"
-        },
-        {
-          "title": "【即時新聞】台達電飆漲逾9%重返千金！黃仁勳點火，這「5檔概念股」接棒亮燈狂噴！ - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnQ0Qm5NT3IxYVNLWE9HOFd6TFpsa1I3UEtObWNqN0ltM0pvRjZuYVBCVzhsZTI0aWphSFMzcU5YOUtvYlVhakNaWTZwc2RCTmwyclVTS25PbEc1c2dDaTNWMGRQYWMzOEhhbWE4VjVvRE5UaVNsSUlIMXJUdGQ0anp4SlVFektPN3hRVXM3Mks?oc=5",
-          "date": "2026-11-24T11:21:59+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T14:09:45.386052+08:00"
+      "updatedAt": "2026-11-24T14:59:16.220091+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -3604,32 +3604,32 @@
       ],
       "news": [
         {
-          "title": "台股狂飆3310點創史上紀錄！台積電收漲停 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMm5HaTctZWxFd1VnT0VMZUlMUnZoQ3AwRWJ0elBzdmFLMnJXeGZ5aWlhbWhCckpyeHJJWmNXX0dVcEV3OWh4dHlKZFVaOGNHa25LTlZMUmNUM0Z0UHhGVGhDNy1DbG4xX0d4bktUZFpsdmRrR0VtMWFpclVOUUY3TGFxRkdIOHlwOTVkUmIwTkpMV2R6S2xlbU9tVUxldGlCc1RNVHRKVU1nT1U1akZpT3ladUJybDJkZF9NX095Q3JVQU9Fdzgzd3JfSkFNNk1XdHlyWWYxSnRpdWM4b256cWR1RkVGV2hhVTZGamlVRUxpcTA5SGJCRURRY095TW51WjVzZWtnTU5CMjl6clVOVWRUMXg3Vld0a1E?oc=5",
-          "date": "2026-11-24T14:00:00+08:00"
+          "title": "【即時新聞】黃仁勳強勢回歸帶動AI狂潮，台積電開盤飆漲停大漲200元！ - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVR1WHUxV3dzbGF2NEJLSk1GU25OaHlJeENPS2N2amFPTFNCM1lLeWNQckc3MW1DOTdOazBnZHUxQUZvV3BpZ2lEQjBMQ2NLenlUZXdlNGpVNnlQSDQzaEdaLVJRSmEyWTE4cTRTeFY4NkxQaFpGOG83RHZGNGxVa1BVTDZFd3dGQWdZNFFMaUE?oc=5",
+          "date": "2026-11-24T14:54:19+08:00"
         },
         {
-          "title": "收盤／台積電漲停委買逾2萬張！飆3310點創第一大漲點紀錄 重返4萬點 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNdzJoU2pSZkw1Ynh3Smh1VUxYV1FNTDhJSlFDekpOYnAwMjFGdF9kOFdVSjI2Vm42NHFpanZ1VFQ3aXpNUmZtclEySTVjU3lIS0E4UHJuRm4zUU1XY0dKYmF0UEVmRjRfV0NHc2hMQWYxc0QyTVdqQzR5OV9lTWV1VDN1QkR4dWpoSHVhdFN2bnRvTUJpUmxGZzlUVTBRS0dRNWlFUVc0Q19seE9jMlhGX0dOVHc4UllRUDM4MWxTN0NBUTdmZ1RmZnFzaWY4bWFuSlBrVFI4WWEzSjlOVDdTOFVjVk9WSGpjTXNWVW81SjBqZjZwQzNHTzhjc0IwdVdRMkJ4WkxkQ1B0R3JEUzJoeUlKWXFxUmhqcW5mYW0wOU9SN1o3V1JoaHhtZllyTlBKLXJ0QjgwdDM1UHFRcVllZmx6X01rLTFsSEtNaHNrS0RCT2dyREhyZXFCUFhwMGk5NjVwNGw2SFlpMl9ZSkZCSDdaMmhmaHVpNEt6WnNVcVJ0M2JSWWVtRVhYQXk?oc=5",
-          "date": "2026-11-24T14:00:00+08:00"
+          "title": "2330 台積電 - 黃仁勳才剛復職，美國政壇立刻開戰？民主黨撂狠話要「徹查到底」 - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54SGxKV2ZSck1rbUZTR3dOUkdtdFJrTk1aV0pCaDUtVUZ4UE1kQ2JHbVVwSDhsa21ZVnFNYVFmWFlIa3lIYmdiTzZFbWhHc1A3ZWoxUWNSN2E?oc=5",
+          "date": "2026-11-24T14:45:20+08:00"
         },
         {
-          "title": "【即時新聞】最新報告看好台積電領軍台股戰50,000點，AI訂單放量迎長線佈局契機 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUThzaDdVX1Zhel9FZjVmdVBfaGgxbmdqOUI3Mlc5Q3RyNHpHa055NG9hMTBkTzcxaVpzODQ2OXNSdmdldFEzcGtmMUh1R2xvQ3lSME40TGY5T09PNlBRU3lVUDlGMHdVVEZ2Zzhmckd1YlZ6b1hPeW5xaVJReDFYZk9GaVFZX2pDWUNQd3ZBdXM?oc=5",
-          "date": "2026-11-24T13:58:08+08:00"
+          "title": "黃仁勳重返輝達執行長！台股狂飆9%台積電鴻海攻漲停 - 民視財經網",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMLWw5b1dlbDZiQzJWQWZ4TXdySXR6WUVEN1dVbl9zZk5BWkYwZnZKSEpHUWZGV29aanlndTR3U3Uyd2JfZ09kemltM2QyY3lsR1A4aUtDSGNvdnFJNG82UnZURk9YQQ?oc=5",
+          "date": "2026-11-24T14:25:51+08:00"
         },
         {
-          "title": "台股史上第1！台積電領622家飆漲停 指數收漲3310點 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PVGNnbVozTnVzbXR6YlYwWFQ3a0pmVzZoY0hNTDhGMFF2OEljOE5lRWVHR2xUWjdSRjVINTVjczdHTlJDY0NiLTFESnl2R1JaaXVTVFJrYU4?oc=5",
-          "date": "2026-11-24T13:50:00+08:00"
+          "title": "2330 台積電 - 快訊／台股暴漲3310點破紀錄台積電收漲停逾2萬張委買搶不到- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iSHdBUm9BbHhEMGNodXRzUkVHSjFydzluOFNQTDdHVUZjb0EyLXppUF9jOGNjLWJKYTVLQnN5ZFVrYTlyRWNuZUxZVUpZWnZ1aXVYcWYzQzM?oc=5",
+          "date": "2026-11-24T14:22:22+08:00"
         },
         {
-          "title": "噴逾3,300點重返4萬大關！郭哲榮「1121多頭歸隊」：台股5萬點、台積電3,000元！ - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNnZ0cEtqU1FYVFFyc1N5OEhDeTZvcnR1dlR1cTlpUHNkODZPQnAzbXVURVhkZTFzMG1vWjVMbEtpcFFXZEg2N1pxQ0hNYVFHaHfSAVdBVV95cUxQc0ZFeDI2YUlfOW1FSGJZNE5iaUlzdzlqUktQbU5UUDFwSGdIeVhtaHEtaUJ4Yi1MYlJQMEhodHh5dEZ2V1hGdWl6RkNVcThNX2o4bnNpY2c?oc=5",
-          "date": "2026-11-24T13:49:41+08:00"
+          "title": "2330 台積電 - 乾爹一人單挑全球股市👍 資料來源：Technews 科技... - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Va240TnRQcWVmR3RsVnFGY2lRRk80OWxSVXhqc2RUNUxLQW5WWkVldWQ1emlaMWhRZWxQc2hFRHFXamNCaDZBM2Z6S2xiTkR0RWp4TmxBbUc?oc=5",
+          "date": "2026-11-24T14:20:42+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T14:09:46.170254+08:00"
+      "updatedAt": "2026-11-24T14:59:16.962345+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -7752,32 +7752,32 @@
       ],
       "news": [
         {
-          "title": "創辦人太大不能倒？Nvidia「關鍵人物風險」震撼矽谷公司治理版圖 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2p2RF8yZDhoN2xaQzVNVFpNTXd3YXVYOWhWaGpfbFh0cXJ3SERYLTI0dW0wT0dFQVFfcFBoZHlkQV9FdGtSTnBzVHlhX2E3XzVJVVpXN1dNaExZWkdBMWtRNE1YVDNiTm51cjFJSC0tamR0UnlaZ1d5TDNOaF9HRGY2TGNYdkdXUXVweElB?oc=5",
-          "date": "2026-11-24T14:00:23+08:00"
+          "title": "黃仁勳夫婦握Nvidia 8.7億股 妻一手管理 節稅手法曝光 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5USmRQcDVwVUJnTlVNTjRNOWd5LVdpWkxjVXlGMEFXQ0xIemxNYzB4SXhHNi1Ec3JlcFc5VXEwdmxxZXJPaDZLX1NTMXhPS3pFd2diV1UwUS03bTNjdWFlaHFn0gFnQVVfeXFMTVFLUExFX3J1Z0gydFN6eXZsYUo1YkktRGYzak93NnctWHdBSldod1pJSVZ2LUE3T0R4UDJkaHp0THJhOXpVRkhtZUJLdGlESGxaV0ZyaHI1Q1RnRm9EU1gzMWtOdzdfTQ?oc=5",
+          "date": "2026-11-24T14:30:00+08:00"
         },
         {
-          "title": "黃仁勳復職｜由承認婚外情、辭職到復職 Nvidia與黃仁勳這兩周發生了什麼事 一文看清 (13:47) - 20261124 - 熱點 - 明報新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxORDZPcHU5YUNMQ2hUN2VUd1NKZjBrc21rdFBMWkJiODlLLTMzd0xKU3J4OHFEclhRYUlaWWtnWWd6N0l5bm5GbHJuU0ZMZ0tUZUFta3NFeVkySjRFX2ZxRlhEQkMybDlhcDNseEFlVzZYNHlsZjUyM2JlT0M2Sy1BTkpRTEFXQ1p2aEVfOUtFUHVIVFBaY0JKNTFwLWdOdWVhSUx6SFJKYVlQck9wdTBkZU94bEgtRlNKQk9OUGZCUFJLM1I1cFI4SFk4YXBZdVRpZmw2cmZ6LUY1T0NhY1o2OUIwdkJTdG9pTWZ4UndPODBPcS15Qkl4X0hpcVktSE1kbEp4ZGh1X2pIeGl5N0VNMTFhZkl1Q25CYmpSOVVMOHNPamJTSG9vWU5MUWJwV3k0VElRdE5JS1czZV9pT1NQcHg2TWpUdEt2VkJ2am9IMmUwVFNndTQyeWNCbUdkd0llX1k0eFRBMDNodFFRRF9ucU8xcVNqeFVpc2ZlMVVTbjFqMHhMOGoyTWhEYmxpNGlXcjZZcG9EQ19qeUl1RjZPUU51SXMwU3dHSGU1NDBiUEtxN3JnVkVKZWx5SjA2Y25sb1BJanM5OXZBeXBKSUloOXZlNTBHeG9DSFRRNnlDRmpqcDFpbmFfeXhmU3d3OWRYM3JhdnFvRUhZMGFfb3R1YkFtS2xRVDFUNWF4Tnl3MEVxR3Bkck54Wm9qdEt3NnB3Z0ZYZnIwV0E?oc=5",
-          "date": "2026-11-24T13:47:34+08:00"
+          "title": "黃仁勳回歸 NVIDIA！董事會全票恢復 CEO 職務，新增國安與出口管制監督機制 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaVpsaGtPNy1GVGY3VWFaN2tqaWdqTmhsSmxZcFBKQTdyNTMwTVVfMV9oOTAtV1c3QlpLS0xXb1JLemNzaEJpcW0wSzRkVHdCUkFVZEx3dWgyd0NNWVpjMDFCSHVSWmFYRV8wZ19TU1NWUjVxbUxBS2JrVm1WSFUxMmNwdXJNV1laQmhmT1NmM2pod0ZRNUFoSk1xVnZsNzBaNURtSDRydm9rVk1mYnc1X0wtSkxRMEVKTW9waHk5TzAzaGlETkJRSG9NaGhwOWlJM3VrY0dWR284WWIzUnJWY2tMbXdrUWNqVktOQl9wcVhBelg3UUExVzhJR3ZER2NKbDhncW9SWHBzTm5M?oc=5",
+          "date": "2026-11-24T14:28:51+08:00"
         },
         {
-          "title": "《新興市場》黃仁勳回歸Nvidia帶來定心丸，台灣和韓國股市大漲 - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16ZWZCWGI4OUpUeDc0N3Ezbm5WRmZ0LWV3UTNqam9NX01hcXVlNEU0M29kM3NTZUFYbG5SZzhtSURNTS1DMmRNY3B1dXdkUzBVbXJ5eWJBeXRZUUlpaFF1Qk1yQ2M0aUpCYko2a0ktV3VkRTdRZlhV?oc=5",
-          "date": "2026-11-24T13:27:41+08:00"
+          "title": "黃仁勳重返Nvidia「迫不及待復工」 社群帳號把頭銜都掛回來了 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTzFtampURHJ1ZDNWbXIzbTYtemNQNzhwYldjOGRiWnAtRzMyRmU0X1JUdmZnMzE1TDdIV0dxUy04ZkhBajh2RldQMWFNVDY4TTNPUXMwdUpoWFlKb1UwUTFROTlMWlExUEwwRVJmWncwTkJIUU5r?oc=5",
+          "date": "2026-11-24T14:28:00+08:00"
         },
         {
-          "title": "黃仁勳回巢｜特朗普施壓 Nvidia董事會數小時內拍板 臨時CEO最後一刻才知情 - Yahoo 財經",
-          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQNEswbjM5SWNkTXZ6Vk1fcFhzNEd6a2pDMVNWSkxfM3RqWHgwNTFzc3NZaWhtOXJLdjI1bTJvb2VNREV6VHdZSEpiYlVmdE90SVUtT1RnMHN1WUVud1RGLWtHSGpiRkdvb3J5YmNuQWJjaTIxcjdNQ3VoNFU3VjFoUUNSTlNOR05oN1I5ZjBoaTN5SjN5ZUxwZWlaTnd5M3RMNDVybmMyR1BiTnAweDFlQ3FRUXA3aGxEZVczWFZSVVFzMmtPSmJhLXE4Z1BCalhOb1k3bkdsV1lzTnplVU5rWTdVeEJucDJHSW9GNXRoVFJZWUJMRnpMU08wek9NbG9QUkZsN3kwWk9PTFh4d3F3eFRndFpoa3FWR2oySjVleTV3SlZTbmFJeWxsTGg0YUdrZTlDUGR3OVVvSjV1OElVRmhKQW9vN2d3eTJySkJwYi1Iem9RSTkxQTQ5WDc3U1FLRDh6QW1saVhEdTlZbS1veDBrLTZfQy1BQlF6SHByOTV4NlBGS2VvSHZ5ZnRMWjBYTjYydHdUejlUQnlJbFpjdktBVGVianR3ZW4tQmM2aXRtbkU?oc=5",
-          "date": "2026-11-24T13:02:11+08:00"
+          "title": "股價撐不住才讓黃仁勳回來？Nvidia董事會5原因大轉彎 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UdVJ4QWJQS2JtZWNqekxGem52VUJmbHJUOGxpb25ReVM4R295TWYyYU91ZFVvX1FsTFhNNEZINU00N05uaERjVWU2RGtaWmNoZlVxN21NNUhIRkZhblhGM2Zn0gFnQVVfeXFMTnVlMEh6N29KMDFiU0NTZGJwYUxHbVdwOEZ5RzhONzN1WTZOTlBkeHhWOWh3MGZKM2kwQWtPTjl3a0ZJODAzV0ZGUUx4OE9vZENNU3ZibW9fQ3RqOHlUSEEyR0dBY2hONA?oc=5",
+          "date": "2026-11-24T14:24:00+08:00"
         },
         {
-          "title": "黃仁勳 6 天重返 NVIDIA，只解決由誰當家：調查、出口管制、融資疑慮仍未解 - TechOrange 科技報橘",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DdDRmUFJQLW1uUWRpY2htN3JWWWJOdU5iNjlCNEN6RXhZcmQ3TlgxNVdHRkNfSnFUYS0wbG8tMFBaSU5HcnBKSU54d3NmazVSbHU5ZmdGZGV1MUcwOWtzUFphMkd3akFRbVh5NWJ0NXBjOWxtb1Z0cg?oc=5",
-          "date": "2026-11-24T12:31:14+08:00"
+          "title": "標題 : 馬來西亞龍頭信威選擇HPE×Nvidia私有雲AI，押注安全可擴充套件的跨業智慧佈局 - 美股放大鏡",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWVNOE9fQm1OMFZXdjg5X3BUMTZ5TWdvQ0pJOVZxYXBGV0tpMmV4UW9uM1JMcS1oSWMzWl9rbUNRZFdIelFvQ0xJbS1NcGZCb1J2c0JFOVZtZGVGLWsyUXI2TXJqdlpGOEZ6anhOTy02OU4xX000UkU1c0VpMGVaMTJVb05BNm92cjZncHU4dV9ocmdl?oc=5",
+          "date": "2026-11-24T14:17:05+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T14:09:48.250644+08:00"
+      "updatedAt": "2026-11-24T14:59:18.702609+08:00"
     },
     {
       "symbol": "TSLA",
@@ -9480,32 +9480,32 @@
       ],
       "news": [
         {
-          "title": "【TSLA｜SPCX】SpaceX和Tesla據報委派五名董事負責合併談判 - 香港經濟日報HKET",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRTJHMVpwQkcyWldQWkJNWm84OHpTcTVBeFBqaUgzdkdrLTlQa0tld054eHJWQ1Jfc1JzVUQ0OXlFNXpJTmNjV1drbFp2OXI5VUFEX2owOFhzaHlkRmttYWcxR3hUUi0yQ012aFBtWnlWQXRQZm1LNUZMd0QtZWM2LWtkSWNqTVJUVTVsRkdkMmVZZnVxc0dSbEpUWWktR3BuTEVKaTNrbVctOGc2aThlYkEzN1kwLUFxTnJjSzFUYVZ0OXkwbkpub0tOclZoZWVRZzJwalVtdW9XLUR5VFlTaEsyMHMtaHBhWHY5bmRRVVEyQmlBdEdZcGxuYl9DYnlSRWJlZHJqbTZpWlh0ZFk3WEMzZnNvVS1peGRqa0JLUWFCYWpsX0V0Mm9hdHhBbUpxdjl2SnlyZmFURGRPb3dFYVhn?oc=5",
-          "date": "2026-11-24T13:41:16+08:00"
+          "title": "慈雲山道17歲男學生捱Tesla撞受傷送院- 港聞 - dotdotnews",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ScjFLNS1KZ1hnV203WVFrLUJWamFEUlY4MVhzTHBybWhkSEdlYjFQOGFvUzFYNVpqQUFkcW14ZmZnOXVqanFoTHR3WFItN0NjVWFEOGlyem01Y3ZZV0F2WGRpeXhRSVpDSDVscmpCMzVFUDFaeTNjbFBn?oc=5",
+          "date": "2026-11-24T14:44:04+08:00"
         },
         {
-          "title": "傳特斯拉與SpaceX洽談合併 指派五位董事展開協商 - 民視財經網",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBWTNlbkZEOVAwQTdZVzZ3dElVNUQ5RjIxbEVRM2tRVjFmQVgzLXI2TWc1dFhWWEJmSnRIRy1EZEJUTXhXXzVjbTFTZF90STB0N1h5dVo3RXp6b0RPa3gxbmlDN2p1UQ?oc=5",
-          "date": "2026-11-24T13:25:44+08:00"
+          "title": "慈雲山道17歲男學生遭Tesla撞倒 手背受傷送院 - 星島頭條",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNk5GYmF2UE9mZkliTDVkNDVweDB6UUxYaTlZaHAyN3JSTEExTi1STk1OanpSSkxZQkpfdXY0aXd0UnpNcGtFalRuYVRNSTV3NTNkb2x4bWRjRWdldmlKd0Z0N0xRd3pxTmpXcEFWUTFGTU5HMUJWLU85a2hfV0t0VW5oVUhQTmZUbFV4S01OSzUtUHFyYUZhRS04MDlsRjBSTS1oNFZoRURCYnlSQlptMEJNMEpkUm5IYVNsNm1JMDdXeERLVHVJVjVmemZXcnQ0MzA5SGFaNm9iX01VOThaQ1p2eXZhWWlyTmU0N0FDRGFQTkJHQkdsOWdFd0FvS0J0TFRRVmVCQUYzbmYtcmk5b0dlWk1MOW9IYmt6X2ZJYUxyOVcwNTJnRXFkZUppQy1naExFNA?oc=5",
+          "date": "2026-11-24T14:42:44+08:00"
         },
         {
-          "title": "特斯拉門把又成箭靶？美國擬立法規範電子車門讓斷電也能快速逃生 - 地球黃金線",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vbFJsZHhfZ0FmbkVLY3NYT3lqQjZSdWdjUm1ialpHaWZ2MG1rYjV3ZHhPWEw0ZXNWU0dOWV9BT0FGUVFXVlA5V2NyYUg?oc=5",
-          "date": "2026-11-24T13:06:00+08:00"
+          "title": "慈雲山男學生被Tesla撞傷 由救護車送院救治 - on.cc東網",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjd0QzFJTnVMOXIyOWtuX19SLUJuOFF6RU5ONVdCamFwZHI4NVk3djB3eU9FcE1jbF83eUtESlBRVnZDZUNmSWpqUzZEaXZHNmRVbGpHRWFDc2JVV1B1UmNCZHM2aFpvcHpNRzUwTFBVWlo4Z3p4SUNudEJKZEpEWlFSYVdYV2cwRnNR?oc=5",
+          "date": "2026-11-24T14:33:45+08:00"
         },
         {
-          "title": "原本排斥電車卻愛上特斯拉？留英台客老喬Tesla Model Y 祖母綠開箱！金山一日遊重溫與老婆的戀愛之路【Yahoo名人聊愛車】 - Yahoo - 汽機車",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPYTlQXzUyRTE3UDV5WjVGRk9zbkxURWJ4d0pPYV95UzJSYlJHUmRRNDRmanBDZHE5bFRtbndrSnFKRVRBdlNPdWhDVzBXcG4ycmRVMjJ0b1BLZmh4ZThpYWxPMGgzSFFpR21acXNRdGRtLW4xcUFNLXlDejdYbVpWRDl0aE1XQzJYQ0JyWGI2VTFabVJTTUtITmJoV1hkZmxwakRQZEF2cFRZREhMcVk1M19Ja0xzWl8zOTNhT05ldlA3ckZ5MWppMGtlNmcwOHVKTGY1aFZZV3VldTMwU0VtcmZoS09Ba2l4ODY3MjJJa00zcUJmSFFka3dDTy03YWxKal9CQ2JlcHRhcU5HQjZTaHJwMkFBTUVnNTJtSzk4YUR2N3I3aWQ3ZXg2bjU4dTZNc0hYdHotc0VIRFpZRVZzUHoxaUNnSmpV?oc=5",
-          "date": "2026-11-24T13:03:28+08:00"
+          "title": "Tesla及SpaceX據報任命5名董事負責合併談判 - 加拿大星島日報",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVWN4YXRINjBmV0h1bUlNQ21tWU1DdzY5STg1b196YVduRWk4OEx2c2dteThrOXhRcUs2bVlGb3lsSXJ6QU5EZnJCaVFyVFo0c2l4RXNIdDJUbEtqR0lubWVvdzltTlRiQlMwbHI5NlB0NHZTMDE4N1F5TkVGWXFyUjdYenlvcVZiT3kycXgxLW5SaW1VQ2V0eTVia09VZG9ycjR0eWliX1k4YTV2dUlzZEU2M196ajBUWm5oc195YW1OYWZsMEd5VXVuZEpPZ25FSXEyUEJlY1lIWGVLcmlNUnlnNV9mSUVmaGxMaDdodEpfNXBhX2h4UTNhT1Bjb0hJRElINEpLU2w0Skh0OUZ4cmxyQ1Y?oc=5",
+          "date": "2026-11-24T14:33:11+08:00"
         },
         {
-          "title": "瞄準多人乘載需求？Elon Musk 預告推無方向盤、無踏板多座 Tesla Model Y - UDN",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaWlJMUlqaWw2MVNvTlBPd0k3VnhabGhwel9Gc0RYTDZnaDk5dENILThpWmVzTWRHc3Nyb1NsTjZ1QkVyRFJGTVpPTlpZNktLbkg3c0l4cFJWUWNQdF9DM2NMYVpFdmJ4UXExQ2dteG95a2JsUWJ6bFQtVkZLWVnSAWJBVV95cUxNejA3VWtVQkc2cFpYRHg4SXNjTGlDaW5VQW1qRUY3bWhsOVgtQXNuYXpMUER3b2Q2aEQwVUN2OUpTTXZzS2cyLVJuOUhVcTVxQ1QtWnVFMUtLdDg3VHVFQmNrdw?oc=5",
-          "date": "2026-11-24T12:39:52+08:00"
+          "title": "Tesla AI4 算力逼近極限，馬斯克證實 AI5 不上車，FSD v15 恐成無監督自駕最後機會 - INSIDE",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanZrZ3ZEcVJlX3lPLVRBajJGbTd2emY5NWxBOXlvd0pjNllkYzFPdHByUXpLR2s5VXc5bWFhWGdmY2hPcUl0TDBuLVVBc2U4eWtiUVg4bGFTdXNlVlNlTnRuOTc0aS1KWVdsSGhldXRLN3BhTXRBalNFZm56WEZneFhIc2J4RWlF?oc=5",
+          "date": "2026-11-24T14:26:26+08:00"
         }
       ],
-      "updatedAt": "2026-11-24T14:09:52.656520+08:00"
+      "updatedAt": "2026-11-24T14:59:21.127805+08:00"
     }
   ]
 }
