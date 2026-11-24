@@ -274,7 +274,7 @@
       "date": "2026-06-18",
       "close": 210.69,
       "volume": 241272000,
-      "rsi": 50.37,
+      "rsi": 50.38,
       "ma5": 208.078,
       "ma20": 211.7945,
       "ma60": 203.559
@@ -1699,30 +1699,30 @@
   ],
   "news": [
     {
+      "title": "標題 : 美元回落！Nvidia 帶動的AI潮退去 美元獲利回吐、匯市震盪加劇 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDlBMWZLdGhaUm1zU1JtMlRmUENGS1VJQUZIc3JCazFFbVV0VkJoMHNnbENrTm9oTmk3LWxzcXBScUNjX1FCdnB6ZVk2R3YweHlialJvbnBxcmpMcXBzV1g0Y0p2ZFpMQ3VVNG1Na2trZTF6alhIUjdYSWtGanlfcXJCLW8yMy1vcTlSWUxB?oc=5",
+      "date": "2026-11-25T04:39:30+08:00"
+    },
+    {
+      "title": "國安疑慮未除 「Nvidia不再一樣」 - 20261125 - 國際 - 明報新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcVRLLVhLS2dDemNSWGlGeVgtbG5JQ2Qtb1hrODZ6QjhkTWhyUmpZUnNHVmFrTXRjdjBqYmJ3NnNvbDZqdjBvRjNRQ2Rsc3ZrM2hVMzhKVjg3R2RhSnlaQkFGRXpTRldBLXUtbXFxOGpvZjdmX0k0eUVIdWp2SWlSaTFGb3JkbllVdlAxZnQyMDRhZU1xMl92TXhyY2hfUHJlRXlxN2dOaU9TZGVKTWJNdW1wOExnMFBQUjRWTDVsY0J1MldMTnhzNlJTLXBfU01HS1JzS3JiNHNhazUyblNOdWg4TFk0eFk2aDRMY0xzOFRhSTBZTHlzMVlaTWZTVW9uQjFOOXFTRjhaQ0NXdEI5X0VUeUJTdHZkTGZiVVJfSU9RMS1TRVVfNg?oc=5",
+      "date": "2026-11-25T04:30:00+08:00"
+    },
+    {
+      "title": "大行紛調高Nvidia投資評級 目標價最高270美元 料有可觀上升空間 - 20261125 - 經濟 - 明報新聞網",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOTDhsZnZNVUpLb0lwNHloRjY1YmlRYmxMWVBvM00tU0xhMTdzX2tvdkFNczBnSFZkYVRqS1pfWkFzVGNQMnMzVzJfUk5xR3J0LTZCeXhqWFF0VW83WGp0QWRuLTlISF9DS0ZBVGFzcklLWEtIM1gwSHloa3JjOU1uVFo5bW5PNzdCZzRWaXYyNGptQm9wUU5Ka3d1TklKR3NYTWFGTTBOczBVbFF2Y0ZldWtwMHpQTzVkbG5nM2V4SFNZTG1TWDN6SXRDUjQ1MVoxc3FFSENRYUstLXhOakstcWVIbFVnb3FaamdsM3RyQ093SGRBQnF4SDJIbkhaSGJMU0piclEwemE0d2pUQ2U4dmE4MTRMVk9yNlczZ1lSQ21DdTVuR0ZldUo4UWhoVHA3d2FWSjlIb290V1R3SERDeEI3UkdsaHdnaFdaMWZHQWNDWFduaTZYUGRVSkk0Y1R6WGxoVUZtZjZNU1l5VkZuN0t2QnVBcGp1OHNzbnAtWndlWjdrRU5oZ3cwWmx2ZXZtX0MyVC1nV3M2RmdxMUh0SHB0UWd0Qmp1UURnNTRrZk1mWjlfRXhxUXBROTNtUQ?oc=5",
+      "date": "2026-11-25T04:30:00+08:00"
+    },
+    {
+      "title": "英偉達股價出現下跌 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmxRWjg4VFlBenZodV9GME14MThwVWlOeGlLdlhfb0ZqTkNoMXUybFlKTmVPaHZValNha21NTW5USDd0cTdUT2s1Sm04ZkFPZ2lKQUEyeEdCRnJtaTA4WEkzZVBmeHhfSkRrRUdoaERMeTRtZ0NQaHlOVnNyQUFNMG5MMDBmYnN0S0hLME9EZmRtRE51ZGNtT09wV0RyUzFGUE9nWE9Obl9VSmRiZVRobE5MS0RWQkFrUDNQeFB3Q3JZTkRpaVpiNDYwUQ?oc=5",
+      "date": "2026-11-25T04:21:42+08:00"
+    },
+    {
       "title": "美國對中國晶片出口怒火燒向 NVIDIA：華爾街 AI 夢與監管風暴正面交鋒 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkw1cmt5MXAxcDk4TUZaZjQzRDRzNkZFakpTWUdoT3oxUHBpeV9pNk5sbVVEeDFCcVdfS19qZ3N0RUpxSldDRHhPNmNFcHFrcVhvYTkyUjEzSnRNR2c0SV91VnFIV000VUtlWmtJZVVwcVZyV2huZUFGNnQycXh4MHFvUmFrVjJlRS1TY1F3?oc=5",
       "date": "2026-11-25T04:00:22+08:00"
-    },
-    {
-      "title": "國會向Nvidia宣戰 黃仁勳下周連闖2關⋯今日5件事 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtTmpFbGl1X0xfOEFWUkQzSU90VjJ0UDBvTnh0NXRLWFloekN0TTU0RG0zV1ZpNXEtSlcwZ1U3WnVVcFB5b28yZG5ndEJwZUZLQllCbExRNC02ZVdoUVc0?oc=5",
-      "date": "2026-11-25T03:15:54+08:00"
-    },
-    {
-      "title": "HubSpot創辦人：黃仁勳回歸Nvidia太快了？Halligan自我示範「暫離換視角」重返CEO啟動大改造 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONi1tMDhwWUYzSUp2N0p5S2ExNGJZVFphZXlfOFBDa21DUnh0UHFKbFBNTTlyNGZKQy1PR2VpcWVuSWhCQVZKM0VrWkdDRXpURmJtZE5uazVCLThXeEg0dmhjUGhDNU1JY2F5UXlvOGRBcFJLeFN3ZFNqa0pWVXNKanV5a291TDliWWFhNHlR?oc=5",
-      "date": "2026-11-25T03:08:16+08:00"
-    },
-    {
-      "title": "納指、標普回檔！Nvidia 大漲後潛震盪，投資人擔憂治理與通膨風險撤出AI概念股 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0drS3VwRUp3Y3JSU1c3V1p2TWo3cXNfRnJEOTBCWlBvMlBvSzFQeUlzbzZOV2tlZnhaVTl3YUtSbDZoLWdJSl8wbTBTRmd2eXlwa2hRX25qSU95LXU2SmFmZE1paGlMby13NzhybldnY0xpY0hFX21JbnpfVkRkcE02elpuX2I5M1ZTbGVn?oc=5",
-      "date": "2026-11-25T02:38:24+08:00"
-    },
-    {
-      "title": "黃仁勳重返Nvidia台股起死回生…沈春華曝帳面相差8位數 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56bHlvajhuMWl2d2MyMWdMa2xldHUzcDg5eHFZVG5qX3JURXp0NzFNQUhuSUdISXQtUDZuTXZPRUlhcnFpMUxZUHJENmhWbGFzQ1VKRWwwUGhXckkwbUlGZUJ30gFnQVVfeXFMUDhPaXg2VXdpcjUyR0c2SnoydF9ITXpZcG0xRE8tb0R5ZGJvbElfNzlaRXo0dTRHREpoTGdkVnRuWGhJUHp0OWxnNkN0bEMxSlVMR01sRndoVWRSa0o2VzhWYnhVMGwyOA?oc=5",
-      "date": "2026-11-25T02:33:58+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T04:21:39.119166+08:00"
+  "updatedAt": "2026-11-25T05:08:31.343852+08:00"
 }
