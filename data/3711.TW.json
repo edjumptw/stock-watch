@@ -3,22 +3,22 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 488.0,
-  "change": -42.0,
-  "changePct": -7.9245,
-  "volume": 37093467,
-  "bias": "偏弱",
-  "performance20": -29.78,
-  "volumeRatio": 1.42,
+  "date": "2026-11-24",
+  "dateTaipei": "2026-11-24T00:00:00+08:00",
+  "close": 530.0,
+  "change": 48.0,
+  "changePct": 9.9585,
+  "volume": 6585448,
+  "bias": "中性",
+  "performance20": -18.59,
+  "volumeRatio": 0.24,
   "recommendation": {
-    "date": "2026-11-25",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-24",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 570.65,
+        "price": 581.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 633.1,
+        "price": 635.05,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.4229
+    "volumeRatio": 0.2439
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -29.78%。",
-    "本日成交量為前 20 日均量的 1.42 倍，交易較熱絡。",
-    "RSI(14) 為 38.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -18.59%。",
+    "本日成交量為前 20 日均量的 0.24 倍，量能較平淡。",
+    "RSI(14) 為 42.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-25",
-      "close": 617.0,
-      "volume": 25678273,
-      "rsi": 71.07,
-      "ma5": 527.2,
-      "ma20": 523.175,
-      "ma60": 426.475
-    },
     {
       "date": "2026-05-26",
       "close": 611.0,
@@ -1177,18 +1168,14 @@
       "ma5": 504.2,
       "ma20": 581.0,
       "ma60": 635.05
-    },
-    {
-      "date": "2026-11-25",
-      "close": 488.0,
-      "volume": 37093467,
-      "rsi": 38.72,
-      "ma5": 492.2,
-      "ma20": 570.65,
-      "ma60": 633.1
     }
   ],
   "news": [
+    {
+      "title": "封測需求夯！日月光、京元電誰更有戲？ 法人揭2大廠成長關鍵、最新目標價曝光 - FTNN 新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50MTQybFZjUmpPMnNKaXJac1lUNlZaXzVhNnlEcDhWWE9sNm9Cc0hCOW96dlVmTFdiOEFhZ3JZSWZBdXo2Tm0xQ0R5MA?oc=5",
+      "date": "2026-11-25T23:10:00+08:00"
+    },
     {
       "title": "【即時新聞】日月光投控(3711)重挫近7％，這「5檔概念股」同步遭大戶調節！ - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EQnNPMWRPWUtMaXBSTGdEMnRudDB1dG4xaFp4b0E5LVFzY2lYR1l6OFA3MXdHZDNJVTN6X2JKQjIzd1Y5ZXhESXRReTBtbl9fa3VsUTRQZldCWlZaRTBuZGd2Z3BnRHM?oc=5",
@@ -1208,12 +1195,7 @@
       "title": "日月光投控ADR週二收29.33美元，大跌2.55美元或8%，折合台幣每股約483.05元 - 富聯網",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3dXQ1EyMXYtZFU4ckVxSjlpZTNtY0k5Q25GZ0FIU3JtQV9SQjNDaTQ1YWx4bnI2dFdfOWVtVFYzSWFDanBEOVhGNk9HdU5saGlsVWw3NjhvRDVMcEVPZWxtQVp6NFBhc0xEcWF6R041TWFQOEFpX25GRE5xUTYyWEtfUG9rekRZ?oc=5",
       "date": "2026-11-25T08:15:00+08:00"
-    },
-    {
-      "title": "日月光765元修正41％後「強攻漲停」！吃下台積電CoWoS外溢大單、EPS估衝35元投顧喊出目標價：還有18％空間 - 上市櫃 - 旺得富理財網",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NzRfYjVySUpUUEZ1em9EekI5UEdMbjFIMXJvMHdRNk1rZDBSOVJsT2VvQmdvMjJBMXVtY3F3MElMY00wYUR2NUpCVFhBQ1g5eHJkRGFPekhIaHpJMGFwdkNTX0o2WndDcWc?oc=5",
-      "date": "2026-11-25T06:44:27+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T17:04:55.582462+08:00"
+  "updatedAt": "2026-11-26T01:06:22.294717+08:00"
 }

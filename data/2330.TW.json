@@ -3,22 +3,22 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 2150.0,
-  "change": -80.0,
-  "changePct": -3.5874,
-  "volume": 83805034,
+  "date": "2026-11-24",
+  "dateTaipei": "2026-11-24T00:00:00+08:00",
+  "close": 2230.0,
+  "change": 200.0,
+  "changePct": 9.8522,
+  "volume": 10842942,
   "bias": "中性",
-  "performance20": -11.34,
-  "volumeRatio": 2.04,
+  "performance20": -7.08,
+  "volumeRatio": 0.26,
   "recommendation": {
-    "date": "2026-11-25",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-24",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 2236.0,
+        "price": 2249.75,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2380.8333,
+        "price": 2385.1667,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 2.0356
+    "volumeRatio": 0.2562
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.34%。",
-    "本日成交量為前 20 日均量的 2.04 倍，交易較熱絡。",
-    "RSI(14) 為 43.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -7.08%。",
+    "本日成交量為前 20 日均量的 0.26 倍，量能較平淡。",
+    "RSI(14) 為 47.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-25",
-      "close": 2310.0,
-      "volume": 25215869,
-      "rsi": 63.05,
-      "ma5": 2237.0,
-      "ma20": 2242.0,
-      "ma60": 2030.0
-    },
     {
       "date": "2026-05-26",
       "close": 2270.0,
@@ -1177,43 +1168,34 @@
       "ma5": 2107.0,
       "ma20": 2249.75,
       "ma60": 2385.1667
-    },
-    {
-      "date": "2026-11-25",
-      "close": 2150.0,
-      "volume": 83805034,
-      "rsi": 43.1,
-      "ma5": 2102.0,
-      "ma20": 2236.0,
-      "ma60": 2380.8333
     }
   ],
   "news": [
     {
-      "title": "三大法人買賣超 – 外資買超(2603)長榮、(2327)國巨*，投信買超(2330)台積電、(3665)貿聯-KY，法人合計賣超829.56億元 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxOSmwwOE5QZWpFXzhsRG5KYUh6Z0NJejlSdTZJM3FlZHZqTFUtQ2xObngtVDVlUjNKZ2hxTkRsQmJrTzFRcmM5bTVnT3EtSkJIX25xbEhKS3RxYVotRVg1R0dDM3lXR3lja1k4bTFaVFl0c3R5dlR6eHpmVG4zZjJMSUdLNGFwMG9GNldCRkM2UXU3N1JIY3pSRWd4OVZDWDUwVklJOHBWRUkzVnZuN205QndBZFVFa0xGSlRBSU1nOFNQY0J3ZDA1bXhUMFlQNTRpamZfZXAxV1hueVZCVzVLMmdnUmFqdWVuRUcwSkU0N2lLWDhRZTRFSXgyX0VYd3BpOVBQeEpFdmRUSU9kQlpTUEh0bWNkLXB4LXkxTUJ6ekdQclk4YVJpX2ZpdlhhWXpKVG9jdDVYSkQ0ZFlZbWtBbHVobXJCdlVTbTQ0QWQ4UTlKNEVUZkcwa3ZHMk9pTWtPT20yWG5xOTJNdndBUGMtSlhKenVESUw2bGpzNzFuQTlPcngxa2o2S1FGcUZpbDBadGdjZjUwRl9IWUVJZVJIMkFLakhLSVdaakFVS3QwM2FoUkhObnRyb0V1NXlHdHZfOWZLX1hMc0ptV2NveUE0WDU1R243M3hrcHRzb2Ytblp3ME0tWVVOak5VOC12SHdobjNwTmpvbjV4N0F1OUs5dFQ1WU11cnVBa0k0cmJKbjdkV2FDY2ZHRWd6OTU2d2ZtazZ3WGJ2NFJ3SlRZTnQtS0ZSSWtHM1ZMUzhIUTM1cWhSSjdTVE5zNjlHZ2g?oc=5",
-      "date": "2026-11-25T16:55:30+08:00"
+      "title": "搭台積電2奈米順風車！「這大廠」明年EPS上看22.8元 目標價曝光 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lX1IzX25BU1prX0ZrMmdpVWRqR0I1ek9LMFpMZi1DTzExN05lVE0wUW5FNzBEVFlHQXpZWFdzRGpYTEhfVnhhRFdSNA?oc=5",
+      "date": "2026-11-26T01:02:13+08:00"
     },
     {
-      "title": "亞大逾200名校友任職台積電！國儀中心向半導體專班學子招手 - 亞洲大學",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pcWlYVXBWUDZ1TTBUNWE5czB4bVZkTUNuTzFCbzFaaS1tZmhiN011cVBpMi1qUVBjWkQ0WGYxUlZMRUlZWVpjcHZQTmlJRE5zMnpSY1c4QUFvbDRZRmxCVTloeldzQWdlN2ZB?oc=5",
-      "date": "2026-11-25T16:51:36+08:00"
+      "title": "AZ廠12/4擴建典禮德州設廠? 台積電：評估中| 科技 - 非凡新聞台",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xSXQxOTJBSDllOXlqS0k0VDdpd1Uxc2cwUkZRZE1RMlBrUlJxRmxjUnlzT1BMeWtCNkRha3BNRkZFOEJVY3EyUG1TdHh6aW1kN2I0U25rajFrcTht?oc=5",
+      "date": "2026-11-26T00:20:07+08:00"
     },
     {
-      "title": "台積電亞利桑那擴建、評估德州建廠台灣仍是研發與先進製程核心| 產經 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhUmt4OEJkTkp2LXFqU1JRU1IybVFJeDR2eHR6eXlrVGZyZW1DdWNud0VUdFlhRGlvQ3dGTUphY09LQUdMbGstSzRiWlVlYm10YW9leWVtMlB5UG1wS1E?oc=5",
-      "date": "2026-11-25T16:45:00+08:00"
+      "title": "30張台積電全數出清！70歲男不再看盤「日子過得輕鬆」 網讚：退休享受人生 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOc1BUdGU4d0VPa2JaMUxzNzlBYkxYTlM2cExqbWM3Tzd2a05tQlZ6dmZxV3NHbmhHQVpNeDdBY3dqVnAxZXZwRURxVmo0MmFSWUU3d1hHYmVIWGZDQWsybW92NzlVVDFCRnlORk12V3BwQnZyU3JYd0J3d2M3M2dKcDdDQy0wMzUwcGxTWFFxSUFpX0I3V24yMkFJNnpFRlBSazJxc2hOVVlndEE3UWtYRTV4ejI3dkE2d1Z1c3dyYVYwLVdOQlJ0UEJ5OWVlaTFEZjhibkFQSDVrSC1oUmljNGFTUFk5Z1lmcWNvS09iZDlmRWNmZ1R3NlRiOXhjTkxqSHJJRFFEaU50emNKamt5UVhiUk81TWV2OTgzR1ZQengtV1FyQjBvaTJJYnZ1MllDc1o5ZTF2Zms3SHFXZlVjTjlHZWJPanVTVURjMnBaQjJ0VkhuU0ZNMkdQMnRnbGFpVXZOMlJOQk81Z2h2ZkVQLVBkNS1rVG9rUTZaT0xxbnJvQmY5TzJEYVR4UDMwbTJVel9CMDE5emQxSmFORzJPOVg1aXUyckFuWFlrTGlhN0V6X1pZa3c?oc=5",
+      "date": "2026-11-26T00:15:00+08:00"
     },
     {
-      "title": "晶圓代工是什麼？從 2 奈米到成熟製程漲價題材，聯電、力積電、台積電等晶圓代工概念股一次看｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPNm51bVg1UjZOc3U5QWRBRHcwbGVfajRhcFlLM2RlbmVvMi1SMUdXNmZHc3Z0bE41T3IwOTNKcmpGMXZpM2MySnplVlE5ZjZqVllBRFVMaHBwWWI2ZjJMX1hMaUVGenh2UVpUMG1YTEpEMmFIZUduR2JLSU90SnprXzB4dFBOMzJUbTFpVUtnbk1HUVB1bWRmRFFUelcxWFdoaTk0QU85S1VRZV9nbldjU2FCZnlrcE9aUWUzZVVqa1hXdk9rUDZvZ05DUWM1N08zOWFqZnQzTk9mV0NIY1hxUUxzNW4xMVc0YTFjYUM3d0lod19GeDhqXzJiTG9xUmpSSXJ5aFpPeFRiZlNuNW9QUFJEMVpBSkJ2ajRNYXFrcE9vVUI5b0JxZGxUOHhfbGdBdXVoSkRoaVVoSDZmSDVMc2JpSnFZNWdIdmU3em9zWkc4OWZJQW9hcnNMTDFuM2dUckkwVjhremY0RXV0MzJjVEFMRGRKalBLSHdVXzZOOVFxUWNxNk5zbnFPSEJFVHhkZUhOcXFjdTlSNllsM09RY3RDWFhYdXlSazdLZXNzSzZMTWdvYnhZSWVmaEZkMnRaRm9WanVTUWtkbWt1YlpzNkxncUwydEIyc0hXWlAyaHlZSER5MmJhYkNpQUs2Q3RBVTY0amR0RnExZ0E4Q0N6MktuRUtZSmktNU8xNDNQU2VndDFLd0pIRlJkc0Y5NEE4THdQX05UaFpYQU5oWHFOWk1lNGxxQUNxT0JuVERkZzBONjh1RE5QMm1weGVJZw?oc=5",
-      "date": "2026-11-25T16:23:43+08:00"
+      "title": "首度造訪！台積電下周亞利桑那廠擴建典禮 川普將出席 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0aGFOTk1sWC1uNzB5NDNrZ1EwQ3A5c2x1NTRWRWowcUlfbmNBb193TFdLbDFxcWdGVndLNmZTbTlvb09qeXYxcWNMSV9JY1J50gFWQVVfeXFMTXQ3cDBDTXl5TXZXVkF3WEVFS3M0aENYeC1lOWtwVG50YUNJRERyZEZGQ1FIX2NueTRlM2ZPUUtPaVhoYm5Kb3NPRUVlUHF0aDdJZEhDMnc?oc=5",
+      "date": "2026-11-26T00:01:53+08:00"
     },
     {
-      "title": "2330 台積電 - 台股又慘跌- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TUowZ3dfOW8xaDBuZC11dG1IQVRNZUVUUUhnU0VIRGNKMm1FOE1XN2hGeW0wM2JNbGJYYldLSjFpcnpzT3VtWEJMS1U0MjktRUNRSjU4Mno?oc=5",
-      "date": "2026-11-25T16:16:14+08:00"
+      "title": "通膨關稅夾擊！輝達早盤重挫7.5％ 費半、台積電ADR都摔逾6％ - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwNk14Vk8xanBwcUo4RW1JS2o0SUxoSWNEWG1yT0tnRFhhSHBsZXkxdzBKS2VsQTZJLVRnOV9kcHNzOGpxQzJIclJqZzlUdFY3MXQ0bnlpT0s?oc=5",
+      "date": "2026-11-25T23:59:40+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T17:04:54.427252+08:00"
+  "updatedAt": "2026-11-26T01:06:20.801339+08:00"
 }

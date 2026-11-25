@@ -3,17 +3,17 @@
   "name": "光寶科",
   "query": "光寶科",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 189.0,
-  "change": -15.0,
-  "changePct": -7.3529,
-  "volume": 19638745,
-  "bias": "偏弱",
-  "performance20": -27.72,
-  "volumeRatio": 1.18,
+  "date": "2026-11-24",
+  "dateTaipei": "2026-11-24T00:00:00+08:00",
+  "close": 204.0,
+  "change": 18.5,
+  "changePct": 9.973,
+  "volume": 3159375,
+  "bias": "中性",
+  "performance20": -19.21,
+  "volumeRatio": 0.18,
   "recommendation": {
-    "date": "2026-11-25",
+    "date": "2026-11-24",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 216.225,
+        "price": 219.85,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 252.0,
+        "price": 261.5,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.1791
+    "volumeRatio": 0.1827
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -27.72%。",
-    "本日成交量為前 20 日均量的 1.18 倍，量能接近平常。",
-    "RSI(14) 為 37.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -19.21%。",
+    "本日成交量為前 20 日均量的 0.18 倍，量能較平淡。",
+    "RSI(14) 為 41.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-25",
-      "close": 227.5,
-      "volume": 32706670,
-      "rsi": 69.3,
-      "ma5": 209.9,
-      "ma20": 197.8,
-      "ma60": 172.525
-    },
     {
       "date": "2026-05-26",
       "close": 239.5,
@@ -1177,21 +1168,17 @@
       "ma5": 193.3,
       "ma20": 219.85,
       "ma60": 262.9833
-    },
-    {
-      "date": "2026-11-25",
-      "close": 189.0,
-      "volume": 19638745,
-      "rsi": 37.15,
-      "ma5": 189.5,
-      "ma20": 216.225,
-      "ma60": 261.1167
     }
   ],
   "news": [
     {
-      "title": "光寶科獲TCSA三大獎 永續治理串聯全球布局 - 台股 - 新聞 - MoneyDJ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXUzQW44YmNlZGluSVVuc3ZydmVnZWxPanpjcmtUcFBwM3N6WWdXblh5QlJ4RHVNbGV5X0ppaG1vclNFVEdlSVVYWkpTQWtMM3dfUEJITUlmNHB0UFdQNEZqbmVxUFg0dXh5Zk5GR1hzNXJQOUJtLW5IYTRtZlBuQXVR?oc=5",
+      "title": "《自營商買超34-28》光寶科(365)、英業達(626)、宏 碁(274) - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUxRU0tLWEktVWJOZEEyQTEzd2Vhb2I3dHB0LXhVRmlPNS1hRzRfaUZzVzVKVUIwY0pzTENvaUxaaERlUG5vX01mZFd2MUdtMzhuSzFNdlYtU0RUSzVybWtRZWVQREZPMzdXQjRldU9DV2JDV2NHei0wQ1NFSkhEbWFrMW5vcVJv?oc=5",
+      "date": "2026-11-25T16:30:00+08:00"
+    },
+    {
+      "title": "光寶科獲TCSA三大獎永續治理串聯全球布局- 新聞 - MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRENhSllKTUVLdE1CekRRUFd1MVlFdUN6RmZZeXRYS3NabTg4bEN6VTh1WFYyc3NMSzA5M250dzhyM3hKSzRwNHpqb2JPaF9rM3RZSWVhLXhya3dodWlxUXV5M2tWQlZ6VmVxMV9GMzlRN1VDNWV3U3RfcVFfR0t3ZGwwSk1xNm1oeWRHZVp4Ri1KQQ?oc=5",
       "date": "2026-11-25T16:14:00+08:00"
     },
     {
@@ -1205,15 +1192,10 @@
       "date": "2026-11-25T15:24:52+08:00"
     },
     {
-      "title": "光寶科獲TCSA三項大獎AI強化全球永續治理- 產業 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zQ2ItMmFYQWtGQmgzR0s2MGZHSDZHVEhtRW9EMXRvSDBfQl9qeWFCRUhlYzdqZDZkS1hIZnRuWHk1RDlNX2pkSWw1OGd0cTN0YlM3YVE3Vy1sVWM2dFFN?oc=5",
-      "date": "2026-11-25T13:54:00+08:00"
-    },
-    {
-      "title": "曾破產賠光積蓄、他靠「漲停8招」4年總報酬率893%！光寶科、世界先進、昇貿...選股冠軍公開「6大SOP」找飆股 - 今周刊",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXd6bzRqd2JHMkI3dWxXd0lGUVFpT0RfVTEwNXhjd245SjBpalFrWUFmbDBTR29hQlk0U3BESWZRSjVJcjBNcTZBUXVSNGxsX081Z2FPT3U5cWExell5YlFWYU81eVVOcU1EUEg2dUJVcXI3VWlnSmZTTEgwLUM4MA?oc=5",
-      "date": "2026-11-25T13:25:26+08:00"
+      "title": "光寶科榮獲TCSA三項大獎 永續治理串聯全球布局 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dGVHUkpUamtnN2F1Qll4UVlTbUZLM3NxWm1jVS1PVFc3Z19Yb0E2VXJfc3hCdUtxR1A1dXN0U3k0TklTWXNXYTI0cmsxdmM?oc=5",
+      "date": "2026-11-25T14:40:05+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T17:04:55.051660+08:00"
+  "updatedAt": "2026-11-26T01:06:21.620471+08:00"
 }
