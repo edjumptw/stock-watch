@@ -9,7 +9,7 @@
   "close": 155.3800048828125,
   "change": -9.67,
   "changePct": -5.8588,
-  "volume": 382058256,
+  "volume": 383594200,
   "bias": "中性",
   "performance20": -28.71,
   "volumeRatio": 1.19,
@@ -37,7 +37,7 @@
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.1857
+    "volumeRatio": 1.1904
   },
   "commentary": [
     "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.71%。",
@@ -1698,12 +1698,12 @@
     },
     {
       "source": "Yahoo Finance",
-      "open": 159.06,
+      "open": 159.1,
       "high": 159.92,
       "low": 150.5,
       "date": "2026-11-24",
       "close": 155.38,
-      "volume": 382058256,
+      "volume": 383594200,
       "rsi": 39.47,
       "ma5": 148.58,
       "ma20": 175.7815,
@@ -1712,30 +1712,30 @@
   ],
   "news": [
     {
-      "title": "Nvidia回跌6%拖累科技股 道瓊逆勢上漲423點 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdW0tLVVTSmpyRXd1bjk0RUR1eHA1TGdCUGNyOEc2dktCelo2cGIyMDNvY2JrZUkzQnhqcFBGOWhiZG1aZHYwYnRiQVZKZmhQa05rUU50TzBNZDFmdkpZaGtqV0QzZU1EX0p3YXNINU43STRuZUYtLWhNY29TU19LQ19R0gFnQVVfeXFMTV8zWGtPdnh5RGhxUjg2emlqMEZWbWxQN1FpYWZRV3B2ZkZGeFFPa1ZJaC1nbDN5U3NCS2F6VnQ2YjBPWFBnN1RfbmV1Mko2NEdNeVNoMlRmRkZaenV0V0FxX3IydlRjNA?oc=5",
-      "date": "2026-11-25T05:35:49+08:00"
+      "title": "黃仁勳重掌NVIDIA餘波盪漾 加州檢察長：調查繼續進行 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWZMM3d4Y0ZhWHJZOU16YzBPeFdWdDBoZ0lXYmhJY09oaF9HdFYweHlHR0t1OEc3TUIySTZzZng3VkszRzRXa0FZY0k5YVYyWmM4V3Zvc2pral9HaVplSG92ei1kc3IxNW13aEVjbXhJdmJjeTFqSm1nZEx0SG82QTh6a0FkdjlUN1BGeDdzNzFtRzJ4RHhsYWxWVXpSZ0VKeDFPbGdxSG9tTjBw?oc=5",
+      "date": "2026-11-25T12:21:00+08:00"
     },
     {
-      "title": "《焦點》黃仁勳承認犯下嚴重錯誤，Nvidia股價回吐部分復職升幅 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FZmVobC1qNHFxdHpsZExKYXpuV01ES19uMkNjRUNOMFlMWVBRemZGYUszem9GMkw1cUFRRnhWenAxNlFLLWc4R2VqNmpPbGp4amo3aC1iYllMV0Y4aWYyM0RWeEdxZDNfeTA1OU1sMlhJNDRzTTkw?oc=5",
-      "date": "2026-11-25T05:29:50+08:00"
+      "title": "黃仁勳戲劇性重返Nvidia 辭職風波一週後落幕 - 電子工程專輯",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeDA1cTM5Qkp1N2ZmdFJsaWR0ZDJMVHNTNGcyTU5jXzQyZmZoek1wRnYwZjMyWWx5NGtMSThjXzJqWF9sM1o0R2JDd2NnRXZFZ1pDQ050MzUtU0pocjlnMHBvSDNtWGIyRGk1THhQaEhyS0RZbnlHbmhOa0Z6SzFNR1BWUk9PWTVnOElF?oc=5",
+      "date": "2026-11-25T12:04:05+08:00"
     },
     {
-      "title": "NVDA 輝達- Nvidia shares fall more than 5% as Huang comeback rally cools - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqUUJOTWJ1cDBlcEIyR2RCemhwdUtOR3NmM0VPMHV1d2p4UTFjQW1FQ3EzdGo3cmFjc3hUN0o2bW45cWhfeGhuNE5sN3poMmFCM2duUktmams?oc=5",
-      "date": "2026-11-25T05:22:04+08:00"
+      "title": "NVIDIA GTC 新品發表撞期國會問話！黃仁勳回鍋後硬仗接連來 - INSIDE",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zc0pUVXhhYjdublVWSUZCWEJvTEw1VzVocHNaaVk5VmVwclZMckRNRW9ydldMV2JEc0g4cVR4dTBBRkRTMHdQWW5yODI0VV92V3NvUEk3V2sxQlNhYXEwc3lsWDdtc3hMQjJrbnR3dDkxUjlxRXV6eVZwcnA?oc=5",
+      "date": "2026-11-25T11:34:39+08:00"
     },
     {
-      "title": "標題 : 美元回落！Nvidia 帶動的AI潮退去 美元獲利回吐、匯市震盪加劇 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDlBMWZLdGhaUm1zU1JtMlRmUENGS1VJQUZIc3JCazFFbVV0VkJoMHNnbENrTm9oTmk3LWxzcXBScUNjX1FCdnB6ZVk2R3YweHlialJvbnBxcmpMcXBzV1g0Y0p2ZFpMQ3VVNG1Na2trZTF6alhIUjdYSWtGanlfcXJCLW8yMy1vcTlSWUxB?oc=5",
-      "date": "2026-11-25T04:39:30+08:00"
+      "title": "《專欄》特朗普插手Nvidia人事，顛覆華爾街教戰守則 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xeTlvaU1oSW1lVXJmWTdydkpFSlo1VUdGN08waDZiNWxELU83TlVma21SVGNSejktSGNpblV2ZDBIemJjX21kOFhfTWN6a1d2LWRVd3lPVkJDNzJWX2xYWVNTNWVLNTVyenI3RnBITkc2REk5S3M4?oc=5",
+      "date": "2026-11-25T11:25:39+08:00"
     },
     {
-      "title": "國安疑慮未除 「Nvidia不再一樣」 - 20261125 - 國際 - 明報新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcVRLLVhLS2dDemNSWGlGeVgtbG5JQ2Qtb1hrODZ6QjhkTWhyUmpZUnNHVmFrTXRjdjBqYmJ3NnNvbDZqdjBvRjNRQ2Rsc3ZrM2hVMzhKVjg3R2RhSnlaQkFGRXpTRldBLXUtbXFxOGpvZjdmX0k0eUVIdWp2SWlSaTFGb3JkbllVdlAxZnQyMDRhZU1xMl92TXhyY2hfUHJlRXlxN2dOaU9TZGVKTWJNdW1wOExnMFBQUjRWTDVsY0J1MldMTnhzNlJTLXBfU01HS1JzS3JiNHNhazUyblNOdWg4TFk0eFk2aDRMY0xzOFRhSTBZTHlzMVlaTWZTVW9uQjFOOXFTRjhaQ0NXdEI5X0VUeUJTdHZkTGZiVVJfSU9RMS1TRVVfNg?oc=5",
-      "date": "2026-11-25T04:30:00+08:00"
+      "title": "《美股》焦點股：NVIDIA接班計畫獨特 戴爾樂看後市盤後漲 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEFIemVLZndjbW1vUG8yS3NqVGJhSDNMUjJpVEhjZXlLcVF5NVdGeUdITmY3em1ITkZIeU1WN0NNajRGN1dvQ1Izc3UtbHhZbE5qOXVNQ3dKU0hlUWZFd2JaSEFIbUdpRF9zNTc1UC1fTFNQenE2WTNER2ZpZXZUTjVNdG5UdDVv?oc=5",
+      "date": "2026-11-25T11:22:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T06:34:24.124053+08:00"
+  "updatedAt": "2026-11-25T12:36:39.596112+08:00"
 }

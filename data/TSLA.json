@@ -9,10 +9,10 @@
   "close": 384.67999267578125,
   "change": -0.78,
   "changePct": -0.2024,
-  "volume": 28208872,
+  "volume": 28697600,
   "bias": "中性",
   "performance20": -5.59,
-  "volumeRatio": 0.77,
+  "volumeRatio": 0.79,
   "recommendation": {
     "date": "2026-11-24",
     "action": "續抱",
@@ -37,11 +37,11 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.7743
+    "volumeRatio": 0.7877
   },
   "commentary": [
     "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -5.59%。",
-    "本日成交量為前 20 日均量的 0.77 倍，量能較平淡。",
+    "本日成交量為前 20 日均量的 0.79 倍，量能較平淡。",
     "RSI(14) 為 51.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1698,12 +1698,12 @@
     },
     {
       "source": "Yahoo Finance",
-      "open": 383.89,
+      "open": 383.77,
       "high": 390.09,
       "low": 375.5,
       "date": "2026-11-24",
       "close": 384.68,
-      "volume": 28208872,
+      "volume": 28697600,
       "rsi": 51.84,
       "ma5": 374.818,
       "ma20": 383.3515,
@@ -1712,30 +1712,30 @@
   ],
   "news": [
     {
-      "title": "Tesla落斜收唔切掣 17歲男生過路被撞低 - 東方日報",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSHd0SmhwNV9YR2duXy1mbkVDUGtmWGN0b3ZFaWlua0NtYUk1ZE9ZQTVBbVBHZ2dVN2VjU1ZGaGYwZWJ4ZUphNWlMYkdzMHJGWlI1NV94eDBnWWFVcTktV1B0SkpnZ0M3ZGF6TWkxT2prNkdtQWgxaEtKd245QVRsRDNJck52dGJ2ZDZpX2dHY0l6UkUxdThvRS0xTWdTYlM4NlZlUDd3QnJwSFRqSUlvcFc4cnNiZkh6RWV2QWc5SVJsc1FoamlZVG5QUHZ5MEtwVzNmRUt0UEJOaEpDRDNKR2ZSdkRNeEJmazJZTlpvak1pV0NDRkFPN2xPRzRIWERIMXFlWkVKNEI4V3FIZVJjN3FvVFJvcFJPTHZtMHRVbTJrVHprdFRnbWphbFpLMm1aeHV4dTRpdDZVaVRrdDdONGxyT1cxLV9yTmtuZkpCbDF6Nkl3bE1R?oc=5",
-      "date": "2026-11-25T03:38:37+08:00"
+      "title": "SpaceX與Tesla合併案由5名董事主導談判 力拚2026年底前達成協議 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHZZbGp2YW53RlhrcjY0ekIxX0tEU0VhVWVySEpBZzgzV1diVngtXzlWNFJGY0lBUDB2VUZkS2FBSzV6S0ZHM29iLTM0S0dXLXF3M1RtUHh3Z2FQRGFYZEwxWGVXaG1hSkMyY3IzcVhtT2RnMloxZlZSTExibTNCNXZTOGMwQTdNV056WnZwYmJyN3d0VVpuZE14emxYRjdndG9fV0lEaThFZHZX?oc=5",
+      "date": "2026-11-25T12:25:00+08:00"
     },
     {
-      "title": "UBS維持Tesla「中立」評等，目標價從425美元調升至430美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXOVBsbE4wbDR3cW13NjFfSXFlRTNmbW9PX0phT0FOWFFCd2paemtCa0R0UTYzT09MWjhKV3k1cWNCYUVycDBveXRRanJ3bFpYRWNZaG1lT2ZpUDYwcUhBdXZzMjdBbW5QUnBGVg?oc=5",
-      "date": "2026-11-25T00:44:59+08:00"
+      "title": "特斯拉 CYBERCAB 無人計程車首度來台！12／4 全台巡展 - 自由電子報汽車頻道",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qNXA5cks2ck5Lcjdua2xucF9FWUlxb0h0S2IxVnhjRTFIdmRTZEZzaHpXUmhJVnZMN19EMk1QaTJmbUFZTGtjRUF30gFPQVVfeXFMT005c2M1MkFEb2J0ZUhPSjBDWWl4R2RkUFdHcXY3T3l2VGg5X24zdTBCMDBCSVo4dnYtLU1vUFN3QUlhNTZuT2ZuVTB3MGdKVQ?oc=5",
+      "date": "2026-11-25T12:15:00+08:00"
     },
     {
-      "title": "SpaceX與Tesla 傳委5董事談合併|香港經濟日報 - 香港經濟日報HKET",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc1pOcG9wU0lOYnZpTERyRG9ycEVDMm9xcmJJSWZWcEc1cVJhdmwtZjJCN0xJdEZmTXJIcWR2TFFsZ2FJUmpZSDFhdHcxSGotdENFc09ENjVIdG5HTHVQMlVhNTVVSi1TbXJ4eEpMckJoNDFaUFFNY3pYZUFBVGlSZWFPWXlTZThVR1BILTZ2WG1MdDJsLWljQ2p2UTJFUXdqV3dYYXozUjNVdUdWelNOQ0VBTW9VUkt2eGZoQ2YydmdvcUlqZXc?oc=5",
-      "date": "2026-11-25T00:29:00+08:00"
+      "title": "特斯拉 FSD V15 先推給部分使用者！畫面直接預告轉彎和停車位！ - JUKSY 街星",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpRFNfVG8zVmNYUXg5VVU3LV9fdDdrYUFpN0hEUmhqSXNzNVhYWXFmTHNJNkRfemJkaTM1UHpyODNmNHVWS053SUdwWHQ?oc=5",
+      "date": "2026-11-25T11:49:57+08:00"
     },
     {
-      "title": "特斯拉股價大漲逾一成！FSD v15 開始推送，匯豐目標價喊到359美元 - JUKSY 街星",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42YVVkbHhSY3RMTkRNSWQyd2ZIUi1tbElNUjJ2bnlfUUlfWGN5QVo5ODNnMUdhTG1nR3hJXzU0WWxRR0EwQ0JzTklxTHY?oc=5",
-      "date": "2026-11-24T23:29:43+08:00"
+      "title": "台灣特斯拉預告「國外百萬有找電動車」登台！全新Cybercab 12月亮相 - ETtoday車雲",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlSnN0aXV5WEMxRS1raC1wVUdhaUZBTDVBWUhDZ2ltZXJUb2Y5MG1zRXp1R1p1X2RocGx1dUVOWDk1N0dTbEFybFF6V3JRb1nSAU5BVV95cUxOQ2hkc2txNjF4eld0WHEtZzZNNU50WW1xalVDVDE2Z0dvRmJtLUxqUUVsNkFLZl9hdk9lQVRyM2lNWmVBUGswb3NTYzdwRWc?oc=5",
+      "date": "2026-11-25T11:47:00+08:00"
     },
     {
-      "title": "Seaport Global首次涵蓋Tesla，給予「買進」評等，目標價定為475美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15OEpQNXRHdHdQXzZVeHZudXJMNWJYdW5Ka09aUlhMVUJRTXRQaklWVEJJU1g1Y2wwVVdQNE9BcU1xQmY3djVyWjBHV2RRaTVkQUFCZ3Eyd2tDTklfdV96TEd6ZWFUa0NOUDNYMw?oc=5",
-      "date": "2026-11-24T20:54:08+08:00"
+      "title": "SpaceX 與特斯拉傳組 5 人小組推進 3.5 兆美元合併案，力拚年底前取得突破 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfNm5CLUVINXlDTmUxcnRqekRpM1NrSWhrVjMzTExucnFPcXJCektpTWpGYXFBc0NIVUo0Q3V5d1RQclQxYTZYSlhZeExHU2V5VlUxcTZQODk1UFJZY0gwZmtEd21HWWh4MVhQLUduQ1pyUQ?oc=5",
+      "date": "2026-11-25T10:11:50+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T06:34:27.331271+08:00"
+  "updatedAt": "2026-11-25T12:36:42.416250+08:00"
 }
