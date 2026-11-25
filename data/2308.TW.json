@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-24",
-  "dateTaipei": "2026-11-24T00:00:00+08:00",
-  "close": 1085.0,
-  "change": 95.0,
-  "changePct": 9.596,
-  "volume": 969382,
+  "date": "2026-11-25",
+  "dateTaipei": "2026-11-25T00:00:00+08:00",
+  "close": 1055.0,
+  "change": -30.0,
+  "changePct": -2.765,
+  "volume": 38996619,
   "bias": "中性",
-  "performance20": -28.15,
-  "volumeRatio": 0.05,
+  "performance20": -31.94,
+  "volumeRatio": 2.11,
   "recommendation": {
-    "date": "2026-11-24",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-25",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 1190.75,
+        "price": 1166.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1550.0,
+        "price": 1480.0,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.0503
+    "volumeRatio": 2.1079
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.15%。",
-    "本日成交量為前 20 日均量的 0.05 倍，量能較平淡。",
-    "RSI(14) 為 38.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -31.94%。",
+    "本日成交量為前 20 日均量的 2.11 倍，交易較熱絡。",
+    "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 1007.0,
       "ma20": 1190.75,
       "ma60": 1582.25
+    },
+    {
+      "date": "2026-11-25",
+      "close": 1055.0,
+      "volume": 38996619,
+      "rsi": 37.6,
+      "ma5": 1006.0,
+      "ma20": 1166.0,
+      "ma60": 1570.3333
     }
   ],
   "news": [
     {
-      "title": "台達電進入千元保衛戰！董座鄭平轉讓個人近半數持股為哪樁 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DZjhDM2RHSWUzZEM1UVN0R0FHZWxvQUdMVmQxdXFRRU5JRkhYanR4NUNKSFdzU1Fsdm5ORnhidjE3M3ZiLWozY1dFMWUyanBvUTZGTktESzZEcmplNTlRSF9IdWFZdw?oc=5",
-      "date": "2026-11-25T12:16:00+08:00"
+      "title": "電腦及週邊設備產業鏈／台達電10月營收746.66億元創新高！前三季EPS達26.64元 - 科技島",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hd1Y5SlhNVzF5OEthNnFGMUstbHdtOU91WVVVdjNoOTRhVUdzYi1fY0NKZFZucmdoM3NYdk1yM0xVRlhUVjhGd3ZXaDZIMEU2YXUzVkwtSGlQOGJSOWpUOUtiTTZ0QWlTVEE?oc=5",
+      "date": "2026-11-25T16:57:54+08:00"
     },
     {
-      "title": "台股暴漲暴跌 57家金融機構2027年最看好這11檔個股 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lOFNHdTJpSWlLVDYxU2lhWFB2T0J5ODgtNjV6T0x2WU9WaVhCQldZeEJrd3lfNDhYbVRfcnBOS3F4c1pVeWMxM1gtZUd6Z2lOTEhGejI5NmM?oc=5",
-      "date": "2026-11-25T12:07:57+08:00"
+      "title": "欣興1400元一路攤平到650元！杜金龍自曝下半年「小蜜蜂白做工」：這波反彈如何解套？ - 上市櫃 - 旺得富理財網",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oYlVzcWxmY3JXZmt6ZXc0cVgzVnRxTWx5VUp4TWl0a0wyUVVtaDdIbnA5OTlhYzU0YzRnQjkxd0NnZmZwNDExTmNsZmlDWmNGalpXeWhTRVVDUFFWUVRtZGx0MVpZMHNpblE?oc=5",
+      "date": "2026-11-25T15:47:37+08:00"
     },
     {
-      "title": "台達電再陷千元保衛戰！法人估後年EPS破百元光寶科、順達…7檔AI電源受惠股出列- 上市櫃 - 旺得富理財網",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vaEkxamlMVDdqWnNhR1Fjdk5aSGRwYllsSmd2TUZaUi1JWU9yRTlOX19fNkdQMHNmeDZlQ3NkdENFd1pSVDlCbDY2ZE1Jd3J0UXpya1NjSXVETXI2SWwzU3R0SU9UWU9lVkE?oc=5",
-      "date": "2026-11-25T11:43:05+08:00"
+      "title": "台達電才重返千金股！董座申讓近半個人持股 逾300億元股票將轉往何處？ - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQRy0zaEpmYzVMUWhTUWxEbmtLNWcyNXZEeUFFUi1NR0JBSjhBTU9tR2Z5RE5TaEpGTjdNaHkybHk0VlUxZXZjbEYwb1BiR254anZpM3R1dUFPTlFmNWVmcTRhTEVSY0xaajg5NEhNa2lGUjFaVlllMUFwMG1UdzRJSGtFUmNwc3FaVW1ub042RkEycml3TUVLTU9vNGlBb1V5ZGwzN3FCNXJPTU16QlEybnNwU2lpT1JhQzgxeFJrU3ZRLTNxeHlRTkR4U2gtanRjcDgwTHpUVmVwSENhcENyM2sySHhzMjhhRFV6X0p6VzNDUFFOMGg0dXpnaTBudlVwSGZiQk1DMHQ2VkhYV2pNUUdPaVRHeUhkZUFsdTc1WmZnLWlIVS1OcU1uOE1zUXBZQndoOXlaQkJKODBPczJXQnJVcVkydVViVVdYUzhwOGwyTHhRUHJ2MkZaUHFSdlZSV0F6WXlVWUFOOUVDMWhuaVNsZ0NxaklQdmNJMFhTeGFpeGNIZEtqcldkblNLQzJTaTZVUS1pUWVlSmYza0NRcXQxdmIyQXBXX1VvR3o0MzM2RTZCb1E?oc=5",
+      "date": "2026-11-25T15:04:35+08:00"
     },
     {
-      "title": "【即時新聞】台達電(2308)急跌測千元關卡，這「4檔電源概念股」同步遭提款！ - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fd3VhQ0k2WFFDajNnU3dtQVVsTUZPaFdqQ3poRktKSGJieWg5T3JVNm5oTlZLZ3NFaDE3MFFjYTVUNXBPRFZqSTB0VVF3MXVnQU9zeC1kb05hUDRRWnNVUnpRaTlHZ2M?oc=5",
-      "date": "2026-11-25T11:07:59+08:00"
+      "title": "【11/25台股收盤】跌1,927點失守4萬，市場盯301關稅 - 口袋證券",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2OXhSODVPbTlMblU4QW9FaGoyRlEtOVZlaUhZMjdjWHlJaTVtV0Uta2w0T2NPZk0yZlhMUU1fRmlmQXlUQ0l6dmZoOVRvMDlYa2dCLWhoSXJqeWZmQkF4UHctUkJiZw?oc=5",
+      "date": "2026-11-25T13:42:00+08:00"
     },
     {
-      "title": "台達電才重返千元又失守！董座鄭平申報轉讓近半數持股、市值逾301億元，公司揭背後原因| 下班經濟學| 財經 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Eemp0N1BfZkVuV1pCcXl0SjU1am8zSmFNRDlXaEdQM3VELXI2TEpBc3V0RWJpWlVETEFHN2dYQ3AzQU1KOXBqck1sV05IZw?oc=5",
-      "date": "2026-11-25T10:47:00+08:00"
+      "title": "台達電董座鄭平移轉近半持股 逾300億元股票轉入新設公司 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YYWtVLWRpczFHX0gtQS1lOHNQeE00Tmw3aUw0U3NMUGtNdTZGN0tPbTVJUFRkMUFKeWpnVFNXdlRUTjRaSWt6NmZ3VzFjQWFzaEt4SURweXpVYnBiTW9DNkVYU1RnX2l6UGFVb0o5WDlNZDNVVVJVdzJn?oc=5",
+      "date": "2026-11-25T13:36:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T12:57:24.053289+08:00"
+  "updatedAt": "2026-11-25T17:04:53.821376+08:00"
 }

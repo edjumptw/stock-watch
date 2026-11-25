@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-24",
-  "dateTaipei": "2026-11-24T00:00:00+08:00",
-  "close": 341.0,
-  "change": 31.0,
-  "changePct": 10.0,
-  "volume": 2515428,
-  "bias": "中性",
-  "performance20": -34.55,
-  "volumeRatio": 0.06,
+  "date": "2026-11-25",
+  "dateTaipei": "2026-11-25T00:00:00+08:00",
+  "close": 309.0,
+  "change": -32.0,
+  "changePct": -9.3842,
+  "volume": 47177121,
+  "bias": "偏弱",
+  "performance20": -43.51,
+  "volumeRatio": 1.08,
   "recommendation": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 409.875,
+        "price": 397.975,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 514.725,
+        "price": 510.625,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.0556
+    "volumeRatio": 1.0775
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -34.55%。",
-    "本日成交量為前 20 日均量的 0.06 倍，量能較平淡。",
-    "RSI(14) 為 34.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -43.51%。",
+    "本日成交量為前 20 日均量的 1.08 倍，量能接近平常。",
+    "RSI(14) 為 30.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1177,34 +1177,43 @@
       "ma5": 324.3,
       "ma20": 409.875,
       "ma60": 514.725
+    },
+    {
+      "date": "2026-11-25",
+      "close": 309.0,
+      "volume": 47177121,
+      "rsi": 30.85,
+      "ma5": 315.7,
+      "ma20": 397.975,
+      "ma60": 510.625
     }
   ],
   "news": [
     {
-      "title": "昨天追漲停、今天直接吃跌停！國巨爆量重挫 股友苦笑：外面很冷 紙箱請自帶 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhM2tlWE1STDhiQ3htRVhXTjBBVVdSVlg1YUtJakVQYVlTQVJMdm1aWHdheGY2NkhjLUsxYXNZNzhRVUVpSUhmQ1lkanFFSUg3QzF0dEh1V1k?oc=5",
-      "date": "2026-11-25T11:02:56+08:00"
+      "title": "三大法人買賣超 – 外資買超(2603)長榮、(2327)國巨*，投信買超(2330)台積電、(3665)貿聯-KY，法人合計賣超829.56億元 - 永豐金證券",
+      "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxOSmwwOE5QZWpFXzhsRG5KYUh6Z0NJejlSdTZJM3FlZHZqTFUtQ2xObngtVDVlUjNKZ2hxTkRsQmJrTzFRcmM5bTVnT3EtSkJIX25xbEhKS3RxYVotRVg1R0dDM3lXR3lja1k4bTFaVFl0c3R5dlR6eHpmVG4zZjJMSUdLNGFwMG9GNldCRkM2UXU3N1JIY3pSRWd4OVZDWDUwVklJOHBWRUkzVnZuN205QndBZFVFa0xGSlRBSU1nOFNQY0J3ZDA1bXhUMFlQNTRpamZfZXAxV1hueVZCVzVLMmdnUmFqdWVuRUcwSkU0N2lLWDhRZTRFSXgyX0VYd3BpOVBQeEpFdmRUSU9kQlpTUEh0bWNkLXB4LXkxTUJ6ekdQclk4YVJpX2ZpdlhhWXpKVG9jdDVYSkQ0ZFlZbWtBbHVobXJCdlVTbTQ0QWQ4UTlKNEVUZkcwa3ZHMk9pTWtPT20yWG5xOTJNdndBUGMtSlhKenVESUw2bGpzNzFuQTlPcngxa2o2S1FGcUZpbDBadGdjZjUwRl9IWUVJZVJIMkFLakhLSVdaakFVS3QwM2FoUkhObnRyb0V1NXlHdHZfOWZLX1hMc0ptV2NveUE0WDU1R243M3hrcHRzb2Ytblp3ME0tWVVOak5VOC12SHdobjNwTmpvbjV4N0F1OUs5dFQ1WU11cnVBa0k0cmJKbjdkV2FDY2ZHRWd6OTU2d2ZtazZ3WGJ2NFJ3SlRZTnQtS0ZSSWtHM1ZMUzhIUTM1cWhSSjdTVE5zNjlHZ2g?oc=5",
+      "date": "2026-11-25T16:55:30+08:00"
+    },
+    {
+      "title": "《電零組》國巨*12月1日參加Jefferies與富邦證券合辦法說會 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFJYREpFcVNIeDJJWWlWS0V3UHlfMTM2Z2JHUFpfb0tLVUxtM1hOblVLWnJtbHNwd3JGQzBBaFNhUG5CenVGRzg2VkY2ZFRLQ0NxU25TUnp4akQxQ0dyOW1SOTJET0JLSDNSbzBNeDZ4M1dBMi04WWh5SkdSWjNkeV9hUUxJWHdR?oc=5",
+      "date": "2026-11-25T14:21:00+08:00"
+    },
+    {
+      "title": "個股：國巨*(2327)受邀參加Jefferies與富邦證券12/1合辦之Q4 Tech Tour 2026 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTVSZ0ZxampBelBFTnoyMDd0VDNtYlFZTWJEb1lpSVNicW5iUDczOFJxQU1YbE9lX0tuMTZSUUg0RWIxVTNqdkFtVGJ4Z1RBWXYzbHhJQnQxR1dMVF8wQUxIQi1xOWVHWUMyNkFFWnE0b1dDR2ZoSDdfMlJYbDRNRHB4TG9lZkRT?oc=5",
+      "date": "2026-11-25T14:14:00+08:00"
+    },
+    {
+      "title": "國巨吞跌停...307元已是「甜甜價」？分析師勸別急：進場先等一條件 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPNjYzMEtUTElXSW9yQ3dDSzl0aEJDMVFtaTRZTGVaSkg5Yjd2aHBFVktRTm9zTUlJbDRHTkdQWjVoemJiaHNaYlR6UFoybW9xUDVpZjdXTEszVk9udVBHOE9BX3pMcWlQZ0dWY3BoZUwtZlFCODFKbFkxQ3lzWmJpY1NkQVduVmRCTXg1MzhQSzFSenBxVmh2ajNwSXNZcjBCaUVhOXUySXh5VEtlUXcwMHVjYU9tV3VuU2xnT2xYVDE1T1lKLUV5LV9VMExGMk9vSExHb1J4QU5xOGNGOUp2MXp3N0U1NjU0NGlsX0toMUZ5dU5SS0tJVEZudDVUNGRaS1lYZTRyZk9heHh6bC1ySms0YVZsRnpJRW9CcGRrZnRWbWh5VkZwdkQtZ3Vkc2JoSUl6V2FzeXJOTmU0MHl5c282aTAtYVdPTUJxakJETU5PZFNSNGUzOGx3R19WdlFKUDc2bmpObkZDM0tDTkltbUxPOUFMYnI5UTgzUXpQTjlONHNXc2NZdVpQQjUtcndsX2w5eVNNdGRyalpIckxZX1NLUElRUlNvZTBEN2VBcw?oc=5",
+      "date": "2026-11-25T11:24:06+08:00"
     },
     {
       "title": "2327 國巨* - 才500股而已怎覺得最近好恐怖，加減收也好🥹 - 股市爆料同學會 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IM1dRRzQtRnQ5QzJtUzliTFBwOXVuQkJ0OWpHa3Z0VjNWd2R2X0o0cjVuQ2o3VnhjT3JvU2FadWR6Q1p6cE5JRWE2bDI0NXlYTm9rR1VnMDM?oc=5",
       "date": "2026-11-25T10:57:48+08:00"
-    },
-    {
-      "title": "2327 國巨* - 2026-11-24星期二，創造歷史的一天， 黃爸爸回歸輝達... - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NUlRUQWxiblhVVHFCMHN5Nmc0REtIb1kwcnBOMG1mWU1ENXNlRXR0TVpNc05NQjJsV2JWVnAtcGFacGQ4cTFRclZKSjFCSElkTE1FOTlsTng?oc=5",
-      "date": "2026-11-25T06:24:03+08:00"
-    },
-    {
-      "title": "2327 國巨* - 兄弟姐妹晚安⭐️ 無量漲停！接下來台股何去何從？ 今天又... - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Vy1ZNkprU3hYaHRyUjAwZzVaNG01NUZuT0FuVUxFb0loQVMwTURzajZ3Tk1iMmd0MF9CUTJEN0FkVURDS25VTGo1RFU0Y2Z2bzVnc2FINS0?oc=5",
-      "date": "2026-11-24T23:13:29+08:00"
-    },
-    {
-      "title": "2327 國巨* - 大漲3,310點重返四萬，下一步看誰能留下買盤- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11WEpaVktiajJLeXBXdnlaQlVxY01iN0EwMFdrUnlyNUFIckJMMGRoX05IcEtDQ0dvcGJPSHNCZU4wZ1JGUEpGTVdLQ0l6ak5VaFRzNm9fZFI?oc=5",
-      "date": "2026-11-24T20:23:50+08:00"
     }
   ],
-  "updatedAt": "2026-11-25T12:36:35.180527+08:00"
+  "updatedAt": "2026-11-25T17:04:53.017724+08:00"
 }
