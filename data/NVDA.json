@@ -9,10 +9,10 @@
   "close": 155.3800048828125,
   "change": -9.67,
   "changePct": -5.8588,
-  "volume": 383594200,
+  "volume": 386223600,
   "bias": "中性",
   "performance20": -28.71,
-  "volumeRatio": 1.19,
+  "volumeRatio": 1.2,
   "recommendation": {
     "date": "2026-11-24",
     "action": "觀望",
@@ -37,11 +37,11 @@
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.1904
+    "volumeRatio": 1.1986
   },
   "commentary": [
     "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.71%。",
-    "本日成交量為前 20 日均量的 1.19 倍，量能接近平常。",
+    "本日成交量為前 20 日均量的 1.20 倍，量能接近平常。",
     "RSI(14) 為 39.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1703,7 +1703,7 @@
       "low": 150.5,
       "date": "2026-11-24",
       "close": 155.38,
-      "volume": 383594200,
+      "volume": 386223600,
       "rsi": 39.47,
       "ma5": 148.58,
       "ma20": 175.7815,
@@ -1711,6 +1711,16 @@
     }
   ],
   "news": [
+    {
+      "title": "黃仁勳強勢回歸Nvidia總部 馬斯克攜子現身合體慶賀 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbW43Nm1xQ0xYUXM1VWhzLTUzSkJNckg3VG1OZENMZjRrVG95MG1penpXTjd4V2RmZnJ3N1k5MDdFNDFZQko1REtSakJTRmtJbzU4Z3k0RjRJZVdBcFJpaG9B0gFnQVVfeXFMUEo5eWVNbF82NnRIVHJHSzNwSXJIMmd1Ti1sanNBa0k0bmk2c3lwNXNPTk9Ub3BSeUV1bXViOHJnTURXMXg0LWVYX0l1UEstWWZ4LWo2RnVMN2RYN3RyRTNWT2JJMUZudw?oc=5",
+      "date": "2026-11-26T03:14:49+08:00"
+    },
+    {
+      "title": "AI行情遭澆冷水，歐股全面走跌；Nvidia狂熱退燒，東京市場重挫2100點 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBveVBtYk0yWGNiZ0dmZm5GVDdCRTdDY0U0emJKU2xXVmFkLXNGUjU1UTNfWlladEQ0VjE3dDlYa2x5RFIyUHMzaHF3ZG5HNkkzZU1FUGNHb0p5NExBRV91dVRTNlI2UGFPTWEzVWRiQnZGb0N2dDRaZDhB?oc=5",
+      "date": "2026-11-26T02:55:00+08:00"
+    },
     {
       "title": "魯比歐憂Nvidia不利對中政策向川普示警國安威脅| 焦點即時| 川普2.0 | 世界新聞網 - 世界新聞網",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBad3pnVFpHLVBrMlZxV0Vta3VlNjRPbE1FRDNXVUQ4YVBaYUpLU0VabGhXSFdObnV4MmtIS3dBVmJmbE9BVERZNUtLZnQyeWJNaUJhSWFvc1NuMFEyc1JUNGtMX2M3ZS1kV0FoNURTU09VOEFQRzhBaUJJTVRVWkE?oc=5",
@@ -1725,17 +1735,7 @@
       "title": "美中AI金融連鎖震盪：Nvidia風暴、華府新禁令聯手冷卻亞洲「晶片+機房」大投資 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHRnM1R5dTFYVVo5SUFtVkxuWEVzWEluUndpZ2VoZnhyeGJBNkdsRGRtV0J5Y2g3V3BEOHAxdVh4M0UtYmp1cU96UmpqaVlZeEdiNXNCYk9LU3hISkNvNUs2S3JGNFpUaEJEbGdpMDUtYXIwZUZTUy10ck9GLVpKX2ZkSG5jX3RYQ3dudGFn?oc=5",
       "date": "2026-11-26T01:00:42+08:00"
-    },
-    {
-      "title": "三星HBM4E速度傳已達17Gbps 研發跨入NVIDIA要求門檻 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40N0dIUklOVHhGQzUycExUU280d2pfNUJaVEtKcjlIaUxpTWJMV1M2bUttMVpKRmc1bnUyMmh5Sjg5WWYyU0dxc2ZpdmlPZzNsR090TnNsMWluR0lGUEdqQkZDTC1VcXphbWRv?oc=5",
-      "date": "2026-11-26T00:46:18+08:00"
-    },
-    {
-      "title": "黃仁勳回歸Nvidia｜馬斯克攜兩子到總部合照 親身撐好友復職 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQN1gwTFg1M3lOdkd3ZEloM1FGT2ZZaU9mYm1kX0I2YjE5U1VEQUtIcWpQaDkyWGx2QTAtYlB3MEhLYmpIWjROWHpHcWN4NkVMVThuRUNkcG5VZlI4WlpFQndZRE5wS2k0Z0c1NUc3Wk96RkRwLXRVbFQ2TU9Mamt0RXpBaDNPWDAyQk1BU2h6S1Q3M0t6MGM2eHpzeXpWSV9uOGFiSk5vbTZ1TWhpOEtTMW5IazM0bVZOWDhTbGV5MnFiNGxlR3lLZmRTbjlJR1R3SkIzSjRSWnhfaGZ1RUhGM205OXhNXzhoRnFvTEpWcFNIWTAweEVxUUpYdmVGMDBlSjFCSEpMTDVLeElBdFgySm1qWlQ0OWNiNE1IQTlLSC0yNFlZay02b042aE1obUxOeG5TeEJfQk16RnY3WktuaEpvVFNpZ1pHUXhEY2JyTUc5WGNNYmxGRm9kZW5NYU5mRTE2NlkzOTg4dTJGRXoxdDg4cjBuLUV0SFhj?oc=5",
-      "date": "2026-11-26T00:26:13+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T02:41:11.342407+08:00"
+  "updatedAt": "2026-11-26T03:36:40.275025+08:00"
 }
