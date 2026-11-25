@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-26T04:27:37.965549+08:00",
+  "updatedAt": "2026-11-26T05:48:29.476172+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
       "name": "國巨",
       "query": "國巨",
       "currency": "TWD",
-      "date": "2026-11-24",
-      "dateTaipei": "2026-11-24T00:00:00+08:00",
-      "close": 341.0,
-      "change": 31.0,
-      "changePct": 10.0,
-      "volume": 2515428,
-      "bias": "中性",
-      "performance20": -34.55,
-      "volumeRatio": 0.06,
+      "date": "2026-11-25",
+      "dateTaipei": "2026-11-25T00:00:00+08:00",
+      "close": 309.0,
+      "change": -32.0,
+      "changePct": -9.3842,
+      "volume": 46079489,
+      "bias": "偏弱",
+      "performance20": -43.51,
+      "volumeRatio": 1.05,
       "recommendation": {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "action": "觀望",
         "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
         "reasons": [
@@ -31,20 +31,20 @@
         ],
         "resistance": [
           {
-            "price": 409.875,
+            "price": 397.975,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 514.725,
+            "price": 510.625,
             "source": "MA60（近 60 日收盤均價）"
           }
         ],
-        "volumeRatio": 0.0556
+        "volumeRatio": 1.0525
       },
       "commentary": [
-        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -34.55%。",
-        "本日成交量為前 20 日均量的 0.06 倍，量能較平淡。",
-        "RSI(14) 為 34.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -43.51%。",
+        "本日成交量為前 20 日均量的 1.05 倍，量能接近平常。",
+        "RSI(14) 為 30.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -1171,6 +1171,15 @@
           "ma5": 324.3,
           "ma20": 409.875,
           "ma60": 514.725
+        },
+        {
+          "date": "2026-11-25",
+          "close": 309.0,
+          "volume": 46079489,
+          "rsi": 30.85,
+          "ma5": 315.7,
+          "ma20": 397.975,
+          "ma60": 510.625
         }
       ],
       "news": [
@@ -1200,29 +1209,29 @@
           "date": "2026-11-25T17:32:36+08:00"
         }
       ],
-      "updatedAt": "2026-11-26T01:06:18.452468+08:00"
+      "updatedAt": "2026-11-26T05:48:19.015540+08:00"
     },
     {
       "symbol": "2308.TW",
       "name": "台達電",
       "query": "台達電",
       "currency": "TWD",
-      "date": "2026-11-24",
-      "dateTaipei": "2026-11-24T00:00:00+08:00",
-      "close": 1085.0,
-      "change": 95.0,
-      "changePct": 9.596,
-      "volume": 969382,
+      "date": "2026-11-25",
+      "dateTaipei": "2026-11-25T00:00:00+08:00",
+      "close": 1055.0,
+      "change": -30.0,
+      "changePct": -2.765,
+      "volume": 38155610,
       "bias": "中性",
-      "performance20": -28.15,
-      "volumeRatio": 0.05,
+      "performance20": -31.94,
+      "volumeRatio": 2.06,
       "recommendation": {
-        "date": "2026-11-24",
-        "action": "觀望",
-        "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+        "date": "2026-11-25",
+        "action": "減碼",
+        "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
-          "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-          "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+          "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+          "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
         ],
         "support": [
           {
@@ -1232,20 +1241,20 @@
         ],
         "resistance": [
           {
-            "price": 1190.75,
+            "price": 1166.0,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 1550.0,
+            "price": 1480.0,
             "source": "近 20 日最高收盤價"
           }
         ],
-        "volumeRatio": 0.0503
+        "volumeRatio": 2.0624
       },
       "commentary": [
-        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.15%。",
-        "本日成交量為前 20 日均量的 0.05 倍，量能較平淡。",
-        "RSI(14) 為 38.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -31.94%。",
+        "本日成交量為前 20 日均量的 2.06 倍，交易較熱絡。",
+        "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -2372,6 +2381,15 @@
           "ma5": 1007.0,
           "ma20": 1190.75,
           "ma60": 1582.25
+        },
+        {
+          "date": "2026-11-25",
+          "close": 1055.0,
+          "volume": 38155610,
+          "rsi": 37.6,
+          "ma5": 1006.0,
+          "ma20": 1166.0,
+          "ma60": 1570.3333
         }
       ],
       "news": [
@@ -2379,6 +2397,16 @@
           "title": "歐盟急劃數量紅線重塑版圖 台達電、電子六哥看俏 - DIGITIMES",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1NzVySG5XTUQ1UGxzQWxyMEdTNXJWeGZEQjdlSHFERlBjTGpmVWVrWURLa1hCWXFXcUp0T09BVkJtUkNaenhJWXVkX25vNFlUWkZYaHo0Ykl0TzNIeFl0MlJSY21WME9iT2FB?oc=5",
           "date": "2026-11-26T01:35:07+08:00"
+        },
+        {
+          "title": "輝達「親兒子」驚傳違約率飆升？郭哲榮爆真相：現在賣就輸了 - 三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHYlVNc3ZvaWlVMWV0V3FuMExORTFvMnl4ZHZKQlE1QVA3M19IR1NuMENnUm5iSThCQndvM1JUbVoycVJkRWxPNNIBTEFVX3lxTE1KbF95LUdrSnBkeXIyT0FhREVxNE56aDNmZDdqT0FSSTlkNjZoMWNBNDJOZWFvMEZyZWN6QTBjWkFub281emptWEZrM0I?oc=5",
+          "date": "2026-11-25T23:32:00+08:00"
+        },
+        {
+          "title": "黃仁勳返職熱度退燒、台股暴跌創史上第6大！「這檔」傳砸226億美元赴德州建廠奪成交王 台達電董座轉讓近半持股引關注 - FTNN 新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zT0Y2UUZBd29abFNGV043Y1BjWlY5eHlrd0pEd0RPbXZiWjhXczJKVFBSQU9fU1JwSkt4d2xHTWdpMjNycHRSSllyZw?oc=5",
+          "date": "2026-11-25T18:48:00+08:00"
         },
         {
           "title": "2308 台達電- 【00400A】11/25 操作日報｜趁大跌建倉京元電子，暴買貿聯-KY - 股市爆料同學會 - CMoney",
@@ -2389,41 +2417,31 @@
           "title": "台達電董事長鄭平申讓近半持股，逾301億元股票將轉入新設「廣曜籌備處」 - 鏈新聞 ABMedia",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12Q0RGYWJibGt5eWcxcWlTeXdvWEpyWGRHZVdqdmtZdFZLMU1yclNQOFl4VjhJQXNDUlpEYjZaSlFNWE9zcE5WWU9WdXRTS2hXcllHelBLVERwNzZaZkE?oc=5",
           "date": "2026-11-25T17:25:23+08:00"
-        },
-        {
-          "title": "台達電才重返千金股！董座申讓近半個人持股 逾300億元股票將轉往何處？ - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQRy0zaEpmYzVMUWhTUWxEbmtLNWcyNXZEeUFFUi1NR0JBSjhBTU9tR2Z5RE5TaEpGTjdNaHkybHk0VlUxZXZjbEYwb1BiR254anZpM3R1dUFPTlFmNWVmcTRhTEVSY0xaajg5NEhNa2lGUjFaVlllMUFwMG1UdzRJSGtFUmNwc3FaVW1ub042RkEycml3TUVLTU9vNGlBb1V5ZGwzN3FCNXJPTU16QlEybnNwU2lpT1JhQzgxeFJrU3ZRLTNxeHlRTkR4U2gtanRjcDgwTHpUVmVwSENhcENyM2sySHhzMjhhRFV6X0p6VzNDUFFOMGg0dXpnaTBudlVwSGZiQk1DMHQ2VkhYV2pNUUdPaVRHeUhkZUFsdTc1WmZnLWlIVS1OcU1uOE1zUXBZQndoOXlaQkJKODBPczJXQnJVcVkydVViVVdYUzhwOGwyTHhRUHJ2MkZaUHFSdlZSV0F6WXlVWUFOOUVDMWhuaVNsZ0NxaklQdmNJMFhTeGFpeGNIZEtqcldkblNLQzJTaTZVUS1pUWVlSmYza0NRcXQxdmIyQXBXX1VvR3o0MzM2RTZCb1E?oc=5",
-          "date": "2026-11-25T15:04:35+08:00"
-        },
-        {
-          "title": "【11/25台股收盤】跌1,927點失守4萬，市場盯301關稅 - 口袋證券",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2OXhSODVPbTlMblU4QW9FaGoyRlEtOVZlaUhZMjdjWHlJaTVtV0Uta2w0T2NPZk0yZlhMUU1fRmlmQXlUQ0l6dmZoOVRvMDlYa2dCLWhoSXJqeWZmQkF4UHctUkJiZw?oc=5",
-          "date": "2026-11-25T13:42:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-26T04:27:25.832412+08:00"
+      "updatedAt": "2026-11-26T05:48:19.822319+08:00"
     },
     {
       "symbol": "2330.TW",
       "name": "台積電",
       "query": "台積電",
       "currency": "TWD",
-      "date": "2026-11-24",
-      "dateTaipei": "2026-11-24T00:00:00+08:00",
-      "close": 2230.0,
-      "change": 200.0,
-      "changePct": 9.8522,
-      "volume": 10842942,
+      "date": "2026-11-25",
+      "dateTaipei": "2026-11-25T00:00:00+08:00",
+      "close": 2150.0,
+      "change": -80.0,
+      "changePct": -3.5874,
+      "volume": 79902880,
       "bias": "中性",
-      "performance20": -7.08,
-      "volumeRatio": 0.26,
+      "performance20": -11.34,
+      "volumeRatio": 1.94,
       "recommendation": {
-        "date": "2026-11-24",
-        "action": "觀望",
-        "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+        "date": "2026-11-25",
+        "action": "減碼",
+        "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
-          "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-          "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+          "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+          "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
         ],
         "support": [
           {
@@ -2433,20 +2451,20 @@
         ],
         "resistance": [
           {
-            "price": 2249.75,
+            "price": 2236.0,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 2385.1667,
+            "price": 2380.8333,
             "source": "MA60（近 60 日收盤均價）"
           }
         ],
-        "volumeRatio": 0.2562
+        "volumeRatio": 1.9408
       },
       "commentary": [
-        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -7.08%。",
-        "本日成交量為前 20 日均量的 0.26 倍，量能較平淡。",
-        "RSI(14) 為 47.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.34%。",
+        "本日成交量為前 20 日均量的 1.94 倍，交易較熱絡。",
+        "RSI(14) 為 43.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -3573,53 +3591,62 @@
           "ma5": 2107.0,
           "ma20": 2249.75,
           "ma60": 2385.1667
+        },
+        {
+          "date": "2026-11-25",
+          "close": 2150.0,
+          "volume": 79902880,
+          "rsi": 43.1,
+          "ma5": 2102.0,
+          "ma20": 2236.0,
+          "ma60": 2380.8333
         }
       ],
       "news": [
         {
+          "title": "2330 台積電 - 大盤5日線有守看來是跌下不去了要來出清反1買正2跟發哥了... - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13OVBGS1RBbU5MWkgwSnM2YzZlWlZJQnc2eFdrQ3d0VTRZYXNpSnhMRG5oWlVDVzRReTFMLXVCTTlBTF9TYUowTVNuQkdTdWxzcC1QbG9yNVQ?oc=5",
+          "date": "2026-11-26T05:35:47+08:00"
+        },
+        {
+          "title": "【科技早餐】台積電美國擴產新進展！向德州申請減稅，評估 226 億美元晶圓廠投資 - TechOrange 科技報橘",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUE5FZWlCRFhJY1RQbTAtWnE0Q29zT21pd3VNZkVyd0I0aGFWZkNCb19lUmdJRGVYQ2Z1NjFQV1JZQ21pa3UzN3dFX2tFdkp1SWhWcWRhLVp1UFN5SFVJN2QyLUlnRy0ydlVYcGlWVWNIV1Naa2V6em5uMlhXX0NjNg?oc=5",
+          "date": "2026-11-26T05:30:00+08:00"
+        },
+        {
+          "title": "【即時新聞】台積電(TSM)擬砸230億美元赴德州建廠，估創造逾640億美元經濟效益！ - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yZ0xHR2ZmeS1UcExodmUzcElWeklqX2gzMEdsRFlibldJZUpxVU1TV0MxM09jTG82Zmloc0dSVHl6YmRLSFR0Rzl0QXNRQ0s0Y1RZOEp3eDE?oc=5",
+          "date": "2026-11-26T05:10:52+08:00"
+        },
+        {
+          "title": "2330 台積電 - 台積電 ，台指期夜盤撐腰- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQcnN2SDM2T24xQjE4enJjN2N6V29EcHF1akRkazJDdm4zMUREUmRGd25QUW9ONjUyQVFBelgtQUFZUldSa0ZHYndKS0Y1dmw0MU9rdE4wZ00?oc=5",
+          "date": "2026-11-26T04:57:41+08:00"
+        },
+        {
           "title": "【川普12/4將出席台積電亞利桑那擴廠典禮 黃仁勳是否同框各界關注】 （#大表哥） - Facebook",
           "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQVlN4OHBscnBhOWMzeWtnQnd3S0VxclhFZTc5Qi1YRV9OOWR5cXNGbG9vcC1vU1dZYlZqYXZvbEZpN29OcE5LSk1oMThtSlczdmo0Sy1zQzk0b3FNUHRCUmRRZDJzaE9VaWJGdGZaa194c2trSkRydXlhNFB3NWwxeTVzR2VaZl9XSjZUaTd5ZXR0V2FUbi1OTHFsZk85MXk2bDNSQVFpcE5ZYjAybnhTMExrbWhldENOTFlkUy1USUFhRVJKN3JGQ2lRZmRPOU1xLVRGOFo4VEZ4TWdKdEZXb1N0Z3Q1MUFkeWJtbnFXV2JOUHNTM2NUWXlGd2hubzhDbmpnYWR5bncxbHptSFEzYzdxak90YmlYQnRMWWFhTmJzdVZ3NnhEM1RZNGw4MVNPYmhUUkNZZzNnRVFYTkhUUjlhM0JOS3hxRDk2aDI1OXMwb0w2alpWZDhLRmk4UmR2QU90dHFJUkdFOHlWMW84bW5xVl9laU0xTmhrT2dnTXFsTWg4SkE1MVdZOG9PV3BGS3NKOFo0VGZnVWMyMnpLQmJCRWRZblNnM3o1X2wwalVsTjBTOVZuRmV3RVoyMFB4MURubERWY0xMT1dmWDJfekZtbXpnZw?oc=5",
           "date": "2026-11-26T04:20:00+08:00"
-        },
-        {
-          "title": "台積美國擴廠典禮 這場盛宴...濃濃政治味 - 經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HT1ZVRVJEVHJBY3NkT2lXUnVNNUwxUGpCb1F6bmlvRWc1MFk3MGlFc1c4VUhvZjdVMFh6alA4NnhiMDNOVTlLSFhKUlI2cnowSGZRakV2N25pZ9IBX0FVX3lxTE9mVnNPbF85MVF4X2J3Z00yTUhaR0lnNnlUbVliWkxQM1FBRmZGcjNqLXVUenVGQV9WQ0EtWHBRQ3N0bGswYi1SSlRQby1zRWswRUpNT056QWJpMGJJcW5v?oc=5",
-          "date": "2026-11-26T03:31:53+08:00"
-        },
-        {
-          "title": "不只亞利桑納 台積電擬砸226億元進軍德州 廠址在這 - 世界新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85dzAyMEQ3Yk85R2dfNHppMS1HUVBhYVB5T0Q4bkd1OW1Tb3dpckstcmwtTGY2UjJOaE5nZ256V3BlQ01oNGtXR1hGV21mX01XMGZaRTc4QUYxVVBJbzN0emxn0gFnQVVfeXFMTUJDMHNHMXVVZkstX2puNGdqV1ZxcDdWYVBnWDBRUXF1Q2RibmxRdm1KZ2t2NGtIaExhME5hZTk4WWpveS14NEpiYXJBU0VXVVh4Sml4TXBzWllRN2U3elBPUWxyREowaw?oc=5",
-          "date": "2026-11-26T03:20:45+08:00"
-        },
-        {
-          "title": "2330 台積電 - ❤️ 給長期抱股族的一封真心話- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mSFljRG5jejl1a0UtVWplb0RFVFNndkJzUVZCVkVoa2ZtRVl6M0tGWklESmRsZzV0R195Y2VTeHltSmNLWWkzX0V3dmdfV29QaDZPeFQ2UDE?oc=5",
-          "date": "2026-11-26T02:58:44+08:00"
-        },
-        {
-          "title": "迎戰台積電生態系優勢 三星同步拔擢製程、IP與業務主管 - DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObXQxUXRnMUU3Yk1ZMzM4OURLZzY4REI0SjdNRG9zcjBaUGxicjJ3VjMxelN5MEJ0NW5zaTdicGpmVmpEZ21wLWhQbVZaQzlWeFNScWtQYXpLZHEwZ29HbllOWGxYOS12VVk2U1lfWHRDanlHWWJ5NXdGVnFCc2tWSVdSbnBTSWJQdjAtOF9IY3NzSzhGYkd4VlRGUDIzM2VXQ1E?oc=5",
-          "date": "2026-11-26T02:51:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-26T04:27:26.769452+08:00"
+      "updatedAt": "2026-11-26T05:48:20.575113+08:00"
     },
     {
       "symbol": "2301.TW",
       "name": "光寶科",
       "query": "光寶科",
       "currency": "TWD",
-      "date": "2026-11-24",
-      "dateTaipei": "2026-11-24T00:00:00+08:00",
-      "close": 204.0,
-      "change": 18.5,
-      "changePct": 9.973,
-      "volume": 3159375,
-      "bias": "中性",
-      "performance20": -19.21,
-      "volumeRatio": 0.18,
+      "date": "2026-11-25",
+      "dateTaipei": "2026-11-25T00:00:00+08:00",
+      "close": 189.0,
+      "change": -15.0,
+      "changePct": -7.3529,
+      "volume": 19413107,
+      "bias": "偏弱",
+      "performance20": -27.72,
+      "volumeRatio": 1.17,
       "recommendation": {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "action": "觀望",
         "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
         "reasons": [
@@ -3634,20 +3661,20 @@
         ],
         "resistance": [
           {
-            "price": 219.85,
+            "price": 216.225,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 261.5,
+            "price": 252.0,
             "source": "近 20 日最高收盤價"
           }
         ],
-        "volumeRatio": 0.1827
+        "volumeRatio": 1.1656
       },
       "commentary": [
-        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -19.21%。",
-        "本日成交量為前 20 日均量的 0.18 倍，量能較平淡。",
-        "RSI(14) 為 41.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -27.72%。",
+        "本日成交量為前 20 日均量的 1.17 倍，量能接近平常。",
+        "RSI(14) 為 37.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -4774,6 +4801,15 @@
           "ma5": 193.3,
           "ma20": 219.85,
           "ma60": 262.9833
+        },
+        {
+          "date": "2026-11-25",
+          "close": 189.0,
+          "volume": 19413107,
+          "rsi": 37.15,
+          "ma5": 189.5,
+          "ma20": 216.225,
+          "ma60": 261.1167
         }
       ],
       "news": [
@@ -4803,29 +4839,29 @@
           "date": "2026-11-25T14:40:05+08:00"
         }
       ],
-      "updatedAt": "2026-11-26T01:06:21.620471+08:00"
+      "updatedAt": "2026-11-26T05:48:21.193588+08:00"
     },
     {
       "symbol": "3711.TW",
       "name": "日月光投控",
       "query": "日月光投控",
       "currency": "TWD",
-      "date": "2026-11-24",
-      "dateTaipei": "2026-11-24T00:00:00+08:00",
-      "close": 530.0,
-      "change": 48.0,
-      "changePct": 9.9585,
-      "volume": 6585448,
-      "bias": "中性",
-      "performance20": -18.59,
-      "volumeRatio": 0.24,
+      "date": "2026-11-25",
+      "dateTaipei": "2026-11-25T00:00:00+08:00",
+      "close": 488.0,
+      "change": -42.0,
+      "changePct": -7.9245,
+      "volume": 36223265,
+      "bias": "偏弱",
+      "performance20": -29.78,
+      "volumeRatio": 1.39,
       "recommendation": {
-        "date": "2026-11-24",
-        "action": "觀望",
-        "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+        "date": "2026-11-25",
+        "action": "減碼",
+        "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
         "reasons": [
-          "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-          "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+          "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+          "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
         ],
         "support": [
           {
@@ -4835,20 +4871,20 @@
         ],
         "resistance": [
           {
-            "price": 581.0,
+            "price": 570.65,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 635.05,
+            "price": 633.1,
             "source": "MA60（近 60 日收盤均價）"
           }
         ],
-        "volumeRatio": 0.2439
+        "volumeRatio": 1.3895
       },
       "commentary": [
-        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -18.59%。",
-        "本日成交量為前 20 日均量的 0.24 倍，量能較平淡。",
-        "RSI(14) 為 42.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -29.78%。",
+        "本日成交量為前 20 日均量的 1.39 倍，交易較熱絡。",
+        "RSI(14) 為 38.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -5975,6 +6011,15 @@
           "ma5": 504.2,
           "ma20": 581.0,
           "ma60": 635.05
+        },
+        {
+          "date": "2026-11-25",
+          "close": 488.0,
+          "volume": 36223265,
+          "rsi": 38.72,
+          "ma5": 492.2,
+          "ma20": 570.65,
+          "ma60": 633.1
         }
       ],
       "news": [
@@ -6004,7 +6049,7 @@
           "date": "2026-11-25T08:15:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-26T01:06:22.294717+08:00"
+      "updatedAt": "2026-11-26T05:48:22.043357+08:00"
     },
     {
       "symbol": "NVDA",
@@ -6012,17 +6057,17 @@
       "query": "NVIDIA",
       "currency": "USD",
       "source": "Yahoo Finance",
-      "date": "2026-11-24",
-      "dateTaipei": "2026-11-25T05:00:00+08:00",
-      "close": 155.3800048828125,
-      "change": -9.67,
-      "changePct": -5.8588,
-      "volume": 386223600,
+      "date": "2026-11-25",
+      "dateTaipei": "2026-11-26T05:00:00+08:00",
+      "close": 149.3000030517578,
+      "change": -6.08,
+      "changePct": -3.913,
+      "volume": 356754671,
       "bias": "中性",
-      "performance20": -28.71,
-      "volumeRatio": 1.2,
+      "performance20": -30.68,
+      "volumeRatio": 1.06,
       "recommendation": {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "action": "觀望",
         "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
         "reasons": [
@@ -6037,20 +6082,20 @@
         ],
         "resistance": [
           {
-            "price": 175.7815,
+            "price": 172.4775,
             "source": "MA20（近 20 日收盤均價）"
           },
           {
-            "price": 207.6193,
+            "price": 206.4837,
             "source": "MA60（近 60 日收盤均價）"
           }
         ],
-        "volumeRatio": 1.1986
+        "volumeRatio": 1.0577
       },
       "commentary": [
-        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.71%。",
-        "本日成交量為前 20 日均量的 1.20 倍，量能接近平常。",
-        "RSI(14) 為 39.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -30.68%。",
+        "本日成交量為前 20 日均量的 1.06 倍，量能接近平常。",
+        "RSI(14) 為 37.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -6282,7 +6327,7 @@
           "date": "2026-06-18",
           "close": 210.69,
           "volume": 241272000,
-          "rsi": 50.38,
+          "rsi": 50.37,
           "ma5": 208.078,
           "ma20": 211.7945,
           "ma60": 203.559
@@ -7716,9 +7761,27 @@
           "ma5": 148.58,
           "ma20": 175.7815,
           "ma60": 207.6193
+        },
+        {
+          "source": "Yahoo Finance",
+          "open": 144.06,
+          "high": 150.37,
+          "low": 141.17,
+          "date": "2026-11-25",
+          "close": 149.3,
+          "volume": 356754671,
+          "rsi": 37.45,
+          "ma5": 148.248,
+          "ma20": 172.4775,
+          "ma60": 206.4837
         }
       ],
       "news": [
+        {
+          "title": "【Nvidia｜英偉達】黃仁勳復職股價急升三成後連跌兩日 標普警告或下調英偉達信貸評級 - 香港經濟日報HKET",
+          "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxOcTFkY19TN25VN0RCZ3FJTmFNTWE2aG02SUwxMm9udk1fQzczdDdISFFYMlc4N1BTWG1NemZPOEc2WVI1dUZxbXYwVEVjVHp2OWxuNko4bC1XQ0NJUmRXR1U2MUI4ekJJc09VSXFiQVRvSzNScXlvdEFYUy1rczFvWUFqckNBQnF0cDVOSFhkTUtsV3IyT3I1a282Qnczd1pWemVKMU9HbktSSHVxT0RNQklpaG9qVUJ0ZFFlZUt3TzBBZmhwZTBUOEZ2YUNraWcyMEZnSEhPRmZ0SHp0R243RVlTa092NktZNUtkUmFjSms5NlpFTXhqd2thY2p0aFJMWl9Rbkk4dDlWVmE3WDcwSk9ueWVWWEROV1RqMkVTLXJNMUpGTEJVT2hCWmNrWlBMMU9zQ3JqbEpONXp0OGt1VXZMTDItbU9HNmdBM1hCUDAzazlnaXI0YXNvU19UWjFUQnEyN2tRX1NnMGh5R1QxVUhHU1dTT3BkbTlKbE0yY3hudUdBMTlHcWE2cTZhNFJnX1VtcVNBWUVCQ3dVM0FOd1RtR3FKMmEwMXZtamdqdjlnakxTbXRYZzJ0VnhELV9RUDV0NUtKVWlna3F0VURFTFpSU1JDWnBjQm1QQUgxcW9rTnFzMXpOTUc5M185Ty1GTHJRYlhkWVN3RFdiYkpVdldfWnBWLUEyd0txZ09aU2t5bmdPWlZqdzFHWHBHck9wTHc?oc=5",
+          "date": "2026-11-26T04:49:18+08:00"
+        },
         {
           "title": "NVIDIA黃仁勳事件後 「KYC」成為供應鏈熱門關鍵字 - 聚財網",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMVHp0ZHE0MmtBc2xkNTZ2RnFKaGZxcUNTdDc3bXpxVEVscXV2SGdwZkpBcU9zWXRwR3l0dGl6ZHUzTDVVZDNIaU9KNEY?oc=5",
@@ -7730,22 +7793,17 @@
           "date": "2026-11-26T04:07:54+08:00"
         },
         {
+          "title": "標普將Nvidia列入降評觀察名單，憂心董事會獨立性 - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55QnNabE1tUWZKRHFLVFJiZE00ZTBaMkxaQkNnS1dzb243WGhBNnNjZVBPWlVZdnZQX0I1STktTzg0LW5CX1pIcEhPQVlJWWxoV251V3NnakhfTHFjajl4bVFuc3dlR2p5N2hFRXlwMk5XZ2NtZ2V6WXBB?oc=5",
+          "date": "2026-11-26T04:05:00+08:00"
+        },
+        {
           "title": "AI 泡沫殺到晶片與太空！從 Nvidia 震盪到百萬顆天上「算力衛星」，美中科技戰拉高全球風險 - CMoney投資網誌",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3hERlFaSUZaNkEzZ3pzUkh2S1dpZG1GWVlqd29FVHJQRm1WUmJaNXhCSUhFS3B6RmpTbTlVSzFCRlB2MmxJQ0JRcmU4ZmxXUkFPSkItS21wOFhFYVR5UFpiazRXSURuNnhXTkgzQzZXdW5nMEFkUGtXRUg5bXVqUnRiOTZuVENiQXJ4cC1R?oc=5",
           "date": "2026-11-26T04:00:43+08:00"
-        },
-        {
-          "title": "黃仁勳強勢回歸Nvidia總部 馬斯克攜子現身合體慶賀 - 世界新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbW43Nm1xQ0xYUXM1VWhzLTUzSkJNckg3VG1OZENMZjRrVG95MG1penpXTjd4V2RmZnJ3N1k5MDdFNDFZQko1REtSakJTRmtJbzU4Z3k0RjRJZVdBcFJpaG9B0gFnQVVfeXFMUEo5eWVNbF82NnRIVHJHSzNwSXJIMmd1Ti1sanNBa0k0bmk2c3lwNXNPTk9Ub3BSeUV1bXViOHJnTURXMXg0LWVYX0l1UEstWWZ4LWo2RnVMN2RYN3RyRTNWT2JJMUZudw?oc=5",
-          "date": "2026-11-26T03:14:49+08:00"
-        },
-        {
-          "title": "AI行情遭澆冷水，歐股全面走跌；Nvidia狂熱退燒，東京市場重挫2100點 - BigGo 財經",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBveVBtYk0yWGNiZ0dmZm5GVDdCRTdDY0U0emJKU2xXVmFkLXNGUjU1UTNfWlladEQ0VjE3dDlYa2x5RFIyUHMzaHF3ZG5HNkkzZU1FUGNHb0p5NExBRV91dVRTNlI2UGFPTWEzVWRiQnZGb0N2dDRaZDhB?oc=5",
-          "date": "2026-11-26T02:55:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-26T04:27:28.727218+08:00"
+      "updatedAt": "2026-11-26T05:48:22.589244+08:00"
     },
     {
       "symbol": "TSLA",
@@ -7753,45 +7811,49 @@
       "query": "Tesla",
       "currency": "USD",
       "source": "Yahoo Finance",
-      "date": "2026-11-24",
-      "dateTaipei": "2026-11-25T05:00:00+08:00",
-      "close": 384.67999267578125,
-      "change": -0.78,
-      "changePct": -0.2024,
-      "volume": 28792900,
+      "date": "2026-11-25",
+      "dateTaipei": "2026-11-26T05:00:00+08:00",
+      "close": 380.1400146484375,
+      "change": -4.54,
+      "changePct": -1.1802,
+      "volume": 33611915,
       "bias": "中性",
-      "performance20": -5.59,
-      "volumeRatio": 0.79,
+      "performance20": -5.96,
+      "volumeRatio": 0.94,
       "recommendation": {
-        "date": "2026-11-24",
-        "action": "續抱",
-        "summary": "已有持股可續抱，盯住月線與下方支撐。",
+        "date": "2026-11-25",
+        "action": "觀望",
+        "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
         "reasons": [
-          "收盤站在月線之上，月線也未低於季線，趨勢仍有支撐。",
-          "RSI 介於 40 至未滿 75；已有持股可續抱，尚未持股先等更合適的分批買點。"
+          "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+          "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
         ],
         "support": [
           {
-            "price": 383.3515,
-            "source": "MA20（近 20 日收盤均價）"
+            "price": 374.7415,
+            "source": "MA60（近 60 日收盤均價）"
           },
           {
-            "price": 374.3407,
-            "source": "MA60（近 60 日收盤均價）"
+            "price": 343.69,
+            "source": "近 20 日最低收盤價"
           }
         ],
         "resistance": [
           {
-            "price": 404.22,
+            "price": 382.1475,
+            "source": "MA20（近 20 日收盤均價）"
+          },
+          {
+            "price": 403.82,
             "source": "近 20 日最高收盤價"
           }
         ],
-        "volumeRatio": 0.7903
+        "volumeRatio": 0.944
       },
       "commentary": [
-        "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -5.59%。",
-        "本日成交量為前 20 日均量的 0.79 倍，量能較平淡。",
-        "RSI(14) 為 51.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+        "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -5.96%。",
+        "本日成交量為前 20 日均量的 0.94 倍，量能接近平常。",
+        "RSI(14) 為 50.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
         {
@@ -9457,6 +9519,19 @@
           "ma5": 374.818,
           "ma20": 383.3515,
           "ma60": 374.3407
+        },
+        {
+          "source": "Yahoo Finance",
+          "open": 370.515,
+          "high": 383.7299,
+          "low": 357.64,
+          "date": "2026-11-25",
+          "close": 380.14,
+          "volume": 33611915,
+          "rsi": 50.31,
+          "ma5": 374.102,
+          "ma20": 382.1475,
+          "ma60": 374.7415
         }
       ],
       "news": [
@@ -9486,7 +9561,7 @@
           "date": "2026-11-25T22:20:47+08:00"
         }
       ],
-      "updatedAt": "2026-11-26T04:27:33.484931+08:00"
+      "updatedAt": "2026-11-26T05:48:27.220883+08:00"
     }
   ]
 }

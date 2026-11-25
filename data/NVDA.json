@@ -4,17 +4,17 @@
   "query": "NVIDIA",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-24",
-  "dateTaipei": "2026-11-25T05:00:00+08:00",
-  "close": 155.3800048828125,
-  "change": -9.67,
-  "changePct": -5.8588,
-  "volume": 386223600,
+  "date": "2026-11-25",
+  "dateTaipei": "2026-11-26T05:00:00+08:00",
+  "close": 149.3000030517578,
+  "change": -6.08,
+  "changePct": -3.913,
+  "volume": 356754671,
   "bias": "中性",
-  "performance20": -28.71,
-  "volumeRatio": 1.2,
+  "performance20": -30.68,
+  "volumeRatio": 1.06,
   "recommendation": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -29,20 +29,20 @@
     ],
     "resistance": [
       {
-        "price": 175.7815,
+        "price": 172.4775,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 207.6193,
+        "price": 206.4837,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.1986
+    "volumeRatio": 1.0577
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -28.71%。",
-    "本日成交量為前 20 日均量的 1.20 倍，量能接近平常。",
-    "RSI(14) 為 39.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -30.68%。",
+    "本日成交量為前 20 日均量的 1.06 倍，量能接近平常。",
+    "RSI(14) 為 37.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -274,7 +274,7 @@
       "date": "2026-06-18",
       "close": 210.69,
       "volume": 241272000,
-      "rsi": 50.38,
+      "rsi": 50.37,
       "ma5": 208.078,
       "ma20": 211.7945,
       "ma60": 203.559
@@ -1708,9 +1708,27 @@
       "ma5": 148.58,
       "ma20": 175.7815,
       "ma60": 207.6193
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 144.06,
+      "high": 150.37,
+      "low": 141.17,
+      "date": "2026-11-25",
+      "close": 149.3,
+      "volume": 356754671,
+      "rsi": 37.45,
+      "ma5": 148.248,
+      "ma20": 172.4775,
+      "ma60": 206.4837
     }
   ],
   "news": [
+    {
+      "title": "【Nvidia｜英偉達】黃仁勳復職股價急升三成後連跌兩日 標普警告或下調英偉達信貸評級 - 香港經濟日報HKET",
+      "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxOcTFkY19TN25VN0RCZ3FJTmFNTWE2aG02SUwxMm9udk1fQzczdDdISFFYMlc4N1BTWG1NemZPOEc2WVI1dUZxbXYwVEVjVHp2OWxuNko4bC1XQ0NJUmRXR1U2MUI4ekJJc09VSXFiQVRvSzNScXlvdEFYUy1rczFvWUFqckNBQnF0cDVOSFhkTUtsV3IyT3I1a282Qnczd1pWemVKMU9HbktSSHVxT0RNQklpaG9qVUJ0ZFFlZUt3TzBBZmhwZTBUOEZ2YUNraWcyMEZnSEhPRmZ0SHp0R243RVlTa092NktZNUtkUmFjSms5NlpFTXhqd2thY2p0aFJMWl9Rbkk4dDlWVmE3WDcwSk9ueWVWWEROV1RqMkVTLXJNMUpGTEJVT2hCWmNrWlBMMU9zQ3JqbEpONXp0OGt1VXZMTDItbU9HNmdBM1hCUDAzazlnaXI0YXNvU19UWjFUQnEyN2tRX1NnMGh5R1QxVUhHU1dTT3BkbTlKbE0yY3hudUdBMTlHcWE2cTZhNFJnX1VtcVNBWUVCQ3dVM0FOd1RtR3FKMmEwMXZtamdqdjlnakxTbXRYZzJ0VnhELV9RUDV0NUtKVWlna3F0VURFTFpSU1JDWnBjQm1QQUgxcW9rTnFzMXpOTUc5M185Ty1GTHJRYlhkWVN3RFdiYkpVdldfWnBWLUEyd0txZ09aU2t5bmdPWlZqdzFHWHBHck9wTHc?oc=5",
+      "date": "2026-11-26T04:49:18+08:00"
+    },
     {
       "title": "NVIDIA黃仁勳事件後 「KYC」成為供應鏈熱門關鍵字 - 聚財網",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMVHp0ZHE0MmtBc2xkNTZ2RnFKaGZxcUNTdDc3bXpxVEVscXV2SGdwZkpBcU9zWXRwR3l0dGl6ZHUzTDVVZDNIaU9KNEY?oc=5",
@@ -1722,20 +1740,15 @@
       "date": "2026-11-26T04:07:54+08:00"
     },
     {
+      "title": "標普將Nvidia列入降評觀察名單，憂心董事會獨立性 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55QnNabE1tUWZKRHFLVFJiZE00ZTBaMkxaQkNnS1dzb243WGhBNnNjZVBPWlVZdnZQX0I1STktTzg0LW5CX1pIcEhPQVlJWWxoV251V3NnakhfTHFjajl4bVFuc3dlR2p5N2hFRXlwMk5XZ2NtZ2V6WXBB?oc=5",
+      "date": "2026-11-26T04:05:00+08:00"
+    },
+    {
       "title": "AI 泡沫殺到晶片與太空！從 Nvidia 震盪到百萬顆天上「算力衛星」，美中科技戰拉高全球風險 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3hERlFaSUZaNkEzZ3pzUkh2S1dpZG1GWVlqd29FVHJQRm1WUmJaNXhCSUhFS3B6RmpTbTlVSzFCRlB2MmxJQ0JRcmU4ZmxXUkFPSkItS21wOFhFYVR5UFpiazRXSURuNnhXTkgzQzZXdW5nMEFkUGtXRUg5bXVqUnRiOTZuVENiQXJ4cC1R?oc=5",
       "date": "2026-11-26T04:00:43+08:00"
-    },
-    {
-      "title": "黃仁勳強勢回歸Nvidia總部 馬斯克攜子現身合體慶賀 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbW43Nm1xQ0xYUXM1VWhzLTUzSkJNckg3VG1OZENMZjRrVG95MG1penpXTjd4V2RmZnJ3N1k5MDdFNDFZQko1REtSakJTRmtJbzU4Z3k0RjRJZVdBcFJpaG9B0gFnQVVfeXFMUEo5eWVNbF82NnRIVHJHSzNwSXJIMmd1Ti1sanNBa0k0bmk2c3lwNXNPTk9Ub3BSeUV1bXViOHJnTURXMXg0LWVYX0l1UEstWWZ4LWo2RnVMN2RYN3RyRTNWT2JJMUZudw?oc=5",
-      "date": "2026-11-26T03:14:49+08:00"
-    },
-    {
-      "title": "AI行情遭澆冷水，歐股全面走跌；Nvidia狂熱退燒，東京市場重挫2100點 - BigGo 財經",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBveVBtYk0yWGNiZ0dmZm5GVDdCRTdDY0U0emJKU2xXVmFkLXNGUjU1UTNfWlladEQ0VjE3dDlYa2x5RFIyUHMzaHF3ZG5HNkkzZU1FUGNHb0p5NExBRV91dVRTNlI2UGFPTWEzVWRiQnZGb0N2dDRaZDhB?oc=5",
-      "date": "2026-11-26T02:55:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T04:27:28.727218+08:00"
+  "updatedAt": "2026-11-26T05:48:22.589244+08:00"
 }
