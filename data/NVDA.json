@@ -1712,6 +1712,16 @@
   ],
   "news": [
     {
+      "title": "南韓政府盼開發NVIDIA Jetson替代品 三星不敢輕易投入？ - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wUmJyOGV0aUV6cTFJbC1Zb240M29jeXJKOG5UVDJpZDNQbXpSWDlDWm4xSTE4RUp5ejlBSGFFNjg0UjNtYVFxUG8zZEVQTkRTLUk1QnVYcTFnYm00RnpKVDRENS03X0FpXzFF?oc=5",
+      "date": "2026-11-27T01:04:57+08:00"
+    },
+    {
+      "title": "鎧俠聯手NVIDIA驗證SSD補足HBM容量 切入AI記憶體市場 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWYzl4QlBYNzdIbzdhMjJtMzdBYXVoaUtsb3Y3eDFTLXVLYjZHcXZjeXVJNzEwMlZTeEdsbzhZZFBaT0RyM2ZZQ1cxTWFoV0JkaUktSDlOb0EzbXJYcm43WEtCa3JFVW45aUVF?oc=5",
+      "date": "2026-11-27T00:42:31+08:00"
+    },
+    {
       "title": "KIOXIA、NVIDIA展示GB200 NVL72 AI記憶體擴充PoC：144顆SSD總容量約1.1PB - XFastest News",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYVo3cE05cW1NOUJlVUZETk5ZcTRJaHFyWUdxcXNPQks4dDhlLWdJZkxjQUVDMzZ5ZWRDcVNjQ3N2NzRtV0xqWDNBVzVoVjRlLTBrNHZkRXY4dkZwUHZlVndEZDNPMmdSNklDOUVtRU1CZEd1bkVUeXB0aFYwM01jelpPVVB2dEhnWHNWVHpqSm9iVk9KNWNOa3I0Qi1PTFQ1YjdEM0lJT0t5cWFFcXBFR1FUajBiSExkdlpNempDLU02NGZKQUpvU1kteVBQaUgwNWhUOVhQbkxRdFQzbGNVX2wyaGhyUnhsaENvS0pfdzhUazRnaTBleVdfeGJ4cTJuczdLVkh6N3l0X3dqNHpBdUFIRF9MV0dQU1p4LTVvNl90RVVKUGJB?oc=5",
       "date": "2026-11-27T00:01:41+08:00"
@@ -1725,17 +1735,7 @@
       "title": "BBC事實查核：紀錄顯示，特朗普的帳戶今年交易了44次Nvidia股票 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQRkdRaFlwV2NRWlpfOHFlQ3lkUXVRU3Jva3F4NXZFeU9ubFY2aDVBNHhWVG9kWGg4YTN3cHZwRWdXaVlFUUIwck1vTFFpZ3RrTHFpbmFIXzlEaWxoU3NWVjlYbXpYV1Qwd2Nwd01VLVNrWEg2WTVuYldoRHQzWXMxaXhGWUw4eF9QT2l5YWZZeDUydnFFMk5wWm5ITFVHbnFyLThKZy1obzdVYWVsUWdGWkQ4Y195RHlsYkFkbk1zcjdsajFYLWE4ZjdFemJOeWtVLXFPMFJ3SmQ4UVRSVVY2RV9GUVR2SmFyNHBFSXp0V2g4cEtuOFhVTzRHcXZ4V1BtZGxCZURUNWpEU2hxUmZtVUdQSm9qUjNVWXdSMXJvTHkxU0lyQkNJLXNPUV9rUmlJTzcwaWdQaGt3SjUzSGxQa0t2d0t3SUdkSzhWRFRwakI1a19KWGVEUlB5OEsxaEI0Q2o4dWNBaXo4TUZ1?oc=5",
       "date": "2026-11-26T21:23:27+08:00"
-    },
-    {
-      "title": "感恩節股市震盪警報：Nvidia暴跌引爆恐慌，別讓市場毀了你的假期！ - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkRzejZKQlFnTVdJcDVrbVBsaDUwbDFmS0d4Vi0yQnpEbTlQSzNYYVViZHV6SWd3NXNtekF3STg4Q0VEcUFlUjFzTnFYTzFZTGg0YUVOQm9jSkp6TlBFVVpVajc0aWxrcWlHNC1odENQTjhNVVdLNnIyTjRXZ1lFQ1lYd3c2QVE1c3hnTEpn?oc=5",
-      "date": "2026-11-26T21:22:30+08:00"
-    },
-    {
-      "title": "Nvidia 叫停向東南亞四國 AI 伺服器出貨 - 流動日報",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUd1SXF0MkttLU40Z0pjQVJBMGVJM0QtbUJKR1NuSUIxcnJKWUtKTWt4dDZfSVNuaTFNOHVKM29KQmZPTWJBUXpfaThybURzZldwNWVPZUFzY3Z3WExGU210SVNDeDJ0bGYzMjRibThzcmlLbm16U1pDMG8tMG9nNw?oc=5",
-      "date": "2026-11-26T20:38:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-27T00:47:20.722169+08:00"
+  "updatedAt": "2026-11-27T01:16:32.729790+08:00"
 }
