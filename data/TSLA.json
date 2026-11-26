@@ -9,10 +9,10 @@
   "close": 380.1400146484375,
   "change": -4.54,
   "changePct": -1.1802,
-  "volume": 33611915,
+  "volume": 34789900,
   "bias": "中性",
   "performance20": -5.96,
-  "volumeRatio": 0.94,
+  "volumeRatio": 0.98,
   "recommendation": {
     "date": "2026-11-25",
     "action": "觀望",
@@ -41,11 +41,11 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.944
+    "volumeRatio": 0.9771
   },
   "commentary": [
     "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -5.96%。",
-    "本日成交量為前 20 日均量的 0.94 倍，量能接近平常。",
+    "本日成交量為前 20 日均量的 0.98 倍，量能接近平常。",
     "RSI(14) 為 50.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1715,12 +1715,12 @@
     },
     {
       "source": "Yahoo Finance",
-      "open": 370.515,
-      "high": 383.7299,
+      "open": 370.52,
+      "high": 383.73,
       "low": 357.64,
       "date": "2026-11-25",
       "close": 380.14,
-      "volume": 33611915,
+      "volume": 34789900,
       "rsi": 50.31,
       "ma5": 374.102,
       "ma20": 382.1475,
@@ -1729,30 +1729,30 @@
   ],
   "news": [
     {
-      "title": "深度：從中芯國際到Tesla 上海市「一把手」如何主掌科技產業布局？ - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JMnhHVnFoR2pYSUozQzZnc2FUTExmdERuSUlzLWJNQmFuN3VBeVg2MGRlR2JCZFpSN3loUVBjd1FFT1lGdFFyQ1NqbDY4WjU0Q0NHVVUybkl1SmpWWTh3eWxEbmdfc2NSaHk0?oc=5",
-      "date": "2026-11-26T02:41:00+08:00"
+      "title": "台灣「特斯拉Cybertruck」官網下架！官方：提供退款轉單補償 - ETtoday車雲",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBZmFTLW5kOGtTcGwwMmdLSDZkelNsdXIxa2llUWNGeWtLcEUxbGlYV3hfdFZZX1VZR2hiV09nSkpxWEYzRXl2MzgyZDJtQ03SAU5BVV95cUxNcl9BWTNUV05QTk5zbUNjQnp6NnA3VExVdi1OWmdjR213ajFSd1h0Y2ZVRTFkVlhvbGVuQV8xT1kwOTlaLWh2Tm5kX0c5Tnc?oc=5",
+      "date": "2026-11-26T11:19:00+08:00"
     },
     {
-      "title": "#IXIC NASDAQ指數 - Tesla and SpaceX stocks sink as merger concerns mount - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaZElDVmh1ZGF0ZVpFcVhIbFVSdlAxdlZzazY5eXN0V0tTdFlSNXN5TEJ5bDB3MG12bU1EV1dRenAyNkNLVnAwR1dIejdoclRvNnZYUmZ4cHQ?oc=5",
-      "date": "2026-11-26T00:08:15+08:00"
+      "title": "特斯拉 Cybertruck 確定無緣台灣！官方取消預訂單、補償方案一次看 | electrify.tw - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIWWsxaE9pRXZTSFN3dXBOaUZLemVIc0RoWG9UbnNrMGo2VmV6bUJFb2xZRl8taC1IS05wRTRUR0tfVFE3dklFNlFqbkpUTG1XSDFFX2Z3?oc=5",
+      "date": "2026-11-26T10:36:45+08:00"
     },
     {
-      "title": "Tesla Inc(TSLA)股票11月25日盤中下跌5.12%：關鍵驅動因素揭曉 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmg2bWVLR19tbzFRSXBSOWs0ZXBPZUMxeW9yaXRLRzJIblA1dlhONkRVRXRQVjI4UXVOSFZOcy1MZXk3dk9iMi0zWFNQSER3STdacUoxc1Q2MllSQmNLQ3RjcFMxblNrZGUzem9RemNOMnpNNnpReVFOb1JfRGxMdEgwRklIaFdGTWx2WWZYem1IOTJNRkE?oc=5",
-      "date": "2026-11-25T23:16:40+08:00"
+      "title": "沙田路兩私家車相撞同翻車 1司機受傷 - Sing Tao Daily 星島日報加拿大",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd0F5U2FRbURmaV93NHlNdlVBdkFkLS1uemFNdXlnMnBDdUVQc1Boc2dkSlRzVVVYRElOVlFxZVVMQUNiSndSVG5fT2gxcXZYeTFxNnFudDhTcnJCWVZ1eHFLcHd4ckFQb25yTjVMMGlZaU5Qd2NBRzJmOFlXQkZBeklKTGpTcmNVc3Z3empJWmhwSFZnZ2hLd1JZRUVuNUN4MEVYd2dpeHlJTVVRaTVac1ZFQ19DRUE3aFJmdm1vcFMwVDA4NFcxNzZ4Z0g1V2xVR1VJSG91WW1Qa3g5WTFKMkFxLU5DVk9Ya2xtQU13Zmk4QS04V1drV9IBigFBVV95cUxQSDdQTzY2bHhSTW1FTk03a1M4V3ExQmhCUHNYUDloZHFueXJ3ZExzYnZEMmM3R2hfc1B0Umozd0x3VEhGRXFmSWZsU09yaEViNFJYYk5ldkxmcTJITkdpdGdqVm9hcVR2VWhBWm52c1Rmckh4R0J5UnEzRGFCS2gxLS1waGQxUGJ5UUE?oc=5",
+      "date": "2026-11-26T10:13:30+08:00"
     },
     {
-      "title": "【22:30 即時新聞】Tesla(TSLA) 跌5%／前一日強彈後回吐、避險情緒升溫壓回 AI 車電題材 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDVQZEJMRnNtNHZ3dF9aTDVnbTRVeUhTek1wb19XYmdJZ2Z2OC1QQUlYSExROTVoemt4U2JhTEdGVGEtMXpsWGt0TlBrSU5POGI5bks2VEkyYWprMk5oMEc0dnhUMHBPem1pVURVdnVGZ3RIcS1PTXk2R2p0S0RXNEY1RDRwblFpWkpqdmtn?oc=5",
-      "date": "2026-11-25T22:35:12+08:00"
+      "title": "沙田路Tesla失事撞壆後再撞車釀兩傷 揭男司機涉酒後駕駛 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPSVAyS1lsYzhGeHp0X2IyMXRyRTFtQnRUcDJpdXlhZXlwZjJIUVZ4TmhzbEFvVWhXM3k2OWhjd0d1aU5lZEc0TVF4WDlra3pzVHRUMlFRQW4xenZoVi1NZV9ZWFhrZEVaN0lqVjdsNFZfdHhiU3p6Z04wMndJZWxwVWtqX1A0TS1rME9GUGpkX1VuektTOXQzVGhuT0htWjlqcjJITUhWU0x5V2VTM1puOWpQQmF0MXJNa1h0Yk5LLXYxdkRpY2pSdXBqRktDVldPMXBvRlA1OHdaQzM2dlhBMmRLUUItTnNXczlRNGFabFlwTEo3cXNMNUZOQkIwTm5qSTFickQxQWxyVTBBbTFpQkEtZ0VoZTJYZmppY2JRYTVLNlNqNlRZLXp6eWNMSzdaWjNPRzZ1bWdPSjkxWW8yV0VJU3lCeGZ6ODZTdmJsUDFPakRDUXRPZXlCNjA4SDRrYkFsU1RjWi1TN1V3TFNCTFlkWklScm9JZEE?oc=5",
+      "date": "2026-11-26T10:09:08+08:00"
     },
     {
-      "title": "歐盟延後特斯拉輔助自駕審查 關鍵投票推遲至12月中旬 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SaHk3OTJwaVVuaGFrZU56S1dReXBwcERKOFNRazFrTlNsczEwNkJjRGdpTW1Yd3BJOTZweUdGTEpfR1BYQWJNSkI3aklXMDFVM29BX0VR?oc=5",
-      "date": "2026-11-25T22:20:47+08:00"
+      "title": "沙田路兩私家車相撞翻車釀2傷 揭Tesla司機涉酒駕超標逾3倍 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQTjFMTV9CTDNESFhyc1RITW9FaEVvb3B6LW8ycVZqMXJzNW1vekIyWEw3MXRQWjAyazRRWnRKQWpIU01aUldnb0paeTNhV0tfYlR4anA0SFNFWWFOTWE3UDVsTmZaaXEzWmp4Ui1WMHZDWG54dTJIOFVneXpDTXV6TGFjY29NZHdzMGdPLWZ0NmI4aWpVYkpyVjhfcC1jSzZLZmpuN21tWW1sYU4yOFpaYlcyb1p6SzI1UWcwaUx4andNNm04SDM0bzNIVV8tbVRhWHJZLU1HMzIydzRuN1I5MXhtMmktcktQeEZ1NWJPMExIWl9WX3lRZmtIRnM2SzhjMGVNNm52VWdsNUVYNUg5VGJ2UFY5YVRRYXJkekFOMEFJZ0tTZl9kRVBzRzZPQ0NkM2hLblQ0MENtNzJOamJYdGZHdGhtTkxhemxJRkVpd1lObHQ3RlROX1U2MkJZN2pMb3pYWElrVnNUN1BldDVPNk8yZ1paSUhxN2pBVQ?oc=5",
+      "date": "2026-11-26T09:31:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T05:48:27.220883+08:00"
+  "updatedAt": "2026-11-26T11:46:42.904898+08:00"
 }

@@ -9,10 +9,10 @@
   "close": 149.3000030517578,
   "change": -6.08,
   "changePct": -3.913,
-  "volume": 356754671,
+  "volume": 363377300,
   "bias": "中性",
   "performance20": -30.68,
-  "volumeRatio": 1.06,
+  "volumeRatio": 1.08,
   "recommendation": {
     "date": "2026-11-25",
     "action": "觀望",
@@ -37,11 +37,11 @@
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.0577
+    "volumeRatio": 1.0773
   },
   "commentary": [
     "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -30.68%。",
-    "本日成交量為前 20 日均量的 1.06 倍，量能接近平常。",
+    "本日成交量為前 20 日均量的 1.08 倍，量能接近平常。",
     "RSI(14) 為 37.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1716,7 +1716,7 @@
       "low": 141.17,
       "date": "2026-11-25",
       "close": 149.3,
-      "volume": 356754671,
+      "volume": 363377300,
       "rsi": 37.45,
       "ma5": 148.248,
       "ma20": 172.4775,
@@ -1725,30 +1725,30 @@
   ],
   "news": [
     {
-      "title": "【Nvidia｜英偉達】黃仁勳復職股價急升三成後連跌兩日 標普警告或下調英偉達信貸評級 - 香港經濟日報HKET",
-      "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxOcTFkY19TN25VN0RCZ3FJTmFNTWE2aG02SUwxMm9udk1fQzczdDdISFFYMlc4N1BTWG1NemZPOEc2WVI1dUZxbXYwVEVjVHp2OWxuNko4bC1XQ0NJUmRXR1U2MUI4ekJJc09VSXFiQVRvSzNScXlvdEFYUy1rczFvWUFqckNBQnF0cDVOSFhkTUtsV3IyT3I1a282Qnczd1pWemVKMU9HbktSSHVxT0RNQklpaG9qVUJ0ZFFlZUt3TzBBZmhwZTBUOEZ2YUNraWcyMEZnSEhPRmZ0SHp0R243RVlTa092NktZNUtkUmFjSms5NlpFTXhqd2thY2p0aFJMWl9Rbkk4dDlWVmE3WDcwSk9ueWVWWEROV1RqMkVTLXJNMUpGTEJVT2hCWmNrWlBMMU9zQ3JqbEpONXp0OGt1VXZMTDItbU9HNmdBM1hCUDAzazlnaXI0YXNvU19UWjFUQnEyN2tRX1NnMGh5R1QxVUhHU1dTT3BkbTlKbE0yY3hudUdBMTlHcWE2cTZhNFJnX1VtcVNBWUVCQ3dVM0FOd1RtR3FKMmEwMXZtamdqdjlnakxTbXRYZzJ0VnhELV9RUDV0NUtKVWlna3F0VURFTFpSU1JDWnBjQm1QQUgxcW9rTnFzMXpOTUc5M185Ty1GTHJRYlhkWVN3RFdiYkpVdldfWnBWLUEyd0txZ09aU2t5bmdPWlZqdzFHWHBHck9wTHc?oc=5",
-      "date": "2026-11-26T04:49:18+08:00"
+      "title": "純純正正嘅戀愛 #黃仁勳 #Nvidia #黃樂 #am730 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaUZBNVdTZUdYOGZiRHdaTWtQTElLd3lFTWlCRTlBNS1ZWU53VDRkV3Jrcks5NXRad1ppcC05OWFERWl5bEt3QjlrT0tqWjU0VUt1ZGVhbms0ZkJYRzkwNU53VGJjS1JkR004QVNxc0p3TFdialQtWUk2VGdCUHAtbTlFcWJtbzdSS1RXSjBVdFRUamRTZDh3ME1rdVdLc2xKZ1ZVWVlyUXBOWWFsNERiaF9UMEpsNWlWd0k1ck40b2lvWFNtZnpiOUZ4cEUwRGFPTVpaR3pvbklDMHhJVW1kN3VicExaaTBXVHVRenotOGJLOS1ZZGNaZXJCVHFjSDNCUWFONDRieDQxUEU?oc=5",
+      "date": "2026-11-26T11:40:42+08:00"
     },
     {
-      "title": "NVIDIA黃仁勳事件後 「KYC」成為供應鏈熱門關鍵字 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMVHp0ZHE0MmtBc2xkNTZ2RnFKaGZxcUNTdDc3bXpxVEVscXV2SGdwZkpBcU9zWXRwR3l0dGl6ZHUzTDVVZDNIaU9KNEY?oc=5",
-      "date": "2026-11-26T04:10:39+08:00"
+      "title": "美媒：盧比歐憂輝達不利對中政策，向川普示警國安威脅 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDZ4Z0VPbVJqQkg1aDdwTkVKMHZ3U1FxRU9JOHVoNXpBQXYxSmpFSjJBWFU4YTY1aWNsLTZZal95TTNaN2VLN2VsVzNqLVhuQVhoeUlWRFFKeUdMcHhOaUxoU2g3ZXl4WTdRWHlUaEJzaTlIcEM1eXZFUlVpM1RzSFZjMjc3andfcmNUUEhOSW5CTmZ4bmR5NnZITFJiNkcxZnc?oc=5",
+      "date": "2026-11-26T10:40:13+08:00"
     },
     {
-      "title": "美國出口禁令出現「漏洞」？Nvidia晶片如何透過第三國流入中國，引爆監管與安全大辯論 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEZ0MkF2VXZvVVlfbVlLMTJxbUpBOTdIWlhqWTR4anpQZTlmZ2R0MjZEQlZjQ21BZW9KeFZWOVlLc1J0aWluNUZwbEFFaDBzSHhXVnZhOHQ1MVlOcS1tUEN1M1BhU0pqZHBZSk9hRUhfUzZWZDJ4MlhkTGk1d1NIcl9NWWRoTVFDMUxScnR3?oc=5",
-      "date": "2026-11-26T04:07:54+08:00"
+      "title": "玩家苦了！傳輝達通知顯示卡夥伴：遊戲用 GPU 供應最多砍三成 - 鏈新聞 ABMedia",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsZjRMckdxc0hsbkFId0hNUWx4ZHljUlhoY0FEVXJoMnZqa0UzZHhyTHlVQUdMSlNabXBFbGhURTZCdHhhMFNfZ1lBNUJUMko3eDBQNTlTNDZyM0VNUmFSOHVETi0tc2ZfRjdZX19jOUVkbWg5MDJ5bWJ3?oc=5",
+      "date": "2026-11-26T10:34:46+08:00"
     },
     {
-      "title": "標普將Nvidia列入降評觀察名單，憂心董事會獨立性 - BigGo 財經",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55QnNabE1tUWZKRHFLVFJiZE00ZTBaMkxaQkNnS1dzb243WGhBNnNjZVBPWlVZdnZQX0I1STktTzg0LW5CX1pIcEhPQVlJWWxoV251V3NnakhfTHFjajl4bVFuc3dlR2p5N2hFRXlwMk5XZ2NtZ2V6WXBB?oc=5",
-      "date": "2026-11-26T04:05:00+08:00"
+      "title": "黃仁勳復職內幕曝光 華郵：五角大廈曾研議援引冷戰法律施壓Nvidia - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CcFRXQUtXcXRfZERYRTdTOFUzNTNXWGk0SFg2WkFwOGtCZURaaWJYa0x5Rll6bUlqMGhleHVHZ2M3T3ZwNmVCQVRDMk80enA5ZThxaGs3Tk9ndnVFSWpkYzhn0gFnQVVfeXFMT3FkWHI4SU5LOWh2UjBManV3LWMzUWV4NThXdDdmV2dORjc0TFQtWGZ6S3RuTjR3MWNfdVhqbFBmOUwtY3llcXJBZ0Q0WGRKQjg5MHNJUzYwT1h5ZkgxQmhNX2FSaUc5Yw?oc=5",
+      "date": "2026-11-26T10:30:52+08:00"
     },
     {
-      "title": "AI 泡沫殺到晶片與太空！從 Nvidia 震盪到百萬顆天上「算力衛星」，美中科技戰拉高全球風險 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3hERlFaSUZaNkEzZ3pzUkh2S1dpZG1GWVlqd29FVHJQRm1WUmJaNXhCSUhFS3B6RmpTbTlVSzFCRlB2MmxJQ0JRcmU4ZmxXUkFPSkItS21wOFhFYVR5UFpiazRXSURuNnhXTkgzQzZXdW5nMEFkUGtXRUg5bXVqUnRiOTZuVENiQXJ4cC1R?oc=5",
-      "date": "2026-11-26T04:00:43+08:00"
+      "title": "促成黃仁勳重返NVIDIA後 川普12月4日出席台積電美廠擴建動工 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ObEo5Wmt6OEFleEpQQUtUa0lQU2V1VGp0Ni1wX0pkRWlzV0RvVnA5Y3FCSWl2YnRQd2FTQ2kyMTFJSFFRRkpZb05XSWZBRzJFNHg0REd0ajBVTWtrWExWMGN2QmpsYVRSWGpN?oc=5",
+      "date": "2026-11-26T10:29:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T05:48:22.589244+08:00"
+  "updatedAt": "2026-11-26T11:46:38.048666+08:00"
 }
