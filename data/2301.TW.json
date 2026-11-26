@@ -3,22 +3,22 @@
   "name": "光寶科",
   "query": "光寶科",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 189.0,
-  "change": -15.0,
-  "changePct": -7.3529,
-  "volume": 19413107,
-  "bias": "偏弱",
-  "performance20": -27.72,
-  "volumeRatio": 1.17,
+  "date": "2026-11-26",
+  "dateTaipei": "2026-11-26T00:00:00+08:00",
+  "close": 198.5,
+  "change": 9.5,
+  "changePct": 5.0265,
+  "volume": 21812281,
+  "bias": "中性",
+  "performance20": -21.23,
+  "volumeRatio": 1.28,
   "recommendation": {
-    "date": "2026-11-25",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-26",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 216.225,
+        "price": 213.55,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 252.0,
+        "price": 243.5,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.1656
+    "volumeRatio": 1.2831
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -27.72%。",
-    "本日成交量為前 20 日均量的 1.17 倍，量能接近平常。",
-    "RSI(14) 為 37.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -21.23%。",
+    "本日成交量為前 20 日均量的 1.28 倍，交易較熱絡。",
+    "RSI(14) 為 41.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1177,13 +1177,27 @@
       "ma5": 189.5,
       "ma20": 216.225,
       "ma60": 261.1167
+    },
+    {
+      "date": "2026-11-26",
+      "close": 198.5,
+      "volume": 21812281,
+      "rsi": 41.26,
+      "ma5": 190.5,
+      "ma20": 213.55,
+      "ma60": 259.1333
     }
   ],
   "news": [
     {
+      "title": "《投信買超7-2》和碩(3784)、華新(3547)、光寶科(3293) - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWJkSFhnWmEtWWIwRFJnRk9Sb1ZoR0cxTkl0M1JHUFgydllwLXhpa2dYeEhnLTBjWjl4QlBIMW9XMGwzR2dCMk9Ua2hSTTQwOTUwcjY4WWQ3ZHlUUzByUDlaYTRXMmVZVm1TZlg2dFNpWXAwXzM4akQ2Q2FldEZiN08zM01kNVZX?oc=5",
+      "date": "2026-11-26T16:15:00+08:00"
+    },
+    {
       "title": "曾破產賠光積蓄、他靠「漲停8招」4年總報酬率893%！光寶科、世界先進、昇貿...選股冠軍公開「6大SOP」找飆股 - 今周刊",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXd6bzRqd2JHMkI3dWxXd0lGUVFpT0RfVTEwNXhjd245SjBpalFrWUFmbDBTR29hQlk0U3BESWZRSjVJcjBNcTZBUXVSNGxsX081Z2FPT3U5cWExell5YlFWYU81eVVOcU1EUEg2dUJVcXI3VWlnSmZTTEgwLUM4MA?oc=5",
-      "date": "2026-11-26T13:03:28+08:00"
+      "date": "2026-11-26T16:04:21+08:00"
     },
     {
       "title": "焦點股》光寶科：買盤點火 挑戰200元關卡 - 自由財經",
@@ -1199,12 +1213,7 @@
       "title": "《自營商買超34-28》光寶科(365)、英業達(626)、宏 碁(274) - 富聯網",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzNjbWJia3ZDWHFKV0x6ZWx5Q1VlLUpTNE9LMkJvb0QzR01sNzNKRmcwRkVINzZoSE40WmNjQ1hNNDltRE9PbkN3T1VXTlhleG9QcjBNeFlGOTVndEJjWGtpTi04ZVN3ZXpLV0E2aTNad0RUbjc4TXYwa1JXc2ZCZTFURHRoTTZv?oc=5",
       "date": "2026-11-26T07:33:00+08:00"
-    },
-    {
-      "title": "光寶科獲TCSA三大獎 永續治理串聯全球布局 - 台股 - 新聞 - MoneyDJ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXUzQW44YmNlZGluSVVuc3ZydmVnZWxPanpjcmtUcFBwM3N6WWdXblh5QlJ4RHVNbGV5X0ppaG1vclNFVEdlSVVYWkpTQWtMM3dfUEJITUlmNHB0UFdQNEZqbmVxUFg0dXh5Zk5GR1hzNXJQOUJtLW5IYTRtZlBuQXVR?oc=5",
-      "date": "2026-11-25T16:14:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T13:12:51.875157+08:00"
+  "updatedAt": "2026-11-26T16:52:18.836566+08:00"
 }

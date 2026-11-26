@@ -3,17 +3,17 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 488.0,
-  "change": -42.0,
-  "changePct": -7.9245,
-  "volume": 36223265,
-  "bias": "偏弱",
-  "performance20": -29.78,
-  "volumeRatio": 1.39,
+  "date": "2026-11-26",
+  "dateTaipei": "2026-11-26T00:00:00+08:00",
+  "close": 511.0,
+  "change": 23.0,
+  "changePct": 4.7131,
+  "volume": 32485228,
+  "bias": "中性",
+  "performance20": -25.18,
+  "volumeRatio": 1.21,
   "recommendation": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 570.65,
+        "price": 562.05,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 633.1,
+        "price": 631.2667,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.3895
+    "volumeRatio": 1.2061
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -29.78%。",
-    "本日成交量為前 20 日均量的 1.39 倍，交易較熱絡。",
-    "RSI(14) 為 38.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -25.18%。",
+    "本日成交量為前 20 日均量的 1.21 倍，交易較熱絡。",
+    "RSI(14) 為 42.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1177,6 +1177,15 @@
       "ma5": 492.2,
       "ma20": 570.65,
       "ma60": 633.1
+    },
+    {
+      "date": "2026-11-26",
+      "close": 511.0,
+      "volume": 32485228,
+      "rsi": 42.07,
+      "ma5": 493.6,
+      "ma20": 562.05,
+      "ma60": 631.2667
     }
   ],
   "news": [
@@ -1186,8 +1195,8 @@
       "date": "2026-11-26T12:23:25+08:00"
     },
     {
-      "title": "AI帶動封測需求強！日月光、京元電雙強爭霸 最新目標價出爐 - TVBS新聞",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xOHBmVk1RNlBUamI5Tm9vZGEzbHZSdjZaTXk0UEJoUHhjUmhEeWQ5Uk9LcXNtaXVoT1Y1d1RkR2NFYzlqSzR2R1RRNmh4N1k?oc=5",
+      "title": "AI帶動封測需求強！日月光、京元電雙強爭霸 最新目標價出爐 - TVBS",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5US2t2QlRjNGhycl9nZkpzXzVRSVFVWHBVVEFnUFNtZEVrNGRXX1ZCYUIyY0p5Skc1VlNmdGQzb3FTR2Rwbk1aYkN0MGdBdms?oc=5",
       "date": "2026-11-26T12:08:00+08:00"
     },
     {
@@ -1201,10 +1210,10 @@
       "date": "2026-11-26T10:20:33+08:00"
     },
     {
-      "title": "大盤暴跌又反彈！00406A、00991A、00403A狂掃金融股躲股災 - TVBS",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80SFFMMkJBVlRBak9DN0x0SjNKNk1pbktpbF9JSXRCUE11MlNQS2R6ajl5Q1l2TklwemUtSmdhZXA1Mm81X1NjeVBVdzNnR3c?oc=5",
+      "title": "大盤暴跌又反彈！00406A、00991A、00403A狂掃金融股躲股災 - TVBS新聞",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NNDFGSnlPdmJKM0VvWEVUY3I2dXlqMnNDM0NwRlhfQ2cxZWtiWkhtNjNpMzBubk9JY0FjVjRDallycnZGRjVUU2p2ZXdPbTA?oc=5",
       "date": "2026-11-26T09:33:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T13:12:52.560718+08:00"
+  "updatedAt": "2026-11-26T16:52:19.350334+08:00"
 }
