@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T03:17:26.257663+08:00",
+  "updatedAt": "2026-11-27T04:08:40.545053+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -4778,14 +4778,14 @@
       ],
       "news": [
         {
+          "title": "光寶科第3季營收574億年增28% 創2021年轉型後新高 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcm9uTW5lWlhoSTNBUlZ6QWR2SEd4a19uakxaY29aNVpqTUwwckp5YW5hV1Jzb3Fmd29rbU5wdHVJYW1ZNzVkbG45bll3WEl3QW84aC1wZGJXRmxrcXpoWXlGUXJvS3FlUENRTDVPSnltYWczNUV2clR0d2ZjbTE3b9IBX0FVX3lxTE04RW5aSFg0RURqYndzZFRTRnR6bnB6Smlrdl9vcXR5NDhTdUlmcG12Zm9GMmJoaWdLekx0V0FLRjlXSjlzOU1MOFhSelBpZDEtNGZPeTZubkFSUml4V2lR?oc=5",
+          "date": "2026-11-26T19:37:34+08:00"
+        },
+        {
           "title": "美國 301 關稅調查，電源供應器呢？台達、光寶這樣看 - TechNews 科技新報",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2ZkWk9MdHFYS3l5bDM1NDhBeG40MHpXb29IcWVkcy1ldGNrTkJLZFA5LTZQRGxzRVVMWVl0YkM4bV9hWmpXVm5qZ0dZSWxXLWZ3a3NxTkNpSXVPRWtIXzVUYUtHLVkxc1Z4U0NLZXBURXdFTnRuT2ZsbFN2UUt3OERIZ1IwdF9QYy1ydk9Ub0FvLTg?oc=5",
           "date": "2026-11-26T19:05:19+08:00"
-        },
-        {
-          "title": "《投信買超7-2》和碩(3784)、華新(3547)、光寶科(3293) - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWJkSFhnWmEtWWIwRFJnRk9Sb1ZoR0cxTkl0M1JHUFgydllwLXhpa2dYeEhnLTBjWjl4QlBIMW9XMGwzR2dCMk9Ua2hSTTQwOTUwcjY4WWQ3ZHlUUzByUDlaYTRXMmVZVm1TZlg2dFNpWXAwXzM4akQ2Q2FldEZiN08zM01kNVZX?oc=5",
-          "date": "2026-11-26T16:15:00+08:00"
         },
         {
           "title": "焦點股》光寶科：買盤點火 挑戰200元關卡 - 自由財經",
@@ -4798,12 +4798,12 @@
           "date": "2026-11-26T07:34:00+08:00"
         },
         {
-          "title": "光寶科獲TCSA三大獎永續治理串聯全球布局- 新聞 - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRENhSllKTUVLdE1CekRRUFd1MVlFdUN6RmZZeXRYS3NabTg4bEN6VTh1WFYyc3NMSzA5M250dzhyM3hKSzRwNHpqb2JPaF9rM3RZSWVhLXhya3dodWlxUXV5M2tWQlZ6VmVxMV9GMzlRN1VDNWV3U3RfcVFfR0t3ZGwwSk1xNm1oeWRHZVp4Ri1KQQ?oc=5",
+          "title": "光寶科獲TCSA三大獎 永續治理串聯全球布局 - 台股 - 新聞 - MoneyDJ",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXUzQW44YmNlZGluSVVuc3ZydmVnZWxPanpjcmtUcFBwM3N6WWdXblh5QlJ4RHVNbGV5X0ppaG1vclNFVEdlSVVYWkpTQWtMM3dfUEJITUlmNHB0UFdQNEZqbmVxUFg0dXh5Zk5GR1hzNXJQOUJtLW5IYTRtZlBuQXVR?oc=5",
           "date": "2026-11-25T16:14:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T03:17:18.667371+08:00"
+      "updatedAt": "2026-11-27T04:08:31.537833+08:00"
     },
     {
       "symbol": "3711.TW",
@@ -6017,10 +6017,10 @@
       "close": 149.3000030517578,
       "change": -6.08,
       "changePct": -3.913,
-      "volume": 363377300,
+      "volume": 366571900,
       "bias": "中性",
       "performance20": -30.68,
-      "volumeRatio": 1.08,
+      "volumeRatio": 1.09,
       "recommendation": {
         "date": "2026-11-25",
         "action": "觀望",
@@ -6045,11 +6045,11 @@
             "source": "MA60（近 60 日收盤均價）"
           }
         ],
-        "volumeRatio": 1.0773
+        "volumeRatio": 1.0868
       },
       "commentary": [
         "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -30.68%。",
-        "本日成交量為前 20 日均量的 1.08 倍，量能接近平常。",
+        "本日成交量為前 20 日均量的 1.09 倍，量能接近平常。",
         "RSI(14) 為 37.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
@@ -7711,7 +7711,7 @@
           "low": 141.17,
           "date": "2026-11-25",
           "close": 149.3,
-          "volume": 363377300,
+          "volume": 366571900,
           "rsi": 37.45,
           "ma5": 148.248,
           "ma20": 172.4775,
@@ -7745,7 +7745,7 @@
           "date": "2026-11-27T00:01:41+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T03:17:19.870758+08:00"
+      "updatedAt": "2026-11-27T04:08:32.870226+08:00"
     },
     {
       "symbol": "TSLA",
@@ -7758,7 +7758,7 @@
       "close": 380.1400146484375,
       "change": -4.54,
       "changePct": -1.1802,
-      "volume": 34789900,
+      "volume": 34915800,
       "bias": "中性",
       "performance20": -5.96,
       "volumeRatio": 0.98,
@@ -7790,7 +7790,7 @@
             "source": "近 20 日最高收盤價"
           }
         ],
-        "volumeRatio": 0.9771
+        "volumeRatio": 0.9807
       },
       "commentary": [
         "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -5.96%。",
@@ -9456,7 +9456,7 @@
           "low": 357.64,
           "date": "2026-11-25",
           "close": 380.14,
-          "volume": 34789900,
+          "volume": 34915800,
           "rsi": 50.31,
           "ma5": 374.102,
           "ma20": 382.1475,
@@ -9490,7 +9490,7 @@
           "date": "2026-11-26T22:55:05+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T03:17:23.139395+08:00"
+      "updatedAt": "2026-11-27T04:08:37.297625+08:00"
     }
   ]
 }
