@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 309.0,
-  "change": -32.0,
-  "changePct": -9.3842,
-  "volume": 46079489,
-  "bias": "偏弱",
-  "performance20": -43.51,
-  "volumeRatio": 1.05,
+  "date": "2026-11-26",
+  "dateTaipei": "2026-11-26T00:00:00+08:00",
+  "close": 339.5,
+  "change": 30.5,
+  "changePct": 9.8706,
+  "volume": 26190341,
+  "bias": "中性",
+  "performance20": -37.48,
+  "volumeRatio": 0.58,
   "recommendation": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 397.975,
+        "price": 387.8,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 510.625,
-        "source": "MA60（近 60 日收盤均價）"
+        "price": 502.0,
+        "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.0525
+    "volumeRatio": 0.5843
   },
   "commentary": [
-    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -43.51%。",
-    "本日成交量為前 20 日均量的 1.05 倍，量能接近平常。",
-    "RSI(14) 為 30.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -37.48%。",
+    "本日成交量為前 20 日均量的 0.58 倍，量能較平淡。",
+    "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,9 +1168,23 @@
       "ma5": 315.7,
       "ma20": 397.975,
       "ma60": 510.625
+    },
+    {
+      "date": "2026-11-26",
+      "close": 339.5,
+      "volume": 26190341,
+      "rsi": 37.62,
+      "ma5": 319.1,
+      "ma20": 387.8,
+      "ma60": 506.3333
     }
   ],
   "news": [
+    {
+      "title": "熱門股－國巨 跌深反彈強攻漲停 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ha0tkcGJNUG9wd25tNGpBNG5WMW02cGs4b0pqbGxzdmw4Qnk5VHRRVmJjSFdLVWJaS0tETTduM05Ed1dqaXlWajJuUWhFcTVNUC1DTGZWOU1xUWhGLUdqZTV3bVlrdWdkNnhn?oc=5",
+      "date": "2026-11-27T04:10:00+08:00"
+    },
     {
       "title": "國巨跌深反彈強攻漲停- 日報 - 工商時報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wT052NXlYV0RuSEx0WGppamh3ZUE1TWoxMGpiOFZjYzJ5aXltYlZhVlVUSzVaa0EyaVp3WGlRYmMxLTMxeDd0NUpoWlJNM2xOc0g5dW9NdENaYzVKZmJZ?oc=5",
@@ -1190,12 +1204,7 @@
       "title": "中美館「蠍子與青蛙」必看亮點！策展人帶路，解讀畢卡索、沃荷等66件典藏 - 500輯",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WNkh2b2JGRzN4TzcyaTFMT244MWswYzNFSnV2Uk1lM3dKeFhPOUgxWG15VUZ0N19xWXA4bF9vZTFSeXJLQ0Q1bEN2QUZsUDRSNERhTXQwVEctb05TeE5rYtIBZkFVX3lxTE5yQWNVelJKSmhDZkptQzNjeGpvYXFId2ZnZVprNXBaN3J5cWQ3bmJCU2hXY2xxYUR0T19EWWFsRGlrd2pIS0lySTdkdVJvWUN4NEliRmllMFo2YThOQ01xMG13TklCdw?oc=5",
       "date": "2026-11-26T22:04:49+08:00"
-    },
-    {
-      "title": "國巨跌掉7成終於硬起來！被動元件掀漲停潮 外資千元目標價不喊卡 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpbEhJVGFiTHZzVjRPYndXRHVVbDJZVTMxbE1aVTczbmlBQVlacm9VaWZ1aTlJd1dpNVU5YXBCb09VM3dyVXdYZDZ5eTM?oc=5",
-      "date": "2026-11-26T19:48:01+08:00"
     }
   ],
-  "updatedAt": "2026-11-27T03:17:16.518388+08:00"
+  "updatedAt": "2026-11-27T05:41:52.643697+08:00"
 }

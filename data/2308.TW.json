@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 1055.0,
-  "change": -30.0,
-  "changePct": -2.765,
-  "volume": 38155610,
+  "date": "2026-11-26",
+  "dateTaipei": "2026-11-26T00:00:00+08:00",
+  "close": 1120.0,
+  "change": 65.0,
+  "changePct": 6.1611,
+  "volume": 20847995,
   "bias": "中性",
-  "performance20": -31.94,
-  "volumeRatio": 2.06,
+  "performance20": -24.32,
+  "volumeRatio": 1.04,
   "recommendation": {
-    "date": "2026-11-25",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-26",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 1166.0,
+        "price": 1148.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1480.0,
+        "price": 1355.0,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 2.0624
+    "volumeRatio": 1.0392
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -31.94%。",
-    "本日成交量為前 20 日均量的 2.06 倍，交易較熱絡。",
-    "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -24.32%。",
+    "本日成交量為前 20 日均量的 1.04 倍，量能接近平常。",
+    "RSI(14) 為 42.2。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,9 +1168,23 @@
       "ma5": 1006.0,
       "ma20": 1166.0,
       "ma60": 1570.3333
+    },
+    {
+      "date": "2026-11-26",
+      "close": 1120.0,
+      "volume": 20847995,
+      "rsi": 42.21,
+      "ma5": 1030.0,
+      "ma20": 1148.0,
+      "ma60": 1558.5
     }
   ],
   "news": [
+    {
+      "title": "AI雜訊淡化 台達電、雙鴻勁揚 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNYkZPMW94UGpCY3pOQl9MLTV2Q0pLZ3RaNHdvaFVrSVBSellKTU5GckZ4Ny1hS0lueG80ZDhyZFhEbkVJeWZLVExaeDlFN19SMmdvSTI3U1U3YjNoT1pleG9JQlQ2UEo3VGQ0?oc=5",
+      "date": "2026-11-27T04:10:00+08:00"
+    },
     {
       "title": "AI雜訊淡化台達電、雙鴻勁揚- 日報 - 工商時報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zNDFNWHBvRnEzMUhlYkhEaGlFTm9yNXpFcHhSS0k1aGpoZGtjdU1TSHFkeF9OZHhuUVNINTI0eTlIUzQ3eGJQR0xTOF92SjExZ3JYT05IZWt2d2F1Znlr?oc=5",
@@ -1190,12 +1204,7 @@
       "title": "台積電2度測試年線漲回、台股漲956點 明大選投票前一日股民爭論是否攻上4萬點 - 信傳媒",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4cnhoc24zeTJEdm1aRkFjdG9rUWp5ek5YOGNLa1hDM3VsWFA5OGN6a1hpSF9TTEZ5SVdkOW9fdzBOdjR3MGNEUjJiT1pfR0VKN3ZXcnlDUW9SQQ?oc=5",
       "date": "2026-11-26T18:35:15+08:00"
-    },
-    {
-      "title": "智邦、健鼎、台達電領軍，10檔全過第1關加權漲956點-起漲K線 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2ZsNFhENWoxQTlvTmlWYnowcno5eWtIV1lfOFh5QzNleUI4d1hhR0ctQ05zZEJZSkNKdW1USloxYWloaENUbW1jX2l1RUphSzFITXRHY2kyb1BPQ3loVzNnS2FhMFk5S0xndmN6X0plakI2Yk55S2J6SFJPWk92YzRYc3k?oc=5",
-      "date": "2026-11-26T18:29:07+08:00"
     }
   ],
-  "updatedAt": "2026-11-27T03:17:17.462131+08:00"
+  "updatedAt": "2026-11-27T05:41:53.898591+08:00"
 }

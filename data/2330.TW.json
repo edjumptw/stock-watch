@@ -3,22 +3,22 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-25T00:00:00+08:00",
-  "close": 2150.0,
-  "change": -80.0,
-  "changePct": -3.5874,
-  "volume": 79902880,
+  "date": "2026-11-26",
+  "dateTaipei": "2026-11-26T00:00:00+08:00",
+  "close": 2145.0,
+  "change": -5.0,
+  "changePct": -0.2326,
+  "volume": 42245442,
   "bias": "中性",
-  "performance20": -11.34,
-  "volumeRatio": 1.94,
+  "performance20": -11.18,
+  "volumeRatio": 0.96,
   "recommendation": {
-    "date": "2026-11-25",
-    "action": "減碼",
-    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
+    "date": "2026-11-26",
+    "action": "觀望",
+    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
-      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
-      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
+      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
+      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
     ],
     "support": [
       {
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2236.0,
+        "price": 2222.5,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2380.8333,
+        "price": 2376.25,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.9408
+    "volumeRatio": 0.9564
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.34%。",
-    "本日成交量為前 20 日均量的 1.94 倍，交易較熱絡。",
-    "RSI(14) 為 43.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.18%。",
+    "本日成交量為前 20 日均量的 0.96 倍，量能接近平常。",
+    "RSI(14) 為 42.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,9 +1168,28 @@
       "ma5": 2102.0,
       "ma20": 2236.0,
       "ma60": 2380.8333
+    },
+    {
+      "date": "2026-11-26",
+      "close": 2145.0,
+      "volume": 42245442,
+      "rsi": 42.83,
+      "ma5": 2111.0,
+      "ma20": 2222.5,
+      "ma60": 2376.25
     }
   ],
   "news": [
+    {
+      "title": "2330 台積電 - 市場一次比一次狠，我一次比一次清醒。能活下來才有資格談獲利。 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5WkgybmRSc005bXU5TnhFUWpBT0plQlpkSk93aXBCcC1MUGF4LTFnMjVLal9TVTctZFhycW9CaHlYd0FFcVcyMEhZRVQ2MVpXdzRfZzJHUGY?oc=5",
+      "date": "2026-11-27T04:52:21+08:00"
+    },
+    {
+      "title": "2330 台積電 - 半導體業躲過301關稅 AI 伺服器、手機、晶片等均獲豁免備戰232條款 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OREFhVUFDNGlVQWJMaWhfb25Ea0JNaVBuWXVrTjZ1Rm9meld5TTBneFJxUkR4SXdIY0dIX19vVUZqdmNaLUV2ejJVTUFCM3ZPb0xLVDhqWDA?oc=5",
+      "date": "2026-11-27T04:20:09+08:00"
+    },
     {
       "title": "TEL獲台積電卓越量產支援獎- 日報 - 工商時報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kT1g3SW5Wa21yYXRTYXlRXzB1dVNGZjV2WERCUm1FZjgzcGRfbmxmclBPTXFwYXJiWkY0U1NYVWZPTm1zNjdYcnBreTRia3hBQV82Z3lraUFJbnBaSmpR?oc=5",
@@ -1185,17 +1204,7 @@
       "title": "台積電德州廠細節曝光！擬砸226 億美元建2 奈米廠，10年減稅成設廠關鍵｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
       "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQNll2dGVEVHBOSGJYTmNqNF9kSHRKZ3Q0b2l6NmFHdktMcmdtOWNwTW9HYzdITFNiOWFzeEFrdXY0M2V1RmZOdVBQLTZuaWJDZDRyNk84RGtHUkNxSG85REdYR3JRN2k5U01VRW1pdEE2TTJoZUhpU3RPcC1hbEtlTjlWV0VKR3lGMzJ4ZURvQVB0OFlySVBPUk5acndrT29YSXFTamI1TXl4RVVmMHBabXVPTGg2YUJMQXJJMXBFWktqM1FVa0xNYUk2alBkVElhbGtnZjdhcl9MSWpSU0tUdHhEeE9QeFFHUUk4WTBGU3hXYjZBUnRIbU1oNjdfMkFVRVFseHBNV1FJaWNWaFRhcXFEYjE5MG1HY2tGQnR4Wmo0V2sySjBPaFlOU1lVZXJMRjEtRU9BZ2NhVjlCdUV6TTVWMnkyLWota19XVkVRaUVrTUNoZEE2cUVxX0RneUJTMnNuckZ6YmVBbmVTb05kcjExMnc0bmd1bGRRYUd5NWM3SFYtbjkwUzRTeTNuUzE0NmN0UUp2bHoxQ09KdHFjckQ3Z1I5NUcyYWVGb2ZKem12VE5oSGNvX1l2dTZFdWxvV0xpemNXeWpTUWtzUHd1dExUNVZka3NDSlA1SGlueFlOYjU5VTZzSkM4bDZFcU41RWRYWms4a21KdFlHWENEWXV3?oc=5",
       "date": "2026-11-27T01:41:37+08:00"
-    },
-    {
-      "title": "台灣選後崩盤到20000點 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TjBYMm82akRDZXFqd3FVdFR0TE05ek1WXzU4WG1RaUMxNUdfbTVReHlva05fTU5GVnFub3U1UnVmTmxJSGR1aWpYWTMzZXZ0R3dGclVvbS0?oc=5",
-      "date": "2026-11-27T00:13:10+08:00"
-    },
-    {
-      "title": "法人一日賣超金額排行榜 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YenVCeXV1MVBZaVF2bVZvOVkwWUJfaXNmdGNGamlvRW44QVlwelNYMUxtWHdPXzA3bksxbTVONjRfZmV2UUUzVWNBU2gyQXQ1TTkzbVR0Mk8?oc=5",
-      "date": "2026-11-27T00:10:12+08:00"
     }
   ],
-  "updatedAt": "2026-11-27T03:17:18.081776+08:00"
+  "updatedAt": "2026-11-27T05:41:54.783141+08:00"
 }
