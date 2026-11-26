@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-26",
-  "dateTaipei": "2026-11-26T00:00:00+08:00",
-  "close": 339.5,
-  "change": 30.5,
-  "changePct": 9.8706,
-  "volume": 26867526,
-  "bias": "中性",
-  "performance20": -37.48,
-  "volumeRatio": 0.6,
+  "date": "2026-11-25",
+  "dateTaipei": "2026-11-25T00:00:00+08:00",
+  "close": 309.0,
+  "change": -32.0,
+  "changePct": -9.3842,
+  "volume": 46079489,
+  "bias": "偏弱",
+  "performance20": -43.51,
+  "volumeRatio": 1.05,
   "recommendation": {
-    "date": "2026-11-26",
+    "date": "2026-11-25",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 387.8,
+        "price": 397.975,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 502.0,
-        "source": "近 20 日最高收盤價"
+        "price": 510.625,
+        "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.5994
+    "volumeRatio": 1.0525
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -37.48%。",
-    "本日成交量為前 20 日均量的 0.60 倍，量能較平淡。",
-    "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -43.51%。",
+    "本日成交量為前 20 日均量的 1.05 倍，量能接近平常。",
+    "RSI(14) 為 30.9。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-26",
-      "close": 661.0,
-      "volume": 27484984,
-      "rsi": 83.87,
-      "ma5": 614.6,
-      "ma20": 448.725,
-      "ma60": 335.0417
-    },
     {
       "date": "2026-05-27",
       "close": 701.0,
@@ -1177,43 +1168,34 @@
       "ma5": 315.7,
       "ma20": 397.975,
       "ma60": 510.625
-    },
-    {
-      "date": "2026-11-26",
-      "close": 339.5,
-      "volume": 26867526,
-      "rsi": 37.62,
-      "ma5": 319.1,
-      "ma20": 387.8,
-      "ma60": 506.3333
     }
   ],
   "news": [
     {
+      "title": "南亞科、國巨 四檔吸睛 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vcTdtS0pyX1pOaVVyVXlxeHhYZWZod3dLUWpJSzYwcDBYLThXbTlIaXBBYndvQXlXRHlhMF9vYWVYSElodVpKUEsxSlUxbVFVRkpKYVdFUlJ6QdIBX0FVX3lxTE1YR2tkR1NDVTkzclpRRzZoOGc0U2ZSWmNXR0xKZ0ljcHhXWHBHU1R1TTlLNkRQbUtFd1Z5NDVVRTVSeEx6dXh6cDlXSkpqbHhuRlBuM0puc045cmdNcktJ?oc=5",
+      "date": "2026-11-26T23:52:22+08:00"
+    },
+    {
       "title": "三大法人買賣超 – 外資買超(2603)長榮、(2327)國巨*，投信買超(2412)中華電、(2383)台光電，法人合計賣超132.65億元 - 永豐金證券",
       "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPR3dsSGhFdTI3cVdTdWxJTk9yRDhDb05BYjJuRjExbURBZk5CeWY5ZjJ3ZkV0Tk5NZXFVNU4xTTBxeWlERS1KeXBLdU40YkRSMDBxYzV4MFdicExOQnhSMWtGZ2UtdkdscXAweVNnam4yb2tIUXZHZVRHWFdRTmkwSWxWeFg2ODB3ZmNmTzVWSEw1Sy0yNlJaSUhSSER4TEE1d0o3akJZa1hsQmNlR3dqRmF2c3VjZU1PcHgyYkpFcC1RSFp4bHZIREV6cHBwZ3BTVkdmYThxREFZUHFQVW5uWHEyMVZsckZIWndITTc4WHc1MmU4U3NYTGkwdHNKS2JHVkV6cUEwTHpRVEZOSlpZWmFhWjc3YlItTEZ0T3RVVzBjbi1GOTRsMXBKV0NkcUtnMnFBU1R3Z3hBa2pJa1c3N0xTcEs2N0dXVG5odnNscHpvbkJVWGxSbm16RzZkRERNNUxFUGlneFBZU2VEcWhxX09odXdYNHk3OVA2VW1lVG85ZlM1SzRmY3J4bXBqY2dBRnVqUFR6TXFiWXJjR2IxbmlKWmx2WnZ0VURNMXROUk9USVBuQlh0V1RrQWMtSWV5MDlIdXZEa2lNcmQydy0tNnF1TVdjSDNDaUoySjNTUWpvQUJfWkdNRTViSURvU0ZCc01CUkZCSDZjVU1vXzgyMTRkc3hSZUhVOF9hNGVKbEJKMDF6S1VYNVRjOXlCcFdnMlJZSnZYRnlNdmxmM2owdXAzdHJ2MWh4Q1ZSRGs1SHBGNXk3NnEzUmo0NHNuQV9FbnpXSA?oc=5",
-      "date": "2026-11-26T16:37:35+08:00"
+      "date": "2026-11-26T20:08:23+08:00"
     },
     {
-      "title": "低軌衛星起飛！「這檔」累漲近40%牽17檔漲停 華通、國巨、奇鋐、穩懋、昇達科都亮燈 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeFN1ektqYVY1R19PTG05Nm1JaTZtN2NKblVCYmFMX3BRUGNiZGgyc204ZEdPYzhfeEZuTnc2MnlkNzBGLUJ2OHcxUkstRlpfUkhYaXQwcGFDcUJOeWRfNGRvSTdRVHlMM0FISmh6U0hoclQ3UFNFRXJDVXVYQmlESWY4RGxGU2UyN2Nha0JIRzRzcTcyVXpRV2dncGstMmRjblBWWmc1dUliQWowal8zdWp5ZXVic3RaaF9TOVlmOTJYRjN1Y2h0VVc2S1R2cXlVWkluMXRLWWphU2ZxVlFrQl93bWR1eGZRRHlVS3FVd1pUOE5KSWprR0tHbU85WEI2SVJpRTVsajhVbEZFVWNpV1N1ajBYUnJvTUcybFkwTzFNZHdhTUlkTGxJUlRZamZ2cEE?oc=5",
-      "date": "2026-11-26T16:15:00+08:00"
+      "title": "國巨跌掉7成終於硬起來！被動元件掀漲停潮 外資千元目標價不喊卡 - 聚財網",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpbEhJVGFiTHZzVjRPYndXRHVVbDJZVTMxbE1aVTczbmlBQVlacm9VaWZ1aTlJd1dpNVU5YXBCb09VM3dyVXdYZDZ5eTM?oc=5",
+      "date": "2026-11-26T19:48:01+08:00"
     },
     {
-      "title": "外資又賣491億！台積電殺尾盤 大立光、南電及國巨漲停 台股反彈956點收復39K - 知新聞",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxcGRmY1BmLV9YQmVlUnpUMUFSTFZiNzcwN3hSZzBmWlk2bTMwbzJPbWMwM1ZVSnA1VjR3ajFteDJGUWtobzhoc25WSHFTYzVNVGxIb1FBMFJwbFVaU1NMdDBaQzNnM1FBX2NSaV9TWQ?oc=5",
-      "date": "2026-11-26T15:05:55+08:00"
+      "title": "11／26台股雷達｜大盤反彈千點華通、緯創、國巨＊股價勢頭強勁亮眼- 證券 - 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SUM3c3FjVFdyNG1FUUFJWVpGSVF3dFJUOHg5c3hiY1pWanlOVlZHNUZxMXlDeTN3V0IwWkZabHU2NW5ISXRCQzVuTUpHNDVpVjl3X1M1SXZhaUNMLTlV?oc=5",
+      "date": "2026-11-26T19:09:00+08:00"
     },
     {
-      "title": "2327 國巨* - 哭哭 空一口小國 明天要被嘎到天花板了🥲 - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hZnhxbm9PWUsyX3BaelZaaWpxcFg1am02Q1d1LS1nYkVtbkNrMGpPN2lLYVFYekYzaU1oMGJLSE53ekpwbXZjUm9GRFFfc0o0cGZJS1dMa3c?oc=5",
-      "date": "2026-11-26T14:21:25+08:00"
-    },
-    {
-      "title": "國巨、欣興、台達電洗盤完畢準備噴出？「最狂分析師點名6檔AI超跌股」最新目標價、法人進出籌碼全揭露 - 旺得富理財網",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KN0tnMGFPdGNPUGZiNzBtVHI2dE94c2wxWjRYemtEZFhjVm5CS1kybEdOUUhWR1A0ZWh2cGdRaXJRMjlXeW1GdUN6bDMzRjV1a0ZsUFVncm1ZWTR3N3dUWEhJZUZjRnlmcGc?oc=5",
-      "date": "2026-11-26T14:15:13+08:00"
+      "title": "2327 國巨* - 投信堅持不買超就對了 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WeDY5RW1zYmFaNFRncVpJZEVYXzFibmxyU2dqa1MtVDBkMHN1QU9DcDNIQ25RTTNHM2M2d0h0S2p2a2I3a1RQMEZVVE9keE5zWnQ1NUxXSHM?oc=5",
+      "date": "2026-11-26T18:01:11+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T16:52:16.872869+08:00"
+  "updatedAt": "2026-11-27T00:47:16.226073+08:00"
 }

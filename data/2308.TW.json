@@ -3,22 +3,22 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-26",
-  "dateTaipei": "2026-11-26T00:00:00+08:00",
-  "close": 1120.0,
-  "change": 65.0,
-  "changePct": 6.1611,
-  "volume": 21427505,
+  "date": "2026-11-25",
+  "dateTaipei": "2026-11-25T00:00:00+08:00",
+  "close": 1055.0,
+  "change": -30.0,
+  "changePct": -2.765,
+  "volume": 38155610,
   "bias": "中性",
-  "performance20": -24.32,
-  "volumeRatio": 1.07,
+  "performance20": -31.94,
+  "volumeRatio": 2.06,
   "recommendation": {
-    "date": "2026-11-26",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-25",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 1148.0,
+        "price": 1166.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 1355.0,
+        "price": 1480.0,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.0681
+    "volumeRatio": 2.0624
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -24.32%。",
-    "本日成交量為前 20 日均量的 1.07 倍，量能接近平常。",
-    "RSI(14) 為 42.2。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -31.94%。",
+    "本日成交量為前 20 日均量的 2.06 倍，交易較熱絡。",
+    "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-26",
-      "close": 2350.0,
-      "volume": 10816822,
-      "rsi": 67.72,
-      "ma5": 2136.0,
-      "ma20": 2149.0,
-      "ma60": 1760.6667
-    },
     {
       "date": "2026-05-27",
       "close": 2520.0,
@@ -1177,43 +1168,34 @@
       "ma5": 1006.0,
       "ma20": 1166.0,
       "ma60": 1570.3333
-    },
-    {
-      "date": "2026-11-26",
-      "close": 1120.0,
-      "volume": 21427505,
-      "rsi": 42.21,
-      "ma5": 1030.0,
-      "ma20": 1148.0,
-      "ma60": 1558.5
     }
   ],
   "news": [
     {
+      "title": "【金包銀之台達電：跳空深蹲，量縮越過短中均線直逼季線！】 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50dDBaUnVNLWsxZXlZeHRmYlNObm1XaW5nbU5HYmhfMFJFd01zQnAyLW8yZlpIMkxkbFFqNVhJMllTbnVadk9fRU0zcjFXWGhWdjVYU2xSMGM?oc=5",
+      "date": "2026-11-26T19:34:36+08:00"
+    },
+    {
+      "title": "美國 301 關稅調查，電源供應器呢？台達、光寶這樣看 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2ZkWk9MdHFYS3l5bDM1NDhBeG40MHpXb29IcWVkcy1ldGNrTkJLZFA5LTZQRGxzRVVMWVl0YkM4bV9hWmpXVm5qZ0dZSWxXLWZ3a3NxTkNpSXVPRWtIXzVUYUtHLVkxc1Z4U0NLZXBURXdFTnRuT2ZsbFN2UUt3OERIZ1IwdF9QYy1ydk9Ub0FvLTg?oc=5",
+      "date": "2026-11-26T19:05:19+08:00"
+    },
+    {
+      "title": "台積電2度測試年線漲回、台股漲956點 明大選投票前一日股民爭論是否攻上4萬點 - 信傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4cnhoc24zeTJEdm1aRkFjdG9rUWp5ek5YOGNLa1hDM3VsWFA5OGN6a1hpSF9TTEZ5SVdkOW9fdzBOdjR3MGNEUjJiT1pfR0VKN3ZXcnlDUW9SQQ?oc=5",
+      "date": "2026-11-26T18:35:15+08:00"
+    },
+    {
+      "title": "智邦、健鼎、台達電領軍，10檔全過第1關加權漲956點-起漲K線 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2ZsNFhENWoxQTlvTmlWYnowcno5eWtIV1lfOFh5QzNleUI4d1hhR0ctQ05zZEJZSkNKdW1USloxYWloaENUbW1jX2l1RUphSzFITXRHY2kyb1BPQ3loVzNnS2FhMFk5S0xndmN6X0plakI2Yk55S2J6SFJPWk92YzRYc3k?oc=5",
+      "date": "2026-11-26T18:29:07+08:00"
+    },
+    {
       "title": "2308 台達電 - 一步步來，2027絕對精彩 - 股市爆料同學會 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BWWFlWlM3MWdEejZyWEhvUzNrMGM1bVZ4RE1MZXB0VmdfNHB6TURyZlRHX3Y5eG85M0szVDBiTWFBWURXTW5MdG00VlJQMVJaUGNZRWxuYWc?oc=5",
       "date": "2026-11-26T16:11:18+08:00"
-    },
-    {
-      "title": "【即時新聞】散熱商機熱炒帶動台達電盤中一度漲逾5%，董座看好第四季營收成長！ - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1UUtRdV9MQ1djNVpyNWJIMTlXVTFpSW9IY095eUt1cUpJX3ctR3pOemFEd2haWFRQY0x2OFBLRnBQSE9GbXZYY3NRaUg5R1YzNUJ4S0NHd0g?oc=5",
-      "date": "2026-11-26T14:51:44+08:00"
-    },
-    {
-      "title": "國巨、欣興、台達電洗盤完畢準備噴出？「最狂分析師點名6檔AI超跌股」最新目標價、法人進出籌碼全揭露 - 旺得富理財網",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KN0tnMGFPdGNPUGZiNzBtVHI2dE94c2wxWjRYemtEZFhjVm5CS1kybEdOUUhWR1A0ZWh2cGdRaXJRMjlXeW1GdUN6bDMzRjV1a0ZsUFVncm1ZWTR3N3dUWEhJZUZjRnlmcGc?oc=5",
-      "date": "2026-11-26T14:15:13+08:00"
-    },
-    {
-      "title": "2308 台達電- 台達電董座申讓近半數持股、市值逾300億元公司揭原因？ - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmRWgwd21DRzNzWU1WMVluNG5BYmpVREFwem9YbjBFVE94Ty1tQ2xsemNrVlNzcXBvWC1KQ3VaQmRsYklaenRqRktDeW5YdlQ2azNSNGNuTWY?oc=5",
-      "date": "2026-11-26T12:08:24+08:00"
-    },
-    {
-      "title": "神拉2464點！台指期夜盤上演暴V秀台股穩了？瑤池金母出手日月光、台達電、金像電...00981A最新抄底名單1次看- 上市櫃 - 旺得富理財網",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oZDFfQjVHXzRaM184S213ZTR6U2VFQUktUGhwcmIwVVJQdFpfcnhGS0E1WDlIM2NhUVZTVmdCLVhVdzk0NFFKY3lWaXVvN1M3NUxHYmRlTWtMRTNUeGMxZ0dZMGVjRFJwamc?oc=5",
-      "date": "2026-11-26T11:17:35+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T16:52:17.708419+08:00"
+  "updatedAt": "2026-11-27T00:47:17.583241+08:00"
 }

@@ -51,19 +51,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 430.26,
-      "high": 435.2,
-      "low": 426.12,
-      "date": "2026-05-26",
-      "close": 433.59,
-      "volume": 45658900,
-      "rsi": 60.87,
-      "ma5": 419.764,
-      "ma20": 412.0045,
-      "ma60": 390.9172
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 442.89,
       "high": 445.6,
       "low": 435.52,
@@ -1729,30 +1716,30 @@
   ],
   "news": [
     {
-      "title": "歐盟再度推遲 Tesla FSD 審議會議，延至 12 月 15 日 - INSIDE",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdV8ySGdzSl91bUJYVTAzc3k4T0w0YjgxX1RYOFhKRWhHZmxmUzN0NGFubFNzeGp3eEZGeHRpdm0tdk9IRjNKQ3VyeURLUXA5Nk9oaktiUHgyY0JtdllRbGZ1RGdpZTFIaG9kaDZOeHdDNy0wV2NHMU13VlZJSXRVSXZXYlRiRXI0?oc=5",
-      "date": "2026-11-26T16:22:14+08:00"
+      "title": "TESLA都有家庭同樂日🚗？😨 - U Lifestyle",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcDVQZ2E0YU9jQjN1bUlUX0tfOGgwNE4ycERwOWdVTVhRZFB2bnh5TVVaV2Jodms2NzJsRzRkczE1WWVBYTB6MWEzZnBvNlYwdnZfOHY3bEZIc0RzRERWNFNyUkxVLVZjUHRjY2JZRWNVYm4tWWRJYnZvMUVTS3IyNmxKeDQtcXR2OERMQ1MwZl9fZnl5YzJWOUZtZUZTYlJiVWZTOXhfTlVZYXFIUklqS2hqZFR5MEViSFNJZkM2aWtkNWJaMTBZRm1SYjRpMjdhSEE?oc=5",
+      "date": "2026-11-26T23:07:44+08:00"
     },
     {
-      "title": "特斯拉Cybertruck確定停產！台灣預訂全取消 轉單送8年頂級連線 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQRWtQcFl5Y0RWcUxsbFJaNENtajlIMDl2MkhldTlzRzF5M0daWnZhVHQ2Mnc2Rl9Fei1IcDltN2VEZ1BJekZPSUpyd0h6MTdJal9FdDRXbG9Wamtiam5xNmZuWnMzY2tSNW5pVGhGb1RKcUVUSVBxVmg4OXlQMF9lVGh6Sk0wTm16MTQ4WkNSUFNnU1dNZ3ZXYU5UNndEUXF3dEdfUHNQRjZNMVFlVThHTkVNS3RDNTkwUjVUby12N3pxVEItMTJLUFFCSlNxUThvemdoZnVabFh6SFIxRXU3SXBjUjdTOFFhUGhyX1FkZ0s4WW1BanNLWDRZcWFfaHQteUY0cjU1MHpXbXFwS0VETm9tNTA1a293R2ZJQkYweXE2QWJYWTBKVm4zVnhpXy1fc2NORlB2bmEzN0tLZnlsOEFyMmRkYUtDZ2txRlVKSG1vOVBNZExLbEhZRGhUSzgyUElfb2lNUlVCTS1x?oc=5",
-      "date": "2026-11-26T15:16:40+08:00"
+      "title": "Samsung 拒絕 Elon Musk 的記憶體晶片提案，Tesla 面臨供應困境 - Techritual",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01MmRTMFBqdUQweDY5dGR2VUlIQVhVLWd4MEpkLTZrWF9YUjJkQXNTcFpwUzBTdFZ3MWw4RTRhQmk5S3l5ei10Um8xYW93anZIRm9lTHJKNHY?oc=5",
+      "date": "2026-11-26T22:55:05+08:00"
     },
     {
-      "title": "車Cam直擊丨沙田路Tesla高速越雙白線猛撼福士 兩車撞水馬水花四濺 - TVB",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOUDdzcFZuT3g1akdhMVhaNUdyVXFieXlMTVRnb3ZRU05qZjdoMk41SmNmX05wSXdybXdzQ2lDV3NKeHE4b0piZ29KZGNJSjZPWlJ2Sy1Gb0hXMFJkbm1RWkJLREoyNTZvUERfX3RXNDd2QUtONXVoemxIVEQ1RVRIcGFWbTJlMXpmX1lKSExsOGJMSENqV2RLM3FXbGhvUjlXNVdFUk1ESmFDcWtWTnZ0d1h6dzRPUy1MaWpjY2hwSGcxVC02X2RfbWxRZkxxX3dxUGtyV29iUmhNX1NReGFkalZoWDZ2WXdqQmNraHowc2pRbDFjZzI2WTVtc0FLR3Jka0JVQlJ6MEZTTU5GWFEtaFhFYlc3WWdWWjNTdk9KVlNFVk9BY0M1RVNURzhjR1hOb2Q1dnhqY3pXcTZuSGZfMTd0clM3VDBZM045ZnNNQWdHZlhsTERFaWc0ZUcwUnotRzNkejE3UWl6V3g0TEl6UndYRm9MMzJaeXV5LUc2Qi1QakNrNFZUQ0h6MFBIRUtLOU43Vw?oc=5",
-      "date": "2026-11-26T15:11:31+08:00"
+      "title": "留英89老喬羞曝兜風約會 愛上特斯拉回憶連環爆【Yahoo名人聊愛車】 - Yahoo - 汽機車",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOczlZbEZtUkZJOF9PeDUwLS1MM3VRWEl1OXRZdF9JUjhxTWM5eUhqWGhKOUVXMVhmbV9oREZpRUlHTEd2TnA1OVozM2FiMUZzaXVTSzlEVVF3eElDbUd5N3huLVI3Y1RpaEJSNDZHLXVzTllUUWk0NmFSVnQ4T3F2X2tqdTVSZFB5V1NjSmgxcWF0OEFfR0FiUzFMVlg5c0RLVkphb28xTTZuM0lCODFvdklnRmdtN183OWQ2RGtHcjlxUGJMU2JoLW1WVXNsc3Q1eUNlUWZkLTdNb3EyVTVnaThjejhkU25PZGNnMGpibnlsUnRlVTNjTzZPMHZUejVXQnNHQVZ4dVVOWFhPSFhhRXN3R3VjVjBxVzlBNGt6MmhvVUJfQnZZdWtNY3Y1UkRGaFVlSGg1b3E2VmdhQkRESzA0UlgzblhoV2cwTEVmZ1l0MW1FLVVPOHo1UVJtTUJJOG5KTFc0RkVCYXFoU0xzRGVaMkhiWXhNbDh3dXhpbFR2bU92X0pEdm14bTltclllMUZheGNjTE81RU0zMEVEUEQyaGl0NVVtTXJz?oc=5",
+      "date": "2026-11-26T20:29:01+08:00"
     },
     {
-      "title": "特斯拉 Cybertruck 明年停產，官方宣布取消台灣訂單、買新車可享 8 年頂級連線 - 蘋果仁",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0M2dkMEhuTFJzZWhCZXNFbVFjcno4NjFudFhLVk8yMC14MTJ6Um5EdWMtelNVdmJkZEZ4bnJFUlZEQURRUmMta0M4NU0?oc=5",
-      "date": "2026-11-26T14:38:44+08:00"
+      "title": "Tesla將推出無方向盤Model Y？馬斯克預告六至七人座Robotaxi - 地球黃金線",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBicXFYUGMxV1BLUFl6ZXZNRG1PR3huV0JrTE9JRllINm91WDc3U0JidUNTcWxfclFkYWgtQ1dmUDNwejdlQWxMSEgyUzU5Nkx6M1E?oc=5",
+      "date": "2026-11-26T18:29:00+08:00"
     },
     {
-      "title": "(有片) 沙田路兩車相撞兩人傷Tesla司機涉酒駕及危駕被捕- 香港 - 香港文匯報",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbTR3bkg1SmNCSzFEV2sxUDNwY0JRc0VYUUNqZ1p4elQwa2Z6TFZhZ2lWdFlOTkdjRGpDTThlak1tQTJJOEE5QkxsTHBENmlhVFpMUjVtWXRIQlUtTmtMS2tKbkNseTBXUy00S0tqYVpsaW40ZTRF?oc=5",
-      "date": "2026-11-26T14:27:05+08:00"
+      "title": "特斯拉皮卡等不到了！Tesla Cybertruck台灣官網下架、訂金全退還有補償措施 - 地球黃金線",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jdWFzRDI4c0tGUVM5YnVKbTk5Y252YS1FOC1fYUQ2UHBvckNGQ3NrSzZ2OXI0VXlxTTZ4N1UyUG1hYnUwTHR5Y0NRWDJXMEF0X0E?oc=5",
+      "date": "2026-11-26T17:24:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T16:52:24.225740+08:00"
+  "updatedAt": "2026-11-27T00:47:23.396801+08:00"
 }

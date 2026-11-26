@@ -3,22 +3,22 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-26",
-  "dateTaipei": "2026-11-26T00:00:00+08:00",
-  "close": 2145.0,
-  "change": -5.0,
-  "changePct": -0.2326,
-  "volume": 44368303,
+  "date": "2026-11-25",
+  "dateTaipei": "2026-11-25T00:00:00+08:00",
+  "close": 2150.0,
+  "change": -80.0,
+  "changePct": -3.5874,
+  "volume": 79902880,
   "bias": "中性",
-  "performance20": -11.18,
-  "volumeRatio": 1.0,
+  "performance20": -11.34,
+  "volumeRatio": 1.94,
   "recommendation": {
-    "date": "2026-11-26",
-    "action": "觀望",
-    "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
+    "date": "2026-11-25",
+    "action": "減碼",
+    "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
-      "均線、RSI 或量能尚未同時符合買進與續抱條件。",
-      "先看價格能否站穩月線與季線；RSI 偏低也不代表已止跌，暫緩新增部位。"
+      "收盤跌破月線與季線，且成交量達前 20 日均量的 1.2 倍。",
+      "已有持股可分批降低部位；尚未持股先等價格穩定，避免急著追價或接跌。"
     ],
     "support": [
       {
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 2222.5,
+        "price": 2236.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2376.25,
+        "price": 2380.8333,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.0045
+    "volumeRatio": 1.9408
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.18%。",
-    "本日成交量為前 20 日均量的 1.00 倍，量能接近平常。",
-    "RSI(14) 為 42.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.34%。",
+    "本日成交量為前 20 日均量的 1.94 倍，交易較熱絡。",
+    "RSI(14) 為 43.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-26",
-      "close": 2270.0,
-      "volume": 22586387,
-      "rsi": 58.27,
-      "ma5": 2250.0,
-      "ma20": 2242.25,
-      "ma60": 2034.25
-    },
     {
       "date": "2026-05-27",
       "close": 2300.0,
@@ -1177,43 +1168,34 @@
       "ma5": 2102.0,
       "ma20": 2236.0,
       "ma60": 2380.8333
-    },
-    {
-      "date": "2026-11-26",
-      "close": 2145.0,
-      "volume": 44368303,
-      "rsi": 42.83,
-      "ma5": 2111.0,
-      "ma20": 2222.5,
-      "ma60": 2376.25
     }
   ],
   "news": [
     {
-      "title": "【Follow法人】外資提款台積電392億元！同步翻臉重砍台玻8萬張 中華電也難逃萬張賣超 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQSHNncVJnMWFUUUxPSWxUSjhIVHZNWC1lMlJoMEVzQlc0WTdlRkphazhxbEFqWFRVSmNYZ2hLMmxmSy1uZ19qdFNtUjg4b3A1WXRVZGpuZjhRSWw3SkRJeEVoRlJOMnhmdTNmNDJsTDBTeUJha2tpY2JDOVRRV1k4R1NyQkZlWFByUDNLQ0JCcTRxbkNLRks1TG1GVnFqVENqaWROcTlRUHdVZVFKUGtZVFFkR3hfUW9BQnA2aUtCc1FHVGZuek1VX3dlNmZORDJkVFR3UnZoUzlmX3J6TzZfbzJuUFJSUGhzaXZnM2JFXzllLVlZTTlWeHlDdjlWTGhpUTN0Wl9yQjVCN1RDQUQ1VHZjZjB2YVZVOUtzOW5JckZmaDd2QUNwWnR2M3pRRDlBa2ZTY2RyLWZvb3dfNkM0MUhjOUlzMDNBdldITS15NWNJNlNPdGJpM1R3TjF5RmVIYy1JMmNHQjFnZTZQWWNRU3ZOVmdPRVE3S1dVakhyNjgwRnZCWnhNSnFEMmRXcU9Bdi1nVHJoNU5qZGdRcnpTdEhjRU92RlBvbm42RGtQeTM4dDZ4b2wzX1JQNlJLd1lLX0FFRWU5NGtiU1ZSNWRuOWdKTzBIVTE4TDd3VEdWQjNQZnJJT2tsS3lDWU9DaHF6aGJrYi04ajFHU21rMHVwaDZn?oc=5",
-      "date": "2026-11-26T16:36:40+08:00"
+      "title": "台積電熱區也有便宜可撿 這些屋主低於入手價出場 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNQkUzOTFST1lucHVkVmFxRjNrNzNVZzV3OEFFTkdnMm1xb3ZMVDVWVENwZkpIRFE4MXJqbU1uYy0yQ2ROazVnTWF4QVRfVHJ0dlg2VVlhcnFodmhabTRRVGpkd01iekVWSE9nejhmdXJPRUJNZ3VYWVRhbXcwcnJXT0dnMlBtVHh3REdTdjAwRkI3QVh3NkwxRHVva2dtVk45dnFjYUJsSFdpUDk3MGEwcmlRNExYbGNDRTMwdzNmcWxsVUwxQmc4c1FNWjkyRVN2M3lOWXVlZmQ0SXdUdHRFQzFVZzd6TnQ3WFVGV1JzRHl3My1qQmVzZzlzeExLSjNoX0JhbGpMYjZCSENGRzV4V29fNTVuOVoxTGVoLTVrNFUwcXg1V1ZfXzNiVGFBbUFOMEJHUzFjWEozY2lOeGlFZEVTT0R3dnp1cHFlSkMyUndRQl9LZ2FKbjlQSFhTMlZMempkcw?oc=5",
+      "date": "2026-11-27T00:21:15+08:00"
     },
     {
-      "title": "【不是台積電！ 專家建議小資族挑1檔上車】 小資族口袋有限，只能挑一檔該怎麼選！ （#01J） - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPRV9GbW1Xbm1QSEdYaDVvOThfRjVJcmFHZG1fUGF2aHZfVW9nbU1ycllKb09uZDA2Qkk4bUQzTm9pUFg2YmNwZGtxUVFLd3pLUXhRNHI3aTNIRktxTXV1RTlMR3JOQXZ4YUhENG1lTkxPVmY2RXpHN2pmRFFTb2djMU1ZMHlJVm90bzd6QXZKQlJxTWlaU0JOVzZZYUxUYWJXejkwLWdrUERMSUl0dDhubEt5WjFRRGFhbGtJS0pLampyTTUxc1NmY19IWWJOVnJ5ck9HUkFkYWJEVjNoNUFtdmwwS0NQVXNwbzV5ZjhlQTFmcWpPR3dlTjJGdloxUlA4ZWhCWW5ESFdjd0I4aFpsZGd5U3RabWtuNGFPeHVXRXhPLXlmZXRid1Vyd05PN21aQ1pLZEtzcnhlZXlhTnpXOTNWZTdtR1dEZVN0WGRmemlGQUlJOHdOU2pfX0s0YUhMdU1wTkU0SEtEWk5sdllyTDZNOVYxQTNKLWtpN01oY2g0QnU4Rno3R2wzOGZDN3BpS1lpOXhzWDdkYXliRTN4Sl9RMUZUSm1VLW5LbktNdWV4cDBEWHRUUlE4NHJtaHlqbzF0MHJ5R3VZNkZOcWptYl9iTEdyQ0I4alV2WGh2cHd0YXVZb0Frbk5IM1U0Nm5odlE?oc=5",
-      "date": "2026-11-26T16:23:53+08:00"
+      "title": "2330 台積電 - 台灣選後崩盤到20000點 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TjBYMm82akRDZXFqd3FVdFR0TE05ek1WXzU4WG1RaUMxNUdfbTVReHlva05fTU5GVnFub3U1UnVmTmxJSGR1aWpYWTMzZXZ0R3dGclVvbS0?oc=5",
+      "date": "2026-11-27T00:13:10+08:00"
     },
     {
-      "title": "AI泡沫疑慮升溫、台積電仍積極在美擴產 美系投行揭背後訊號 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOWkN4VGIyTy1tRVZqMWd3MXBWOFIxckpjVlhWOFlqTW9sSURyM2U1WTRZbm9kUTZ3S2x2V1loZzRGb3hOai1XdDBJWHZBcDFfZ2hTXy0zUWg5UlVQT1dHU01XU2lZUzVjanFiNWdTQVlnaV9ZNV9LX2NRZ3FHcS1mZG9Va3ZuTUxPc05oS0R6R3RJUU1hVW5oY2xGb2ZEcGdIU0VWdmgyR1QwN19kdktQQWFmci1CV3BRbmtHYWpESm0wWHM5TERyZ0xaSnlDaU0zREowVjZhUl90cmlPaEFYTGlwSE9XOEFobEFOZi1FUWxrV296UkV5Q2praDlYYS1uNHhqdVJ5RlV2Z0FoNE5JTWl3M0czRVp4ZGlkQWViSjBVRWJoYUY4bURVZkw0TEM0Nk84YnJkRjhkR2VEdlJrTFlsX3lKSFByZC13SDRpMXNGMjN1bzB0REdmaWZqTDNVNXhkVjBfNnJnc0RyWDJMNHZGSzA5U2t1cnBTbjZBZThIbmJa?oc=5",
-      "date": "2026-11-26T16:22:06+08:00"
+      "title": "2330 台積電 - 26-Nov-2026 當日個股 – 三大法人合計賣超金... - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yNTBYV21TaW10WDc0WkZvUFBDTGtRWWR3dTEtYk9HSG1zeDNPdjlvRHdPcVVjUHVxejhybzdqdnJ6VUJkRW40RHIxdUJIT1hzbkk5R3ZBNTI?oc=5",
+      "date": "2026-11-27T00:03:27+08:00"
     },
     {
-      "title": "2330 台積電 - 輝達、台積電領銜算力升級潮這兩檔ETF 卡位美台科技供應鏈商機- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55WGczLU11OUhmZjc3akVEVHZYRXZPdVcxNWhXc25Nb25MR3FIMXNYLWlvRDEyRENCSWxET3FvUXJLQmJRNV9BUzJ5dW91NHdRSTVzWktGTFE?oc=5",
-      "date": "2026-11-26T16:15:27+08:00"
+      "title": "2330 台積電 - 【即時新聞】台積電獲法人點名AI核心，投顧預估明年台股獲利成長30%！ - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QcHdfVl9LbGxVM3I3MEFRci16ak1wc1hRa0pMcU84SzJWekJOWnNNRGlHNWF4X1k3Z25pY2pxV3pTcVlJYWNGZXZhSUZnUjY2aG5sVDAzTTM?oc=5",
+      "date": "2026-11-26T23:52:32+08:00"
     },
     {
-      "title": "TWA00 加權指數- 台積電砸8.6兆台幣赴美設廠再加碼1000億美元不手軟- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53Y1ZRZ1dDLUZnd0pvSDhrczQ1c1U2VmRXc3dtdV8yV3VscHI3QlhIdEJqMUhNUXB0UURBdkdFaVEtMTJCX295Y2lWbnVhRW51TTNMTXZ0MzU?oc=5",
-      "date": "2026-11-26T16:02:27+08:00"
+      "title": "【即時新聞】台積電獲法人點名AI核心，投顧預估明年台股獲利成長30%！ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVk5TUjJiLUlqWTRBY3FVdFNkaHdXSnZ2M2tnSzN1Ty1RajFTbVBmcW5GMFQzT21pU2tZcGhlVnVwc3hfczJkOEdQek4wRWNtcTR6Wk1jYVBWLUtuM2lOdXZIM2NPNE5DNWNoZGVEVXNoX1hBN2ZtWE5TTWtoM0cwNzFfXzBfMS1PWjNzamtYM00?oc=5",
+      "date": "2026-11-26T23:52:30+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T16:52:18.334192+08:00"
+  "updatedAt": "2026-11-27T00:47:18.471253+08:00"
 }

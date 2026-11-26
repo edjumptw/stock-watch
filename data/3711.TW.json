@@ -3,17 +3,17 @@
   "name": "日月光投控",
   "query": "日月光投控",
   "currency": "TWD",
-  "date": "2026-11-26",
-  "dateTaipei": "2026-11-26T00:00:00+08:00",
-  "close": 511.0,
-  "change": 23.0,
-  "changePct": 4.7131,
-  "volume": 32485228,
-  "bias": "中性",
-  "performance20": -25.18,
-  "volumeRatio": 1.21,
+  "date": "2026-11-25",
+  "dateTaipei": "2026-11-25T00:00:00+08:00",
+  "close": 488.0,
+  "change": -42.0,
+  "changePct": -7.9245,
+  "volume": 36223265,
+  "bias": "偏弱",
+  "performance20": -29.78,
+  "volumeRatio": 1.39,
   "recommendation": {
-    "date": "2026-11-26",
+    "date": "2026-11-25",
     "action": "減碼",
     "summary": "已有持股可考慮分批降低部位，先留意回檔風險。",
     "reasons": [
@@ -28,31 +28,22 @@
     ],
     "resistance": [
       {
-        "price": 562.05,
+        "price": 570.65,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 631.2667,
+        "price": 633.1,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.2061
+    "volumeRatio": 1.3895
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -25.18%。",
-    "本日成交量為前 20 日均量的 1.21 倍，交易較熱絡。",
-    "RSI(14) 為 42.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面偏弱：短中長均線由下而上排列，近 20 個交易日漲跌 -29.78%。",
+    "本日成交量為前 20 日均量的 1.39 倍，交易較熱絡。",
+    "RSI(14) 為 38.7。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
-    {
-      "date": "2026-05-26",
-      "close": 611.0,
-      "volume": 37776122,
-      "rsi": 69.55,
-      "ma5": 555.0,
-      "ma20": 528.95,
-      "ma60": 430.175
-    },
     {
       "date": "2026-05-27",
       "close": 642.0,
@@ -1177,43 +1168,34 @@
       "ma5": 492.2,
       "ma20": 570.65,
       "ma60": 633.1
-    },
-    {
-      "date": "2026-11-26",
-      "close": 511.0,
-      "volume": 32485228,
-      "rsi": 42.07,
-      "ma5": 493.6,
-      "ma20": 562.05,
-      "ma60": 631.2667
     }
   ],
   "news": [
+    {
+      "title": "3711 日月光投控- CPO 話題火熱，但你知道什麼是矽光子嗎？輝達跟台積電究竟玩... - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nd2pjS1FaYWpZblEwcmNUeWw0cnRkTDVwYjRyWWgxOURWVEhmN1pzblRSLXhVR0Rta295d2R4M2JpVWI4OHl2MS04SFhfUG9TYkNiWnlHMzQ?oc=5",
+      "date": "2026-11-26T22:57:10+08:00"
+    },
+    {
+      "title": "《日月光投控》AI 盤中發出起漲訊號，三大法人卻賣超 1,766 張 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTTJyQXBZeGJ6VFJhQXlRX1RKN2o0MDFKVllCQ0dRYlZLdi1CbkhTSGJLdmFPQ2xyOXJjLVZRWDhFXzMtak04R2dpUXBpWmM5eld4eTcwR1U?oc=5",
+      "date": "2026-11-26T21:00:48+08:00"
+    },
+    {
+      "title": "3711 日月光投控- 11/26主動式ETF籌碼日報（金流版） - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2dzFPXzMzR01WRWxTX19YM2x5akV0OGNoano1d0t2eUM5T0EtU05hM2MwMzFNWTFBcTlGMUpuOTQ1MHlscWYzYjRRbi13ZERIVEdmbTYzaTU?oc=5",
+      "date": "2026-11-26T20:00:33+08:00"
+    },
     {
       "title": "日月光、京元電跌深反攻！輝達預付11億美元 外資揭封測雙雄明年展望：最高仍有近77％漲幅空間 - 旺得富理財網",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fOUtvcE83YmRiaTlUM056LWtobFFITlU0YjRVcmVQQXYzTW9MS01HR2VBZ3M0cWM2SHY1bUQ5WElqV3dlUkt1LWJUNE9iS19oR3B1QTFSYmZUclJzM0NQb2lDb1I5eFYyRGc?oc=5",
       "date": "2026-11-26T12:23:25+08:00"
     },
     {
-      "title": "AI帶動封測需求強！日月光、京元電雙強爭霸 最新目標價出爐 - TVBS",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5US2t2QlRjNGhycl9nZkpzXzVRSVFVWHBVVEFnUFNtZEVrNGRXX1ZCYUIyY0p5Skc1VlNmdGQzb3FTR2Rwbk1aYkN0MGdBdms?oc=5",
+      "title": "AI帶動封測需求強！日月光、京元電雙強爭霸 最新目標價出爐 - TVBS新聞",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xOHBmVk1RNlBUamI5Tm9vZGEzbHZSdjZaTXk0UEJoUHhjUmhEeWQ5Uk9LcXNtaXVoT1Y1d1RkR2NFYzlqSzR2R1RRNmh4N1k?oc=5",
       "date": "2026-11-26T12:08:00+08:00"
-    },
-    {
-      "title": "2311 2311 - 先進封裝能見度強勁，花旗給日月光投控908 元目標價- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZM280V1NMTGpoYWVtMENtZUk5dTdkX2tnR2g2MHhhM2VfcGJ1OHZCSUMwWkV4VkJuaHA2T3JtV09xc2FvT0NoNnN3R1dSQThTS1lUbVZ4UVI?oc=5",
-      "date": "2026-11-26T11:39:47+08:00"
-    },
-    {
-      "title": "先進封裝能見度強勁，花旗給日月光投控 908 元目標價 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnNhLVpuNWVfYURSV2tCdUdVdmY1dllpVFNWeW5TQmlMLV83eE5ja1lZamh3QVhxV2U3SGg0Q1RMTFlQVkYxeGpaR1FPNi0yNVlXMWZnamlmMnJTaWhJcVB2ZHN2cXZiSDJhd2NDQnpoZjRZanNxU3QzOHNaci02U2dDUzFnWDU3czgzTUh0cmhYYy1jSlB5bmVsMWMzTHpqaWc?oc=5",
-      "date": "2026-11-26T10:20:33+08:00"
-    },
-    {
-      "title": "大盤暴跌又反彈！00406A、00991A、00403A狂掃金融股躲股災 - TVBS新聞",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NNDFGSnlPdmJKM0VvWEVUY3I2dXlqMnNDM0NwRlhfQ2cxZWtiWkhtNjNpMzBubk9JY0FjVjRDallycnZGRjVUU2p2ZXdPbTA?oc=5",
-      "date": "2026-11-26T09:33:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T16:52:19.350334+08:00"
+  "updatedAt": "2026-11-27T00:47:20.130666+08:00"
 }

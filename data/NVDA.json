@@ -47,19 +47,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 216.54,
-      "high": 218.18,
-      "low": 212.0,
-      "date": "2026-05-26",
-      "close": 214.86,
-      "volume": 187202600,
-      "rsi": 53.26,
-      "ma5": 218.756,
-      "ma20": 214.658,
-      "ma60": 194.9762
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 214.12,
       "high": 214.15,
       "low": 208.78,
@@ -1725,30 +1712,30 @@
   ],
   "news": [
     {
-      "title": "NVIDIA 傳大砍遊戲顯示卡供貨量 20~30%！RTX 50 系列可能又會變更貴 - 電腦王阿達",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13a2RMLUxMb2czbGVEZ2p1bDh5QmVuWVFRNXlsd1ViUTItSmNEaVJUMzJvanBrLWlaN1N3SjVVNkMzTC01dEpzOUtEaFFNN0ZCVWc?oc=5",
-      "date": "2026-11-26T16:47:15+08:00"
+      "title": "KIOXIA、NVIDIA展示GB200 NVL72 AI記憶體擴充PoC：144顆SSD總容量約1.1PB - XFastest News",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYVo3cE05cW1NOUJlVUZETk5ZcTRJaHFyWUdxcXNPQks4dDhlLWdJZkxjQUVDMzZ5ZWRDcVNjQ3N2NzRtV0xqWDNBVzVoVjRlLTBrNHZkRXY4dkZwUHZlVndEZDNPMmdSNklDOUVtRU1CZEd1bkVUeXB0aFYwM01jelpPVVB2dEhnWHNWVHpqSm9iVk9KNWNOa3I0Qi1PTFQ1YjdEM0lJT0t5cWFFcXBFR1FUajBiSExkdlpNempDLU02NGZKQUpvU1kteVBQaUgwNWhUOVhQbkxRdFQzbGNVX2wyaGhyUnhsaENvS0pfdzhUazRnaTBleVdfeGJ4cTJuczdLVkh6N3l0X3dqNHpBdUFIRF9MV0dQU1p4LTVvNl90RVVKUGJB?oc=5",
+      "date": "2026-11-27T00:01:41+08:00"
     },
     {
-      "title": "鴻海串聯湯山、川崎重工與NVIDIA 北榮化療自動化成果亮相 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOU5TeVZzaUV2RnY4clhxei1RVHgyTEVyT3NRS19NcmxTbGNwOWR0X2MyeEJya1JTNHZHdGdLN0JUYVVBbzRoLWRjU05kaDNXbEZfbmRsQURvMDkyYmNHczFJd0p0TVI0MUcxNDd0WVhvMEtKNVVrYjZqQlFsZm1US0hfMUswMkhVY0RheG9EVkFTOGxpOFNv?oc=5",
-      "date": "2026-11-26T16:46:00+08:00"
+      "title": "傳美國財政部可能入股輝達 Nvidia！川普日前曾表態「現在可能還不算太晚」 - 動區動趨",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWEwRGJoS1JERXBaaFViNzEyT2c0WXI1VFZyanZjTFZNajVqWVk3SnJPWi1KZXRKZG1hY0syTGNwazZ4SDExenZwM0F4NDd2MU1IbFlfQW9mLUczZVk5OThkelZsU0hucnY3eVFkOEROTUczM3NKWGZZcVFHOGdvQ1BaNmwyX3pqVnZNNGxiMWthVzgxSXU5cGxSNl9VbE5fR296TF9NQU5QODNCcThNQXlJckNZUUJxRG9kNlI1NXJzYXU0?oc=5",
+      "date": "2026-11-26T22:13:58+08:00"
     },
     {
-      "title": "美國封堵中國 AI 算力漏洞，輝達緊急喊停東南亞四國伺服器出貨 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSnVjOVVZTTZGeVFuRUJwaGZWck11U29sR25OSXpOLTl1YmtvRTRZWG5yS0NfSnV4SV9oRGZ1NjdRak9oWlRYZWZ6TnVwb1E0b3BkdG55Q01IN3lDVkd6Q3Q3Um9QNmlENHh2eHk2OFEzc3NTcDhoTGttZ21VOFREcS1pNjdOakpGT0JQd2lRV24wa3BZSHpnbWh6bw?oc=5",
-      "date": "2026-11-26T16:20:15+08:00"
+      "title": "BBC事實查核：紀錄顯示，特朗普的帳戶今年交易了44次Nvidia股票 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQRkdRaFlwV2NRWlpfOHFlQ3lkUXVRU3Jva3F4NXZFeU9ubFY2aDVBNHhWVG9kWGg4YTN3cHZwRWdXaVlFUUIwck1vTFFpZ3RrTHFpbmFIXzlEaWxoU3NWVjlYbXpYV1Qwd2Nwd01VLVNrWEg2WTVuYldoRHQzWXMxaXhGWUw4eF9QT2l5YWZZeDUydnFFMk5wWm5ITFVHbnFyLThKZy1obzdVYWVsUWdGWkQ4Y195RHlsYkFkbk1zcjdsajFYLWE4ZjdFemJOeWtVLXFPMFJ3SmQ4UVRSVVY2RV9GUVR2SmFyNHBFSXp0V2g4cEtuOFhVTzRHcXZ4V1BtZGxCZURUNWpEU2hxUmZtVUdQSm9qUjNVWXdSMXJvTHkxU0lyQkNJLXNPUV9rUmlJTzcwaWdQaGt3SjUzSGxQa0t2d0t3SUdkSzhWRFRwakI1a19KWGVEUlB5OEsxaEI0Q2o4dWNBaXo4TUZ1?oc=5",
+      "date": "2026-11-26T21:23:27+08:00"
     },
     {
-      "title": "鎧俠攜手Nvidia部署144台SSD，切入HBM空窗搶AI商機 - BigGo 財經",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGY3NPR1R2anRTM0VXWWlDeE1jZHJZYTRxQUQ0eDJKRm9CSFFIcklzck80alQ0U0RvMTdIdUhrdThScGlhYV9iaUFZOFhVQXhIcXdSVXZXUFAtWEg4WjhEcE1YTkhKdXVkYjRndmdVRWkyOEg3MmZwcTJ3?oc=5",
-      "date": "2026-11-26T15:55:00+08:00"
+      "title": "感恩節股市震盪警報：Nvidia暴跌引爆恐慌，別讓市場毀了你的假期！ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkRzejZKQlFnTVdJcDVrbVBsaDUwbDFmS0d4Vi0yQnpEbTlQSzNYYVViZHV6SWd3NXNtekF3STg4Q0VEcUFlUjFzTnFYTzFZTGg0YUVOQm9jSkp6TlBFVVpVajc0aWxrcWlHNC1odENQTjhNVVdLNnIyTjRXZ1lFQ1lYd3c2QVE1c3hnTEpn?oc=5",
+      "date": "2026-11-26T21:22:30+08:00"
     },
     {
-      "title": "因應美晶片出口新規 輝達暫停星馬泰印出貨 - Rti 中央廣播電臺",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoUE00V2hSQ1VZM2Vsb3pkek9ETlVJRTJHRExubTNPbndHYWJhR09MZUllTnhWdnZBaFo3TDlqMXNEdm11WTNCYjZidGlkaW1QbERaaHZycnc?oc=5",
-      "date": "2026-11-26T15:46:03+08:00"
+      "title": "Nvidia 叫停向東南亞四國 AI 伺服器出貨 - 流動日報",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUd1SXF0MkttLU40Z0pjQVJBMGVJM0QtbUJKR1NuSUIxcnJKWUtKTWt4dDZfSVNuaTFNOHVKM29KQmZPTWJBUXpfaThybURzZldwNWVPZUFzY3Z3WExGU210SVNDeDJ0bGYzMjRibThzcmlLbm16U1pDMG8tMG9nNw?oc=5",
+      "date": "2026-11-26T20:38:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T16:52:19.727173+08:00"
+  "updatedAt": "2026-11-27T00:47:20.722169+08:00"
 }
