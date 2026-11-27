@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T13:10:58.505198+08:00",
+  "updatedAt": "2026-11-28T00:32:44.874993+08:00",
   "stocks": [
     {
       "symbol": "2327.TW",
@@ -47,15 +47,6 @@
         "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
-        {
-          "date": "2026-05-27",
-          "close": 701.0,
-          "volume": 23677342,
-          "rsi": 85.7,
-          "ma5": 650.8,
-          "ma20": 467.45,
-          "ma60": 341.7583
-        },
         {
           "date": "2026-05-28",
           "close": 742.0,
@@ -1184,32 +1175,32 @@
       ],
       "news": [
         {
-          "title": "2327 國巨* - 每天漲不停- 股市爆料同學會 - CMoney",
+          "title": "TWA00 加權指數- 國巨宣布破產？ - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VDFoM2Nsc2N2elJTZDFqWmtFUmtXeDZBMTc0aWNSY0IxZHFMaDZWMkU3elBGMEhxYjU0c0hFcUJCaHBIVFJnRHdZb3lISFNQdEV0eEtPZ1k?oc=5",
+          "date": "2026-11-27T19:45:34+08:00"
+        },
+        {
+          "title": "2327 國巨* - 同學問為什麼阿北不買記憶體去買被動元件- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jUGplV2xqWFN3aEtkQVdMbEQ3SHVQTE1DWWE4blg3SWJTd3pUTmdzbENrQlBnYXl2eTFIOW9NdjJjMkVJMVNYMVhFRXlrS3ZyNkxrYVNpOTc?oc=5",
+          "date": "2026-11-27T16:12:41+08:00"
+        },
+        {
+          "title": "《投信賣超4-3》廣達(878)、國巨*(750)、台日韓(730) - 富聯網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekRCaTlHS1RKYlZFd0JLRy1NRWlsUzJzWGNPS3Q4T1RpSTYyY3NsY3lERkhsd0VGc043VXRRNzd0S1NFVkhxOWFRcHJpRkh2MXhZd21Ta0FWNEJ6WFJ1X2V5NTVFX0Y4bnMwS1hfS0JyUjNEZlNWQWl3RDRBaXR5M1NhS3gxWkdC?oc=5",
+          "date": "2026-11-27T16:05:00+08:00"
+        },
+        {
+          "title": "2327 國巨* - 外資應該還在、尾盤買個希望🙏 - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlMm8xN1pJOVM3ZW15NkZWQUFGNGFkM2Y0OXBMN1R0UV91bVFvZFdQUEVZcDRsNDZ2OExIbVRudU1mN0N0dUdlQjFrWkNmV0QzSkdJSGJJTDQ?oc=5",
+          "date": "2026-11-27T13:13:29+08:00"
+        },
+        {
+          "title": "每天漲不停 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sSF9pcWY0eUxzOHdiYzRXYmVXeU1nQzhBOVRuVFc1VllvNXM2S3dPQnVfbkMtYTBER2pSSHdqaWVsNlVRaHlTT2pXaWRRRElnSUM4a01qYmc?oc=5",
           "date": "2026-11-27T12:11:41+08:00"
-        },
-        {
-          "title": "國巨1220元摔到288元又開飆！昨漲停339元還能解套？外資喊出1000元、AI營收逼近2成 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNQzBSWnRuYmVOLTJxOVF6bUViamozak9wWktKc1VKRWhJLVlKMzJHQk9YNHUtMmhDWFV2OWVjYU5OMk0xd0JJSUxVeWtpNlVRdXoydnRwMzlzX3BlVnVNQ1p5ZVhWR012bkhza3E0bUxTX1l0SkxNQXFjanRfZ1BndnhGdEJVeU43c3lvVEZ5Qm9IV3l3YmpPT01aeEE2aVBRS29NNXhMSVpJMmlTVGZfMFp0b180VWFhSWw4Q21iWmJwdWxzZHBleVpSYnBPbURtVzFReTNhRzRfdU9xc29RRkJxcTA0dlE4dUhTN296aWdRTkp5VEptRUhBUmo3QlZxcmRUZmRPVndEYWp1VHg0WVIxN2cwNENNd2JTcllMSGdrNjhILURlX2lqZ2VCRU4tcGNHdnowZERRUlI3X2Q2OEtwNVVqOGt1ZmwzNEtvZTA3cjJlbG1kcnBJVDV1QVFpazZMZmcyLXVuWFA2WElLa3g4cnI5V0xxeGZfODRiSEYxRHRkamFqdUVoLWRtSHZXYzU2ZGF3YW1rOEh1dmQ5UTcwTG9taG11WHBFdk9SQ25GZ0hXOHk0X3NB?oc=5",
-          "date": "2026-11-27T11:16:21+08:00"
-        },
-        {
-          "title": "選前拚護盤 台股一度上漲150點 國巨強彈飆逾4％ - 中時新聞網",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5MGJQYmxoZmQyMUJGcmFvTmdsOEsxemFYU2gtRnQwOW9sVUUxbDcxa0tsUjIyd25zUU5RUXJxVlhjSlpYX3hBSGJuWHFlWnR3bElEMDN6UFoxeWdKeEpNdmxGNVU2VUNsVEsyaWp3?oc=5",
-          "date": "2026-11-27T09:01:45+08:00"
-        },
-        {
-          "title": "國巨（2327）- 跌掉七成六後漲停，2027合約價才是反彈底氣｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-          "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOTFhYcVlrTjZ1X2xNVmpTbVh1QnFaOXdURHBwbVFaZTRoSWo3ZUl1SXh3M2VUVFRlNVdESVFVenBsaTlJaHNBd3NKeFdMZFlQeWJXczJUbF9FT29pa0hHdGNtWXVaTjZMUVkxejd5NTVkR1BuZDhNNGpFbWhTdkl6aHk5Y2g3NkE5b3RJNEtZaXYzcFlGRkRVV0lOcUJVODg0dEI2bXZoTkZMUkE1WGs5dG5XX3BfSEJ0c3k0aWFGUFNZajFZSUJmbFRqYUVqMlpyS2Y2T21zRDVtVC1jZjljajhaOFJ2OTdmTXBYUXdlRnc5RE1nR05LcGhscHBsMjBTWXg0NTRLTk4yQm4wZEdpclgzU1hONzUzcWY4eU8zdXU5b2xrbUF6bzJycW5Gc0gyNGI3T0ZDdDRaNGVhcWVBaTNLLTZiU05qQ0tJWmo3ZzN1enRobHpDRlRnMVlOeW90MXlEWG96WTV1dThROVZrclBPYk9Na01KMVE?oc=5",
-          "date": "2026-11-27T08:57:35+08:00"
-        },
-        {
-          "title": "2327 國巨* - 日本又📈囉💕今天被動會在📈🌸 - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YYjhQTzlnWHB2RkNnLWdBZGk1NW5rUVFPYzhUSTRwY3BwcmQzYjNvWjJTaGgxZlltejI4MUdKVGlyU2Z6LWpXcllORGswazR3MUI4MjVEb1A?oc=5",
-          "date": "2026-11-27T08:27:21+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T13:10:50.435550+08:00"
+      "updatedAt": "2026-11-28T00:32:34.113601+08:00"
     },
     {
       "symbol": "2308.TW",
@@ -1257,15 +1248,6 @@
         "RSI(14) 為 42.2。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
-        {
-          "date": "2026-05-27",
-          "close": 2520.0,
-          "volume": 12553894,
-          "rsi": 73.07,
-          "ma5": 2257.0,
-          "ma20": 2168.75,
-          "ma60": 1778.8333
-        },
         {
           "date": "2026-05-28",
           "close": 2390.0,
@@ -2394,32 +2376,32 @@
       ],
       "news": [
         {
-          "title": "【年底黑馬股1】 迎12月年底作帳！專家點名「20檔績效黑馬」 台達電、群聯扮反彈急先鋒 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxPNU1XblJMa0VQUnFEbUlCbU9mclUzRkxHZEdYRkxwLWFmaU1OcHRpdzFHdGpZMXo3VkpSV0F0MDRWTjNKN1pGYmY0TzhWYmZBVnBBUWREbVpGeTF4TUZXaFJqdXZsWDVZalVtR2RReTlNUGZ5VG1fRGNSV3ViSFRBYzA2dkJiRHA3bFZ1M3p0VlI1YW9OdEZ6ZjVUSVI5WkdYNVBEb1MybVF2QVF4dkFVQThUNXV0ZElPMFR1N0ptNkYyS3RRQS15aW0yMU4yaXpsSWs5QjJQcXhRa2JJNE5IMHI4bjVMOHZERy1UTkRSNlFja1FhUEYyNlFQbGRTbW5hT3JwTE9kRm1VYUczek82OUF6WWRNR251SEoxbGtBZ2RxMWFFV0VjQlZGQ3FTcUFTSDFrZFB1SzBlQ3FMYWNtdF9UTE1xRFFfQ2JPd1RKZTRuTlZoLTBQajdHQTMxYzhERVltQmNieWVDZHBfZVhTdWRqRkdnMUg1Z1gwSmNxVXB6emtPZWdReWdwRWhDeW93Zy00Q2lOOElvU0ljVGs2S1YtNXZVT2Z0V1hTRG5ZUGFMLWZ6ZkVUUk45eWl1Rk1fVmN0dkRJWS1veWpEeHA0dmQ2VjZ2RHJvUmZvYldQdlp0aHJkdTJXX3NOV3VQQXYtTDM2YWpCdXQ3QmxRUTdJQkpSdUpQSTRoSkZWbDFxX2FESml0QlV4T1puV2tLeG1x?oc=5",
-          "date": "2026-11-27T12:27:38+08:00"
+          "title": "台達電、南亞跌出甜甜價快撿？這檔股價難噴「上方都冤魂」！台塑化、台玻...阮慕驊4條件篩選2027年10檔黑馬股 - 今周刊",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkdNb0laQTlqaVRlby1pRVJwbVFrSnE0ZEdyMV9aT3huM2ctdGJaQndldU8yS1c1SzVvUkw5Z3JEZzM5T1BTb0RZS25CbUdpdHFVRUZzNHduVWhBQmhsRTI0MmJ4bWd2UzNoSk51eERIWGd3VnlIX0R1UTVwUHQwQQ?oc=5",
+          "date": "2026-11-27T18:19:00+08:00"
         },
         {
-          "title": "伸縮自如的 AI 算力，模組化資料中心究竟是什麼？ - TechNews 科技新報",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWNEdkpYZzctVm41RmRmRVl1UHZRc0V1NlYxWThGR2kyeWJsWkFXNmJYZTN5bEp3TDZfcG5XT1JxcWFtNnpvRWw0RXI3VzVxTXN0VEtCQ2FIN0tybWNXWGlqSGgxZGVJWjU5QjRwRmhxUFdBdmNmNDNKUEMtX1lKSFlmMkdlb2hSZ2pTUGdSQk44YmtGVHpiZ0d3?oc=5",
-          "date": "2026-11-27T11:02:03+08:00"
+          "title": "個股評價》台達電前三季賺贏去年全年 2027年EPS上看59元 - 聚財網",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QWF9wTkl6Sy1oemMtUXBTZ1Rwd3V4MFhFYWc1QUtCN1d5YUJPUnRXa0hia0xvUWNjRGVLNmdGWjhoOXVMVmdUeGN5OXM?oc=5",
+          "date": "2026-11-27T18:02:04+08:00"
         },
         {
-          "title": "【即時新聞】台達電盤中股價轉弱！以1,120元平盤開出，大盤面臨震盪考驗 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG1pWUp6cGFQRGRyWGw1c3FZa2taYS1hamlNRXlwcjExYW5maThlYlVpSzU2QzNMYlZOZnh3VGthTF9PeXJxZDZRTzdGSm5ncnpHVVNYTEgxWXRxZkV0T1F4TS1Fc2ttTWNLR0trc2c0SnNDZ0Q1UUpSbEozdjB4aF9WMXlMdF90OXNKOEpCQ28?oc=5",
-          "date": "2026-11-27T10:51:28+08:00"
+          "title": "《自營商賣超27-20》矽 統(41)、台勝科(40)、台達電(40) - 富聯網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR05Sdi1PRHFHdjhkbHYtWHFPM1AzSFNyTXFOWVFrUGhuMC0tWUxnU2sydkpQdnFDNHlwQVNmTUFlb25aMEloUmpxN0hvbE5NdHhyUFVUcEthYzNXNmd5eDhPX2I2NXZydTBIUVJOcEtkNFlTMjlQbm51RGtDR2FOLU0yaGtqMEQw?oc=5",
+          "date": "2026-11-27T16:35:00+08:00"
         },
         {
-          "title": "台股開盤》多空拉鋸！外資壓盤、台積成關鍵、扭轉大M頭看這關| 財經 - Newtalk新聞",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWW4zN3Q2dDNuWThidnU2dENSTFhobHBycDdfblFxelM1TFRVWG02ek8tbW41NFdGNzFSRUVtbWVNYkNPYlFteTRwWWRPLWNTOW1TcncxVHpQWVE?oc=5",
-          "date": "2026-11-27T09:41:19+08:00"
+          "title": "台積電炸819億成交額逆勢收高價！欣興、台達電站穩紅盤 「這ASIC大廠」卻慘淪刀下魂 - FTNN新聞",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vYTloYnJHb3JLajk4c2JNQjBTX2FSMmxyZ01sZm42eEdtMDZ3b0oxOW16TkhlWXJmQXg5UWc4Y1BJZTFEMVVSSWNzVQ?oc=5",
+          "date": "2026-11-27T15:50:00+08:00"
         },
         {
-          "title": "2308 台達電 - 今天烙賽還不烙賽？ - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UdFdrQi05N0xwSnB0clNNRWZyWGg3ajU5SGxSLVFoaFJQcU1XenNJZW0tMk9EQml6THVNTjNnMEsxZDIzOVdxOFZhZmlEclRwbEdSNlJMVFA?oc=5",
-          "date": "2026-11-27T09:27:22+08:00"
+          "title": "【年底作帳潛力股1】 迎12月年底作帳！分析師點名「20檔績效黑馬」 台達電、群聯扮反彈急先鋒 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxQRFhXUmNROFlranNqb1Q2cXN6YUNvNU1pX3RQb2RfeERZY1RVQzRLVndPb1FocFUwYThBZkpZdDdZcl9waUxoZzFRVHh5ZnhnRllNSHdrYTBrUzRGYkJ1U0VzWnBMZ3pmVEtDYlNWT3Z4VU02VU9ZMHprcWo0VHFfZURCdXoyZ3lCX1o4YUVZUUFaTHdlWVJRWTJxTmVVb0w0SGRQSHUxUjFWYzA5SHRZSW9LanU3eXJVMHdHZTlab3Rwa2dSdFVsWXRxODBoOFl1aDVMLXpKMU1FQzRVR3JUc05MaVE2ZmZuWTdhb19aX1RwR2lHOXU3N1VpYWtHSnY5X29VV1JMSVl4dXNtR1VJdmdVUXJJNTlOVHFaOXB1c2RKWXpieHN1ZWJ2dDdZb2VWaHhQUlhibmxkYkdIRDBmMmNCaG9LSGNaNkw2bktrc2hFbDVvVFVQSHhxWXc3eV94SS05X3BHcHplVnV2c0ctNnB5UWhEU3RRd0ZaNzhpcVh4V1czY3FEZHJMV2d1RHBiQ21lMm05WUpMU3dMVUpNdW1Vc1RnZVlnX19GaUs2V0tQc21ONXJibFI0bndsellaRERxc0g4aG15Mm5VaUY5WUowdloyY3ptVkZZUUZSQThPbVp2aG1hSlFvTUlpbzVXUWRXM3c0d3Nsa1FYejhEY0xCVDlWSkwyOG5jOElFamJOQjZ2QmRsOS1UeXh6WXBCNTBUaV9PbW5VbmVweS1icEx4TnJYQmFDdktVQlZOVU0weWJS?oc=5",
+          "date": "2026-11-27T15:07:21+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T13:10:51.365455+08:00"
+      "updatedAt": "2026-11-28T00:32:35.260800+08:00"
     },
     {
       "symbol": "2330.TW",
@@ -2467,15 +2449,6 @@
         "RSI(14) 為 42.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
-        {
-          "date": "2026-05-27",
-          "close": 2300.0,
-          "volume": 31986652,
-          "rsi": 60.68,
-          "ma5": 2273.0,
-          "ma20": 2246.5,
-          "ma60": 2039.3333
-        },
         {
           "date": "2026-05-28",
           "close": 2295.0,
@@ -3604,32 +3577,32 @@
       ],
       "news": [
         {
-          "title": "2330 台積電 - 【即時新聞】川普將出席台積電亞利桑那廠擴建，盤中股價上漲25元達2170元 - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2WFFBNmZrZFRWbnE0aExGek5Dd1l1am1TODl6Sll2S2ZicWxXTDNrMjkxTnJoMEdERVZoaE9yVzVOZHNSOFVFdVNtamtfcXNFYjNXaEhXNHA?oc=5",
-          "date": "2026-11-27T12:51:34+08:00"
+          "title": "科技股帶頭衝！美股早盤反彈輝達獨走跌 台積電ADR漲逾2％ - 自由財經",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUTMyNnVGUzI5bzVOaXowb1E2M1haQU1sYUltYkpwQTg0M3dtWHRSZDB5bnZNVU40RWQ0QzBzUjNxTTVBWk9YWmpoLVNNY2RUWnNiSTMxdVJZZ0wwdVBr0gFkQVVfeXFMT2VvQ0ZxTURYWGExYW93R1BFLVlBeDdLNTh6RWVJSDFYMGJzd1lzZ0JDVTd2b215TEEyYXRkY2E2WUdEYWFJR3REazhqTnluS013WnpVc29tOHBaUk9qcEJVZmZRaA?oc=5",
+          "date": "2026-11-28T00:00:39+08:00"
         },
         {
-          "title": "【即時新聞】川普將出席台積電亞利桑那廠擴建，盤中股價上漲25元達2170元 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zbFVyV2NabUk2UlQxamNmWXppMUlDN2ctaVFzamthaE9uUEZOU3RRelM3cldvOXp5V0lJMzRYTFlJRVA4cURpd2g5aC1aYWptVmZESFpPdzNEcXZSTTBXdXVUUnVGNlE?oc=5",
-          "date": "2026-11-27T12:51:32+08:00"
+          "title": "快訊／美股科技板塊回血！費半、那指齊升200點 台積電ADR漲2.8% - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaEU3UlpwY1BhbmM0ZzdSODBTTUFQV2dQOUcxVC12M1VvdkRGSkR4UklIcUNMTmpzUzg0enE5clRxZF81NE1YdTV1NEpJTmVndV9VQ2xfVDVCaGlwOFJYc3lqZnZsbGplWTJiZ2p6NWNmMU9DejNMMDluN0VmeG9iSjJFTTVuMGVPSG1PRTR1bURoYTNEcnZNVEhOVGVZUEcxYWdUa3ZCSjc3bjFyZ2JhbTk0ZW1PdHRQMWJXMExnQjc0RnBXSlFITTlvLXI2bG0tbmNnTUV1dW15SElJemU4R215amZmS3FfbEpObmhUTGZWSmtJcS1KLXI1U043a19VakNtWEpWNGwtTE5tcllfbVhjNUFDUU9nZUxpOGUxRzYzcUVzNkVpcml1SWd6TzNBTmJDaU1iZ012aFljSkgzMzRqTTF6YjhmcEI2WXhtZElGc2tycXIyRVItbU5pZw?oc=5",
+          "date": "2026-11-27T22:43:00+08:00"
         },
         {
-          "title": "4年前台積電、4年後美光 張善政轟：別把產業當選舉工具 - Yahoo股市",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdUpMajdOTEdNbS1kT2ZnZWNJMjRKMVBJNXZsV2YxZzB5ZkZWUHJ6MGdPRUFHeGpFR0kwREZNLXRXVU9HcXUtbloxUjhoOE5CV2hHdTZ6M0xzRllIemRYdzJxcjVkVjVRLS1Sd2dENElUMDVFeEhfTTA1TUJsbFFUYW9TX25JbjdvcFlSQ3h6UzdkZnc0VXJMbDhNX1FkdTlrVTE5MlhMSC1jc3JoU1o5RkRJelNRS0xvRzBHdlBmWERmRkxrZDlZaXpWZDhnUG9aRjJPSnktanliS2NyWEJzcXlvdVdKNVRXYmFkNjExTXZ3WXRLSUYwTjllbGxVaDIyczdlLUc3Q2ZQXzdqUXk3Zi0zdDJWRVB0NFhyT0NzdkRiczdDdHdhMDRqR1dJelJSdDNoZ2ZNTEF0eXByajBLcVpNUFhLNmt4N1A1SzlsVmFGUE9fbjJxbk9TamxaUUM2SmdldHJEaU1sZw?oc=5",
-          "date": "2026-11-27T12:41:50+08:00"
+          "title": "美股開盤／4大指數齊揚！SanDisk飆逾6%、台積電ADR漲近3% 輝達卻翻黑了 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPd2RzZUp6NWVBcVZnVEo0eHJSMW10aXk3SWN0Vm9VVkZvSVI3eXRVVFVtdmR4UHNXdzNSamhjSlh4WE1RaWRqd2FnNGkxSlVsNkRHcVRSNnZvUENzLWJJQTRYbG41Slp5dzhyWkI0UVU1blZxLUszWkJRcXhHQk1FRlMzd09XZ0VyS1Y4eWllRGw3ZDY3Wm0yMEJaV29zYlpKbDFaczc5WWVhZnMyT3dqVlh0N2JiV1Q1MGREVnF2TWlHeVFqQzlVcUJINzk4UVdmQU9TcGFqb0lCQVJCc3ZqUkdacjk5TG51c3NNMWVVcGpJd2F3Q0c2YjNjME9pSWlsUk1ySnNNQU1meVM2U1JfZXZXQXhNVTB3QWYwWkZMMW9xUFBmYVRFSWtsSXRBNjVyZmxXN2Z4emdPY1R6cTBvd0NtWmdNanlzUXA5RXdwZXV2ZFVJa3M4d2hwT25yLVNxdVlGWGpCdGJsTXo3dlRqcjE5NUlEdjZ2clE?oc=5",
+          "date": "2026-11-27T22:38:00+08:00"
         },
         {
-          "title": "台積電德國廠估2027年底投產 明年估有500至800名台灣專業人才赴德 - Taiwan News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OZjROU3JETjZBVmZZaG1ITVNFcUtkMjJEQTJncHVGMUlWQ2lwNERWYWFQYXNlSXl1NVUxVWxGOEVxYVBscUJOVDgySGxGR3hqajhwQ3NOQjI?oc=5",
-          "date": "2026-11-27T12:30:00+08:00"
+          "title": "台積電德勒斯登廠主體結構完工 2027年底量產鎖定車用晶片 - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85MWkzY2daeGJTVUZOM1VvSGxuN0xmdFlKdDhXd0hvVGpKVHVjWlZSeU1BMEhNRGRZWUV1RzVaSWdEMEd5bXl3ai03SXgyaTEwa0o4NGhsU3hfM2tfQTNsVTlCeXpmbnFNTi1xdGtMdGNrcF8zbzFaSFFR?oc=5",
+          "date": "2026-11-27T22:25:00+08:00"
         },
         {
-          "title": "今日精選｜台積電2027年市占逾85%／美光傳關廠資遣3千人！首長怒斥如「龍潭案」既視感 - 知新聞",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51bWJqZ3U0eGxueFctVzhrWlBEeXJ6Z29YX0JfbklCa2NZZ1BYZGt6YTUtQUpUazlEdmxWMlRDM2RkRTNYSFNibUh6VHdQQTZCc2lxblMxb09OT2ZERFpqbFYzWnFWZkJsSnVQdXZJaw?oc=5",
-          "date": "2026-11-27T12:30:00+08:00"
+          "title": "2330 台積電 - 加權台指今天不同步整理盤不強求五波，夜盤觀察15分長均- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rZC1uOVhUeXh3R2ZnRzh1Tkd4Ym5ZTklTN0dvZHAzZHZHZk5WS051U3lYYkhhWFpaanprc3JjUXp3blNwZHc1alRqMzlkWkt6dUZEdkFMel8?oc=5",
+          "date": "2026-11-27T22:20:57+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T13:10:52.169965+08:00"
+      "updatedAt": "2026-11-28T00:32:35.924909+08:00"
     },
     {
       "symbol": "2301.TW",
@@ -3677,15 +3650,6 @@
         "RSI(14) 為 41.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
-        {
-          "date": "2026-05-27",
-          "close": 246.0,
-          "volume": 56597568,
-          "rsi": 74.81,
-          "ma5": 224.9,
-          "ma20": 204.85,
-          "ma60": 174.5333
-        },
         {
           "date": "2026-05-28",
           "close": 230.5,
@@ -4814,6 +4778,11 @@
       ],
       "news": [
         {
+          "title": "《電週邊》光寶科斥資人民幣8億 取得南京能利芯科技100%股權 - 富聯網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWGJhMHdLbFd0bmhyWkZhUjh2M0hrbFVQSlhFR0dET3R4M1FjYXBmZVJCa05BcjlDQ1hZNE45a1JybnRLUmFLMUJ2bEtZQzAxWldaa3Q2WjBvNGJpcGhZS01fWXFOY3dIWXpwNVBzZ1VNOGZvclYyRmNtUGRKanZCWDNaTjBpSVVC?oc=5",
+          "date": "2026-11-27T15:51:00+08:00"
+        },
+        {
           "title": "光寶科第3季營收574億年增28% 創2021年轉型後新高 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcm9uTW5lWlhoSTNBUlZ6QWR2SEd4a19uakxaY29aNVpqTUwwckp5YW5hV1Jzb3Fmd29rbU5wdHVJYW1ZNzVkbG45bll3WEl3QW84aC1wZGJXRmxrcXpoWXlGUXJvS3FlUENRTDVPSnltYWczNUV2clR0d2ZjbTE3b9IBX0FVX3lxTE04RW5aSFg0RURqYndzZFRTRnR6bnB6Smlrdl9vcXR5NDhTdUlmcG12Zm9GMmJoaWdLekx0V0FLRjlXSjlzOU1MOFhSelBpZDEtNGZPeTZubkFSUml4V2lR?oc=5",
           "date": "2026-11-26T19:37:34+08:00"
@@ -4832,14 +4801,9 @@
           "title": "焦點股》光寶科：買盤點火 挑戰200元關卡 - 自由財經",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNkJ6REVtQk9FeUwzUGV1QkxGRTlwQ1FCTjl1d2JLLXAweXdZUnlsNXZDT0w0TU8taGY2YnNBMGhWZjFabkVWSzRrLUpJaWVpYndEQXhDNkdWRjdubklv0gFkQVVfeXFMUGx6SlNPYlFpbFl5UVRmNkQwTzZ6TTNFN0NVeXZ2bjdlMzV2TXVxbnQ4dWM5YzlkQWJ0aURLNF8wU3pnMUdxUEt2NWlua1N3dS1aUVFlejFsVk9yWTcwMmhWektEMQ?oc=5",
           "date": "2026-11-26T12:11:05+08:00"
-        },
-        {
-          "title": "光寶科獲TCSA三大獎 永續治理串聯全球布局 - 台股 - 新聞 - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXUzQW44YmNlZGluSVVuc3ZydmVnZWxPanpjcmtUcFBwM3N6WWdXblh5QlJ4RHVNbGV5X0ppaG1vclNFVEdlSVVYWkpTQWtMM3dfUEJITUlmNHB0UFdQNEZqbmVxUFg0dXh5Zk5GR1hzNXJQOUJtLW5IYTRtZlBuQXVR?oc=5",
-          "date": "2026-11-25T16:14:00+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T13:10:52.756065+08:00"
+      "updatedAt": "2026-11-28T00:32:36.456529+08:00"
     },
     {
       "symbol": "3711.TW",
@@ -4887,15 +4851,6 @@
         "RSI(14) 為 42.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
-        {
-          "date": "2026-05-27",
-          "close": 642.0,
-          "volume": 28399018,
-          "rsi": 72.79,
-          "ma5": 588.2,
-          "ma20": 536.275,
-          "ma60": 434.4167
-        },
         {
           "date": "2026-05-28",
           "close": 627.0,
@@ -6024,32 +5979,32 @@
       ],
       "news": [
         {
+          "title": "3711 日月光投控- 下場不一定賺，看穩再出手- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kc1Rfb0M2RFB5OFhlWWxLaC04ZmJGb0xNOUVrLUlLWXA2S1I0T21ybjgtVDdrNDlmTGJldUc3NmllR2pWMHpzWmZjTm8yeFJ0VU5ScDF3b18?oc=5",
+          "date": "2026-11-27T16:41:44+08:00"
+        },
+        {
+          "title": "AI泡沫疑慮擋不住訂單！日月光先進封裝營收估暴增233％ 京元電大客戶追著要產能 - FTNN新聞",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CS2UwaWdjZFJYX1M4UU1Ob1l0azBaYXBobjhNUFhTT1RaWFpNQUtrMTRtWnRIQVB3M25sVjFRbV9KSmFhR1BHcnN6WQ?oc=5",
+          "date": "2026-11-27T13:20:00+08:00"
+        },
+        {
+          "title": "熱門股／日月光投控翻紅走揚！花旗重申買進、目標價908元 潛在漲幅逾7成 - 非凡新聞台",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxcVZLT3EtbkZmT05GQi1hbTRVTUQ4X2JPeWlrZnVpYnM4c2xNMnNHd0Z4SjJ6N3luRDJkZmxsTFFIaUprN2xybXYtTW1VNngxTVFoZF9zQmx0VS1NSUVMUA?oc=5",
+          "date": "2026-11-27T13:06:58+08:00"
+        },
+        {
           "title": "瑤池金母最新操作！00981A單日加碼11檔「狂敲緯創、日月光逾4千張」 - TVBS新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3QVJfa29wQzBXZWR6anY5a05lb3FrZVNlVlRPSEpKczBTWVh3SG1lWkI0WUpId0syUVlsdW5vZ1RtT3M4UFEzTXJTMEQzdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14dE1helBkLVpjbnAwMGJSdnhJZk1pR25MQWxGSzU3MnNsUE9HS2RfRzhVdXV5U1B0bE5tYW5LV3VtdVZMT0dzTm5UeklVZGc?oc=5",
           "date": "2026-11-27T11:39:00+08:00"
         },
         {
           "title": "目標價飆上908元！外資狂挺「封測雙雄」！先進封裝營收拚翻倍、京元電最高上看360元 - FTNN新聞",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mcWlrcDJmRUN6SEdMMm9DbHFvU3dlUGtEbm55Ym01NmZ2YThSQWdBRW5MVWNQYldvQXppQXd6U1RsYUNFQ1dsU0VvRQ?oc=5",
           "date": "2026-11-27T11:25:00+08:00"
-        },
-        {
-          "title": "熱門股／日月光投控翻紅走揚！花旗重申買進、目標價908元 潛在漲幅逾7成 - 非凡新聞台",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxcVZLT3EtbkZmT05GQi1hbTRVTUQ4X2JPeWlrZnVpYnM4c2xNMnNHd0Z4SjJ6N3luRDJkZmxsTFFIaUprN2xybXYtTW1VNngxTVFoZF9zQmx0VS1NSUVMUA?oc=5",
-          "date": "2026-11-27T11:07:58+08:00"
-        },
-        {
-          "title": "主動ETF連3天買超！日月光投控吸金18億 金像電獲聯手敲進 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxON255bEpHS29qWFZQU0p6a0JIVFVSaU5TVnhEWTVzODlqYmJqZ1BOUGZIb1IzTDhweW9lT1RQTmRsQ2gxX2F1Yk9aUW5lZ0FWcGJaN2NzY2F6ZUNBOXZQZnZ0ZFNEYkhTWldqREN0S1hheVZJQWgzUjN0dGstejVsQWUtejZVc0hjcmFoam4td2lnZjFmSHBlUGh0T0pMVERrM2hseGYzMWVYdXpyM2NIYnRKTW5JQ0tNY211NW1FQmpZb1BRT3dFeDNMMFRhVkhFWG5KT3l4Z0ZnRWIzSXk4LUZjclBXcHRGbWdIOG1ZOTE1R3hiZmhBWl9LN0lWQU5rbjRINklmNDFZRnN1LTFpVllvWDJFN1lBbUQ2TDYtakxIRGtDMmVpbFVKQmItb0xvUVp0WVpLLUNhSXRiN25oZUhfN09wUjh0SXl2WjF3d3N4OGJIcTdjLUNiQ2paU2gyTVdKWmxR?oc=5",
-          "date": "2026-11-27T10:40:22+08:00"
-        },
-        {
-          "title": "3711 日月光投控- 輝達占比降近8 百分點，ASIC 搶食台積電CoWoS！ - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56aW4zWVhHRTU4Yjg3YXNJZHh3Vy1YUU5uT0xEd09XcjQwb0tRMGJhZXpZem1UVTVmYkg2LXA3Uzl3bVNTaDhkZ2w1REhZSzdGdjc3VEE5Ymc?oc=5",
-          "date": "2026-11-27T10:35:27+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T13:10:53.387228+08:00"
+      "updatedAt": "2026-11-28T00:32:37.194271+08:00"
     },
     {
       "symbol": "NVDA",
@@ -6098,19 +6053,6 @@
         "RSI(14) 為 37.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
-        {
-          "source": "Yahoo Finance",
-          "open": 214.12,
-          "high": 214.15,
-          "low": 208.78,
-          "date": "2026-05-27",
-          "close": 212.6,
-          "volume": 167601200,
-          "rsi": 51.04,
-          "ma5": 217.154,
-          "ma20": 214.6295,
-          "ma60": 195.4782
-        },
         {
           "source": "Yahoo Finance",
           "open": 211.28,
@@ -6314,7 +6256,7 @@
           "date": "2026-06-18",
           "close": 210.69,
           "volume": 241272000,
-          "rsi": 50.37,
+          "rsi": 50.38,
           "ma5": 208.078,
           "ma20": 211.7945,
           "ma60": 203.559
@@ -7765,32 +7707,32 @@
       ],
       "news": [
         {
-          "title": "美國新規堵漏洞，輝達晶片買家恐禁租算力予中企 - TechNews 科技新報",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblVnRXZBMGpLUGhzX0szeUhtN25DS3E0T1dVeTc0LXVKbXFWdm9vckltaDdqNERYRVduZDgwUFg1QWRjdUZzdFJoNG9uZzNJVFo4LVJxS1V6MWpNOUQ3cG83QzRfaWlUVzNSanlUYi1va3FNekpraHhkUlB3QnBULUNrT2JhX05XRWlGQmJPQ3AzejktNGpVNVh1OU5ET3RZZHc?oc=5",
-          "date": "2026-11-27T12:12:12+08:00"
+          "title": "Nvidia禁售晶片傳現上海 股價轉跌 黃仁勳下周接受國會質詢 - singtao.ca",
+          "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNVExvTUVpLUlCWVdsSklsekk0M0VxTERvTXNwU29BZE15b0ZiVVl6SEx2X3AxN3pZZlpjSzU5Z0QzMnJ3dEhEUEROUHhBNnVROW13UDRDX2dYV2xERVg3SDMwQmNiU0NpeVFRVEs4Y0o5TDFnSDg3UmxlR1I2anZCU09OYlJQeEhWMk90b2JZT09UZ0pfWldHVUZIQjQtUDY5RGlhRHB3VzN4NEN6UjFabm1fNDNJN0pHN25HWWg3cUdpRmpvVVVPUG1wWm5vbWN5d1RweTlFcVE4M0dnSGJUNkVOSE8zN2wtRHlfQ2VmWWVhX3hXdEd2TmJUWTFZUGZDdXVLc2hSWkFnZ2hIVHAzWndBWjlxT1hBR0haUnNNRGhNTEpBcnVybkE5c01YQWZ3RGQ4RV9Ma2Qzek1UYXprbUpvRkNUUmFtQWJCNDdQTlZ3QVpfNzZiM2JDX3VFSGJqd2VuVFZ2NzVUaFM5TkhrTnl0SkVKbHU0Qi04?oc=5",
+          "date": "2026-11-28T00:17:28+08:00"
         },
         {
-          "title": "NVIDIA 暫停東南亞四國伺服器出貨，美國新規把「算力給誰用」納入許可審查 - TechOrange 科技報橘",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzVWUmVRWElleGF3SnROaXNKd0tyV1FieVFVUXVyc3l1ZkdCUm9pMHB3TEZ2MVlQRmtKSDM3SzB0QS00VVEzU1Q2R19NSTJBTEV4eHkzczNqZDc5dHZpOHdXVnRKQlZyMWN1aE5pQVEzeUFKSy1IY2VDWi1Hc3NXTnk1ekV6YzlfX08zd1VSYw?oc=5",
-          "date": "2026-11-27T11:57:29+08:00"
+          "title": "美股早盤／感恩節後強勁反彈 四大指數齊揚 Nvidia獨憔悴 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ub1FEdXZFbDIyQzV3cnBtS1FqTHJSaXN6OVBvNmJHOGhvWE1UQWVVRVRsUzE1el9EbXUwVTBDY0cyM05TbzRJejVBcjlXTnY4SENnQmx1cUZUQzZjS2xlaGpB0gFnQVVfeXFMTWVGYmNmbzFQM0VrbXNLbllrcnJLaktLdWgxZEpkVWI4MnMxNDdjbE16cVZVY2JzT2dXRU5oT0pSbHpOZ2ZXbm5QQ2p5SHFUUWEtdTVPZnctc3pObmpYaHd0cVZueDFTdw?oc=5",
+          "date": "2026-11-27T23:58:53+08:00"
         },
         {
-          "title": "NVIDIA東南亞禁令衝擊區域雲端！解析美商務部遠端算力新規與供應鏈佈局 - Mashdigi",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dEY2Z0F4VTczVndqb2ZIWkF0bXk5Qm50bDFxNFVGb2pTcXFSM0pWV0ZuMHNSa0cxZmF5YktFbF9WZU93d2hVMjUzUm1xejJ6bWMyNG5SV0NZV3RCOVA2aTFoQXFjdE1vYmk1SGdySUxPR2NlUVhRWg?oc=5",
-          "date": "2026-11-27T11:42:12+08:00"
+          "title": "更新：YYForce (NASDAQ: YFOR) 採用 NVIDIA Jetson 及 Isaac Sim，推出經過訓練、可提供酒店禮賓服務的人形機械人 - GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSXZZYUhQUFJZcnFOR0E2UGM1c2FvY01PU0ZCaGtJdFlRajdUcFFpMEpoWjkxTkRxRnhFNmlMX2VMRUZCLXY1allDbDBtWGRHalF5N05ZYUZDWl9TY1k4V28wbXRGUzFGUFlJc0MwQXp1bXdxU0UzczNiUzdlTlhNQnI0OEpIWUVDb2paNFg5VjVFYmduTjVRMVAwLU9xYjFSek9aUEJubGtUVWhLMGY1NDQ1ZWtyVm1HTkJFQ1Q3Um1tTFltZUR3d21yVUNGcVloSVFwNjVEc1hPcmJNaG9mdFBuaUkwcGtGNGZBZlFkOVFCckI1cHlfejR0SUg0RTkwb1R2b2VTTExEcFBxXzU2NmdPNmE3eVdWRkdqNVd1a3Noc2xMS2tMTWdzWk9vT2FzRUhsUkxTUk1DMURFV3lZMXQybHpiM0E3bGxaU2FVajdxNmVEMFlvakJWRmY4ZE0wb2FITDQwSVAyQy1XSGRYTjFDX2FJSmFKNzg0NFBpNHF5VDVCQmo5WU5IVFZqQXlHOExiTWllV2YwMkVsaGR2Y3dDbVZkdzB2YWU1MXF4YkVZRzl2dkJMVWZQTWJtVVBKVjU2cTlIaFFpaG5lY1VwNnBHSi1RQVZ6N3hzWkYtN1A2WkpDWEVvZGprLTN3UEpQUWZYOHAyRl90Qkk?oc=5",
+          "date": "2026-11-27T22:57:16+08:00"
         },
         {
-          "title": "若AI芯片變得商品化 Nvidia損失最大而這3隻股有望受惠 作者 HK MoneyClub - Investing.com 香港 - 股市報價& 財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EU01JQW55LWZqMEl4Nlh3czRKM2dlc3U3aDFGcUpHSGZMb1NUM0JHYnpfc0ZNY19vTm9ucU8yV1FkUWZHXzloTVVWNkN1RzZKLTU2dGRVYWMzT3c3b2EzeXNQOWhmakxvMTBibldqUEU?oc=5",
-          "date": "2026-11-27T11:37:23+08:00"
+          "title": "彭博：黃仁勳曾稱難以走私的 Nvidia GB300 現身上海，與 Megaspeed 及黃樂有關聯 - 動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU9Mbi0za0dPOTJXSVBrYjcyR2J2Mm1vQW5fYllVbzJpWEpvZk53N3NEdk5Wa1pKdWNacXlBcXg3Y3hseVVHTjA1akFPdGx6UnNJbjF5dE1peWhJNE9UbFF0TWJZSWpvR3F3a0ZrNVFqdEVfLVhUZnlUWDNJQWZXNlhmT2RFNmNUUzNoeGNwOVZFQi1Fc0E?oc=5",
+          "date": "2026-11-27T22:50:50+08:00"
         },
         {
-          "title": "特朗普稱黃仁勳期待Nvidia「第二任期」 讚促成回歸Nvidia為世界做好事 - singtao.ca",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQmRiSGVpNU5hNlNhaVhONmVRNE1FamdKQlBjcDlGX2tCeXh6SWFaX2pjSmNnOHpCLVBEMTE2RkstU0JycHZVSHllQlAySEwzWGxMTDVMdDg5ZUVmbnhlSmtKaFBIelh6S3RVdk5weEdBNEdxbFloYkNaQjNNV25tZXdLZVM1TFp4NGxGdlRBaS1IalVqdUlORmRoWUhhWEc2LW5MY0F4TkExUVNyU2E0Qjk2cGFfLXo1cUJWNVBCU25HYm80U0E2N3Vab3hZcUVGYjdNUXlONTNsMnlZTWM0ZTkxOVd6OG5HWEc5SzdnQ1l5b0xUWVg4cDNNR09uOGI0d0tXaHFIb0RrTVF0ZEI5b1BOMnRDMFXSAYwBQVVfeXFMTWtkRlQ4c2tlaFplWUFHek5Xdll0M0VMcUV2OG1SdlNENmZXa3RlMV8xNFR6VXdFc2NMdXlHdmJUQm9XYlNBSy0yd29rQkFwQnUzLUdsM0VxQ1lnXzhJd21Sd0pNOFR1TEtHcUFaOHA1XzJUeTlXSWMwOVBCSXV3aEU4N3RnNmhsc3lzOVY?oc=5",
-          "date": "2026-11-27T11:28:47+08:00"
+          "title": "川普发侮辱女性的黃仁勳舉紅胸罩AI圖，並稱涉間諜婚外情風波可能是「淨利好」；有誰關心首席財務官克雷斯的遭遇 - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNc25rTllRbkszRXhmVS11ZDVtSEthWU1Oc19MOGI2MVBNVWxFNlBOeUFQcHpIYnkzQXNjajNuX2N0ZGR5elFlRFVTWkVEbzQxZEpOTVRDSlBicGZYX1dtOFMtMGZ3NmIyZEttV3Fyc1VubDZtQU5rVUZzVE54RDRPRmxZUV9HQUxxWHlEYnJ1X2NvaUpWNXdFZjVpb1lFUlE1eE1QT29mTUZNMHBWbDd6d0hJY21iUVVpQW84VEpjVEVpZVZiMlpEX0FhZXBmTUJza2xHR19TcFgydDNjanJ5QU1MeWE0UHZObmtCRUtQRWNmcnFITk5ZRzE4a1puaGdYaUtTYmZPZEJ4UW5JbmZWX0p3bTJuQzc4MTc0TGx2Yy1WMVh0ZWZMOFVOejZ1VlJxdDd3akllZ2RfVE3SAbsCQVVfeXFMTkxWNjJ2LWtQZmpxcEZZaWJxc05UOFRwRjkxcG84bEJuWHBaR1FmSGZTOEFrS2lVUWduaXc4aEptdWJGcXhjb1U2Z0laOGZLa1UyZnFYSnNnVHl2VFRjOXkxeEdVMkt6RXlibG84Y3NiQS13Vk5qZHJ3ZTQ4ZE1oQ2t0ZEdpUVE3eHBUbGFyUEJYRXhrZXJGNVpRa0RyaUttMzN4emlsZjk2UlplMTVkcTAycnp3LTVJVF94NFdndUN1NlpwVXltR21fMzltUF9sejZ2TnRuLVFEb3lNRXNxRUdwYk85bHZJUXdSald3MXFfRGFQcWRIeFlBeVNPdU9TeEJrNFJJdm9JR0pGYUltRjNkVHNYSF9CSW5vYktyeUdvRlZGQVMtQ3drWUhtMklRaE1URnpYTm9jdFlJ?oc=5",
+          "date": "2026-11-27T21:08:18+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T13:10:53.814768+08:00"
+      "updatedAt": "2026-11-28T00:32:37.621496+08:00"
     },
     {
       "symbol": "TSLA",
@@ -7843,19 +7785,6 @@
         "RSI(14) 為 50.3。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
       ],
       "history": [
-        {
-          "source": "Yahoo Finance",
-          "open": 442.89,
-          "high": 445.6,
-          "low": 435.52,
-          "date": "2026-05-27",
-          "close": 440.36,
-          "volume": 44656500,
-          "rsi": 63.05,
-          "ma5": 427.014,
-          "ma20": 415.2215,
-          "ma60": 391.5345
-        },
         {
           "source": "Yahoo Finance",
           "open": 437.62,
@@ -9510,32 +9439,32 @@
       ],
       "news": [
         {
-          "title": "[U-EV]海外將停產、等待8年仍未正式導入，國內Tesla官網將Cybertruck下架 - U-CAR新聞",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OTlp5Nm5fVXNpWGNUZjk2RHBUaWt6Qi1iZndiZmp6VFZwdGtxR29jZFZxWHR3OU9lOTlLTG5LNDJlNkJsbmxJc1poYWpQZ3dXMmRzMEotTQ?oc=5",
-          "date": "2026-11-27T12:34:52+08:00"
+          "title": "西沙路Tesla與私家車相撞釀兩傷 來回交通受阻 - on.cc東網",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlFEYjdOb2c1Sk9vWGF6X2tVdFhFbDlMLUZWVWsxUDFWWGdkTXFyamh5U2dybmhNQllhYWNwMHN3UjExaHVsbXVyRUNvMnlwc2dtU2ZnZFMwYnJjdVV2MUxXTGRSdjhsX0dSc0RsaUFvZkpRUjdSem9XQVNWMWxmVC0zS0hNTHF1elBJ?oc=5",
+          "date": "2026-11-27T23:41:14+08:00"
         },
         {
-          "title": "特斯拉 2026 聖誕更新預測：Apple CarPlay、自動化操作等 6 大功能有望登場 - 蘋果仁",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBna0FCTHRQYmR4THF6a0FYb0RVTm40Y19YUk1SRjMzMkJ3aVdDczZkUXJ3VVlUc1NHNUIwMlcteDg4OTVTb19ENFJQTHY?oc=5",
-          "date": "2026-11-27T11:47:22+08:00"
+          "title": "【23:35 即時新聞】Tesla(TSLA)勁揚5% 機器人計程車題材獲華爾街翻多加持 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3EwQzdPSXpac1p4dkYyRTZQeWRueU5qTml0amlqWXdrZkFzSlJKakwzaG9Qa09rWldEM0dRMFBNbDJvNER3T0x6SG1LR2R6ZWg1QWQtNEtndlkzUV9mX2FOR1NKUFdiSHdkbEpLR0U4TVJBQ3d1NUhJVW1vYTFjd3haeEdOV1FSZmc5YS1n?oc=5",
+          "date": "2026-11-27T23:35:55+08:00"
         },
         {
-          "title": "衍生財智(27/11/2026) 美科技股震盪，英偉達及Tesla最新部署 - i-CABLE",
-          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTDlLeXZzVVRjeTNpNl9td0FCaVBkdVhodTBfQkNfX0lLNFk0ZFJoWHRZTXJxT2t3UjRWclc0TF90UGlfR1YzY0hYNTI0RlJEZXdYamxvS3VCRDlkM3BzVTNldWhfd0VoMnByMzA5YWZJSXRDZkE5cTUyd3gtSWJQY0NZTGNlTDhoQ1JvRENsejY4XzNpSlNGSlUyMzlGT1NYVWZpTnhlbkstWmlNRlJqLUlsU29nbWx4OG1BT3I4NHk5NGFDVUpnaGJKa1lUSTZFNUdIeERqY0JRNHloc0p4TEI0OFJjU3ZaaHZ4Zm1LQ054RUlNR0tqbjd1Wko4SW84TFB0cFAxQ1czc2ZQQVBjV21oNDhscFNpY2xPSUpQaHdNRXlScGJ4Z3VDd0pkNUltSG0wSVk0bFg2RnBRLVo2MVk4ekx0UE5TQnE5WEZzZGJBNWpBQmJYWUczb2tJd2E4OVNxbURn?oc=5",
-          "date": "2026-11-27T10:34:28+08:00"
+          "title": "Tesla Inc(TSLA)股票11月27日盤中上漲3.43%：背後推手曝光 - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajMxVDA0VW11ZTIzaVFGMDJTWm1Cd1VWbm42XzZyWHU5STdMODNmQ01FYXNXaktsZ29oWnpSbXJVcXU2bjNXdU1qSlEwTkg3bkl6RmU2TVJlT2tPWlVEZ0czU3BXSXNleV9IZmVtYUhzRXQ3NjQ0S3VLYTlEX1pvNVEyOFluVmQ3SzdWZ2ppT1JNMWh0T0E?oc=5",
+          "date": "2026-11-27T23:18:07+08:00"
         },
         {
-          "title": "全球最酷計程車即將來台，Tesla Cybercab 12/4起展開全台巡展 - PChome Online",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nWFVDM1YxNW11UEVXRC0xdExxZ3g3d1EwYkpFSnFsOUEtV21XMVRtYjZCbks4OGU5UU5heS1aaVdJQloxdFpBZm5aTlNPRU12Rk9YT29Zb3JHVVU?oc=5",
-          "date": "2026-11-27T06:35:14+08:00"
+          "title": "Tesla 推動收購德國 EMAG，為 Musk 的「Optimus 2萬台」產能布局 - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VVmZ2UXVWcWFpcjJzUzFjMi1RR0xnZmZBVlNpajAwaG1yOGNocnFLVE14NXl5LWlOQzZpX1FoVW9BNkFQbmdMSzJ5dGVwVFhFMG45NGhhWjAtVnZmcXUzRXItNUJuOHlNQTVGQ1pLZ0Q3U0Q1akxNVzBR?oc=5",
+          "date": "2026-11-27T22:10:43+08:00"
         },
         {
-          "title": "撞翻鄰車 Tesla司機涉醉駕危駕被捕 - 20261127 - 港聞 - 明報新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPOVBsOG5FdTliM3JSbkw2dFJGQ3Jad1k5NmE1bHdEdk9LdW8yNlZEaEUxWExXYmxNNVgzb05qRzh6N3Y4dHRlLTRXdWlYN2stYTcxNXdNSXBKbUsxbXlGdTNpRWVaVVc3MmVldUJBaTNfTS1zWnBPZXE5Sm1mVTQ1cWFia25ESTdKMDlNWkFBelRUZVJPSFRxaGRTb0hNYjIxbnlUUEE1M0J3MGRnR04tb0RwUmh0a2Q1Q29CZ2t3YTVtTEhvdTFFb1NrZEh0MHc3eG5lVVg3ckRDNUdIWFdpaVZKeFZ1SVVwVUdrTmlCczRPa1dPeHZPb2doc1dnOWJlalNKVWZpbVk5UUdvcXl5WXpqNERJSWVhTlRGYl9PLWl4Y04yX2prWXlSeGNsdkdqeDZB?oc=5",
-          "date": "2026-11-27T04:30:00+08:00"
+          "title": "特斯拉人形機器人布局有新動作？擬收購德國工具機廠EMAG資產 - 鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oNXlYTDBzbGlXOWtmbVUtZjRUTmY0NGdmTTRzU0lUSW5GOWM1SWRKQlp5YWI2Q2JSU3F5elJMZWtWbGxha19ISFV4RzNFYmc?oc=5",
+          "date": "2026-11-27T18:30:18+08:00"
         }
       ],
-      "updatedAt": "2026-11-27T13:10:56.127009+08:00"
+      "updatedAt": "2026-11-28T00:32:42.201512+08:00"
     }
   ]
 }

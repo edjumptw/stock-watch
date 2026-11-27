@@ -47,19 +47,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 214.12,
-      "high": 214.15,
-      "low": 208.78,
-      "date": "2026-05-27",
-      "close": 212.6,
-      "volume": 167601200,
-      "rsi": 51.04,
-      "ma5": 217.154,
-      "ma20": 214.6295,
-      "ma60": 195.4782
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 211.28,
       "high": 215.52,
       "low": 211.22,
@@ -261,7 +248,7 @@
       "date": "2026-06-18",
       "close": 210.69,
       "volume": 241272000,
-      "rsi": 50.37,
+      "rsi": 50.38,
       "ma5": 208.078,
       "ma20": 211.7945,
       "ma60": 203.559
@@ -1712,30 +1699,30 @@
   ],
   "news": [
     {
-      "title": "美國新規堵漏洞，輝達晶片買家恐禁租算力予中企 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblVnRXZBMGpLUGhzX0szeUhtN25DS3E0T1dVeTc0LXVKbXFWdm9vckltaDdqNERYRVduZDgwUFg1QWRjdUZzdFJoNG9uZzNJVFo4LVJxS1V6MWpNOUQ3cG83QzRfaWlUVzNSanlUYi1va3FNekpraHhkUlB3QnBULUNrT2JhX05XRWlGQmJPQ3AzejktNGpVNVh1OU5ET3RZZHc?oc=5",
-      "date": "2026-11-27T12:12:12+08:00"
+      "title": "Nvidia禁售晶片傳現上海 股價轉跌 黃仁勳下周接受國會質詢 - singtao.ca",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNVExvTUVpLUlCWVdsSklsekk0M0VxTERvTXNwU29BZE15b0ZiVVl6SEx2X3AxN3pZZlpjSzU5Z0QzMnJ3dEhEUEROUHhBNnVROW13UDRDX2dYV2xERVg3SDMwQmNiU0NpeVFRVEs4Y0o5TDFnSDg3UmxlR1I2anZCU09OYlJQeEhWMk90b2JZT09UZ0pfWldHVUZIQjQtUDY5RGlhRHB3VzN4NEN6UjFabm1fNDNJN0pHN25HWWg3cUdpRmpvVVVPUG1wWm5vbWN5d1RweTlFcVE4M0dnSGJUNkVOSE8zN2wtRHlfQ2VmWWVhX3hXdEd2TmJUWTFZUGZDdXVLc2hSWkFnZ2hIVHAzWndBWjlxT1hBR0haUnNNRGhNTEpBcnVybkE5c01YQWZ3RGQ4RV9Ma2Qzek1UYXprbUpvRkNUUmFtQWJCNDdQTlZ3QVpfNzZiM2JDX3VFSGJqd2VuVFZ2NzVUaFM5TkhrTnl0SkVKbHU0Qi04?oc=5",
+      "date": "2026-11-28T00:17:28+08:00"
     },
     {
-      "title": "NVIDIA 暫停東南亞四國伺服器出貨，美國新規把「算力給誰用」納入許可審查 - TechOrange 科技報橘",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzVWUmVRWElleGF3SnROaXNKd0tyV1FieVFVUXVyc3l1ZkdCUm9pMHB3TEZ2MVlQRmtKSDM3SzB0QS00VVEzU1Q2R19NSTJBTEV4eHkzczNqZDc5dHZpOHdXVnRKQlZyMWN1aE5pQVEzeUFKSy1IY2VDWi1Hc3NXTnk1ekV6YzlfX08zd1VSYw?oc=5",
-      "date": "2026-11-27T11:57:29+08:00"
+      "title": "美股早盤／感恩節後強勁反彈 四大指數齊揚 Nvidia獨憔悴 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ub1FEdXZFbDIyQzV3cnBtS1FqTHJSaXN6OVBvNmJHOGhvWE1UQWVVRVRsUzE1el9EbXUwVTBDY0cyM05TbzRJejVBcjlXTnY4SENnQmx1cUZUQzZjS2xlaGpB0gFnQVVfeXFMTWVGYmNmbzFQM0VrbXNLbllrcnJLaktLdWgxZEpkVWI4MnMxNDdjbE16cVZVY2JzT2dXRU5oT0pSbHpOZ2ZXbm5QQ2p5SHFUUWEtdTVPZnctc3pObmpYaHd0cVZueDFTdw?oc=5",
+      "date": "2026-11-27T23:58:53+08:00"
     },
     {
-      "title": "NVIDIA東南亞禁令衝擊區域雲端！解析美商務部遠端算力新規與供應鏈佈局 - Mashdigi",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dEY2Z0F4VTczVndqb2ZIWkF0bXk5Qm50bDFxNFVGb2pTcXFSM0pWV0ZuMHNSa0cxZmF5YktFbF9WZU93d2hVMjUzUm1xejJ6bWMyNG5SV0NZV3RCOVA2aTFoQXFjdE1vYmk1SGdySUxPR2NlUVhRWg?oc=5",
-      "date": "2026-11-27T11:42:12+08:00"
+      "title": "更新：YYForce (NASDAQ: YFOR) 採用 NVIDIA Jetson 及 Isaac Sim，推出經過訓練、可提供酒店禮賓服務的人形機械人 - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSXZZYUhQUFJZcnFOR0E2UGM1c2FvY01PU0ZCaGtJdFlRajdUcFFpMEpoWjkxTkRxRnhFNmlMX2VMRUZCLXY1allDbDBtWGRHalF5N05ZYUZDWl9TY1k4V28wbXRGUzFGUFlJc0MwQXp1bXdxU0UzczNiUzdlTlhNQnI0OEpIWUVDb2paNFg5VjVFYmduTjVRMVAwLU9xYjFSek9aUEJubGtUVWhLMGY1NDQ1ZWtyVm1HTkJFQ1Q3Um1tTFltZUR3d21yVUNGcVloSVFwNjVEc1hPcmJNaG9mdFBuaUkwcGtGNGZBZlFkOVFCckI1cHlfejR0SUg0RTkwb1R2b2VTTExEcFBxXzU2NmdPNmE3eVdWRkdqNVd1a3Noc2xMS2tMTWdzWk9vT2FzRUhsUkxTUk1DMURFV3lZMXQybHpiM0E3bGxaU2FVajdxNmVEMFlvakJWRmY4ZE0wb2FITDQwSVAyQy1XSGRYTjFDX2FJSmFKNzg0NFBpNHF5VDVCQmo5WU5IVFZqQXlHOExiTWllV2YwMkVsaGR2Y3dDbVZkdzB2YWU1MXF4YkVZRzl2dkJMVWZQTWJtVVBKVjU2cTlIaFFpaG5lY1VwNnBHSi1RQVZ6N3hzWkYtN1A2WkpDWEVvZGprLTN3UEpQUWZYOHAyRl90Qkk?oc=5",
+      "date": "2026-11-27T22:57:16+08:00"
     },
     {
-      "title": "若AI芯片變得商品化 Nvidia損失最大而這3隻股有望受惠 作者 HK MoneyClub - Investing.com 香港 - 股市報價& 財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EU01JQW55LWZqMEl4Nlh3czRKM2dlc3U3aDFGcUpHSGZMb1NUM0JHYnpfc0ZNY19vTm9ucU8yV1FkUWZHXzloTVVWNkN1RzZKLTU2dGRVYWMzT3c3b2EzeXNQOWhmakxvMTBibldqUEU?oc=5",
-      "date": "2026-11-27T11:37:23+08:00"
+      "title": "彭博：黃仁勳曾稱難以走私的 Nvidia GB300 現身上海，與 Megaspeed 及黃樂有關聯 - 動區動趨",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU9Mbi0za0dPOTJXSVBrYjcyR2J2Mm1vQW5fYllVbzJpWEpvZk53N3NEdk5Wa1pKdWNacXlBcXg3Y3hseVVHTjA1akFPdGx6UnNJbjF5dE1peWhJNE9UbFF0TWJZSWpvR3F3a0ZrNVFqdEVfLVhUZnlUWDNJQWZXNlhmT2RFNmNUUzNoeGNwOVZFQi1Fc0E?oc=5",
+      "date": "2026-11-27T22:50:50+08:00"
     },
     {
-      "title": "特朗普稱黃仁勳期待Nvidia「第二任期」 讚促成回歸Nvidia為世界做好事 - singtao.ca",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQmRiSGVpNU5hNlNhaVhONmVRNE1FamdKQlBjcDlGX2tCeXh6SWFaX2pjSmNnOHpCLVBEMTE2RkstU0JycHZVSHllQlAySEwzWGxMTDVMdDg5ZUVmbnhlSmtKaFBIelh6S3RVdk5weEdBNEdxbFloYkNaQjNNV25tZXdLZVM1TFp4NGxGdlRBaS1IalVqdUlORmRoWUhhWEc2LW5MY0F4TkExUVNyU2E0Qjk2cGFfLXo1cUJWNVBCU25HYm80U0E2N3Vab3hZcUVGYjdNUXlONTNsMnlZTWM0ZTkxOVd6OG5HWEc5SzdnQ1l5b0xUWVg4cDNNR09uOGI0d0tXaHFIb0RrTVF0ZEI5b1BOMnRDMFXSAYwBQVVfeXFMTWtkRlQ4c2tlaFplWUFHek5Xdll0M0VMcUV2OG1SdlNENmZXa3RlMV8xNFR6VXdFc2NMdXlHdmJUQm9XYlNBSy0yd29rQkFwQnUzLUdsM0VxQ1lnXzhJd21Sd0pNOFR1TEtHcUFaOHA1XzJUeTlXSWMwOVBCSXV3aEU4N3RnNmhsc3lzOVY?oc=5",
-      "date": "2026-11-27T11:28:47+08:00"
+      "title": "川普发侮辱女性的黃仁勳舉紅胸罩AI圖，並稱涉間諜婚外情風波可能是「淨利好」；有誰關心首席財務官克雷斯的遭遇 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNc25rTllRbkszRXhmVS11ZDVtSEthWU1Oc19MOGI2MVBNVWxFNlBOeUFQcHpIYnkzQXNjajNuX2N0ZGR5elFlRFVTWkVEbzQxZEpOTVRDSlBicGZYX1dtOFMtMGZ3NmIyZEttV3Fyc1VubDZtQU5rVUZzVE54RDRPRmxZUV9HQUxxWHlEYnJ1X2NvaUpWNXdFZjVpb1lFUlE1eE1QT29mTUZNMHBWbDd6d0hJY21iUVVpQW84VEpjVEVpZVZiMlpEX0FhZXBmTUJza2xHR19TcFgydDNjanJ5QU1MeWE0UHZObmtCRUtQRWNmcnFITk5ZRzE4a1puaGdYaUtTYmZPZEJ4UW5JbmZWX0p3bTJuQzc4MTc0TGx2Yy1WMVh0ZWZMOFVOejZ1VlJxdDd3akllZ2RfVE3SAbsCQVVfeXFMTkxWNjJ2LWtQZmpxcEZZaWJxc05UOFRwRjkxcG84bEJuWHBaR1FmSGZTOEFrS2lVUWduaXc4aEptdWJGcXhjb1U2Z0laOGZLa1UyZnFYSnNnVHl2VFRjOXkxeEdVMkt6RXlibG84Y3NiQS13Vk5qZHJ3ZTQ4ZE1oQ2t0ZEdpUVE3eHBUbGFyUEJYRXhrZXJGNVpRa0RyaUttMzN4emlsZjk2UlplMTVkcTAycnp3LTVJVF94NFdndUN1NlpwVXltR21fMzltUF9sejZ2TnRuLVFEb3lNRXNxRUdwYk85bHZJUXdSald3MXFfRGFQcWRIeFlBeVNPdU9TeEJrNFJJdm9JR0pGYUltRjNkVHNYSF9CSW5vYktyeUdvRlZGQVMtQ3drWUhtMklRaE1URnpYTm9jdFlJ?oc=5",
+      "date": "2026-11-27T21:08:18+08:00"
     }
   ],
-  "updatedAt": "2026-11-27T13:10:53.814768+08:00"
+  "updatedAt": "2026-11-28T00:32:37.621496+08:00"
 }

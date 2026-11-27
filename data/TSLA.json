@@ -51,19 +51,6 @@
   "history": [
     {
       "source": "Yahoo Finance",
-      "open": 442.89,
-      "high": 445.6,
-      "low": 435.52,
-      "date": "2026-05-27",
-      "close": 440.36,
-      "volume": 44656500,
-      "rsi": 63.05,
-      "ma5": 427.014,
-      "ma20": 415.2215,
-      "ma60": 391.5345
-    },
-    {
-      "source": "Yahoo Finance",
       "open": 437.62,
       "high": 443.96,
       "low": 436.3,
@@ -1716,30 +1703,30 @@
   ],
   "news": [
     {
-      "title": "[U-EV]海外將停產、等待8年仍未正式導入，國內Tesla官網將Cybertruck下架 - U-CAR新聞",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OTlp5Nm5fVXNpWGNUZjk2RHBUaWt6Qi1iZndiZmp6VFZwdGtxR29jZFZxWHR3OU9lOTlLTG5LNDJlNkJsbmxJc1poYWpQZ3dXMmRzMEotTQ?oc=5",
-      "date": "2026-11-27T12:34:52+08:00"
+      "title": "西沙路Tesla與私家車相撞釀兩傷 來回交通受阻 - on.cc東網",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlFEYjdOb2c1Sk9vWGF6X2tVdFhFbDlMLUZWVWsxUDFWWGdkTXFyamh5U2dybmhNQllhYWNwMHN3UjExaHVsbXVyRUNvMnlwc2dtU2ZnZFMwYnJjdVV2MUxXTGRSdjhsX0dSc0RsaUFvZkpRUjdSem9XQVNWMWxmVC0zS0hNTHF1elBJ?oc=5",
+      "date": "2026-11-27T23:41:14+08:00"
     },
     {
-      "title": "特斯拉 2026 聖誕更新預測：Apple CarPlay、自動化操作等 6 大功能有望登場 - 蘋果仁",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBna0FCTHRQYmR4THF6a0FYb0RVTm40Y19YUk1SRjMzMkJ3aVdDczZkUXJ3VVlUc1NHNUIwMlcteDg4OTVTb19ENFJQTHY?oc=5",
-      "date": "2026-11-27T11:47:22+08:00"
+      "title": "【23:35 即時新聞】Tesla(TSLA)勁揚5% 機器人計程車題材獲華爾街翻多加持 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3EwQzdPSXpac1p4dkYyRTZQeWRueU5qTml0amlqWXdrZkFzSlJKakwzaG9Qa09rWldEM0dRMFBNbDJvNER3T0x6SG1LR2R6ZWg1QWQtNEtndlkzUV9mX2FOR1NKUFdiSHdkbEpLR0U4TVJBQ3d1NUhJVW1vYTFjd3haeEdOV1FSZmc5YS1n?oc=5",
+      "date": "2026-11-27T23:35:55+08:00"
     },
     {
-      "title": "衍生財智(27/11/2026) 美科技股震盪，英偉達及Tesla最新部署 - i-CABLE",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTDlLeXZzVVRjeTNpNl9td0FCaVBkdVhodTBfQkNfX0lLNFk0ZFJoWHRZTXJxT2t3UjRWclc0TF90UGlfR1YzY0hYNTI0RlJEZXdYamxvS3VCRDlkM3BzVTNldWhfd0VoMnByMzA5YWZJSXRDZkE5cTUyd3gtSWJQY0NZTGNlTDhoQ1JvRENsejY4XzNpSlNGSlUyMzlGT1NYVWZpTnhlbkstWmlNRlJqLUlsU29nbWx4OG1BT3I4NHk5NGFDVUpnaGJKa1lUSTZFNUdIeERqY0JRNHloc0p4TEI0OFJjU3ZaaHZ4Zm1LQ054RUlNR0tqbjd1Wko4SW84TFB0cFAxQ1czc2ZQQVBjV21oNDhscFNpY2xPSUpQaHdNRXlScGJ4Z3VDd0pkNUltSG0wSVk0bFg2RnBRLVo2MVk4ekx0UE5TQnE5WEZzZGJBNWpBQmJYWUczb2tJd2E4OVNxbURn?oc=5",
-      "date": "2026-11-27T10:34:28+08:00"
+      "title": "Tesla Inc(TSLA)股票11月27日盤中上漲3.43%：背後推手曝光 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajMxVDA0VW11ZTIzaVFGMDJTWm1Cd1VWbm42XzZyWHU5STdMODNmQ01FYXNXaktsZ29oWnpSbXJVcXU2bjNXdU1qSlEwTkg3bkl6RmU2TVJlT2tPWlVEZ0czU3BXSXNleV9IZmVtYUhzRXQ3NjQ0S3VLYTlEX1pvNVEyOFluVmQ3SzdWZ2ppT1JNMWh0T0E?oc=5",
+      "date": "2026-11-27T23:18:07+08:00"
     },
     {
-      "title": "全球最酷計程車即將來台，Tesla Cybercab 12/4起展開全台巡展 - PChome Online",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nWFVDM1YxNW11UEVXRC0xdExxZ3g3d1EwYkpFSnFsOUEtV21XMVRtYjZCbks4OGU5UU5heS1aaVdJQloxdFpBZm5aTlNPRU12Rk9YT29Zb3JHVVU?oc=5",
-      "date": "2026-11-27T06:35:14+08:00"
+      "title": "Tesla 推動收購德國 EMAG，為 Musk 的「Optimus 2萬台」產能布局 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VVmZ2UXVWcWFpcjJzUzFjMi1RR0xnZmZBVlNpajAwaG1yOGNocnFLVE14NXl5LWlOQzZpX1FoVW9BNkFQbmdMSzJ5dGVwVFhFMG45NGhhWjAtVnZmcXUzRXItNUJuOHlNQTVGQ1pLZ0Q3U0Q1akxNVzBR?oc=5",
+      "date": "2026-11-27T22:10:43+08:00"
     },
     {
-      "title": "撞翻鄰車 Tesla司機涉醉駕危駕被捕 - 20261127 - 港聞 - 明報新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPOVBsOG5FdTliM3JSbkw2dFJGQ3Jad1k5NmE1bHdEdk9LdW8yNlZEaEUxWExXYmxNNVgzb05qRzh6N3Y4dHRlLTRXdWlYN2stYTcxNXdNSXBKbUsxbXlGdTNpRWVaVVc3MmVldUJBaTNfTS1zWnBPZXE5Sm1mVTQ1cWFia25ESTdKMDlNWkFBelRUZVJPSFRxaGRTb0hNYjIxbnlUUEE1M0J3MGRnR04tb0RwUmh0a2Q1Q29CZ2t3YTVtTEhvdTFFb1NrZEh0MHc3eG5lVVg3ckRDNUdIWFdpaVZKeFZ1SVVwVUdrTmlCczRPa1dPeHZPb2doc1dnOWJlalNKVWZpbVk5UUdvcXl5WXpqNERJSWVhTlRGYl9PLWl4Y04yX2prWXlSeGNsdkdqeDZB?oc=5",
-      "date": "2026-11-27T04:30:00+08:00"
+      "title": "特斯拉人形機器人布局有新動作？擬收購德國工具機廠EMAG資產 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oNXlYTDBzbGlXOWtmbVUtZjRUTmY0NGdmTTRzU0lUSW5GOWM1SWRKQlp5YWI2Q2JSU3F5elJMZWtWbGxha19ISFV4RzNFYmc?oc=5",
+      "date": "2026-11-27T18:30:18+08:00"
     }
   ],
-  "updatedAt": "2026-11-27T13:10:56.127009+08:00"
+  "updatedAt": "2026-11-28T00:32:42.201512+08:00"
 }
