@@ -4,17 +4,17 @@
   "query": "NVIDIA",
   "currency": "USD",
   "source": "Yahoo Finance",
-  "date": "2026-11-25",
-  "dateTaipei": "2026-11-26T05:00:00+08:00",
-  "close": 149.3000030517578,
-  "change": -6.08,
-  "changePct": -3.913,
-  "volume": 366571900,
+  "date": "2026-11-27",
+  "dateTaipei": "2026-11-28T05:00:00+08:00",
+  "close": 150.49000549316406,
+  "change": 1.19,
+  "changePct": 0.7971,
+  "volume": 180940449,
   "bias": "中性",
-  "performance20": -30.68,
-  "volumeRatio": 1.09,
+  "performance20": -29.57,
+  "volumeRatio": 0.52,
   "recommendation": {
-    "date": "2026-11-25",
+    "date": "2026-11-27",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -29,20 +29,20 @@
     ],
     "resistance": [
       {
-        "price": 172.4775,
+        "price": 169.319,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 206.4837,
+        "price": 205.2517,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 1.0868
+    "volumeRatio": 0.5155
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -30.68%。",
-    "本日成交量為前 20 日均量的 1.09 倍，量能接近平常。",
-    "RSI(14) 為 37.5。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -29.57%。",
+    "本日成交量為前 20 日均量的 0.52 倍，量能較平淡。",
+    "RSI(14) 為 38.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1695,13 +1695,26 @@
       "ma5": 148.248,
       "ma20": 172.4775,
       "ma60": 206.4837
+    },
+    {
+      "source": "Yahoo Finance",
+      "open": 151.94,
+      "high": 151.98,
+      "low": 145.39,
+      "date": "2026-11-27",
+      "close": 150.49,
+      "volume": 180940449,
+      "rsi": 38.12,
+      "ma5": 149.15,
+      "ma20": 169.319,
+      "ma60": 205.2517
     }
   ],
   "news": [
     {
-      "title": "輝達高階Blackwell晶片流入大陸出現在與黃樂有關資料中心| 黃仁勳回歸輝達| 全球 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90OTdNOE03YTR1UnB0dVE3dFZCRXJoalpBLWZXaUd0Q0hWamVXRG8zUlhrOWJ6QkZ1QWRkUGM4ZlFSbm5hWG9SSzU5bFNhb1EyVlZj?oc=5",
-      "date": "2026-11-28T03:12:41+08:00"
+      "title": "AI晶片暴跌引爆資金大挪移：從Nvidia到黃金、再到美國鈾礦的新避風港爭奪戰 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFVqYktDZC1qSTBRSEd3TmM2Mk43N1lKMm5RcW5lczk2RnJCdWlMeHBuaERQU2hNUFRNM0RXMWR6aDYzUjZrMG9xMEdvRHducE9FWkw5aDJtT0RmMmVmc2hkaTQ0MUNCMzkwTWo3UUFJaXljcjZsSnhXV1I4cC1JeENVSWliWkNoTmQzdm5R?oc=5",
+      "date": "2026-11-28T05:00:27+08:00"
     },
     {
       "title": "US Equity Indexes Rise as Jensen Huang's Return to Nvidia Guardrails AI Trade While Investors Slice Growth Exposure This Week - 富途牛牛",
@@ -1724,5 +1737,5 @@
       "date": "2026-11-27T22:57:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-28T03:55:26.757931+08:00"
+  "updatedAt": "2026-11-28T05:26:12.604717+08:00"
 }
