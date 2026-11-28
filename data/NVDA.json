@@ -9,10 +9,10 @@
   "close": 150.49000549316406,
   "change": 1.19,
   "changePct": 0.7971,
-  "volume": 180940449,
+  "volume": 185759600,
   "bias": "中性",
   "performance20": -29.57,
-  "volumeRatio": 0.52,
+  "volumeRatio": 0.53,
   "recommendation": {
     "date": "2026-11-27",
     "action": "觀望",
@@ -37,11 +37,11 @@
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.5155
+    "volumeRatio": 0.5293
   },
   "commentary": [
     "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -29.57%。",
-    "本日成交量為前 20 日均量的 0.52 倍，量能較平淡。",
+    "本日成交量為前 20 日均量的 0.53 倍，量能較平淡。",
     "RSI(14) 為 38.1。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1698,12 +1698,12 @@
     },
     {
       "source": "Yahoo Finance",
-      "open": 151.94,
+      "open": 151.9,
       "high": 151.98,
       "low": 145.39,
       "date": "2026-11-27",
       "close": 150.49,
-      "volume": 180940449,
+      "volume": 185759600,
       "rsi": 38.12,
       "ma5": 149.15,
       "ma20": 169.319,
@@ -1712,30 +1712,30 @@
   ],
   "news": [
     {
-      "title": "AI晶片暴跌引爆資金大挪移：從Nvidia到黃金、再到美國鈾礦的新避風港爭奪戰 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFVqYktDZC1qSTBRSEd3TmM2Mk43N1lKMm5RcW5lczk2RnJCdWlMeHBuaERQU2hNUFRNM0RXMWR6aDYzUjZrMG9xMEdvRHducE9FWkw5aDJtT0RmMmVmc2hkaTQ0MUNCMzkwTWo3UUFJaXljcjZsSnhXV1I4cC1JeENVSWliWkNoTmQzdm5R?oc=5",
-      "date": "2026-11-28T05:00:27+08:00"
+      "title": "週末新聞速寫：NVIDIA Blackwell疑流入上海資料中心︳SK海力士員工單季獎金逾2億韓元︳OpenAI反告蘋果竊取機密 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVXdFbjd5YU12ZE93MDhUV1VsVkx4QWpQWTZVUG1EZy01bW9Rb0llckRqbXA5XzgtMDNuaVM4cVVxLUF6bDFNSDkwVnRMaWZ3b1V1UVBQWmhRbUJWaDZFTVFVQkhjOGpQRk9N?oc=5",
+      "date": "2026-11-28T10:54:00+08:00"
     },
     {
-      "title": "US Equity Indexes Rise as Jensen Huang's Return to Nvidia Guardrails AI Trade While Investors Slice Growth Exposure This Week - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFl6RXJxXy1QRXk5aEU0akVUS0JHaUNQMmlLZHZxRGtJQlpVTnI0NGsxaUk3WmlZOEtaQ2FqeHhCbVBxeTV6cHRveW1BYVpwOUhLckFVOHB6akh6aDJHOGswLTB5TGY0MXNxanNRRG5CNE4yblpCT0pjZDdHTW5TUUZkbG1WcFNBS3JlQzRTMmVubnY5QUVWUA?oc=5",
-      "date": "2026-11-28T02:39:02+08:00"
+      "title": "彭博指中國數據中心擁Nvidia被限制出口晶片 或與黃樂及Megaspeed有關聯 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPejJpZDdBeW83cWxZeEVwd3Z6QVZuRmx1MjVuZjB6RXZaUVVqS19vNHRyeC1WWC1XWFRnSnVZQ19RRmNBcFJfdlhsaS1iMzl0X0Y5RW9aNkJCdXk5cXJ3UWV3VVF6MDlQdTRxdnNka2FlNlFmM0pBN0VGVnN5R0tPZC1yb3EyNGZoYVV4NDBXb1hwSnFRQnp6Q0dienlaX3k1N3N4V3M4UkpYVFBMdEg4SnBZY0w2RUgxVXZHNFQya1ZXTzhRTTRNemwxVVFRU1g3Y3pXUU9CQmVQYUVKU2JVTHFKY3diYVA1WkZVS3dDd1ladjFiRDAxWlNaX2xFdl9ZMmJPMkZfMGpVczJGelo2aEJ0S3diU1lrcWY3Qng5djZtUWdfM0ZpNkVPcC1IZjZVUmdjU1E2TUN3RzdjYjg1c1dZTVRXcmR5NDc1RjMxWjlrUE1nOWc5YVF6MTRLWElYQkUxaHZBYzh0TUJ1TlZtOHVCRFB0STJUOThMek1SMHZUZmpJLVlyUnRPQWFNclpiOWUwbFJaVTYweU56WGdfdlRFdw?oc=5",
+      "date": "2026-11-28T10:49:35+08:00"
     },
     {
-      "title": "Nvidia禁售晶片傳現上海 股價轉跌 黃仁勳下周接受國會質詢 - singtao.ca",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNVExvTUVpLUlCWVdsSklsekk0M0VxTERvTXNwU29BZE15b0ZiVVl6SEx2X3AxN3pZZlpjSzU5Z0QzMnJ3dEhEUEROUHhBNnVROW13UDRDX2dYV2xERVg3SDMwQmNiU0NpeVFRVEs4Y0o5TDFnSDg3UmxlR1I2anZCU09OYlJQeEhWMk90b2JZT09UZ0pfWldHVUZIQjQtUDY5RGlhRHB3VzN4NEN6UjFabm1fNDNJN0pHN25HWWg3cUdpRmpvVVVPUG1wWm5vbWN5d1RweTlFcVE4M0dnSGJUNkVOSE8zN2wtRHlfQ2VmWWVhX3hXdEd2TmJUWTFZUGZDdXVLc2hSWkFnZ2hIVHAzWndBWjlxT1hBR0haUnNNRGhNTEpBcnVybkE5c01YQWZ3RGQ4RV9Ma2Qzek1UYXprbUpvRkNUUmFtQWJCNDdQTlZ3QVpfNzZiM2JDX3VFSGJqd2VuVFZ2NzVUaFM5TkhrTnl0SkVKbHU0Qi04?oc=5",
-      "date": "2026-11-28T00:30:00+08:00"
+      "title": "Nebius 換上 NVIDIA Rubin，算力變多就會更賺錢嗎？-下午先生 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WnhjX2lEUmRJdExEa1RBbm9mM0tYd0RXM2dNSnJjNmNQUGZJSDdzb2xRbnlhRWUtblpDa0tWNE52a1J5dGJaWnFLdzdMaHBOT3JCQW1CcHdrMjg1akplR25JVWJsUmxvTlVOY0JuSjBxdkxPOFFvazZYdw?oc=5",
+      "date": "2026-11-28T09:34:52+08:00"
     },
     {
-      "title": "美股早盤／感恩節後強勁反彈 四大指數齊揚 Nvidia獨憔悴 - 世界新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ub1FEdXZFbDIyQzV3cnBtS1FqTHJSaXN6OVBvNmJHOGhvWE1UQWVVRVRsUzE1el9EbXUwVTBDY0cyM05TbzRJejVBcjlXTnY4SENnQmx1cUZUQzZjS2xlaGpB0gFnQVVfeXFMTWVGYmNmbzFQM0VrbXNLbllrcnJLaktLdWgxZEpkVWI4MnMxNDdjbE16cVZVY2JzT2dXRU5oT0pSbHpOZ2ZXbm5QQ2p5SHFUUWEtdTVPZnctc3pObmpYaHd0cVZueDFTdw?oc=5",
-      "date": "2026-11-27T23:58:53+08:00"
+      "title": "假如兩成 AI 資料中心蓋不成，NVIDIA 的成長預期還站得住嗎？-下午先生 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PWTJobHpRaU93ZmV2ZnVqR1k0MkVXWGFKX3gwZTZkcFk5OHpVQVVYZHRhdlRuWmIweS1zVlpNUWxNWUJ4RFkxTG9MVXhxRDlQeWt1b1htc250WC16VWFhQy1tX1RMN0VkeVZQaXVlU2hiMEZZUTZoQ2VzSQ?oc=5",
+      "date": "2026-11-28T09:24:34+08:00"
     },
     {
-      "title": "更新：YYForce (NASDAQ: YFOR) 採用 NVIDIA Jetson 及 Isaac Sim，推出經過訓練、可提供酒店禮賓服務的人形機械人 - Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Q3lUejBzbFNyS0lzQU5raU4ydlllN3FPWnUteTFmb1BSUFpLdmVkaWF3NTBKVGVwaTFJRWZpRkpnTG5IaDFaU0NLdFhpUXdzQ3gyc1B5SnY?oc=5",
-      "date": "2026-11-27T22:57:00+08:00"
+      "title": "NVIDIA 傳叫停東南亞 AI 伺服器出貨 新加坡政府回應 - GameApps.hk",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1FxZTVMX0lCb2tjX3BaMUNhVEZJREtUS0ZyQzRaTGItVzMybzVCZ1ExQklyT05odDhHMERSeWZSNXA3LW5RRTNXS0NCaWtLSWk4Qmg4SkhMdEp5aDljMU5oTWc4cDNXSmlHYWlCVVVhTnQtbHF4TkU4RlVqVGpfTTFMcG9QVWpYSG1F?oc=5",
+      "date": "2026-11-28T07:53:31+08:00"
     }
   ],
-  "updatedAt": "2026-11-28T05:26:12.604717+08:00"
+  "updatedAt": "2026-11-28T11:31:57.046264+08:00"
 }

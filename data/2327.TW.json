@@ -3,17 +3,17 @@
   "name": "國巨",
   "query": "國巨",
   "currency": "TWD",
-  "date": "2026-11-26",
-  "dateTaipei": "2026-11-26T00:00:00+08:00",
-  "close": 339.5,
-  "change": 30.5,
-  "changePct": 9.8706,
-  "volume": 26190341,
+  "date": "2026-11-27",
+  "dateTaipei": "2026-11-27T00:00:00+08:00",
+  "close": 344.0,
+  "change": 4.5,
+  "changePct": 1.3255,
+  "volume": 41065422,
   "bias": "中性",
-  "performance20": -37.48,
-  "volumeRatio": 0.58,
+  "performance20": -31.47,
+  "volumeRatio": 0.92,
   "recommendation": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 387.8,
+        "price": 379.9,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 502.0,
+        "price": 498.5,
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.5843
+    "volumeRatio": 0.9192
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -37.48%。",
-    "本日成交量為前 20 日均量的 0.58 倍，量能較平淡。",
-    "RSI(14) 為 37.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -31.47%。",
+    "本日成交量為前 20 日均量的 0.92 倍，量能接近平常。",
+    "RSI(14) 為 38.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,9 +1168,33 @@
       "ma5": 319.1,
       "ma20": 387.8,
       "ma60": 506.3333
+    },
+    {
+      "date": "2026-11-27",
+      "close": 344.0,
+      "volume": 41065422,
+      "rsi": 38.57,
+      "ma5": 328.7,
+      "ma20": 379.9,
+      "ma60": 502.9833
     }
   ],
   "news": [
+    {
+      "title": "國家隊本週10大買賣超出爐！單週狂砸1577億台達電、聯電、中華電入榜反手賣信驊、國巨 - 上市櫃 - 旺得富理財網",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6Q0dUY1hVQkE1ekFxMU8xOHVqQ09STVlaMUJjR3djeXpORFEydVdNT2N5OTFEZGY5RThxZWxVSVBYbkZpRHh5UmtFSk5OX080UkxPZmtmSXNvRWJxRmVyR3hlZmRld2tjX1E?oc=5",
+      "date": "2026-11-28T10:05:28+08:00"
+    },
+    {
+      "title": "國巨等3檔掰了！00991A最新操作曝光 重押金像電連買3天 - TVBS新聞",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3T2lrRUdJZTl0Ym1LaXFNMTQ3WU9tVWJieGtnZ3VzMnRuMFR4aXRncUs4YzZ6SXZ2bDZWRjJoYnZfTVN1cHhZRXRDa2NVSTA?oc=5",
+      "date": "2026-11-28T10:05:00+08:00"
+    },
+    {
+      "title": "《投信賣超4-3》廣達(878)、國巨*(750)、台日韓(730) - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMlVWSGVkcGVsTWdJR3VfdlBaMHlGM3lsUGstWVpETjZPUTU3Nm9nN1FaWml4eVJXVE84WG04YkpMLTFmUUZvWFdNMlRmR2FwTkl1MXhmMWNZbXhxZlVNWHBVbXZ3LWdNTXRaRjdnUGp2a0lSbVVKZjRJbVR6cEJ6QXdLUGVLakw4?oc=5",
+      "date": "2026-11-28T09:06:00+08:00"
+    },
     {
       "title": "TWA00 加權指數- 國巨宣布破產？ - 股市爆料同學會 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VDFoM2Nsc2N2elJTZDFqWmtFUmtXeDZBMTc0aWNSY0IxZHFMaDZWMkU3elBGMEhxYjU0c0hFcUJCaHBIVFJnRHdZb3lISFNQdEV0eEtPZ1k?oc=5",
@@ -1180,22 +1204,7 @@
       "title": "2327 國巨* - 同學問為什麼阿北不買記憶體去買被動元件- 股市爆料同學會 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jUGplV2xqWFN3aEtkQVdMbEQ3SHVQTE1DWWE4blg3SWJTd3pUTmdzbENrQlBnYXl2eTFIOW9NdjJjMkVJMVNYMVhFRXlrS3ZyNkxrYVNpOTc?oc=5",
       "date": "2026-11-27T16:12:41+08:00"
-    },
-    {
-      "title": "《投信賣超4-3》廣達(878)、國巨*(750)、台日韓(730) - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1p2aVBsN0E5SElpRnE2bWNMN1hKai0tTm43cHNEUEhacnBoM1Zqb3B4QlFNYmlBaTg5RXFTdUphYURUZWpFQlcyVnpOZDhSM3l6Q0FuUk9KOG5zaVhmeHBKaEJGZUxLVmJSUEpJbDRyTzlTMkxqbkpXZnN0ZFVKdDd6REs1VExq?oc=5",
-      "date": "2026-11-27T16:05:00+08:00"
-    },
-    {
-      "title": "2327 國巨* - 外資應該還在、尾盤買個希望🙏 - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlMm8xN1pJOVM3ZW15NkZWQUFGNGFkM2Y0OXBMN1R0UV91bVFvZFdQUEVZcDRsNDZ2OExIbVRudU1mN0N0dUdlQjFrWkNmV0QzSkdJSGJJTDQ?oc=5",
-      "date": "2026-11-27T13:13:29+08:00"
-    },
-    {
-      "title": "每天漲不停 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sSF9pcWY0eUxzOHdiYzRXYmVXeU1nQzhBOVRuVFc1VllvNXM2S3dPQnVfbkMtYTBER2pSSHdqaWVsNlVRaHlTT2pXaWRRRElnSUM4a01qYmc?oc=5",
-      "date": "2026-11-27T12:11:41+08:00"
     }
   ],
-  "updatedAt": "2026-11-28T01:28:53.640548+08:00"
+  "updatedAt": "2026-11-28T11:31:53.563629+08:00"
 }

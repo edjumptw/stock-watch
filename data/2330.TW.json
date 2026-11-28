@@ -3,17 +3,17 @@
   "name": "台積電",
   "query": "台積電",
   "currency": "TWD",
-  "date": "2026-11-26",
-  "dateTaipei": "2026-11-26T00:00:00+08:00",
-  "close": 2145.0,
-  "change": -5.0,
-  "changePct": -0.2326,
-  "volume": 42245442,
+  "date": "2026-11-27",
+  "dateTaipei": "2026-11-27T00:00:00+08:00",
+  "close": 2180.0,
+  "change": 35.0,
+  "changePct": 1.6317,
+  "volume": 37731063,
   "bias": "中性",
-  "performance20": -11.18,
-  "volumeRatio": 0.96,
+  "performance20": -8.02,
+  "volumeRatio": 0.83,
   "recommendation": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,20 +28,20 @@
     ],
     "resistance": [
       {
-        "price": 2222.5,
+        "price": 2213.0,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
-        "price": 2376.25,
+        "price": 2372.5,
         "source": "MA60（近 60 日收盤均價）"
       }
     ],
-    "volumeRatio": 0.9564
+    "volumeRatio": 0.8304
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -11.18%。",
-    "本日成交量為前 20 日均量的 0.96 倍，量能接近平常。",
-    "RSI(14) 為 42.8。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -8.02%。",
+    "本日成交量為前 20 日均量的 0.83 倍，量能接近平常。",
+    "RSI(14) 為 45.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,34 +1168,43 @@
       "ma5": 2111.0,
       "ma20": 2222.5,
       "ma60": 2376.25
+    },
+    {
+      "date": "2026-11-27",
+      "close": 2180.0,
+      "volume": 37731063,
+      "rsi": 45.42,
+      "ma5": 2147.0,
+      "ma20": 2213.0,
+      "ma60": 2372.5
     }
   ],
   "news": [
     {
-      "title": "2330 台積電 - 友達華亞廠買家換了！197億元賣給矽品處分利益估104億元- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfenhaaUF1SXF2aDlJUkhtZ1B0WHRObjVaamRqdXFXSFpfTHRmWFpJcE5KTDNwdmMzUlJDbG9ickNfZnNNS0M1ZTU2eGVyYjlKUWRaMnMwMks?oc=5",
-      "date": "2026-11-28T02:53:52+08:00"
+      "title": "【川普挺到底！出席台積電亞利桑那新廠動土 想帶黃仁勳一起去】 挺到底！ （#起啵） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPRTA5MG9Ic2syXzBKOTFLR0JvVlotVHg4R0N6UHRodmxPeE0zVFNoWHJfbTBFMlRwNnhwTEd1blBLWVI3bmNTS2d1ckVJc1BwVFY0T1owWHRNeXJGYmdWTFczcVVsU09NSHdCaFRLQlpITWkzc1V2Y0dBZFNiRlpyMUY1WWtiNHpwTXV4UnR4VTFCQVVFWDNWVTZmZmhabEE5SmFfVUNsaTVidkx0NFAzaVpWci1UWmFmTmlydFdBMFZLaWRvaTR2ZXdmcXNMYU4xWVNJQlY4ZER6ZFF3VUpkOTd5V2Y5SEFrRFNXUW9NV0pud29wT284Y3ZNU2hJWjhLaWRQZFEwcHpHczQzd2xkOUZRdWpzVmdFT05KWVZLaGxjU2k3TWlFZG8tbXJDX1FDbnNEbDdpazJiWjd3Qm5QLVBIVEtELWpiUmxkNEVMdkEyUkNscjFaQ3lCSEpTUGhvVVVNZF9tMHpsUlNNc3g3VTNhNkxtSS0tMUU0VkhJbVNEVjZ5WnJQU2IzcXNlV01wQXZZNERRR0t5YUFWWjNIcGI1Vnh5VTB1RG5OT2xFd3luMk1NYkxQYVNOUnh0c2J4WGdoX2M0S25VVzNEakx1TkZHYlNPdmhnR0x6amFxOV8?oc=5",
+      "date": "2026-11-28T11:17:28+08:00"
     },
     {
-      "title": "川普挺到底！出席台積電亞利桑那新廠動土 想帶黃仁勳一起去 - ETtoday新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tRFdBVjhfdURjam1kUGhINUFGMk9UUFRxS1N3OUItYXozSzRUamxXVFpOazBleUltSWlETXhlWmIzc0dJcmFnY2YwMTkwRGR2RFNkZlJ3dDF4WHhEOFHSAUtBVV95cUxQMWZ1NWVBT243S3lOTWt2S09BUVdZMmU5dGNXWHQxRFF0M0xTOGNwRjRISXJyTllwYkZrdi1KdUhsc3VfSUlHVTluWVk?oc=5",
-      "date": "2026-11-28T02:15:00+08:00"
+      "title": "台積電宣布 A14 製程生態系就緒，0.9 版 PDK 登場並攜手兩大 EDA 廠完成驗證 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGFadG1YYkdEVmlqMTVoV3JIUlZzXzU0eVJyNm1laEVzQkJwajBuWTZHcllGalJjTnhHQV9QR2pRU2dpSzhmUUdfTEpRN1dUTm9qMkVWSmhlcDdZSFhPZ3Rla0YtNXoweFZkamJVRndBcmQ2Z1BfaUthcDBmQ2NQMzN1ckFkamIxWFd4TGJB?oc=5",
+      "date": "2026-11-28T11:01:15+08:00"
     },
     {
-      "title": "2330 台積電 - 在股市會漲的股票不一定有盈餘/但沒人敢買的股票籌碼乾淨易拉抬- 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43Rms5NFg0NTZ4M2xCM2VoTlpkUVJZUVFKcHp4ZW5idXZWdzVTNTMyeDlkV3dYSDA0UTJEOGcySXZtNkdLOXJaVG96VHNMdUM3MkV2azFTbnU?oc=5",
-      "date": "2026-11-28T01:31:50+08:00"
+      "title": "台積電A14製程就緒！1.4奈米晶片設計啟動 2028下半年量產 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VbnpKMHpYWVRpNDBiNUR1UmZXNWNjeHMyOVYyTlZMVmFuV01RVGtoZmpKNDN2Z0R1UlJZckozM1BNX05qekwydklWVmRMNDQ?oc=5",
+      "date": "2026-11-28T10:57:21+08:00"
     },
     {
-      "title": "科技股帶頭衝！美股早盤反彈輝達獨走跌 台積電ADR漲逾2％ - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUTMyNnVGUzI5bzVOaXowb1E2M1haQU1sYUltYkpwQTg0M3dtWHRSZDB5bnZNVU40RWQ0QzBzUjNxTTVBWk9YWmpoLVNNY2RUWnNiSTMxdVJZZ0wwdVBr0gFkQVVfeXFMT2VvQ0ZxTURYWGExYW93R1BFLVlBeDdLNTh6RWVJSDFYMGJzd1lzZ0JDVTd2b215TEEyYXRkY2E2WUdEYWFJR3REazhqTnluS013WnpVc29tOHBaUk9qcEJVZmZRaA?oc=5",
-      "date": "2026-11-28T00:00:39+08:00"
+      "title": "川普再挺黃仁勳回任「完全沒問題」 盼同行出席台積電美國廠動土典禮 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPdm1ieThJVlNrU01ZQ1o0UkVCM1JwTlZfOEdyNFJESl90ei0xekJJTDhMWW5GcUQ1ZnBWT2hVbm4yaUhHSF8zRHp4Yy13VzR6ZjBTckZCN1FjdzdjbF9PWlNDZmJaZDByS05yX2tUTDF6c21NRUFQaG5McERYMVRicURuR0FpUXBUOVV3aVk3NlFlUTJfbldjb21nYXpnSFNpbEpXV0piWnNfV3JYWDFqbWVOX2Q5ckhzc2lnbFl1XzVYWFU5cVRudVI2eUREbmF1Um1NV1lqeW1mSG5QVU0xanhiNmRocDdScS0tWDZ4ZkZLVFl1MGx3bDdmU3BwQkRUVFNaYXp6YmZUOXpnSG1BalFGMS1IZUs1YjJfMzVWUnZiQVNGTDExNjM0blBSWkl0V2NJaEg2eVRsV0dzQmhTaFBuYVZUa25jaHJIS1FZZVlJcEdubkVtN2M1eVVGLXZmeDJoX1Nud0ZJTkNCcW1ETVM5ZzlFNllrRnRGcDI0cnpyNndRaGk1ZVhlNG54UlZjRDM1VW4tMEN3M0phWEs4MDhLTDlHVGpZZEtFTTFLNy1pQQ?oc=5",
+      "date": "2026-11-28T10:48:06+08:00"
     },
     {
-      "title": "川普救回黃仁勳後改盯台積電！ 白宮證實下周親赴亞利桑那州 出席擴建動土典禮 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQUXpMUkNMZFBqSTUyZEtnTzhWU2UtYnJEUllZMUZUQUNmSzIySFdQeGNzVUhUQnlsb002aE5SdXhZUnk3MDloX01IRk1UYzJpNVFJdzBoSXktaTA0b1NzQ3VGSXQxWS1zWUtKa3ZVVFoxRDZuQkktb3EycFFHR2FodFFwNzJTZ2lHX0FKTjl5QklHYXFGeGJxaEdOak5kYVhBLU1uUXJWRFdpVl9Zay1oTGpscFdrbEZyVzJGdHhNYmZxSkdwSGhMekVqbWJCYzZEbjRTYVNQRHJQaWRVaUlLRElCWVY4dDlTdVd5c1JORkpMOFMyRjNEOHFtRHpiTWJ3ZEJTYlNZbDJBWVQ4YjhDRWxIMEhoSVpFUExhSWZwdlZscUVNTU1oQ2JWcmxOc1VaQjRNa3RrRVRoSmhjTVBkQTh1SFd4RUFKR1NyRE5FaXEzc1RwM1NQbFZON0s5LVFOZlNZNlV2ZXNEMG1UV0Vmb0l5WHVNWTJiU3I1WmpFbnM3T08yOHBxMldTYW9NTmNPNHJ6RUpTYkNGMW81MXBMNEpkVDk5Q0kzcVprSG1YQWZGcmo5bWg1cWRITzBaU1I1MEpsdlRidll4bTRUNmZNcGhsemdicFVDSHN1ek9vN3plb3N4aEZ3aW9fU0QyczRsS1Q5UGZ3?oc=5",
-      "date": "2026-11-27T23:00:00+08:00"
+      "title": "台積電擴廠典禮川普「樂意帶黃仁勳去」 認定他不構成國安威脅 - TVBS新聞",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05U2htR1dLWVE5V182ZnBpMmJ4V081ODF6SldGTFVUQno0eng1dHhOMi1QMGpzNDM4ZFdUdWEwZVByYzBjd19NZmp1Qk9Samc?oc=5",
+      "date": "2026-11-28T10:43:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-28T05:26:10.222674+08:00"
+  "updatedAt": "2026-11-28T11:31:55.194852+08:00"
 }

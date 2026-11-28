@@ -3,17 +3,17 @@
   "name": "台達電",
   "query": "台達電",
   "currency": "TWD",
-  "date": "2026-11-26",
-  "dateTaipei": "2026-11-26T00:00:00+08:00",
-  "close": 1120.0,
-  "change": 65.0,
-  "changePct": 6.1611,
-  "volume": 20847995,
+  "date": "2026-11-27",
+  "dateTaipei": "2026-11-27T00:00:00+08:00",
+  "close": 1125.0,
+  "change": 5.0,
+  "changePct": 0.4464,
+  "volume": 14494019,
   "bias": "中性",
-  "performance20": -24.32,
-  "volumeRatio": 1.04,
+  "performance20": -15.73,
+  "volumeRatio": 0.71,
   "recommendation": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "action": "觀望",
     "summary": "買進條件尚未齊備，先等趨勢與量能更明確。",
     "reasons": [
@@ -28,7 +28,7 @@
     ],
     "resistance": [
       {
-        "price": 1148.0,
+        "price": 1137.5,
         "source": "MA20（近 20 日收盤均價）"
       },
       {
@@ -36,12 +36,12 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 1.0392
+    "volumeRatio": 0.7125
   },
   "commentary": [
-    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -24.32%。",
-    "本日成交量為前 20 日均量的 1.04 倍，量能接近平常。",
-    "RSI(14) 為 42.2。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
+    "技術面中性：短中長均線由下而上排列，近 20 個交易日漲跌 -15.73%。",
+    "本日成交量為前 20 日均量的 0.71 倍，量能較平淡。",
+    "RSI(14) 為 42.6。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
     {
@@ -1168,34 +1168,43 @@
       "ma5": 1030.0,
       "ma20": 1148.0,
       "ma60": 1558.5
+    },
+    {
+      "date": "2026-11-27",
+      "close": 1125.0,
+      "volume": 14494019,
+      "rsi": 42.56,
+      "ma5": 1075.0,
+      "ma20": 1137.5,
+      "ma60": 1546.5833
     }
   ],
   "news": [
+    {
+      "title": "國家隊本週10大買賣超出爐！單週狂砸1577億台達電、聯電、中華電入榜反手賣信驊、國巨 - 上市櫃 - 旺得富理財網",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6Q0dUY1hVQkE1ekFxMU8xOHVqQ09STVlaMUJjR3djeXpORFEydVdNT2N5OTFEZGY5RThxZWxVSVBYbkZpRHh5UmtFSk5OX080UkxPZmtmSXNvRWJxRmVyR3hlZmRld2tjX1E?oc=5",
+      "date": "2026-11-28T10:05:28+08:00"
+    },
+    {
+      "title": "外資連12日撤離！國家隊反向加碼台積電289億 聯電、台達電、廣達也全包下 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNQU83MHplMlAxZ0tmb3lUa2dNdnZxRTlGcFJyQlJINzRrRzVwQmJ6TnhBeDNOWlRDekVLZndtSy14NXkyY0NjR2xRWlg4dUNzTnRETU5qaG9GQlhXeDlfRzdRcWlnVDhwSjd3dnRXRDF2ZHpwcjVsTEpQOXRFUDVmU3hCLVFmeUJELXhYNHR0dG00c2Q4NUJuWDR5ejlqSnVKWHhvVmxxdmo0bHp3M0dHSE90a1pSV0IyVU1zRC1SZ0I5bHZ0RV9hZzl5ZVRIdkY5N3FJY3QzZTBQMjVuVll5ZkVhX2dzamJvWGxsb1RyUjZabWRSTElJXy1yR1BUZXB0RWp1VThsZ3ZzelZwTEw3Q1hLdUZKaTRMTVprRFRjUmtuSmd5TGF4SVBoM0hTb3ZQSC16ZVY4T3dLNmlLeWJxVVByOWp6b1M0WDNHVEdGdHpEdXJvcko1cDR0QzVsY3VJLXpuYjI2c1gwSl9IeHpDNzBGZTNWNzVfMFdhaFpZbl9xczBMTjdDWmVYTExaZkJSdTJ5RjRxcXRaQnlSbk55YlpTeGpFWUR2cW1GOG5PcXptM0FhLV9N?oc=5",
+      "date": "2026-11-28T08:47:25+08:00"
+    },
+    {
+      "title": "2308 台達電- 11/28康霈小蝸牛投下神聖的一票- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83UWllanNjRkhLSEZnbnRzNV8yVnpPcDF6dHBvRjVGOEp4cVA3WURvZ2RtNzRtZEs4ZGhXTGpUMnZJUFdmUy02YzhVdGg2UmFwSWRlZVkwZk8?oc=5",
+      "date": "2026-11-28T08:15:32+08:00"
+    },
     {
       "title": "台達電、南亞跌出甜甜價快撿？這檔股價難噴「上方都冤魂」！台塑化、台玻...阮慕驊4條件篩選2027年10檔黑馬股 - 今周刊",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkdNb0laQTlqaVRlby1pRVJwbVFrSnE0ZEdyMV9aT3huM2ctdGJaQndldU8yS1c1SzVvUkw5Z3JEZzM5T1BTb0RZS25CbUdpdHFVRUZzNHduVWhBQmhsRTI0MmJ4bWd2UzNoSk51eERIWGd3VnlIX0R1UTVwUHQwQQ?oc=5",
       "date": "2026-11-27T18:19:00+08:00"
     },
     {
-      "title": "個股評價》台達電前三季賺贏去年全年 2027年EPS上看59元 - 聚財網",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QWF9wTkl6Sy1oemMtUXBTZ1Rwd3V4MFhFYWc1QUtCN1d5YUJPUnRXa0hia0xvUWNjRGVLNmdGWjhoOXVMVmdUeGN5OXM?oc=5",
-      "date": "2026-11-27T18:02:04+08:00"
-    },
-    {
-      "title": "《自營商賣超27-20》矽 統(41)、台勝科(40)、台達電(40) - 富聯網",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR05Sdi1PRHFHdjhkbHYtWHFPM1AzSFNyTXFOWVFrUGhuMC0tWUxnU2sydkpQdnFDNHlwQVNmTUFlb25aMEloUmpxN0hvbE5NdHhyUFVUcEthYzNXNmd5eDhPX2I2NXZydTBIUVJOcEtkNFlTMjlQbm51RGtDR2FOLU0yaGtqMEQw?oc=5",
-      "date": "2026-11-27T16:35:00+08:00"
-    },
-    {
-      "title": "台積電炸819億成交額逆勢收高價！欣興、台達電站穩紅盤 「這ASIC大廠」卻慘淪刀下魂 - FTNN新聞",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vYTloYnJHb3JLajk4c2JNQjBTX2FSMmxyZ01sZm42eEdtMDZ3b0oxOW16TkhlWXJmQXg5UWc4Y1BJZTFEMVVSSWNzVQ?oc=5",
-      "date": "2026-11-27T15:50:00+08:00"
-    },
-    {
-      "title": "【年底作帳潛力股1】 迎12月年底作帳！分析師點名「20檔績效黑馬」 台達電、群聯扮反彈急先鋒 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxQRFhXUmNROFlranNqb1Q2cXN6YUNvNU1pX3RQb2RfeERZY1RVQzRLVndPb1FocFUwYThBZkpZdDdZcl9waUxoZzFRVHh5ZnhnRllNSHdrYTBrUzRGYkJ1U0VzWnBMZ3pmVEtDYlNWT3Z4VU02VU9ZMHprcWo0VHFfZURCdXoyZ3lCX1o4YUVZUUFaTHdlWVJRWTJxTmVVb0w0SGRQSHUxUjFWYzA5SHRZSW9LanU3eXJVMHdHZTlab3Rwa2dSdFVsWXRxODBoOFl1aDVMLXpKMU1FQzRVR3JUc05MaVE2ZmZuWTdhb19aX1RwR2lHOXU3N1VpYWtHSnY5X29VV1JMSVl4dXNtR1VJdmdVUXJJNTlOVHFaOXB1c2RKWXpieHN1ZWJ2dDdZb2VWaHhQUlhibmxkYkdIRDBmMmNCaG9LSGNaNkw2bktrc2hFbDVvVFVQSHhxWXc3eV94SS05X3BHcHplVnV2c0ctNnB5UWhEU3RRd0ZaNzhpcVh4V1czY3FEZHJMV2d1RHBiQ21lMm05WUpMU3dMVUpNdW1Vc1RnZVlnX19GaUs2V0tQc21ONXJibFI0bndsellaRERxc0g4aG15Mm5VaUY5WUowdloyY3ptVkZZUUZSQThPbVp2aG1hSlFvTUlpbzVXUWRXM3c0d3Nsa1FYejhEY0xCVDlWSkwyOG5jOElFamJOQjZ2QmRsOS1UeXh6WXBCNTBUaV9PbW5VbmVweS1icEx4TnJYQmFDdktVQlZOVU0weWJS?oc=5",
-      "date": "2026-11-27T15:07:21+08:00"
+      "title": "個股評價》台達電前三季賺贏去年全年 2027年EPS上看59元 - Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MWnNEUTgtZnBnY3YyUUxjc1BCakx3QjcyRFBZWnVsT0dCQ2M2RTc1ZkZ0cjRqaF9IS1lUeHNKWDhXV0pQMU5acGlZN2ZjUV9Delo3RXgyRVBqWlE?oc=5",
+      "date": "2026-11-27T17:44:27+08:00"
     }
   ],
-  "updatedAt": "2026-11-28T05:26:09.440835+08:00"
+  "updatedAt": "2026-11-28T11:31:54.545261+08:00"
 }

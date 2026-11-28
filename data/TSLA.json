@@ -9,10 +9,10 @@
   "close": 400.0,
   "change": 19.86,
   "changePct": 5.2244,
-  "volume": 25702955,
+  "volume": 26634600,
   "bias": "中性",
   "performance20": -0.82,
-  "volumeRatio": 0.72,
+  "volumeRatio": 0.75,
   "recommendation": {
     "date": "2026-11-27",
     "action": "續抱",
@@ -37,11 +37,11 @@
         "source": "近 20 日最高收盤價"
       }
     ],
-    "volumeRatio": 0.7226
+    "volumeRatio": 0.7488
   },
   "commentary": [
     "技術面中性：均線交錯，方向尚未一致，近 20 個交易日漲跌 -0.82%。",
-    "本日成交量為前 20 日均量的 0.72 倍，量能較平淡。",
+    "本日成交量為前 20 日均量的 0.75 倍，量能較平淡。",
     "RSI(14) 為 56.4。RSI 位於 30–70 之間，留意價格能否站穩 20 日均線。"
   ],
   "history": [
@@ -1698,12 +1698,12 @@
     },
     {
       "source": "Yahoo Finance",
-      "open": 391.33,
+      "open": 391.34,
       "high": 401.18,
       "low": 384.66,
       "date": "2026-11-27",
       "close": 400.0,
-      "volume": 25702955,
+      "volume": 26634600,
       "rsi": 56.37,
       "ma5": 379.22,
       "ma20": 381.9825,
@@ -1712,19 +1712,19 @@
   ],
   "news": [
     {
+      "title": "西沙路Tesla與私家車相撞釀兩傷 來回交通受阻 - on.cc東網",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXM4WlZqUEtaR25KY19sRnFETkJJOWFUTFVDRVVIWDlqQ0FtWUhzMUFjQTRjWVdwRTNXVnBubnBFZnpySUdOdkZSZnQzeXoxalhVSzlwRlZycUYzZGVNUU9IWGNJTHBfR2U4bUxyQnBNTWJxMlhBUG9sZ01DTGxMLUZJdG9SVDc1TUJkdGVMVQ?oc=5",
+      "date": "2026-11-28T05:00:44+08:00"
+    },
+    {
       "title": "馬鞍山Tesla疑越線撼豐田 兩司機頸傷送院 報稱閃避動物肇禍 - singtao.ca",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPUlZaeldlZkZjeDEzME1IS2Y1M0dIOUpfM1RNVEROVTg0VmJueWtLYnVpRWhlTkMwRWhyQ0RtU2hoNEVLc0lfZkUzWUg5YWRLV0RqbXFpU3NBVllPVE9TOXNjMWV5MDZFR0JzX0VHYTNiM3NJenBzUkZrWTVLbkhHaUZIaFVUSkc5NGhSaERvMnE2TEZsVERfU2VXQUVGbHlyLUd5azhtdUtUMWNfM2dvMTBRdXg0OUVIX1dUVE90UjBVaGhnaF9NVUthTUlkQVZVcWJ6ZmItUmVFOTRtVnotMWVYNXY3VE5pY0x6QTZmMERUZkZaSEVaOWtfa0g2TnBod2pfWEJfZUNGRG1scHVKVzUwaEhyYkxpWUVhU0NvdHNBQ2ZaMWtRRExxLWlXLXhxdnNiaGpCenF2eTZhbUVsS3cxT3ZweTJ0SFk1ZmZaV3VoQXlYNWdsVnp0dC1FT01EYjFxUXpzRUV1RWEtNGFkekJlMVNjMDBHMHkwVUZNSjVWcGRCS2paanVGVERMZTk3ZVRpUDBCN3VfcknSAYwBQVVfeXFMTVd5TVBqbWlpM0dUOVkzREVHekNJN3Bya3IzdVdDOVpnVDk2OXdfWE1qTFk0VlV5YURhYWdnU3pFeTRXU0tFcDRVQWJBNGJUWmV1dWdRczRSTG1DaFc3Z29yY1BmeWxoQ3pjSGhIZkdnLTVrNTVMSHlQUHpmeUxQQ1dKSDk2dEVZcTdBRU4?oc=5",
       "date": "2026-11-28T02:24:43+08:00"
     },
     {
-      "title": "SpaceX併Tesla有理 因要離開地球 - 信報網站",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMmQ3bzRCR0hBbGZuUjZNcEVkMFVtQ0JEbEJPTmhYVmN1cDFxNkN1bTl5alZ3bFp4Z0JXLUcxZnNvOXJoQkRoU0s2c093R2hpVkZna3lQSUFnYl9IcGtrYl9haXVrcDItY1RnbnRibm5PWFloNExZLTJIN3lZdHEwYjV3Skp0X2EwYmRJWHd1YnE5SVBOWF9sT2pmY2dDSzRXakxsQzFzUHVPcm9oaDBFcWdxRk8zWktsSExSQ3J1TVpsbTNQVTZOQk5TRVNXcUEwZ0pBWjM3aDRnNS1pWjZPY1JGb2lFdw?oc=5",
-      "date": "2026-11-28T02:17:30+08:00"
-    },
-    {
-      "title": "西沙路Tesla與私家車相撞釀兩傷 來回交通受阻 - on.cc東網",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXM4WlZqUEtaR25KY19sRnFETkJJOWFUTFVDRVVIWDlqQ0FtWUhzMUFjQTRjWVdwRTNXVnBubnBFZnpySUdOdkZSZnQzeXoxalhVSzlwRlZycUYzZGVNUU9IWGNJTHBfR2U4bUxyQnBNTWJxMlhBUG9sZ01DTGxMLUZJdG9SVDc1TUJkdGVMVQ?oc=5",
-      "date": "2026-11-27T23:53:43+08:00"
+      "title": "馬鞍山兩車撞 兩司機受傷送院 Tesla司機報稱閃避動物越線肇禍 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNakpqUU5aR0cxSTc1ZDlUTFNEODFOQjNLNEdBSERBd1ZIVUN2R2xuY1V1NjdRR0JNNlBSaGNLY3NUSHVXTUtWaDRSVTdLYU5rYk0xdW1RcWlxcjh3T01MUlpDNE9odFVTVjFTZUtISzlGS21aNlFpT0pYZ1dtS29CVDJlaG9lRms4d3paOTZQNG5tZXZHeEFfaU01NV80d1U2OVVCVWtRcWszYjc5LS1Yc3htRWNIUWg1SUlEQzhWSjFCa09KQ0ZpQlc2UHFQZXFXeWh1bC13NTRtQkRpSkh4V2swSHpmcVdxN2lJRDhEMzRpSFpScFlnQTVFT25yM2xEaW5OeFdxVjlqUERFWm44N1dPM3Z4Vjg4QzlOVzZVSzE5NUprTDgyeFoyMERDeUZ2MWZDSDdKOTVFV3BmRTdVanp0V01BTnpfVnMycTRLU2Fsc2NRREhZaldDNWw5WkpjZUpRU0UzY2Q4Z3M1dVNXMWlvUUlWQnVoeG1ENFVwYzF1Nl8wSG1LZXFCLVRvQmU0TUJz?oc=5",
+      "date": "2026-11-28T00:46:11+08:00"
     },
     {
       "title": "【23:35 即時新聞】Tesla(TSLA)勁揚5% 機器人計程車題材獲華爾街翻多加持 - CMoney投資網誌",
@@ -1734,8 +1734,8 @@
     {
       "title": "Tesla Inc(TSLA)股票11月27日盤中上漲3.43%：背後推手曝光 - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajMxVDA0VW11ZTIzaVFGMDJTWm1Cd1VWbm42XzZyWHU5STdMODNmQ01FYXNXaktsZ29oWnpSbXJVcXU2bjNXdU1qSlEwTkg3bkl6RmU2TVJlT2tPWlVEZ0czU3BXSXNleV9IZmVtYUhzRXQ3NjQ0S3VLYTlEX1pvNVEyOFluVmQ3SzdWZ2ppT1JNMWh0T0E?oc=5",
-      "date": "2026-11-27T23:18:07+08:00"
+      "date": "2026-11-27T23:25:53+08:00"
     }
   ],
-  "updatedAt": "2026-11-28T05:26:17.437863+08:00"
+  "updatedAt": "2026-11-28T11:31:59.507399+08:00"
 }
